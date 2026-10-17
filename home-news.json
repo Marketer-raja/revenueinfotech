@@ -1,0 +1,16 @@
+{
+  "updated": "2026-10-17T00:00:00Z",
+  "items": [
+    {
+      "id": "sample1",
+      "title": "Sample: edit or delete this from /newsdesk/",
+      "summary": "This placeholder shows how curated news appears on the home page. Remove it in the Newsdesk and publish.",
+      "source": "RevenueInfoTech",
+      "url": "https://revenueinfotech.com",
+      "image": "",
+      "category": "Artificial Intelligence",
+      "featured": false,
+      "published": "2026-10-17T00:00:00Z"
+    }
+  ]
+}
