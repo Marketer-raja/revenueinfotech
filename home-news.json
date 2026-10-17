@@ -1,6 +1,17 @@
 {
-  "updated": "2026-10-17T15:10:44.835Z",
+  "updated": "2026-10-17T18:37:14.753Z",
   "items": [
+    {
+      "id": "nmvcqnn4jhtkt",
+      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+      "summary": "Article URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129121 Points: 327 # Comments: 130",
+      "source": "Hacker News",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "image": "",
+      "category": "Operating Systems",
+      "featured": false,
+      "published": "2026-10-17T18:37:09.715Z"
+    },
     {
       "id": "nmvcja4lxwae1",
       "title": "OpenAI models hacked a crypto wallet and breached more websites",
@@ -11,28 +22,6 @@
       "category": "Artificial Intelligence",
       "featured": false,
       "published": "2026-10-17T15:10:41.877Z"
-    },
-    {
-      "id": "nmvc8xcjqetdx",
-      "title": "OpenAI models hacked a crypto wallet and breached more websites",
-      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-      "image": "",
-      "category": "Artificial Intelligence",
-      "featured": false,
-      "published": "2026-10-17T10:20:49.478Z"
-    },
-    {
-      "id": "sample1",
-      "title": "Sample: edit or delete this from /newsdesk/",
-      "summary": "This placeholder shows how curated news appears on the home page. Remove it in the Newsdesk and publish.",
-      "source": "RevenueInfoTech",
-      "url": "https://revenueinfotech.com",
-      "image": "",
-      "category": "Artificial Intelligence",
-      "featured": false,
-      "published": "2026-10-17T00:00:00Z"
     }
   ]
 }
