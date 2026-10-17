@@ -1,6 +1,54 @@
 {
-  "updated": "2026-10-17T17:08:15+00:00",
+  "updated": "2026-10-17T19:22:25+00:00",
   "items": [
+    {
+      "id": "6435f671229b",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch",
+      "published": "2026-10-17T18:48:08+00:00",
+      "excerpt": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform."
+    },
+    {
+      "id": "72593c9c44c7",
+      "title": "Pattern Matching Beats Narrative Reasoning",
+      "url": "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative",
+      "source": "Hacker News",
+      "published": "2026-10-17T18:34:13+00:00",
+      "excerpt": "Article URL: https://blog.scottstevenson.net/p/pattern-matching-beats-narrative Comments URL: https://news.ycombinator.com/item?id=50133736 Points: 3 # Comments: 0"
+    },
+    {
+      "id": "49b49c1c440e",
+      "title": "OpenCode Hacked: User credentials leaked",
+      "url": "https://twitter.com/opencode/status/2111516673953935833",
+      "source": "Hacker News",
+      "published": "2026-10-17T18:01:41+00:00",
+      "excerpt": "Article URL: https://twitter.com/opencode/status/2111516673953935833 Comments URL: https://news.ycombinator.com/item?id=50133401 Points: 129 # Comments: 31"
+    },
+    {
+      "id": "eeafb835f191",
+      "title": "Development statistics for the 7.2 kernel",
+      "url": "https://lwn.net/Articles/1088776/",
+      "source": "Hacker News",
+      "published": "2026-10-17T17:14:12+00:00",
+      "excerpt": "Article URL: https://lwn.net/Articles/1088776/ Comments URL: https://news.ycombinator.com/item?id=50132950 Points: 82 # Comments: 42"
+    },
+    {
+      "id": "4381fdce38c6",
+      "title": "tsc-ts: TypeScript written in TypeScript",
+      "url": "https://github.com/vercel-labs/tsc-ts",
+      "source": "Hacker News",
+      "published": "2026-10-17T17:10:27+00:00",
+      "excerpt": "Article URL: https://github.com/vercel-labs/tsc-ts Comments URL: https://news.ycombinator.com/item?id=50132911 Points: 18 # Comments: 20"
+    },
+    {
+      "id": "d8b1ba92a938",
+      "title": "Gold is now the top U.S. export",
+      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+      "source": "Hacker News",
+      "published": "2026-10-17T17:06:07+00:00",
+      "excerpt": "Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export Comments URL: https://news.ycombinator.com/item?id=50132870 Points: 21 # Comments: 1"
+    },
     {
       "id": "3fb9467b09df",
       "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
@@ -42,6 +90,14 @@
       "excerpt": "Article URL: https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/ Comments URL: https://news.ycombinator.com/item?id=50132278 Points: 26 # Comments: 0"
     },
     {
+      "id": "6881e07bf0c9",
+      "title": "Pele \u2013 Mermaid diagrams as themeable SVG",
+      "url": "https://pele.run/",
+      "source": "Hacker News",
+      "published": "2026-10-17T15:55:09+00:00",
+      "excerpt": "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 31 # Comments: 4"
+    },
+    {
       "id": "8fbb39707210",
       "title": "Ember\u2019s new temperature-controlled mug makes my nightly tea ritual even better",
       "url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
@@ -79,7 +135,7 @@
       "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
       "source": "Hacker News",
       "published": "2026-10-17T14:01:01+00:00",
-      "excerpt": "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 220 # Comments: 128"
+      "excerpt": "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 335 # Comments: 191"
     },
     {
       "id": "26c06698b2a0",
@@ -91,11 +147,11 @@
     },
     {
       "id": "63f0975b0b47",
-      "title": "Making Chicken Transparent Using Dorito Dust",
+      "title": "Making chicken transparent using Dorito dust",
       "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
       "source": "Hacker News",
       "published": "2026-10-17T13:55:28+00:00",
-      "excerpt": "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 116 # Comments: 40"
+      "excerpt": "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 184 # Comments: 52"
     },
     {
       "id": "19eb13d3d942",
@@ -103,7 +159,15 @@
       "url": "https://github.com/mikroverk/esp32sim",
       "source": "Hacker News",
       "published": "2026-10-17T13:51:08+00:00",
-      "excerpt": "Article URL: https://github.com/mikroverk/esp32sim Comments URL: https://news.ycombinator.com/item?id=50131189 Points: 37 # Comments: 7"
+      "excerpt": "Hi HN, I\u2019ve been working on esp32sim, an open-source ESP32 emulator that runs in the browser. The fun part of the demo is that there is no ESP32 involved \u2014 the firmware is executing in the emulator. The goal is to make ESP32 software..."
+    },
+    {
+      "id": "238b590c0f8c",
+      "title": "Show HN: High-quality duck audio synthesizer",
+      "url": "https://celphase.github.io/duck-pond/",
+      "source": "Hacker News",
+      "published": "2026-10-17T13:28:46+00:00",
+      "excerpt": "Article URL: https://celphase.github.io/duck-pond/ Comments URL: https://news.ycombinator.com/item?id=50131006 Points: 29 # Comments: 5"
     },
     {
       "id": "79619743255e",
@@ -136,6 +200,14 @@
       "source": "The Verge",
       "published": "2026-10-17T12:00:00+00:00",
       "excerpt": "Hi, friends! Welcome to Installer No. 148, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you're enjoying all your pumpkin-flavored everything, and also you can read all the old editions at the..."
+    },
+    {
+      "id": "68e772986b62",
+      "title": "The future of programming (1982)",
+      "url": "https://dl.acm.org/doi/10.1145/358453.358459",
+      "source": "Hacker News",
+      "published": "2026-10-17T11:20:52+00:00",
+      "excerpt": "Article URL: https://dl.acm.org/doi/10.1145/358453.358459 Comments URL: https://news.ycombinator.com/item?id=50130079 Points: 18 # Comments: 3"
     },
     {
       "id": "a73522a3fefc",
@@ -191,7 +263,7 @@
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "source": "Hacker News",
       "published": "2026-10-17T08:21:25+00:00",
-      "excerpt": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 402 # Comments: 415"
+      "excerpt": "https://api-docs.deepseek.com/news/news261017/ https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 506 # Comments: 480"
     },
     {
       "id": "0913988ccbed",
@@ -199,7 +271,15 @@
       "url": "https://llmspeed.dev/",
       "source": "Hacker News",
       "published": "2026-10-17T04:36:53+00:00",
-      "excerpt": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 194 # Comments: 64"
+      "excerpt": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 211 # Comments: 67"
+    },
+    {
+      "id": "f4f8e6696210",
+      "title": "Source code of the Estonian online voting system",
+      "url": "https://github.com/valimised/ivxv",
+      "source": "Hacker News",
+      "published": "2026-10-17T03:18:39+00:00",
+      "excerpt": "Article URL: https://github.com/valimised/ivxv Comments URL: https://news.ycombinator.com/item?id=50127586 Points: 12 # Comments: 0"
     },
     {
       "id": "ee6f53a9b37a",
@@ -400,86 +480,6 @@
       "source": "Hacker News",
       "published": "2026-10-16T17:08:38+00:00",
       "excerpt": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 540 # Comments: 467"
-    },
-    {
-      "id": "001214047006",
-      "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
-      "url": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
-      "source": "Ars Technica",
-      "published": "2026-10-16T17:05:59+00:00",
-      "excerpt": "FDA scientists said none of the popular drugs have been proven safe or effective."
-    },
-    {
-      "id": "84c2c565c396",
-      "title": "An Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
-      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "source": "TechCrunch",
-      "published": "2026-10-16T16:30:00+00:00",
-      "excerpt": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, and safety standards..."
-    },
-    {
-      "id": "ff9286355f7e",
-      "title": "JPEG XL vs. AVIF for web use-cases",
-      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-      "source": "Hacker News",
-      "published": "2026-10-16T16:12:02+00:00",
-      "excerpt": "Article URL: https://jakearchibald.com/2026/jpeg-xl-vs-avif/ Comments URL: https://news.ycombinator.com/item?id=50120224 Points: 285 # Comments: 190"
-    },
-    {
-      "id": "6bb605f3ee09",
-      "title": "Waymo\u2019s robotaxis are headed to Canada",
-      "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
-      "source": "TechCrunch",
-      "published": "2026-10-16T16:06:38+00:00",
-      "excerpt": "The company will start off by testing its self-driving vehicles on Toronto's streets."
-    },
-    {
-      "id": "2bab6421b0ff",
-      "title": "The new Apple TV 4K just got its first (very small) discount",
-      "url": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
-      "source": "The Verge",
-      "published": "2026-10-16T16:02:22+00:00",
-      "excerpt": "Earlier this week, Apple announced its new Apple TV 4K, which costs nearly twice as much as the 2022 model did at launch. Amazon is now offering the first discount on the forthcoming streaming box (coming out on November 13th), just days..."
-    },
-    {
-      "id": "1aa8b1ac1c09",
-      "title": "Elorian\u2019s first AI model wants to reason with images, not just about them",
-      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "source": "TechCrunch",
-      "published": "2026-10-16T16:01:37+00:00",
-      "excerpt": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks."
-    },
-    {
-      "id": "1b81886e2962",
-      "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
-      "url": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
-      "source": "TechCrunch",
-      "published": "2026-10-16T16:00:00+00:00",
-      "excerpt": "Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins."
-    },
-    {
-      "id": "2018da0d05f2",
-      "title": "In \u2018You Can See Everything,\u2019 Elizabeth Holmes meets her equal in comedian Nathan Fielder",
-      "url": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
-      "source": "TechCrunch",
-      "published": "2026-10-16T16:00:00+00:00",
-      "excerpt": "Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity."
-    },
-    {
-      "id": "3c203c9854b8",
-      "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
-      "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
-      "source": "Ars Technica",
-      "published": "2026-10-16T15:41:00+00:00",
-      "excerpt": "Meta \u201cstreamlined\u201d its commercial TOS. Legal experts warn it\u2019s an AI power grab."
-    },
-    {
-      "id": "175944f30125",
-      "title": "Apple\u2019s HomeView has an app problem",
-      "url": "https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast",
-      "source": "The Verge",
-      "published": "2026-10-16T15:38:17+00:00",
-      "excerpt": "It's been a couple of days since Apple's big smart home announcement, and we have some more information - and a bunch of new questions - about the Apple HomeView. The device has plenty of computing oomph, is always connected to power, and..."
     }
   ]
 }
