@@ -1,6 +1,17 @@
 {
-  "updated": "2026-10-17T00:00:00Z",
+  "updated": "2026-10-17T10:20:52.225Z",
   "items": [
+    {
+      "id": "nmvc8xcjqetdx",
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "image": "",
+      "category": "Artificial Intelligence",
+      "featured": false,
+      "published": "2026-10-17T10:20:49.478Z"
+    },
     {
       "id": "sample1",
       "title": "Sample: edit or delete this from /newsdesk/",
