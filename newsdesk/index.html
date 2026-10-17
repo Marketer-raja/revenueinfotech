@@ -39,6 +39,7 @@
   .item p{margin:0 0 8px;font-size:13px;color:#374151}
   .tag{display:inline-block;font-size:11px;font-weight:700;padding:1px 7px;border-radius:99px;background:#dbeafe;color:#1e40af;margin-right:6px}
   .tag.f{background:#fef3c7;color:#92400e}
+  .tag.s{background:#e0e7ff;color:#3730a3}
   .bar{position:fixed;left:0;right:0;bottom:0;background:#fff;border-top:1px solid var(--line);padding:10px 16px;display:flex;gap:12px;align-items:center;justify-content:center;z-index:5}
   .dirty{font-size:13px;color:#92400e;font-weight:600}
   details summary{cursor:pointer;font-weight:700;font-size:14px}
@@ -89,7 +90,15 @@
           </select></div>
         <div><label for="image">Image URL <span style="font-weight:400;color:var(--mute)">(optional)</span></label><input id="image" placeholder="https://…"></div>
       </div>
-      <label style="font-weight:400;margin-top:12px"><input id="featured" type="checkbox" style="width:auto;margin-right:6px">Feature in the home page hero</label>
+      <label for="section">Where should it appear on the home page? *</label>
+      <select id="section">
+        <option value="brief">Editor's Choice Briefs: top-right sidebar (3 slots)</option>
+        <option value="hero">Hero: the big banner at the very top (only the first hero item shows)</option>
+        <option value="latest">Latest Technical Tutorials &amp; Reports: main list (5+ slots)</option>
+        <option value="featured">Featured Articles &amp; In-Depth Reports: card grid</option>
+        <option value="none">Not on the home page (only on the News page and in search)</option>
+      </select>
+      <p class="hint">Items in each section appear in the order shown in your list below. If a section has no items from you, it shows the site's built-in articles.</p>
       <div class="row" style="margin-top:12px">
         <button id="save" class="primary">Add to list</button>
         <button id="cancelEdit" class="hidden">Cancel edit</button>
@@ -124,6 +133,8 @@
 (function(){
   "use strict";
   var FILE = "home-news.json";
+  var SECTIONS = {brief:"Editor's Choice Briefs",hero:"Hero banner",latest:"Latest Tutorials & Reports",featured:"Featured Articles",none:"News page only"};
+  function secOf(it){return it.section||(it.featured?"hero":"brief")}
   var $ = function(id){return document.getElementById(id)};
   var S = {owner:"",repo:"",branch:"main",token:"",sha:null,items:[],dirty:false};
 
@@ -193,14 +204,13 @@
     if(!S.items.length)list.appendChild(el("p",{class:"hint",text:"Nothing here yet. Add your first item above."}));
     S.items.forEach(function(it,i){
       var tags=el("div",{},[el("span",{class:"tag",text:it.category||"News"})]);
-      if(it.featured)tags.appendChild(el("span",{class:"tag f",text:"Hero"}));
+      tags.appendChild(el("span",{class:"tag s",text:"→ "+(SECTIONS[secOf(it)]||secOf(it))}));
       var meta=el("div",{class:"m",text:(it.source||"")+" · "+(it.published||"").slice(0,10)});
       var link=el("a",{href:okUrl(it.url)?it.url:"#",target:"_blank",rel:"noopener noreferrer",text:it.url||""});link.style.fontSize="12px";
       var btns=el("div",{class:"row"});
       function b(label,fn,cls,dis){var x=el("button",{text:label,class:cls||""});x.disabled=!!dis;x.addEventListener("click",fn);btns.appendChild(x)}
       b("↑",function(){move(i,-1)},"",i===0);b("↓",function(){move(i,1)},"",i===S.items.length-1);
       b("Edit",function(){edit(it.id)});
-      b(it.featured?"Unfeature":"Feature",function(){it.featured=!it.featured;markDirty()});
       b("Delete",function(){if(confirm("Remove this item from the home page?")){S.items.splice(i,1);markDirty()}},"danger");
       list.appendChild(el("div",{class:"item"},[tags,el("div",{class:"t",text:it.title}),meta,el("p",{text:it.summary}),link,el("div",{style:"height:8px"}),btns]));
     });
@@ -212,12 +222,12 @@
   // ---------- form ----------
   function resetForm(){
     ["editId","title","summary","source","url","image"].forEach(function(k){$(k).value=""});
-    $("featured").checked=false;$("formTitle").textContent="Add a news item";$("save").textContent="Add to list";$("cancelEdit").classList.add("hidden");clear($("formMsg"));
+    $("section").value="brief";$("formTitle").textContent="Add a news item";$("save").textContent="Add to list";$("cancelEdit").classList.add("hidden");clear($("formMsg"));
   }
   function edit(id){
     var it=S.items.find(function(x){return x.id===id});if(!it)return;
     $("editId").value=it.id;$("title").value=it.title||"";$("summary").value=it.summary||"";$("source").value=it.source||"";
-    $("url").value=it.url||"";$("image").value=it.image||"";$("featured").checked=!!it.featured;
+    $("url").value=it.url||"";$("image").value=it.image||"";$("section").value=secOf(it);
     if(it.category)$("category").value=it.category;
     $("formTitle").textContent="Edit news item";$("save").textContent="Save changes";$("cancelEdit").classList.remove("hidden");
     window.scrollTo({top:0,behavior:"smooth"});
@@ -229,7 +239,7 @@
     if(im&&!okUrl(im))return say($("formMsg"),"Image URL must be a valid http(s) URL.","err");
     var id=$("editId").value,existing=id&&S.items.find(function(x){return x.id===id});
     var item={id:existing?existing.id:uid(),title:t,summary:s,source:src,url:u,image:im,category:$("category").value,
-      featured:$("featured").checked,published:existing?existing.published:new Date().toISOString()};
+      section:$("section").value,published:existing?existing.published:new Date().toISOString()};
     if(existing)S.items[S.items.indexOf(existing)]=item;else S.items.unshift(item);
     resetForm();markDirty();say($("formMsg"),existing?"Updated.":"Added to the top of the list. Press Publish to site to make it live.","ok");
   }
