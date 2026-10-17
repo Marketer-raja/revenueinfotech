@@ -1,13 +1,61 @@
 {
-  "updated": "2026-10-17T19:22:25+00:00",
+  "updated": "2026-10-17T22:16:41+00:00",
   "items": [
     {
+      "id": "d4d8a21bd997",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "source": "TechCrunch",
+      "published": "2026-10-17T21:31:32+00:00",
+      "excerpt": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
+    },
+    {
+      "id": "63669a3458fe",
+      "title": "TikTok permanently bans \u2018Musk\u2019 documentary advertising account",
+      "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+      "source": "TechCrunch",
+      "published": "2026-10-17T20:55:52+00:00",
+      "excerpt": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms."
+    },
+    {
+      "id": "0dabc6c10b97",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "source": "TechCrunch",
+      "published": "2026-10-17T20:21:19+00:00",
+      "excerpt": "The composition of Anthropic\u2019s workforce and the type of work getting done have changed significantly in the past year."
+    },
+    {
+      "id": "ebf580290c44",
+      "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
+      "url": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
+      "source": "Hacker News",
+      "published": "2026-10-17T20:07:33+00:00",
+      "excerpt": "Article URL: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/ Comments URL: https://news.ycombinator.com/item?id=50134617 Points: 46 # Comments: 46"
+    },
+    {
+      "id": "bb38f1891d15",
+      "title": "TikTok bans Musk documentary account",
+      "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+      "source": "The Verge",
+      "published": "2026-10-17T19:32:23+00:00",
+      "excerpt": "Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. According to The Hollywood Reporter, the..."
+    },
+    {
       "id": "6435f671229b",
-      "title": "Replit is no longer working with Anthropic, CEO says",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
       "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "source": "TechCrunch",
       "published": "2026-10-17T18:48:08+00:00",
       "excerpt": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform."
+    },
+    {
+      "id": "1489ab22ad06",
+      "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
+      "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
+      "source": "Hacker News",
+      "published": "2026-10-17T18:45:07+00:00",
+      "excerpt": "Article URL: https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise Comments URL: https://news.ycombinator.com/item?id=50133830 Points: 34 # Comments: 35"
     },
     {
       "id": "72593c9c44c7",
@@ -15,7 +63,7 @@
       "url": "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative",
       "source": "Hacker News",
       "published": "2026-10-17T18:34:13+00:00",
-      "excerpt": "Article URL: https://blog.scottstevenson.net/p/pattern-matching-beats-narrative Comments URL: https://news.ycombinator.com/item?id=50133736 Points: 3 # Comments: 0"
+      "excerpt": "Article URL: https://blog.scottstevenson.net/p/pattern-matching-beats-narrative Comments URL: https://news.ycombinator.com/item?id=50133736 Points: 30 # Comments: 15"
     },
     {
       "id": "49b49c1c440e",
@@ -23,7 +71,23 @@
       "url": "https://twitter.com/opencode/status/2111516673953935833",
       "source": "Hacker News",
       "published": "2026-10-17T18:01:41+00:00",
-      "excerpt": "Article URL: https://twitter.com/opencode/status/2111516673953935833 Comments URL: https://news.ycombinator.com/item?id=50133401 Points: 129 # Comments: 31"
+      "excerpt": "Article URL: https://twitter.com/opencode/status/2111516673953935833 Comments URL: https://news.ycombinator.com/item?id=50133401 Points: 561 # Comments: 91"
+    },
+    {
+      "id": "59f1f537529d",
+      "title": "Codex is EATING my Mac's disk space",
+      "url": "https://github.com/openai/codex/issues/25921",
+      "source": "Hacker News",
+      "published": "2026-10-17T17:45:08+00:00",
+      "excerpt": "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 28 # Comments: 17"
+    },
+    {
+      "id": "a7783c892e37",
+      "title": "I Became a Citizen of Japan",
+      "url": "https://www.derekwessman.com/blog-1/natural",
+      "source": "Hacker News",
+      "published": "2026-10-17T17:36:17+00:00",
+      "excerpt": "Article URL: https://www.derekwessman.com/blog-1/natural Comments URL: https://news.ycombinator.com/item?id=50133150 Points: 97 # Comments: 29"
     },
     {
       "id": "eeafb835f191",
@@ -31,7 +95,7 @@
       "url": "https://lwn.net/Articles/1088776/",
       "source": "Hacker News",
       "published": "2026-10-17T17:14:12+00:00",
-      "excerpt": "Article URL: https://lwn.net/Articles/1088776/ Comments URL: https://news.ycombinator.com/item?id=50132950 Points: 82 # Comments: 42"
+      "excerpt": "Article URL: https://lwn.net/Articles/1088776/ Comments URL: https://news.ycombinator.com/item?id=50132950 Points: 112 # Comments: 91"
     },
     {
       "id": "4381fdce38c6",
@@ -47,7 +111,7 @@
       "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
       "source": "Hacker News",
       "published": "2026-10-17T17:06:07+00:00",
-      "excerpt": "Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export Comments URL: https://news.ycombinator.com/item?id=50132870 Points: 21 # Comments: 1"
+      "excerpt": "Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export Comments URL: https://news.ycombinator.com/item?id=50132870 Points: 152 # Comments: 85"
     },
     {
       "id": "3fb9467b09df",
@@ -95,7 +159,7 @@
       "url": "https://pele.run/",
       "source": "Hacker News",
       "published": "2026-10-17T15:55:09+00:00",
-      "excerpt": "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 31 # Comments: 4"
+      "excerpt": "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 135 # Comments: 15"
     },
     {
       "id": "8fbb39707210",
@@ -135,7 +199,7 @@
       "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
       "source": "Hacker News",
       "published": "2026-10-17T14:01:01+00:00",
-      "excerpt": "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 335 # Comments: 191"
+      "excerpt": "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 424 # Comments: 250"
     },
     {
       "id": "26c06698b2a0",
@@ -151,7 +215,7 @@
       "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
       "source": "Hacker News",
       "published": "2026-10-17T13:55:28+00:00",
-      "excerpt": "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 184 # Comments: 52"
+      "excerpt": "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 228 # Comments: 62"
     },
     {
       "id": "19eb13d3d942",
@@ -167,7 +231,7 @@
       "url": "https://celphase.github.io/duck-pond/",
       "source": "Hacker News",
       "published": "2026-10-17T13:28:46+00:00",
-      "excerpt": "Article URL: https://celphase.github.io/duck-pond/ Comments URL: https://news.ycombinator.com/item?id=50131006 Points: 29 # Comments: 5"
+      "excerpt": "Article URL: https://celphase.github.io/duck-pond/ Comments URL: https://news.ycombinator.com/item?id=50131006 Points: 55 # Comments: 15"
     },
     {
       "id": "79619743255e",
@@ -207,7 +271,7 @@
       "url": "https://dl.acm.org/doi/10.1145/358453.358459",
       "source": "Hacker News",
       "published": "2026-10-17T11:20:52+00:00",
-      "excerpt": "Article URL: https://dl.acm.org/doi/10.1145/358453.358459 Comments URL: https://news.ycombinator.com/item?id=50130079 Points: 18 # Comments: 3"
+      "excerpt": "Article URL: https://dl.acm.org/doi/10.1145/358453.358459 Comments URL: https://news.ycombinator.com/item?id=50130079 Points: 43 # Comments: 9"
     },
     {
       "id": "a73522a3fefc",
@@ -416,70 +480,6 @@
       "source": "Hacker News",
       "published": "2026-10-16T19:01:17+00:00",
       "excerpt": "Article URL: https://alexwang.ai/posts/associative-memory/ Comments URL: https://news.ycombinator.com/item?id=50122878 Points: 412 # Comments: 99"
-    },
-    {
-      "id": "7a6a342eb958",
-      "title": "Claude reveals ECDSA curve origins",
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "source": "Hacker News",
-      "published": "2026-10-16T18:55:59+00:00",
-      "excerpt": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 978 # Comments: 356"
-    },
-    {
-      "id": "362ca747eb11",
-      "title": "C++26: The New Debugging Header",
-      "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
-      "source": "Hacker News",
-      "published": "2026-10-16T18:52:39+00:00",
-      "excerpt": "Article URL: https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging Comments URL: https://news.ycombinator.com/item?id=50122736 Points: 97 # Comments: 23"
-    },
-    {
-      "id": "0342f39befa1",
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "url": "https://github.com/cobanov/PS5LM",
-      "source": "Hacker News",
-      "published": "2026-10-16T18:32:35+00:00",
-      "excerpt": "Article URL: https://github.com/cobanov/PS5LM Comments URL: https://news.ycombinator.com/item?id=50122431 Points: 344 # Comments: 84"
-    },
-    {
-      "id": "620915e6feea",
-      "title": "Why Apple is finally making its own smart home devices",
-      "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
-      "source": "The Verge",
-      "published": "2026-10-16T18:30:27+00:00",
-      "excerpt": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video..."
-    },
-    {
-      "id": "3e48e9162194",
-      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
-      "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
-      "source": "Hacker News",
-      "published": "2026-10-16T18:06:17+00:00",
-      "excerpt": "Article URL: https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear Comments URL: https://news.ycombinator.com/item?id=50122034 Points: 256 # Comments: 230"
-    },
-    {
-      "id": "04b7640931c7",
-      "title": "Designing more efficient quantum circuits with Claude",
-      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "source": "Hacker News",
-      "published": "2026-10-16T18:00:18+00:00",
-      "excerpt": "Article URL: https://www.anthropic.com/research/designing-efficient-quantum-circuits Comments URL: https://news.ycombinator.com/item?id=50121939 Points: 154 # Comments: 33"
-    },
-    {
-      "id": "c74e5a79a0e1",
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "source": "TechCrunch",
-      "published": "2026-10-16T17:52:24+00:00",
-      "excerpt": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles."
-    },
-    {
-      "id": "32239fe1b8b1",
-      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "source": "Hacker News",
-      "published": "2026-10-16T17:08:38+00:00",
-      "excerpt": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 540 # Comments: 467"
     }
   ]
 }
