@@ -1,6 +1,54 @@
 {
-  "updated": "2026-10-17T10:18:56+00:00",
+  "updated": "2026-10-17T13:43:31+00:00",
   "items": [
+    {
+      "id": "79619743255e",
+      "title": "Websites are closing their doors to AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "source": "The Verge",
+      "published": "2026-10-17T13:00:00+00:00",
+      "excerpt": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying..."
+    },
+    {
+      "id": "88e74690a415",
+      "title": "Bose\u2019s new wired earbuds are simple in the best way",
+      "url": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review",
+      "source": "The Verge",
+      "published": "2026-10-17T13:00:00+00:00",
+      "excerpt": "After Apple courageously removed the headphone jack from the iPhone in 2016, most people switched to Bluetooth earbuds and never looked back. But their wired counterparts have stuck around, and their sales even went up this year after five..."
+    },
+    {
+      "id": "6e5bf6774929",
+      "title": "Apple\u2019s HomeView is just the latest threat to online recipe writers",
+      "url": "https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting",
+      "source": "The Verge",
+      "published": "2026-10-17T12:00:00+00:00",
+      "excerpt": "When Apple revealed the HomeView to the world, it did so with an unusual ad for the company: Instead of pristine, polished tech in immaculate rooms, it's a three-minute look at the messy, frantic morning routine of a family of five..."
+    },
+    {
+      "id": "7aa7ab3f9af0",
+      "title": "It\u2019s a dream week for tech docs",
+      "url": "https://www.theverge.com/tech/1013367/best-tech-documentaries-musk-holmes-installer",
+      "source": "The Verge",
+      "published": "2026-10-17T12:00:00+00:00",
+      "excerpt": "Hi, friends! Welcome to Installer No. 148, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you're enjoying all your pumpkin-flavored everything, and also you can read all the old editions at the..."
+    },
+    {
+      "id": "a73522a3fefc",
+      "title": "Science says your boss should talk less in meetings",
+      "url": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
+      "source": "Ars Technica",
+      "published": "2026-10-17T11:15:11+00:00",
+      "excerpt": "Research suggests listening more while talking less. Killing aimless meetings can help, too."
+    },
+    {
+      "id": "dc01b1847cbe",
+      "title": "Why BioWare's Neverwinter Nights still has thousands of active players",
+      "url": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/",
+      "source": "Ars Technica",
+      "published": "2026-10-17T11:00:21+00:00",
+      "excerpt": "The single-player is just OK, but according to the players, that doesn't matter."
+    },
     {
       "id": "a6685c769f72",
       "title": "\"Tame\" boar and deer are instinctively adapting to the wolf in the Netherlands",
@@ -23,7 +71,7 @@
       "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
       "source": "Hacker News",
       "published": "2026-10-17T08:37:46+00:00",
-      "excerpt": "Article URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129121 Points: 118 # Comments: 9"
+      "excerpt": "Article URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129121 Points: 327 # Comments: 130"
     },
     {
       "id": "9b13d6a721a0",
@@ -31,7 +79,7 @@
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "source": "Hacker News",
       "published": "2026-10-17T08:21:25+00:00",
-      "excerpt": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 146 # Comments: 61"
+      "excerpt": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 262 # Comments: 101"
     },
     {
       "id": "0913988ccbed",
@@ -39,7 +87,7 @@
       "url": "https://llmspeed.dev/",
       "source": "Hacker News",
       "published": "2026-10-17T04:36:53+00:00",
-      "excerpt": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 74 # Comments: 28"
+      "excerpt": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 132 # Comments: 47"
     },
     {
       "id": "ee6f53a9b37a",
@@ -55,7 +103,7 @@
       "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
       "source": "Hacker News",
       "published": "2026-10-17T02:21:08+00:00",
-      "excerpt": "Article URL: https://dune.fandom.com/wiki/Butlerian_Jihad Comments URL: https://news.ycombinator.com/item?id=50127274 Points: 230 # Comments: 124"
+      "excerpt": "Article URL: https://dune.fandom.com/wiki/Butlerian_Jihad Comments URL: https://news.ycombinator.com/item?id=50127274 Points: 290 # Comments: 161"
     },
     {
       "id": "a73fb8e0def2",
@@ -87,7 +135,7 @@
       "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
       "source": "Hacker News",
       "published": "2026-10-16T22:21:05+00:00",
-      "excerpt": "Article URL: https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/ Comments URL: https://news.ycombinator.com/item?id=50125545 Points: 66 # Comments: 33"
+      "excerpt": "Article URL: https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/ Comments URL: https://news.ycombinator.com/item?id=50125545 Points: 83 # Comments: 38"
     },
     {
       "id": "18f9fd010555",
@@ -135,7 +183,7 @@
       "url": "https://bfl.ai/blog/flux-3-image-klein",
       "source": "Hacker News",
       "published": "2026-10-16T19:47:13+00:00",
-      "excerpt": "Article URL: https://bfl.ai/blog/flux-3-image-klein Comments URL: https://news.ycombinator.com/item?id=50123580 Points: 166 # Comments: 46"
+      "excerpt": "Article URL: https://bfl.ai/blog/flux-3-image-klein Comments URL: https://news.ycombinator.com/item?id=50123580 Points: 179 # Comments: 51"
     },
     {
       "id": "2929bbdc2924",
@@ -167,7 +215,7 @@
       "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
       "source": "Hacker News",
       "published": "2026-10-16T19:04:47+00:00",
-      "excerpt": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 349 # Comments: 329"
+      "excerpt": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 390 # Comments: 366"
     },
     {
       "id": "c19e7ef010f7",
@@ -175,7 +223,7 @@
       "url": "https://alexwang.ai/posts/associative-memory/",
       "source": "Hacker News",
       "published": "2026-10-16T19:01:17+00:00",
-      "excerpt": "Article URL: https://alexwang.ai/posts/associative-memory/ Comments URL: https://news.ycombinator.com/item?id=50122878 Points: 309 # Comments: 72"
+      "excerpt": "Article URL: https://alexwang.ai/posts/associative-memory/ Comments URL: https://news.ycombinator.com/item?id=50122878 Points: 346 # Comments: 80"
     },
     {
       "id": "7a6a342eb958",
@@ -183,7 +231,7 @@
       "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
       "source": "Hacker News",
       "published": "2026-10-16T18:55:59+00:00",
-      "excerpt": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 875 # Comments: 325"
+      "excerpt": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 923 # Comments: 339"
     },
     {
       "id": "362ca747eb11",
@@ -199,7 +247,7 @@
       "url": "https://github.com/cobanov/PS5LM",
       "source": "Hacker News",
       "published": "2026-10-16T18:32:35+00:00",
-      "excerpt": "Article URL: https://github.com/cobanov/PS5LM Comments URL: https://news.ycombinator.com/item?id=50122431 Points: 290 # Comments: 72"
+      "excerpt": "Article URL: https://github.com/cobanov/PS5LM Comments URL: https://news.ycombinator.com/item?id=50122431 Points: 311 # Comments: 76"
     },
     {
       "id": "620915e6feea",
@@ -215,7 +263,15 @@
       "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
       "source": "Hacker News",
       "published": "2026-10-16T18:06:17+00:00",
-      "excerpt": "Article URL: https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear Comments URL: https://news.ycombinator.com/item?id=50122034 Points: 222 # Comments: 198"
+      "excerpt": "Article URL: https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear Comments URL: https://news.ycombinator.com/item?id=50122034 Points: 236 # Comments: 212"
+    },
+    {
+      "id": "04b7640931c7",
+      "title": "Designing more efficient quantum circuits with Claude",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "source": "Hacker News",
+      "published": "2026-10-16T18:00:18+00:00",
+      "excerpt": "Article URL: https://www.anthropic.com/research/designing-efficient-quantum-circuits Comments URL: https://news.ycombinator.com/item?id=50121939 Points: 154 # Comments: 33"
     },
     {
       "id": "c74e5a79a0e1",
@@ -224,6 +280,14 @@
       "source": "TechCrunch",
       "published": "2026-10-16T17:52:24+00:00",
       "excerpt": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles."
+    },
+    {
+      "id": "32239fe1b8b1",
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "source": "Hacker News",
+      "published": "2026-10-16T17:08:38+00:00",
+      "excerpt": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 540 # Comments: 467"
     },
     {
       "id": "001214047006",
@@ -240,6 +304,14 @@
       "source": "TechCrunch",
       "published": "2026-10-16T16:30:00+00:00",
       "excerpt": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, and safety standards..."
+    },
+    {
+      "id": "ff9286355f7e",
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "source": "Hacker News",
+      "published": "2026-10-16T16:12:02+00:00",
+      "excerpt": "Article URL: https://jakearchibald.com/2026/jpeg-xl-vs-avif/ Comments URL: https://news.ycombinator.com/item?id=50120224 Points: 285 # Comments: 190"
     },
     {
       "id": "6bb605f3ee09",
@@ -408,38 +480,6 @@
       "source": "Ars Technica",
       "published": "2026-10-16T10:00:32+00:00",
       "excerpt": "Android laptops are here, but Google has a lot of work ahead to make them good."
-    },
-    {
-      "id": "a1e5c012c858",
-      "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
-      "url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
-      "source": "TechCrunch",
-      "published": "2026-10-16T05:16:46+00:00",
-      "excerpt": "Benchmark says the Valley\u2019s rule against backing rivals is getting harder to keep."
-    },
-    {
-      "id": "6caafc7c7d16",
-      "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
-      "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
-      "source": "TechCrunch",
-      "published": "2026-10-16T01:17:43+00:00",
-      "excerpt": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas."
-    },
-    {
-      "id": "d59b82c08139",
-      "title": "KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell",
-      "url": "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/",
-      "source": "Ars Technica",
-      "published": "2026-10-15T22:21:06+00:00",
-      "excerpt": "KDE celebrates 30 years with a new Plasma release, a farewell to X11, and a movie."
-    },
-    {
-      "id": "ae01081f072d",
-      "title": "Plex now helps sell movie theater tickets",
-      "url": "https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/",
-      "source": "Ars Technica",
-      "published": "2026-10-15T21:22:15+00:00",
-      "excerpt": "Discovery data from Plex users will help studios, advertisers."
     }
   ]
 }
