@@ -71,5 +71,27 @@
       </div>
       <p style="margin:0;">&copy; 2026 RevenueInfoTech Publication Inc. All rights reserved.</p>
     </footer>
+
+    <script>
+      // The dark footer drawn by the React app uses buttons that only scroll to
+      // the top. Send the ones that have a real page to that page instead.
+      (function () {
+        var PAGES = {
+          "privacy policy": "/privacy-policy.html",
+          "contact": "/contact.html",
+          "contact us": "/contact.html"
+        };
+        document.addEventListener("click", function (e) {
+          var btn = e.target.closest && e.target.closest("footer button");
+          if (!btn) return;
+          var target = PAGES[(btn.textContent || "").trim().toLowerCase()];
+          if (target) {
+            e.preventDefault();
+            e.stopImmediatePropagation();
+            window.location.href = target;
+          }
+        }, true); // capture phase: runs before React's own click handler
+      })();
+    </script>
   </body>
 </html>
