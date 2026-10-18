@@ -24,3 +24,14 @@ and press-release feeds. Keep excerpts short and always link to the source.
 
 ## 4. Test locally
   python3 scripts/fetch_news.py
+
+## 5. Fully automatic tech-only home page (new)
+Every hour the "Update news" GitHub Action now:
+- reads the tech feeds in feeds.json,
+- drops anything that is not technology news (keyword filter in scripts/fetch_news.py:
+  CATEGORIES / EXTRA_TECH keep tech, NON_TECH removes off-topic stories),
+- picks a picture for each story (from the feed, or the article's preview image),
+- writes home-news.json so the home page hero, briefs, latest list and featured
+  cards update by themselves - no Newsdesk publishing needed.
+Make sure GitHub -> Settings -> Actions -> General -> "Workflow permissions" is set to
+"Read and write permissions", then run the workflow once from the Actions tab.
