@@ -122,9 +122,25 @@ a{{color:#2563EB}}article{{border-bottom:1px solid #e5e7eb;padding:14px 0}}h2{{f
 
 def render_sitemap():
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    urls = ["/", "/news/", "/contact.html", "/privacy-policy.html"]
-    body = "".join(f"<url><loc>{SITE}{u}</loc><lastmod>{today}</lastmod></url>" for u in urls)
-    return f'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{body}</urlset>\n'
+    # (path, lastmod, changefreq, priority) - /newsdesk/ is noindex and excluded on purpose.
+    # Update the static lastmod dates below when you edit those pages.
+    urls = [
+        ("/",                        today,        "daily",   "1.0"),
+        ("/news/",                   today,        "hourly",  "0.9"),
+        ("/editorial-ethics.html",   "2026-10-18", "yearly",  "0.5"),
+        ("/peer-review-process.html","2026-10-18", "yearly",  "0.5"),
+        ("/sponsorship-disclosure.html","2026-10-18","yearly","0.4"),
+        ("/contact.html",            "2026-10-18", "yearly",  "0.4"),
+        ("/privacy-policy.html",     "2026-10-18", "yearly",  "0.3"),
+        ("/terms-of-service.html",   "2026-10-18", "yearly",  "0.3"),
+    ]
+    body = "".join(
+        f"\n  <url>\n    <loc>{SITE}{u}</loc>\n    <lastmod>{m}</lastmod>\n"
+        f"    <changefreq>{c}</changefreq>\n    <priority>{pr}</priority>\n  </url>"
+        for u, m, c, pr in urls
+    )
+    return ('<?xml version="1.0" encoding="UTF-8"?>\n'
+            f'<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{body}\n</urlset>\n')
 
 
 def main():
