@@ -1,13 +1,77 @@
 {
-  "updated": "2026-10-18T09:34:39+00:00",
+  "updated": "2026-10-18T14:00:14+00:00",
   "items": [
+    {
+      "id": "d6326fd48767",
+      "title": "Gen Z Is the First Generation Dumber Than Their Parents",
+      "url": "https://www.vice.com/en/article/gen-z-is-the-first-generation-dumber-than-their-parents-neuroscientist-claims/",
+      "source": "Hacker News",
+      "published": "2026-10-18T13:45:25+00:00",
+      "excerpt": "Article URL: https://www.vice.com/en/article/gen-z-is-the-first-generation-dumber-than-their-parents-neuroscientist-claims/ Comments URL: https://news.ycombinator.com/item?id=50141053 Points: 9 # Comments: 2"
+    },
+    {
+      "id": "c7fbcff09d02",
+      "title": "Trump says Google kisses his ass",
+      "url": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
+      "source": "The Verge",
+      "published": "2026-10-18T13:25:01+00:00",
+      "excerpt": "During a rally on Saturday, October 17th, in Highland Heights, Kentucky, Donald Trump bragged about how much more powerful and influential he was during his second term. While listing off his accomplishments, he mentioned his decision to..."
+    },
+    {
+      "id": "07f5e8442486",
+      "title": "The best gadget I bought this year is a milk frother",
+      "url": "https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget",
+      "source": "The Verge",
+      "published": "2026-10-18T13:00:00+00:00",
+      "excerpt": "Back in February, I went to Los Angeles to take in some art and stayed in Koreatown. Down the street from my hotel, there was this little coffee shop - Stagger - that is, I think, best known for its matcha, which is good. But the drink I..."
+    },
+    {
+      "id": "d789cafd835f",
+      "title": "How overhead projectors took over your classroom",
+      "url": "https://www.theverge.com/podcast/1013473/overhead-projector-version-history",
+      "source": "The Verge",
+      "published": "2026-10-18T12:55:01+00:00",
+      "excerpt": "It used to be so easy to get away with things in school. The teacher, after all, was always turned around writing at the chalkboard! But then came a bit of technology, previously mostly used for military purposes, called the overhead..."
+    },
+    {
+      "id": "a4cfa48e5145",
+      "title": "Cities want to put the boot on robotaxis",
+      "url": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
+      "source": "The Verge",
+      "published": "2026-10-18T12:00:00+00:00",
+      "excerpt": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET..."
+    },
+    {
+      "id": "fcc34260855a",
+      "title": "Open MicroManipulator \u2013 A sub-micrometer 3D motion control plattform",
+      "url": "https://github.com/0x23/MicroManipulatorStepper",
+      "source": "Hacker News",
+      "published": "2026-10-18T11:16:22+00:00",
+      "excerpt": "Article URL: https://github.com/0x23/MicroManipulatorStepper Comments URL: https://news.ycombinator.com/item?id=50140001 Points: 45 # Comments: 5"
+    },
+    {
+      "id": "7b51d2f54a77",
+      "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+      "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+      "source": "Hacker News",
+      "published": "2026-10-18T10:21:51+00:00",
+      "excerpt": "Article URL: https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/ Comments URL: https://news.ycombinator.com/item?id=50139692 Points: 64 # Comments: 16"
+    },
+    {
+      "id": "3337df1b3bee",
+      "title": "Parser Combinators",
+      "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
+      "source": "Hacker News",
+      "published": "2026-10-18T08:19:53+00:00",
+      "excerpt": "Article URL: https://t3.at/blog/2026-10-17-parser-combinators/ Comments URL: https://news.ycombinator.com/item?id=50139067 Points: 89 # Comments: 44"
+    },
     {
       "id": "48479cd7194a",
       "title": "DeepSeek search and fetch \u2013 $0.75 per 1000 successful requests",
       "url": "https://api-docs.deepseek.com/guides/search/",
       "source": "Hacker News",
       "published": "2026-10-18T06:50:36+00:00",
-      "excerpt": "Article URL: https://api-docs.deepseek.com/guides/search/ Comments URL: https://news.ycombinator.com/item?id=50138531 Points: 172 # Comments: 76"
+      "excerpt": "Article URL: https://api-docs.deepseek.com/guides/search/ Comments URL: https://news.ycombinator.com/item?id=50138531 Points: 327 # Comments: 158"
     },
     {
       "id": "be5a6f6ecfd9",
@@ -47,7 +111,7 @@
       "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
       "source": "Hacker News",
       "published": "2026-10-18T03:19:49+00:00",
-      "excerpt": "Article URL: https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything Comments URL: https://news.ycombinator.com/item?id=50137620 Points: 135 # Comments: 135"
+      "excerpt": "Article URL: https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything Comments URL: https://news.ycombinator.com/item?id=50137620 Points: 213 # Comments: 249"
     },
     {
       "id": "1b57e911f336",
@@ -151,7 +215,7 @@
       "url": "https://github.com/openai/codex/issues/25921",
       "source": "Hacker News",
       "published": "2026-10-17T17:45:08+00:00",
-      "excerpt": "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 132 # Comments: 49"
+      "excerpt": "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 148 # Comments: 68"
     },
     {
       "id": "a7783c892e37",
@@ -183,7 +247,7 @@
       "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
       "source": "Hacker News",
       "published": "2026-10-17T17:06:07+00:00",
-      "excerpt": "Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export Comments URL: https://news.ycombinator.com/item?id=50132870 Points: 328 # Comments: 179"
+      "excerpt": "Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export Comments URL: https://news.ycombinator.com/item?id=50132870 Points: 369 # Comments: 208"
     },
     {
       "id": "3fb9467b09df",
@@ -231,7 +295,7 @@
       "url": "https://pele.run/",
       "source": "Hacker News",
       "published": "2026-10-17T15:55:09+00:00",
-      "excerpt": "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 430 # Comments: 38"
+      "excerpt": "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 489 # Comments: 45"
     },
     {
       "id": "8fbb39707210",
@@ -287,7 +351,7 @@
       "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
       "source": "Hacker News",
       "published": "2026-10-17T13:55:28+00:00",
-      "excerpt": "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 301 # Comments: 81"
+      "excerpt": "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 326 # Comments: 84"
     },
     {
       "id": "19eb13d3d942",
@@ -303,7 +367,7 @@
       "url": "https://celphase.github.io/duck-pond/",
       "source": "Hacker News",
       "published": "2026-10-17T13:28:46+00:00",
-      "excerpt": "Article URL: https://celphase.github.io/duck-pond/ Comments URL: https://news.ycombinator.com/item?id=50131006 Points: 134 # Comments: 29"
+      "excerpt": "Article URL: https://celphase.github.io/duck-pond/ Comments URL: https://news.ycombinator.com/item?id=50131006 Points: 155 # Comments: 35"
     },
     {
       "id": "79619743255e",
@@ -327,7 +391,7 @@
       "url": "https://lpviz.net/",
       "source": "Hacker News",
       "published": "2026-10-17T12:06:44+00:00",
-      "excerpt": "Article URL: https://lpviz.net/ Comments URL: https://news.ycombinator.com/item?id=50130379 Points: 31 # Comments: 0"
+      "excerpt": "Article URL: https://lpviz.net/ Comments URL: https://news.ycombinator.com/item?id=50130379 Points: 58 # Comments: 0"
     },
     {
       "id": "6e5bf6774929",
@@ -407,7 +471,7 @@
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "source": "Hacker News",
       "published": "2026-10-17T08:21:25+00:00",
-      "excerpt": "https://api-docs.deepseek.com/news/news261017/ https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 758 # Comments: 610"
+      "excerpt": "https://api-docs.deepseek.com/news/news261017/ https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 903 # Comments: 675"
     },
     {
       "id": "0913988ccbed",
@@ -416,70 +480,6 @@
       "source": "Hacker News",
       "published": "2026-10-17T04:36:53+00:00",
       "excerpt": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 266 # Comments: 77"
-    },
-    {
-      "id": "f4f8e6696210",
-      "title": "Source code of the Estonian online voting system",
-      "url": "https://github.com/valimised/ivxv",
-      "source": "Hacker News",
-      "published": "2026-10-17T03:18:39+00:00",
-      "excerpt": "Article URL: https://github.com/valimised/ivxv Comments URL: https://news.ycombinator.com/item?id=50127586 Points: 185 # Comments: 156"
-    },
-    {
-      "id": "ee6f53a9b37a",
-      "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
-      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
-      "source": "TechCrunch",
-      "published": "2026-10-17T02:36:18+00:00",
-      "excerpt": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you\u2019ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund."
-    },
-    {
-      "id": "8a2456bf6914",
-      "title": "Butlerian Jihad",
-      "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
-      "source": "Hacker News",
-      "published": "2026-10-17T02:21:08+00:00",
-      "excerpt": "Article URL: https://dune.fandom.com/wiki/Butlerian_Jihad Comments URL: https://news.ycombinator.com/item?id=50127274 Points: 290 # Comments: 161"
-    },
-    {
-      "id": "a73fb8e0def2",
-      "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
-      "url": "https://www.flexport.com/company/careers/",
-      "source": "Hacker News",
-      "published": "2026-10-17T01:01:51+00:00",
-      "excerpt": "Article URL: https://www.flexport.com/company/careers/ Comments URL: https://news.ycombinator.com/item?id=50126774 Points: 0 # Comments: 0"
-    },
-    {
-      "id": "596dd45e1e86",
-      "title": "All the news about the iPhone Duo",
-      "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
-      "source": "The Verge",
-      "published": "2026-10-16T23:36:26+00:00",
-      "excerpt": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a \u201cnano\u2011texture\u201d finish on the inner screen, and barely any visible crease. Instead of Face ID..."
-    },
-    {
-      "id": "cb4458cafd2f",
-      "title": "Apple\u2019s updated App Store rules go after \u2018nudify\u2019 AI apps",
-      "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
-      "source": "The Verge",
-      "published": "2026-10-16T22:51:22+00:00",
-      "excerpt": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok..."
-    },
-    {
-      "id": "d65903244be8",
-      "title": "Nine-Inch Snails",
-      "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
-      "source": "Hacker News",
-      "published": "2026-10-16T22:21:05+00:00",
-      "excerpt": "Article URL: https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/ Comments URL: https://news.ycombinator.com/item?id=50125545 Points: 83 # Comments: 38"
-    },
-    {
-      "id": "18f9fd010555",
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "source": "TechCrunch",
-      "published": "2026-10-16T21:22:28+00:00",
-      "excerpt": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic."
     }
   ]
 }
