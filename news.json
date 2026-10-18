@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-17T22:16:41+00:00",
+  "updated": "2026-10-18T00:04:47+00:00",
   "items": [
+    {
+      "id": "0b58b4d3fc36",
+      "title": "Retired Penn professor arrested for blocking Uber Eats robot",
+      "url": "https://www.phillyvoice.com/philly-woman-arrested-uber-eats-robot-protest/?l",
+      "source": "Hacker News",
+      "published": "2026-10-17T23:31:48+00:00",
+      "excerpt": "Article URL: https://www.phillyvoice.com/philly-woman-arrested-uber-eats-robot-protest/?l Comments URL: https://news.ycombinator.com/item?id=50136198 Points: 34 # Comments: 24"
+    },
+    {
+      "id": "e168843b18ab",
+      "title": "JDK 28",
+      "url": "https://openjdk.org/projects/jdk/28/",
+      "source": "Hacker News",
+      "published": "2026-10-17T21:37:07+00:00",
+      "excerpt": "Article URL: https://openjdk.org/projects/jdk/28/ Comments URL: https://news.ycombinator.com/item?id=50135379 Points: 34 # Comments: 10"
+    },
     {
       "id": "d4d8a21bd997",
       "title": "Meta removes language that raised scraping and AI training concerns",
@@ -31,7 +47,7 @@
       "url": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
       "source": "Hacker News",
       "published": "2026-10-17T20:07:33+00:00",
-      "excerpt": "Article URL: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/ Comments URL: https://news.ycombinator.com/item?id=50134617 Points: 46 # Comments: 46"
+      "excerpt": "Article URL: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/ Comments URL: https://news.ycombinator.com/item?id=50134617 Points: 68 # Comments: 70"
     },
     {
       "id": "bb38f1891d15",
@@ -51,11 +67,11 @@
     },
     {
       "id": "1489ab22ad06",
-      "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
+      "title": "Microsoft and CMU team up to train early career software engineers",
       "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
       "source": "Hacker News",
       "published": "2026-10-17T18:45:07+00:00",
-      "excerpt": "Article URL: https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise Comments URL: https://news.ycombinator.com/item?id=50133830 Points: 34 # Comments: 35"
+      "excerpt": "Article URL: https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise Comments URL: https://news.ycombinator.com/item?id=50133830 Points: 54 # Comments: 64"
     },
     {
       "id": "72593c9c44c7",
@@ -71,15 +87,15 @@
       "url": "https://twitter.com/opencode/status/2111516673953935833",
       "source": "Hacker News",
       "published": "2026-10-17T18:01:41+00:00",
-      "excerpt": "Article URL: https://twitter.com/opencode/status/2111516673953935833 Comments URL: https://news.ycombinator.com/item?id=50133401 Points: 561 # Comments: 91"
+      "excerpt": "Article URL: https://twitter.com/opencode/status/2111516673953935833 Comments URL: https://news.ycombinator.com/item?id=50133401 Points: 695 # Comments: 120"
     },
     {
       "id": "59f1f537529d",
-      "title": "Codex is EATING my Mac's disk space",
+      "title": "Codex Desktop continuously generates Crashpad pending dumps",
       "url": "https://github.com/openai/codex/issues/25921",
       "source": "Hacker News",
       "published": "2026-10-17T17:45:08+00:00",
-      "excerpt": "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 28 # Comments: 17"
+      "excerpt": "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 50 # Comments: 25"
     },
     {
       "id": "a7783c892e37",
@@ -87,7 +103,7 @@
       "url": "https://www.derekwessman.com/blog-1/natural",
       "source": "Hacker News",
       "published": "2026-10-17T17:36:17+00:00",
-      "excerpt": "Article URL: https://www.derekwessman.com/blog-1/natural Comments URL: https://news.ycombinator.com/item?id=50133150 Points: 97 # Comments: 29"
+      "excerpt": "Article URL: https://www.derekwessman.com/blog-1/natural Comments URL: https://news.ycombinator.com/item?id=50133150 Points: 129 # Comments: 49"
     },
     {
       "id": "eeafb835f191",
@@ -111,7 +127,7 @@
       "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
       "source": "Hacker News",
       "published": "2026-10-17T17:06:07+00:00",
-      "excerpt": "Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export Comments URL: https://news.ycombinator.com/item?id=50132870 Points: 152 # Comments: 85"
+      "excerpt": "Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export Comments URL: https://news.ycombinator.com/item?id=50132870 Points: 196 # Comments: 110"
     },
     {
       "id": "3fb9467b09df",
@@ -159,7 +175,7 @@
       "url": "https://pele.run/",
       "source": "Hacker News",
       "published": "2026-10-17T15:55:09+00:00",
-      "excerpt": "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 135 # Comments: 15"
+      "excerpt": "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 195 # Comments: 22"
     },
     {
       "id": "8fbb39707210",
@@ -199,7 +215,7 @@
       "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
       "source": "Hacker News",
       "published": "2026-10-17T14:01:01+00:00",
-      "excerpt": "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 424 # Comments: 250"
+      "excerpt": "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 453 # Comments: 300"
     },
     {
       "id": "26c06698b2a0",
@@ -215,7 +231,7 @@
       "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
       "source": "Hacker News",
       "published": "2026-10-17T13:55:28+00:00",
-      "excerpt": "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 228 # Comments: 62"
+      "excerpt": "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 242 # Comments: 64"
     },
     {
       "id": "19eb13d3d942",
@@ -231,7 +247,7 @@
       "url": "https://celphase.github.io/duck-pond/",
       "source": "Hacker News",
       "published": "2026-10-17T13:28:46+00:00",
-      "excerpt": "Article URL: https://celphase.github.io/duck-pond/ Comments URL: https://news.ycombinator.com/item?id=50131006 Points: 55 # Comments: 15"
+      "excerpt": "Article URL: https://celphase.github.io/duck-pond/ Comments URL: https://news.ycombinator.com/item?id=50131006 Points: 71 # Comments: 22"
     },
     {
       "id": "79619743255e",
@@ -327,7 +343,7 @@
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "source": "Hacker News",
       "published": "2026-10-17T08:21:25+00:00",
-      "excerpt": "https://api-docs.deepseek.com/news/news261017/ https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 506 # Comments: 480"
+      "excerpt": "https://api-docs.deepseek.com/news/news261017/ https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 669 # Comments: 562"
     },
     {
       "id": "0913988ccbed",
@@ -464,22 +480,6 @@
       "source": "Ars Technica",
       "published": "2026-10-16T19:11:50+00:00",
       "excerpt": "The bug is fixed, but privacy concerns remain."
-    },
-    {
-      "id": "7fd7e06ab2f4",
-      "title": "How the Claude Code team does code review",
-      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-      "source": "Hacker News",
-      "published": "2026-10-16T19:04:47+00:00",
-      "excerpt": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 390 # Comments: 366"
-    },
-    {
-      "id": "c19e7ef010f7",
-      "title": "You could have invented transformers from memory",
-      "url": "https://alexwang.ai/posts/associative-memory/",
-      "source": "Hacker News",
-      "published": "2026-10-16T19:01:17+00:00",
-      "excerpt": "Article URL: https://alexwang.ai/posts/associative-memory/ Comments URL: https://news.ycombinator.com/item?id=50122878 Points: 412 # Comments: 99"
     }
   ]
 }
