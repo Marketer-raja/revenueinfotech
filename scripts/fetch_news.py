@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
-"""Aggregate headlines from RSS/Atom feeds.
+"""Aggregate TECH-ONLY headlines from RSS/Atom feeds, fully automatically.
 
-Writes:  news.json, news/index.html (crawlable static page), sitemap.xml
+Writes:  news.json, home-news.json (home page, with images), news/index.html,
+         sitemap.xml
+Non-technology stories are filtered out by keyword scoring.
 Stores only: title, source, link, date and a SHORT excerpt taken from the feed.
 It never copies full article text. Every item links back to the original.
 """
@@ -15,7 +17,35 @@ import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parent.parent
 SITE = "https://revenueinfotech.com"
-MAX_ITEMS, MAX_PER_FEED, EXCERPT_CHARS = 60, 15, 240
+MAX_ITEMS, MAX_PER_FEED, EXCERPT_CHARS = 60, 20, 240
+MEDIA = "{http://search.yahoo.com/mrss/}"
+CONTENT = "{http://purl.org/rss/1.0/modules/content/}"
+# Home page slots: hero (1), Editor's briefs (3), latest list (6), featured cards (6)
+SLOTS = [("hero", 1), ("brief", 3), ("latest", 6), ("featured", 6)]
+
+# Category -> keywords. A story must match at least one tech keyword to be kept.
+CATEGORIES = {
+    "Artificial Intelligence": ["ai", "artificial intelligence", "machine learning", "llm", "chatgpt", "openai",
+        "gemini", "claude", "anthropic", "neural", "deepseek", "copilot", "nvidia", "gpu", "chatbot", "generative", "deep learning"],
+    "Cybersecurity": ["security", "hack", "hacker", "breach", "malware", "ransomware", "vulnerability", "exploit",
+        "phishing", "cyber", "zero-day", "cve", "encryption", "spyware", "botnet", "patch"],
+    "Cloud Computing": ["cloud", "aws", "azure", "google cloud", "data center", "datacenter", "kubernetes", "serverless", "server"],
+    "Software Development": ["developer", "programming", "github", "open source", "open-source", "python", "javascript",
+        "rust", "api", "flaw", "flaws", "rce", "tls", "nginx", "winrar", "sdk", "code", "coding", "software", "compiler", "devops"],
+    "Operating Systems": ["windows", "macos", "linux", "android", "ios", "ipados", "chromeos", "kernel", "firmware", "operating system"],
+    "Enterprise Software & SaaS": ["saas", "enterprise", "microsoft", "salesforce", "oracle", "sap", "startup", "funding", "ibm"],
+    "Data & Analytics": ["data", "database", "analytics", "sql", "big data", "privacy"],
+    "Web Development": ["browser", "chrome", "firefox", "safari", "web", "html", "css", "website", "wordpress"],
+}
+EXTRA_TECH = ["tech", "technology", "apple", "iphone", "ipad", "mac", "google", "pixel", "samsung", "galaxy", "smartphone",
+    "phone", "laptop", "pc", "chip", "processor", "semiconductor", "intel", "amd", "qualcomm", "arm", "tesla", "ev",
+    "robot", "robotics", "drone", "app", "apps", "gadget", "wearable", "headphones", "vr", "ar", "quantum", "5g",
+    "broadband", "internet", "meta", "amazon", "alexa", "spacex", "starlink", "satellite", "gaming", "console", "xbox",
+    "playstation", "nintendo", "steam", "camera", "tablet", "smartwatch", "display", "oled", "battery", "usb", "wifi",
+    "rsa", "ram", "memory", "vmware", "ethernet", "wi fi", "router", "network", "networking", "waymo", "robotaxi", "mcp", "agent", "agents", "protocol", "projector", "smart tv", "tv", "hard drive", "ssd", "storage", "homepod", "nest", "doorbell", "googlebook", "chromebook", "smart home", "solar", "streaming", "netflix", "youtube", "crypto", "blockchain", "bitcoin", "software", "hardware", "device", "digital", "computer", "computing"]
+# Stories mainly about these topics are dropped even if a feed publishes them.
+NON_TECH = ["recipe", "celebrity", "horoscope", "election", "senator", "football", "nba", "nfl", "soccer",
+    "movie review", "box office", "fashion", "royal family", "deal of the day", "best deals", "coupon", "sale:", "% off", "coupon", "promo code", "gifts for", "trump", "lawsuit over", "documentary", "hair", "grow lights", "cat feeder"]
 UA = "RevenueInfoTechBot/1.0 (+https://revenueinfotech.com/contact.html)"
 ATOM = "{http://www.w3.org/2005/Atom}"
 TRACKING = ("utm_", "fbclid", "gclid", "ref", "source")
@@ -57,13 +87,65 @@ def txt(el, *names):
     return ""
 
 
+def words(text):
+    return " " + re.sub(r"[^a-z0-9+#]+", " ", text.lower()) + " "
+
+
+def has(blob, kw):
+    return (" " + kw + " ") in blob
+
+
+def categorize(title, desc):
+    """Return a tech category, or None if the story is not about technology."""
+    t, d = words(title), words(desc)
+    if any(k in t for k in NON_TECH):
+        return None
+    best, score = None, 0
+    for cat, kws in CATEGORIES.items():
+        sc = sum(3 for k in kws if has(t, k)) + sum(1 for k in kws if has(d, k))
+        if sc > score:
+            best, score = cat, sc
+    extra = sum(2 for k in EXTRA_TECH if has(t, k)) + sum(1 for k in EXTRA_TECH if has(d, k))
+    if score + extra < 1:          # not enough tech signal -> drop
+        return None
+    return best or "Software Development"
+
+
+def find_image(el, desc_html):
+    for tag in (MEDIA + "content", MEDIA + "thumbnail"):
+        for m in el.iter(tag):
+            u = m.get("url", "")
+            if u.startswith("http") and (m.get("medium") in (None, "image") or re.search(r"\.(jpe?g|png|webp|gif)", u, re.I)):
+                return u
+    for enc in el.findall("enclosure") + el.findall(ATOM + "link"):
+        if (enc.get("type") or "").startswith("image") and (enc.get("url") or enc.get("href")):
+            return enc.get("url") or enc.get("href")
+    m = re.search(r'<img[^>]+src=["\']([^"\']+)', desc_html or "")
+    return html.unescape(m.group(1)) if m and m.group(1).startswith("http") else ""
+
+
+def og_image(url):
+    """Fallback: read the article's og:image (only the page head is read)."""
+    try:
+        req = Request(url, headers={"User-Agent": UA, "Accept": "text/html"})
+        with urlopen(req, timeout=10) as r:
+            head = r.read(200_000).decode("utf-8", "ignore")
+        m = re.search(r'<meta[^>]+(?:property|name)=["\'](?:og:image|twitter:image)["\'][^>]+content=["\']([^"\']+)', head, re.I) \
+            or re.search(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+(?:property|name)=["\'](?:og:image|twitter:image)', head, re.I)
+        u = html.unescape(m.group(1)) if m else ""
+        return u if u.startswith("http") else ""
+    except Exception:
+        return ""
+
+
 def parse_feed(xml_bytes, source):
     root = ET.fromstring(xml_bytes)
     items = []
     for it in root.iter("item"):                      # RSS 2.0
         link = txt(it, "link")
         date = parse_date(txt(it, "pubDate", "{http://purl.org/dc/elements/1.1/}date"))
-        items.append((txt(it, "title"), link, txt(it, "description"), date))
+        d = txt(it, "description", CONTENT + "encoded")
+        items.append((txt(it, "title"), link, d, date, find_image(it, txt(it, CONTENT + "encoded") or d)))
     for en in root.iter(ATOM + "entry"):              # Atom
         link = ""
         for l in en.findall(ATOM + "link"):
@@ -71,11 +153,16 @@ def parse_feed(xml_bytes, source):
                 link = l.get("href")
                 break
         date = parse_date(txt(en, ATOM + "published", ATOM + "updated"))
-        items.append((txt(en, ATOM + "title"), link, txt(en, ATOM + "summary", ATOM + "content"), date))
+        d = txt(en, ATOM + "summary", ATOM + "content")
+        items.append((txt(en, ATOM + "title"), link, d, date, find_image(en, txt(en, ATOM + "content") or d)))
     out = []
-    for title, link, desc, date in items[:MAX_PER_FEED]:
+    for title, link, desc, date, image in items[:MAX_PER_FEED]:
         title, link = clean(title), (link or "").strip()
         if not title or not link.startswith(("http://", "https://")):
+            continue
+        category = categorize(title, clean(desc))
+        if not category:
+            print(f"  skip (not tech): {title[:70]}")
             continue
         url = norm_url(link)
         out.append({
@@ -85,6 +172,8 @@ def parse_feed(xml_bytes, source):
             "source": source,
             "published": (date or datetime.now(timezone.utc)).astimezone(timezone.utc).isoformat(timespec="seconds"),
             "excerpt": clean(desc, EXCERPT_CHARS),
+            "image": image,
+            "category": category,
         })
     return out
 
@@ -100,7 +189,8 @@ def render_html(items):
     for i in items:
         d = i["published"][:10]
         rows.append(
-            f'<article><p class="meta">{html.escape(i["source"])} &middot; <time datetime="{i["published"]}">{d}</time></p>'
+            f'<article><p class="meta">{html.escape(i["source"])} &middot; <time datetime="{i["published"]}">{d}</time></p>' +
+            (f'<img src="{html.escape(i["image"], quote=True)}" alt="" loading="lazy">' if i.get("image") else "") +
             f'<h2><a href="{html.escape(i["url"], quote=True)}" rel="noopener" target="_blank">{html.escape(i["title"])}</a></h2>'
             f'<p>{html.escape(i["excerpt"])}</p></article>')
     now = datetime.now(timezone.utc).strftime("%d %b %Y %H:%M UTC")
@@ -111,7 +201,7 @@ def render_html(items):
 <link rel="canonical" href="{SITE}/news/">
 <style>body{{font-family:Inter,system-ui,sans-serif;max-width:760px;margin:0 auto;padding:24px;color:#111827;line-height:1.55}}
 a{{color:#2563EB}}article{{border-bottom:1px solid #e5e7eb;padding:14px 0}}h2{{font-size:1.1rem;margin:.2rem 0}}
-.meta{{color:#6b7280;font-size:.8rem;margin:0}}header a{{font-weight:700;text-decoration:none}}</style></head>
+article img{{width:100%;max-height:320px;object-fit:cover;border-radius:6px}}.meta{{color:#6b7280;font-size:.8rem;margin:0}}header a{{font-weight:700;text-decoration:none}}</style></head>
 <body><header><a href="/">&larr; RevenueInfoTech</a></header>
 <h1>Latest Technology News</h1>
 <p class="meta">Updated {now}. Summaries are brief excerpts supplied by each publisher's feed; click through to read the full story at the source.</p>
@@ -143,6 +233,28 @@ def render_sitemap():
             f'<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{body}\n</urlset>\n')
 
 
+def build_home(items):
+    """Fill the home page automatically: newest stories with pictures go in the visible slots."""
+    with_img = [i for i in items if i.get("image")]
+    without = [i for i in items if not i.get("image")]
+    ordered, out, pos = with_img + without, [], 0
+    used_sources = {}
+    for section, n in SLOTS:
+        for _ in range(n):
+            if pos >= len(ordered):
+                break
+            out.append((ordered[pos], section)); pos += 1
+    out += [(i, "none") for i in ordered[pos:]]
+    home = []
+    for i, sec in out:
+        home.append({"id": i["id"], "title": i["title"], "summary": i["excerpt"] or i["title"],
+                     "source": i["source"], "url": i["url"], "image": i.get("image", ""),
+                     "category": i.get("category", "Software Development"), "section": sec,
+                     "featured": sec == "hero", "published": i["published"]})
+    # keep newest-first order inside each section
+    return sorted(home, key=lambda h: h["published"], reverse=True)
+
+
 def main():
     cfg = json.loads((ROOT / "feeds.json").read_text())
     existing = []
@@ -159,9 +271,18 @@ def main():
             print(f"FAIL  {f['name']}: {e}", file=sys.stderr)
     if ok == 0:
         sys.exit("No feed could be fetched; leaving existing files untouched.")
+    # re-check old items too, so nothing non-tech survives from earlier runs
+    existing = [i for i in existing if i.get("category") or categorize(i.get("title", ""), i.get("excerpt", ""))]
+    for i in existing:
+        i.setdefault("category", categorize(i.get("title", ""), i.get("excerpt", "")))
     merged = {i["id"]: i for i in existing}
     merged.update({i["id"]: i for i in fresh})
     items = sorted(merged.values(), key=lambda i: i["published"], reverse=True)[:MAX_ITEMS]
+    for i in items[:40]:                      # fetch a picture for stories whose feed had none
+        if not i.get("image"):
+            i["image"] = og_image(i["url"])
+    now_iso = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    (ROOT / "home-news.json").write_text(json.dumps({"updated": now_iso, "auto": True, "items": build_home(items)}, indent=2) + "\n")
     jp.write_text(json.dumps({"updated": datetime.now(timezone.utc).isoformat(timespec="seconds"), "items": items}, indent=2))
     (ROOT / "news").mkdir(exist_ok=True)
     (ROOT / "news" / "index.html").write_text(render_html(items))
