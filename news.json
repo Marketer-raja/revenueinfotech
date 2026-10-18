@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-18T00:04:47+00:00",
+  "updated": "2026-10-18T04:28:54+00:00",
   "items": [
+    {
+      "id": "1b57e911f336",
+      "title": "NY announces game ownership bill requiring ownership rather than licensing",
+      "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+      "source": "Hacker News",
+      "published": "2026-10-18T00:14:22+00:00",
+      "excerpt": "Article URL..."
+    },
     {
       "id": "0b58b4d3fc36",
       "title": "Retired Penn professor arrested for blocking Uber Eats robot",
@@ -47,7 +55,7 @@
       "url": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
       "source": "Hacker News",
       "published": "2026-10-17T20:07:33+00:00",
-      "excerpt": "Article URL: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/ Comments URL: https://news.ycombinator.com/item?id=50134617 Points: 68 # Comments: 70"
+      "excerpt": "Article URL: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/ Comments URL: https://news.ycombinator.com/item?id=50134617 Points: 103 # Comments: 112"
     },
     {
       "id": "bb38f1891d15",
@@ -95,7 +103,7 @@
       "url": "https://github.com/openai/codex/issues/25921",
       "source": "Hacker News",
       "published": "2026-10-17T17:45:08+00:00",
-      "excerpt": "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 50 # Comments: 25"
+      "excerpt": "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 104 # Comments: 34"
     },
     {
       "id": "a7783c892e37",
@@ -103,7 +111,7 @@
       "url": "https://www.derekwessman.com/blog-1/natural",
       "source": "Hacker News",
       "published": "2026-10-17T17:36:17+00:00",
-      "excerpt": "Article URL: https://www.derekwessman.com/blog-1/natural Comments URL: https://news.ycombinator.com/item?id=50133150 Points: 129 # Comments: 49"
+      "excerpt": "Article URL: https://www.derekwessman.com/blog-1/natural Comments URL: https://news.ycombinator.com/item?id=50133150 Points: 180 # Comments: 86"
     },
     {
       "id": "eeafb835f191",
@@ -127,7 +135,7 @@
       "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
       "source": "Hacker News",
       "published": "2026-10-17T17:06:07+00:00",
-      "excerpt": "Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export Comments URL: https://news.ycombinator.com/item?id=50132870 Points: 196 # Comments: 110"
+      "excerpt": "Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export Comments URL: https://news.ycombinator.com/item?id=50132870 Points: 274 # Comments: 143"
     },
     {
       "id": "3fb9467b09df",
@@ -175,7 +183,7 @@
       "url": "https://pele.run/",
       "source": "Hacker News",
       "published": "2026-10-17T15:55:09+00:00",
-      "excerpt": "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 195 # Comments: 22"
+      "excerpt": "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 315 # Comments: 27"
     },
     {
       "id": "8fbb39707210",
@@ -215,7 +223,7 @@
       "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
       "source": "Hacker News",
       "published": "2026-10-17T14:01:01+00:00",
-      "excerpt": "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 453 # Comments: 300"
+      "excerpt": "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 519 # Comments: 324"
     },
     {
       "id": "26c06698b2a0",
@@ -231,7 +239,7 @@
       "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
       "source": "Hacker News",
       "published": "2026-10-17T13:55:28+00:00",
-      "excerpt": "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 242 # Comments: 64"
+      "excerpt": "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 276 # Comments: 68"
     },
     {
       "id": "19eb13d3d942",
@@ -247,7 +255,7 @@
       "url": "https://celphase.github.io/duck-pond/",
       "source": "Hacker News",
       "published": "2026-10-17T13:28:46+00:00",
-      "excerpt": "Article URL: https://celphase.github.io/duck-pond/ Comments URL: https://news.ycombinator.com/item?id=50131006 Points: 71 # Comments: 22"
+      "excerpt": "Article URL: https://celphase.github.io/duck-pond/ Comments URL: https://news.ycombinator.com/item?id=50131006 Points: 106 # Comments: 27"
     },
     {
       "id": "79619743255e",
@@ -264,6 +272,14 @@
       "source": "The Verge",
       "published": "2026-10-17T13:00:00+00:00",
       "excerpt": "After Apple courageously removed the headphone jack from the iPhone in 2016, most people switched to Bluetooth earbuds and never looked back. But their wired counterparts have stuck around, and their sales even went up this year after five..."
+    },
+    {
+      "id": "1ec9a16460d0",
+      "title": "Interactive Linear Programming in the Browser",
+      "url": "https://lpviz.net/",
+      "source": "Hacker News",
+      "published": "2026-10-17T12:06:44+00:00",
+      "excerpt": "Article URL: https://lpviz.net/ Comments URL: https://news.ycombinator.com/item?id=50130379 Points: 3 # Comments: 0"
     },
     {
       "id": "6e5bf6774929",
@@ -343,7 +359,7 @@
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "source": "Hacker News",
       "published": "2026-10-17T08:21:25+00:00",
-      "excerpt": "https://api-docs.deepseek.com/news/news261017/ https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 669 # Comments: 562"
+      "excerpt": "https://api-docs.deepseek.com/news/news261017/ https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 758 # Comments: 610"
     },
     {
       "id": "0913988ccbed",
@@ -351,7 +367,7 @@
       "url": "https://llmspeed.dev/",
       "source": "Hacker News",
       "published": "2026-10-17T04:36:53+00:00",
-      "excerpt": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 211 # Comments: 67"
+      "excerpt": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 266 # Comments: 77"
     },
     {
       "id": "f4f8e6696210",
@@ -359,7 +375,7 @@
       "url": "https://github.com/valimised/ivxv",
       "source": "Hacker News",
       "published": "2026-10-17T03:18:39+00:00",
-      "excerpt": "Article URL: https://github.com/valimised/ivxv Comments URL: https://news.ycombinator.com/item?id=50127586 Points: 12 # Comments: 0"
+      "excerpt": "Article URL: https://github.com/valimised/ivxv Comments URL: https://news.ycombinator.com/item?id=50127586 Points: 185 # Comments: 156"
     },
     {
       "id": "ee6f53a9b37a",
@@ -464,22 +480,6 @@
       "source": "Ars Technica",
       "published": "2026-10-16T19:41:18+00:00",
       "excerpt": "There are still significant hurdles ahead, both technical and legislative."
-    },
-    {
-      "id": "8e38105a14b5",
-      "title": "Porsche\u2019s electric Macan Turbo is an automotive existential crisis",
-      "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
-      "source": "TechCrunch",
-      "published": "2026-10-16T19:40:00+00:00",
-      "excerpt": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery."
-    },
-    {
-      "id": "e7743bd6de29",
-      "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
-      "url": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
-      "source": "Ars Technica",
-      "published": "2026-10-16T19:11:50+00:00",
-      "excerpt": "The bug is fixed, but privacy concerns remain."
     }
   ]
 }
