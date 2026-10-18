@@ -1,6 +1,54 @@
 {
-  "updated": "2026-10-18T04:28:54+00:00",
+  "updated": "2026-10-18T09:34:39+00:00",
   "items": [
+    {
+      "id": "48479cd7194a",
+      "title": "DeepSeek search and fetch \u2013 $0.75 per 1000 successful requests",
+      "url": "https://api-docs.deepseek.com/guides/search/",
+      "source": "Hacker News",
+      "published": "2026-10-18T06:50:36+00:00",
+      "excerpt": "Article URL: https://api-docs.deepseek.com/guides/search/ Comments URL: https://news.ycombinator.com/item?id=50138531 Points: 172 # Comments: 76"
+    },
+    {
+      "id": "be5a6f6ecfd9",
+      "title": "Matthew Prince on why Cloudflare offers a free version and always will (2016)",
+      "url": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
+      "source": "Hacker News",
+      "published": "2026-10-18T05:09:14+00:00",
+      "excerpt": "Article URL: https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685 Comments URL: https://news.ycombinator.com/item?id=50138087 Points: 93 # Comments: 66"
+    },
+    {
+      "id": "320589ac2dc2",
+      "title": "A Mole Infiltrated the Highest Ranks of American Militias (2025)",
+      "url": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
+      "source": "Hacker News",
+      "published": "2026-10-18T04:59:24+00:00",
+      "excerpt": "Article URL: https://www.propublica.org/article/ap3-oath-keepers-militia-mole Comments URL: https://news.ycombinator.com/item?id=50138044 Points: 89 # Comments: 19"
+    },
+    {
+      "id": "8a37e687a280",
+      "title": "Notes on the Complex Roots of Unity",
+      "url": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
+      "source": "Hacker News",
+      "published": "2026-10-18T04:49:31+00:00",
+      "excerpt": "Article URL: https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/ Comments URL: https://news.ycombinator.com/item?id=50138002 Points: 23 # Comments: 3"
+    },
+    {
+      "id": "d3c35db34ec3",
+      "title": "Show HN: Sphinx \u2013 A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "source": "Hacker News",
+      "published": "2026-10-18T04:33:49+00:00",
+      "excerpt": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL..."
+    },
+    {
+      "id": "32b83c7f52bb",
+      "title": "How the Elizabeth Holmes documentary \u201cYou Can See Everything\u201d is deceiving",
+      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "source": "Hacker News",
+      "published": "2026-10-18T03:19:49+00:00",
+      "excerpt": "Article URL: https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything Comments URL: https://news.ycombinator.com/item?id=50137620 Points: 135 # Comments: 135"
+    },
     {
       "id": "1b57e911f336",
       "title": "NY announces game ownership bill requiring ownership rather than licensing",
@@ -103,7 +151,7 @@
       "url": "https://github.com/openai/codex/issues/25921",
       "source": "Hacker News",
       "published": "2026-10-17T17:45:08+00:00",
-      "excerpt": "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 104 # Comments: 34"
+      "excerpt": "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 132 # Comments: 49"
     },
     {
       "id": "a7783c892e37",
@@ -135,7 +183,7 @@
       "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
       "source": "Hacker News",
       "published": "2026-10-17T17:06:07+00:00",
-      "excerpt": "Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export Comments URL: https://news.ycombinator.com/item?id=50132870 Points: 274 # Comments: 143"
+      "excerpt": "Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export Comments URL: https://news.ycombinator.com/item?id=50132870 Points: 328 # Comments: 179"
     },
     {
       "id": "3fb9467b09df",
@@ -183,7 +231,7 @@
       "url": "https://pele.run/",
       "source": "Hacker News",
       "published": "2026-10-17T15:55:09+00:00",
-      "excerpt": "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 315 # Comments: 27"
+      "excerpt": "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 430 # Comments: 38"
     },
     {
       "id": "8fbb39707210",
@@ -223,7 +271,7 @@
       "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
       "source": "Hacker News",
       "published": "2026-10-17T14:01:01+00:00",
-      "excerpt": "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 519 # Comments: 324"
+      "excerpt": "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 603 # Comments: 377"
     },
     {
       "id": "26c06698b2a0",
@@ -239,7 +287,7 @@
       "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
       "source": "Hacker News",
       "published": "2026-10-17T13:55:28+00:00",
-      "excerpt": "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 276 # Comments: 68"
+      "excerpt": "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 301 # Comments: 81"
     },
     {
       "id": "19eb13d3d942",
@@ -255,7 +303,7 @@
       "url": "https://celphase.github.io/duck-pond/",
       "source": "Hacker News",
       "published": "2026-10-17T13:28:46+00:00",
-      "excerpt": "Article URL: https://celphase.github.io/duck-pond/ Comments URL: https://news.ycombinator.com/item?id=50131006 Points: 106 # Comments: 27"
+      "excerpt": "Article URL: https://celphase.github.io/duck-pond/ Comments URL: https://news.ycombinator.com/item?id=50131006 Points: 134 # Comments: 29"
     },
     {
       "id": "79619743255e",
@@ -279,7 +327,7 @@
       "url": "https://lpviz.net/",
       "source": "Hacker News",
       "published": "2026-10-17T12:06:44+00:00",
-      "excerpt": "Article URL: https://lpviz.net/ Comments URL: https://news.ycombinator.com/item?id=50130379 Points: 3 # Comments: 0"
+      "excerpt": "Article URL: https://lpviz.net/ Comments URL: https://news.ycombinator.com/item?id=50130379 Points: 31 # Comments: 0"
     },
     {
       "id": "6e5bf6774929",
@@ -432,54 +480,6 @@
       "source": "TechCrunch",
       "published": "2026-10-16T21:22:28+00:00",
       "excerpt": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic."
-    },
-    {
-      "id": "e86f92efb265",
-      "title": "OpenAI models hacked a crypto wallet and breached more websites",
-      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-      "source": "Ars Technica",
-      "published": "2026-10-16T20:59:01+00:00",
-      "excerpt": "The actions could have resulted in criminal charges had humans been behind the keyboard."
-    },
-    {
-      "id": "2666d85ec9df",
-      "title": "We can finally hear some of Wu-Tang Clan\u2019s Once Upon A Time in Shaolin album",
-      "url": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
-      "source": "The Verge",
-      "published": "2026-10-16T20:50:27+00:00",
-      "excerpt": "Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podcast Pablo Torre Finds Out, which just published an episode all..."
-    },
-    {
-      "id": "4e79f0146d6f",
-      "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
-      "url": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
-      "source": "The Verge",
-      "published": "2026-10-16T20:49:04+00:00",
-      "excerpt": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technology does not relieve..."
-    },
-    {
-      "id": "2727d1daacce",
-      "title": "\u201cthegentlemanpervert\u201d producing AI CSAM is a NJ prosecutor, say cops",
-      "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
-      "source": "Ars Technica",
-      "published": "2026-10-16T20:20:07+00:00",
-      "excerpt": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG."
-    },
-    {
-      "id": "d0a00342ca12",
-      "title": "FLUX 3 Image Klein",
-      "url": "https://bfl.ai/blog/flux-3-image-klein",
-      "source": "Hacker News",
-      "published": "2026-10-16T19:47:13+00:00",
-      "excerpt": "Article URL: https://bfl.ai/blog/flux-3-image-klein Comments URL: https://news.ycombinator.com/item?id=50123580 Points: 194 # Comments: 56"
-    },
-    {
-      "id": "2929bbdc2924",
-      "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
-      "url": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
-      "source": "Ars Technica",
-      "published": "2026-10-16T19:41:18+00:00",
-      "excerpt": "There are still significant hurdles ahead, both technical and legislative."
     }
   ]
 }
