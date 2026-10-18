@@ -1,6 +1,46 @@
 {
-  "updated": "2026-10-18T20:38:59+00:00",
+  "updated": "2026-10-18T23:09:03+00:00",
   "items": [
+    {
+      "id": "0a7ef30901c6",
+      "title": "An Xbox Series X can now run PlayStation 5 games, but there's a catch",
+      "url": "https://www.engadget.com/2286776/xbox-series-x-users-can-play-playstation-5-games-ps5x-emulator-issues/",
+      "source": "Engadget",
+      "published": "2026-10-18T23:00:00+00:00",
+      "excerpt": "The idea of PS5 games running on an Xbox Series X -- made possible by how both consoles were built around closely matched hardware -- is certainly exciting.",
+      "image": "https://www.engadget.com/img/gallery/an-xbox-series-x-can-now-run-playstation-5-games-but-theres-a-catch/l-intro-1791888562.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "197fcfd4e242",
+      "title": "Starlink has two $55 plans that are wildly different \u2014 here's how",
+      "url": "https://www.engadget.com/2286681/starlink-residential-vs-roam-55-dollar-plan-how-different/",
+      "source": "Engadget",
+      "published": "2026-10-18T22:45:00+00:00",
+      "excerpt": "It's a trade-off between download speeds and data caps.",
+      "image": "https://www.engadget.com/img/gallery/starlink-has-two-55-plans-that-are-wildly-different-heres-how/l-intro-1791994899.jpg",
+      "category": "Data & Analytics"
+    },
+    {
+      "id": "a66284f36588",
+      "title": "Router and modem or gateway: What's actually in your home network?",
+      "url": "https://www.engadget.com/2286663/router-modem-gateway-whats-in-home-network/",
+      "source": "Engadget",
+      "published": "2026-10-18T22:30:00+00:00",
+      "excerpt": "A gateway pulls double duty, but a modem and router combo can give you a lot more flexibility and power.",
+      "image": "https://www.engadget.com/img/gallery/router-and-modem-or-gateway-whats-actually-in-your-home-network/l-intro-1791993839.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "4dba6b8c1d08",
+      "title": "What is Apple's Image Playground app for and how do you use it?",
+      "url": "https://www.engadget.com/2286648/what-is-image-playground-app-how-to-use/",
+      "source": "Engadget",
+      "published": "2026-10-18T22:00:00+00:00",
+      "excerpt": "Apple's image generation tool got some noteworthy updates this fall.",
+      "image": "https://www.engadget.com/img/gallery/what-is-apples-image-playground-app-for-and-how-do-you-use-it/l-intro-1791993182.jpg",
+      "category": "Software Development"
+    },
     {
       "id": "efeb3746fdd3",
       "title": "Anthropic says it\u2019s committing 5% of its shares to a \u2018public benefit fund\u2019",
@@ -19,6 +59,16 @@
       "published": "2026-10-18T18:30:00+00:00",
       "excerpt": "Basically, it's on you.",
       "image": "https://www.engadget.com/img/gallery/heres-how-the-slate-truck-gets-software-updates-without-built-in-infotainment/l-intro-1791571931.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "de6b0c59a9e6",
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "source": "The Verge",
+      "published": "2026-10-18T18:28:10+00:00",
+      "excerpt": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/avride-uber-delivery.webp?quality=90&strip=all&crop=0,0,100,100",
       "category": "Software Development"
     },
     {
@@ -550,56 +600,6 @@
       "excerpt": "OpenAI this week announced deeper integration between ChatGPT and Google Chrome, including the ability to hand control over your tabs to the AI assistant. more\u2026",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/chatgpt-google-chrome-1.jpg?quality=82&strip=all&w=1600",
       "category": "Artificial Intelligence"
-    },
-    {
-      "id": "2f67e7ff74fc",
-      "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
-      "url": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
-      "source": "The Hacker News",
-      "published": "2026-10-16T17:48:45+00:00",
-      "excerpt": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqmitTMm5t8BBKfynqzFAKqJSzh_s7fQczmMm5u95RLUUzuWMubd5DeM8e8EH6YOpP-_gvbYwn8Cd3flsL-nGIupBw5HOo49Orr7J2rqhI99J7U4LcXW6shlxd3w0zFAng1mLw5xGb-F9GRmpDK82GC1-Dcb1gPcvkgl4wVi0-QTEGalDwPmelGE0TtNU/s1600/openbsd.jpg",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "58d79d16c4d3",
-      "title": "Galaxy S26 Ultra is one of the \u2018best inventions of 2026\u2019 thanks to its Privacy Display",
-      "url": "https://9to5google.com/2026/10/16/galaxy-s26-ultra-privacy-display-gets-it-on-best-inventions-list/",
-      "source": "9to5Google",
-      "published": "2026-10-16T17:42:53+00:00",
-      "excerpt": "A new 2026 roundup has the Galaxy S26 Ultra included in a list of best inventions for the year, all thanks to what it doesn\u2019t display. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Privacy-Screen-angled-Galaxy-S26-Ultra-1.jpg?quality=82&strip=all&w=1600",
-      "category": "Data & Analytics"
-    },
-    {
-      "id": "1bddbe8cc065",
-      "title": "Munich dumps proprietary for open source (again) \u2013 but no Linux desktop",
-      "url": "https://www.zdnet.com/business/munich-proprietary-open-source-no-linux-desktop/",
-      "source": "ZDNET",
-      "published": "2026-10-16T17:11:35+00:00",
-      "excerpt": "Open source in the public sector doesn\u2019t fail because of technical issues. It fails because it\u2019s not aligned with the political agenda",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Laura-Dornheim.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "8a813abce9f9",
-      "title": "Anthropic gives third-party auditors \u2019employee-like access\u2019 in AI industry first",
-      "url": "https://www.zdnet.com/uncategorized/anthropic-embed-third-party-ai-auditors-safety/",
-      "source": "ZDNET",
-      "published": "2026-10-16T17:10:27+00:00",
-      "excerpt": "As AI labs continue to self-regulate, external evaluators play a crucial role in spotting risks.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/auditblue-GettyImages-1269457842.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "36a5428a3857",
-      "title": "Galaxy S27 reportedly skips Snapdragon 8 Elite Extreme Gen 6 due to overheating",
-      "url": "https://9to5google.com/2026/10/16/samsung-galaxy-s27-snapdragon-overheating-report/",
-      "source": "9to5Google",
-      "published": "2026-10-16T16:50:00+00:00",
-      "excerpt": "According to a new report, Samsung\u2019s Galaxy S27 series might not use the latest Snapdragon chipset due to overheating problems. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Snapdragon-8-Elite-Extreme-Gen-6.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
     }
   ]
 }
