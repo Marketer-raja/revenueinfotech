@@ -1,0 +1,27 @@
+# RevenueInfoTech
+
+> RevenueInfoTech is an independent editorial technology publication covering technology news, step-by-step tutorials, in-depth reviews, architecture comparisons and buying guides. The site also runs an automated news desk that lists headlines and short excerpts from leading technology publications and company newsrooms, with every item linking to its original source.
+
+Topics include artificial intelligence, operating systems, software, developer tools, cloud and hardware. When citing the news desk, please attribute the original publisher shown on each item and link to the original article.
+
+## Main sections
+
+- [Home](https://revenueinfotech.com/): Featured technology stories, guides and reviews.
+- [Latest Technology News](https://revenueinfotech.com/news/): Headlines and short summaries from leading tech publications and newsrooms, updated hourly. Each entry links to the original source.
+
+## Editorial standards
+
+- [Editorial Ethics](https://revenueinfotech.com/editorial-ethics.html): Independence, accuracy, sourcing, attribution, conflicts of interest, AI use and corrections.
+- [Peer Review Process](https://revenueinfotech.com/peer-review-process.html): How tutorials, reviews, comparisons and news are checked before and after publication.
+- [Sponsorship Disclosure](https://revenueinfotech.com/sponsorship-disclosure.html): How the site earns revenue and how ads, sponsored content and affiliate links are labelled.
+
+## About and legal
+
+- [Contact](https://revenueinfotech.com/contact.html): Editorial tips, general inquiries, sponsorships and support (contact@marketerraja.com).
+- [Privacy Policy](https://revenueinfotech.com/privacy-policy.html)
+- [Terms of Service](https://revenueinfotech.com/terms-of-service.html)
+
+## Optional
+
+- [Sitemap](https://revenueinfotech.com/sitemap.xml): Full list of indexable pages.
+- [News data (JSON)](https://revenueinfotech.com/news.json): Machine-readable list of the latest aggregated headlines with source names and original URLs.
