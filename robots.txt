@@ -1,0 +1,62 @@
+# robots.txt for https://revenueinfotech.com/
+
+User-agent: *
+Allow: /
+Disallow: /newsdesk/
+
+# Search engines
+User-agent: Googlebot
+Allow: /
+Disallow: /newsdesk/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /newsdesk/
+
+# AdSense crawler (needed so ads match page content)
+User-agent: Mediapartners-Google
+Allow: /
+
+# AI search / assistant crawlers - allowed so the site can be cited and linked
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /newsdesk/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /newsdesk/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /newsdesk/
+
+User-agent: Claude-SearchBot
+Allow: /
+Disallow: /newsdesk/
+
+User-agent: Claude-User
+Allow: /
+Disallow: /newsdesk/
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /newsdesk/
+
+User-agent: Applebot
+Allow: /
+Disallow: /newsdesk/
+
+# To opt out of AI model TRAINING (not search), change the lines below to "Disallow: /"
+User-agent: GPTBot
+Allow: /
+Disallow: /newsdesk/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /newsdesk/
+
+User-agent: CCBot
+Allow: /
+Disallow: /newsdesk/
+
+Sitemap: https://revenueinfotech.com/sitemap.xml
