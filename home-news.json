@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-18T18:18:09+00:00",
+  "updated": "2026-10-18T20:38:59+00:00",
   "auto": true,
   "items": [
+    {
+      "id": "efeb3746fdd3",
+      "title": "Anthropic says it\u2019s committing 5% of its shares to a \u2018public benefit fund\u2019",
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
+      "category": "Artificial Intelligence",
+      "section": "hero",
+      "featured": true,
+      "published": "2026-10-18T20:37:40+00:00"
+    },
+    {
+      "id": "7d4f26dcdebe",
+      "title": "Here's how the Slate truck gets software updates without built-in infotainment",
+      "summary": "Basically, it's on you.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2283988/slate-truck-no-infotainment-over-the-air-sofware-updates/",
+      "image": "https://www.engadget.com/img/gallery/heres-how-the-slate-truck-gets-software-updates-without-built-in-infotainment/l-intro-1791571931.jpg",
+      "category": "Software Development",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-18T18:30:00+00:00"
+    },
     {
       "id": "3f2fe50e93d5",
       "title": "From the Royole FlexPai to the iPhone Duo: How the modern foldable phone has evolved",
@@ -10,8 +34,8 @@
       "url": "https://www.engadget.com/2286505/how-modern-foldable-phone-evolved-from-royole-flexpai-to-iphone-duo/",
       "image": "https://www.engadget.com/img/gallery/from-the-royole-flexpai-to-the-iphone-duo-how-the-modern-foldable-phone-has-evolved/l-intro-1791988871.jpg",
       "category": "Software Development",
-      "section": "hero",
-      "featured": true,
+      "section": "brief",
+      "featured": false,
       "published": "2026-10-18T18:00:00+00:00"
     },
     {
@@ -29,12 +53,12 @@
     {
       "id": "218f77bb959f",
       "title": "Disney agrees to hire the majority of Character.AI\u2019s workforce",
-      "summary": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI\u2019s former CEO Karandeep Anand recently became the entertainment giant\u2019s first...",
+      "summary": "The filing also says that the \u201cvast majority\u201d of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
       "image": "https://techcrunch.com/wp-content/uploads/2024/01/character-ai-alexa.jpg?resize=1200,675",
       "category": "Artificial Intelligence",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-18T16:30:00+00:00"
     },
@@ -46,7 +70,7 @@
       "url": "https://www.engadget.com/2286431/how-to-fix-scaling-app-size-issues-samsung-galaxy-z-fold-8/",
       "image": "https://www.engadget.com/img/gallery/how-to-fix-scaling-and-app-size-issues-on-your-samsung-galaxy-z-fold-8/l-intro-1791985713.jpg",
       "category": "Software Development",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-18T16:15:00+00:00"
     },
@@ -106,7 +130,7 @@
       "url": "https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/",
       "image": "https://www.engadget.com/img/gallery/the-reason-your-amazon-alexa-devices-are-always-listening/l-intro-1791919400.jpg",
       "category": "Data & Analytics",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-18T14:15:00+00:00"
     },
@@ -118,7 +142,7 @@
       "url": "https://www.engadget.com/2285729/where-to-play-2000s-retro-flash-games/",
       "image": "https://www.engadget.com/img/gallery/these-6-retro-sites-let-you-re-live-the-glory-days-of-2000s-flash-games/l-intro-1791916199.jpg",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-18T13:45:00+00:00"
     },
@@ -178,7 +202,7 @@
       "url": "https://www.engadget.com/2285211/why-its-important-to-avoid-plugging-in-damaged-hard-drive/",
       "image": "https://www.engadget.com/img/gallery/why-its-important-to-avoid-plugging-in-a-damaged-external-hard-drive/l-intro-1791900463.jpg",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-18T12:45:00+00:00"
     },
@@ -190,7 +214,7 @@
       "url": "https://www.engadget.com/2285208/why-internet-upload-speeds-slower-download-comparison/",
       "image": "https://www.engadget.com/img/gallery/why-are-internet-upload-speeds-so-much-slower-than-download-speeds/l-intro-1791899938.jpg",
       "category": "Data & Analytics",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-18T12:30:00+00:00"
     },
@@ -476,11 +500,23 @@
       "summary": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you\u2019ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Mark-Wahlberg.jpg?w=1024",
+      "image": "",
       "category": "Enterprise Software & SaaS",
       "section": "none",
       "featured": false,
       "published": "2026-10-17T02:36:18+00:00"
+    },
+    {
+      "id": "596dd45e1e86",
+      "title": "All the news about the iPhone Duo",
+      "summary": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a \u201cnano\u2011texture\u201d finish on the inner screen, and barely any visible crease. Instead of Face ID...",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0017.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development",
+      "section": "none",
+      "featured": false,
+      "published": "2026-10-16T23:36:26+00:00"
     },
     {
       "id": "efe3c8954225",
@@ -493,6 +529,18 @@
       "section": "none",
       "featured": false,
       "published": "2026-10-16T23:30:00+00:00"
+    },
+    {
+      "id": "cb4458cafd2f",
+      "title": "Apple\u2019s updated App Store rules go after \u2018nudify\u2019 AI apps",
+      "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok...",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Artificial Intelligence",
+      "section": "none",
+      "featured": false,
+      "published": "2026-10-16T22:51:22+00:00"
     },
     {
       "id": "86f7ac061a7a",
@@ -673,54 +721,6 @@
       "section": "none",
       "featured": false,
       "published": "2026-10-16T16:50:00+00:00"
-    },
-    {
-      "id": "60549d08962c",
-      "title": "Want an iPhone Duo before 2027? Don\u2019t preorder from Apple \u2013 try this instead",
-      "summary": "Estimates for Duo preorders are now showing a ship date of late January, marking a new wait time record for Apple and its customers.",
-      "source": "ZDNET",
-      "url": "https://www.zdnet.com/tech/iphone-duo-preorders-delay-supply/",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC00521.jpeg",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-16T16:44:50+00:00"
-    },
-    {
-      "id": "2f6312b7767d",
-      "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
-      "summary": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup program that checked...",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhuPumyjeBRpQZo5_3mvqZ2_kXuPiOK02cH-ARofYrny0mQ2-rv55w7yBxMTBe3ymCW7c77quZ4xlkdDG9FcEhBYFr7GWmbyPE_1K1xqU0mvT-h51Z8hLg-LnWl32MeOy-aumsGO9-j8VSOSOfVUDB2k1vWOpEdyGEWV9ipF4kf3HVP1Au2ClbkYtAJrc/s1600/backup-hacked.jpg",
-      "category": "Operating Systems",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-16T16:43:39+00:00"
-    },
-    {
-      "id": "84c2c565c396",
-      "title": "An Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, and safety standards...",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "image": "",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-16T16:30:00+00:00"
-    },
-    {
-      "id": "7ca539292393",
-      "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
-      "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversary-in-the-middle...",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPclyw7bJ19im5Qmzj9jgFlsM4XJqPK6hyphenhyphenRDCcQ0bnpWrteeTWgPNlip5T0P_oj_AC6V3osZ2xIpYipKjXWQw3BfFEQ1n28dleNCLRi7difLnPLY8Yc-oJ6BCVZ1V0VBpF_ZNu36qM_yCvyvbgBsSfh2AXq-IBIk7QjnBSR_T7s8ajMCOkIEhA5YGeYWg4/s1600/google-phish.jpg",
-      "category": "Cybersecurity",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-16T16:16:44+00:00"
     }
   ]
 }
