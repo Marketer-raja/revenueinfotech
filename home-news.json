@@ -1,7 +1,55 @@
 {
-  "updated": "2026-10-18T23:09:03+00:00",
+  "updated": "2026-10-19T01:14:16+00:00",
   "auto": true,
   "items": [
+    {
+      "id": "3f8c312d657e",
+      "title": "What do all the lights on your Netgear router mean, and which ones actually matter?",
+      "summary": "Some router symbols are obvious, while others take a bit of work to decipher. Their lights can vary, too.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2287059/netgear-router-lights-what-they-mean/",
+      "image": "https://www.engadget.com/img/gallery/what-do-all-the-lights-on-your-netgear-router-mean-and-which-ones-actually-matter/l-intro-1792009377.jpg",
+      "category": "Software Development",
+      "section": "hero",
+      "featured": true,
+      "published": "2026-10-19T00:30:00+00:00"
+    },
+    {
+      "id": "ee9da280f777",
+      "title": "What does the orange dot on your Samsung Galaxy Watch mean?",
+      "summary": "You might sometimes see an orange dot on the left side of your Galaxy Watch's screen. Here's what is tells you.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+      "image": "https://www.engadget.com/img/gallery/what-does-the-orange-dot-on-your-samsung-galaxy-watch-mean/l-intro-1792007262.jpg",
+      "category": "Software Development",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-19T00:00:00+00:00"
+    },
+    {
+      "id": "cfc324e8d01f",
+      "title": "Why you should never point a laser pointer at a security camera",
+      "summary": "Laser pointers are known to damage security cameras, but do they really? Here's what damage can actually be done.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2286993/why-never-point-laser-pointer-at-security-camera/",
+      "image": "https://www.engadget.com/img/gallery/why-you-should-never-point-a-laser-pointer-at-a-security-camera/l-intro-1792005987.jpg",
+      "category": "Cybersecurity",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-18T23:45:00+00:00"
+    },
+    {
+      "id": "88ae37f5ff5f",
+      "title": "How to use Google's SynthID AI detection website",
+      "summary": "It's a simple way to check whether an image has been created or manipulated, with a few caveats.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2286802/how-to-use-google-ai-detection-website-synthid/",
+      "image": "https://www.engadget.com/img/gallery/how-to-use-googles-synthid-ai-detection-website/l-intro-1791998472.jpg",
+      "category": "Artificial Intelligence",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-18T23:30:00+00:00"
+    },
     {
       "id": "0a7ef30901c6",
       "title": "An Xbox Series X can now run PlayStation 5 games, but there's a catch",
@@ -10,8 +58,8 @@
       "url": "https://www.engadget.com/2286776/xbox-series-x-users-can-play-playstation-5-games-ps5x-emulator-issues/",
       "image": "https://www.engadget.com/img/gallery/an-xbox-series-x-can-now-run-playstation-5-games-but-theres-a-catch/l-intro-1791888562.jpg",
       "category": "Software Development",
-      "section": "hero",
-      "featured": true,
+      "section": "latest",
+      "featured": false,
       "published": "2026-10-18T23:00:00+00:00"
     },
     {
@@ -22,7 +70,7 @@
       "url": "https://www.engadget.com/2286681/starlink-residential-vs-roam-55-dollar-plan-how-different/",
       "image": "https://www.engadget.com/img/gallery/starlink-has-two-55-plans-that-are-wildly-different-heres-how/l-intro-1791994899.jpg",
       "category": "Data & Analytics",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-18T22:45:00+00:00"
     },
@@ -34,7 +82,7 @@
       "url": "https://www.engadget.com/2286663/router-modem-gateway-whats-in-home-network/",
       "image": "https://www.engadget.com/img/gallery/router-and-modem-or-gateway-whats-actually-in-your-home-network/l-intro-1791993839.jpg",
       "category": "Software Development",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-18T22:30:00+00:00"
     },
@@ -46,7 +94,7 @@
       "url": "https://www.engadget.com/2286648/what-is-image-playground-app-how-to-use/",
       "image": "https://www.engadget.com/img/gallery/what-is-apples-image-playground-app-for-and-how-do-you-use-it/l-intro-1791993182.jpg",
       "category": "Software Development",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-18T22:00:00+00:00"
     },
@@ -82,7 +130,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/avride-uber-delivery.webp?quality=90&strip=all&crop=0,0,100,100",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-18T18:28:10+00:00"
     },
@@ -94,7 +142,7 @@
       "url": "https://www.engadget.com/2286505/how-modern-foldable-phone-evolved-from-royole-flexpai-to-iphone-duo/",
       "image": "https://www.engadget.com/img/gallery/from-the-royole-flexpai-to-the-iphone-duo-how-the-modern-foldable-phone-has-evolved/l-intro-1791988871.jpg",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-18T18:00:00+00:00"
     },
@@ -106,7 +154,7 @@
       "url": "https://www.engadget.com/2286478/limit-frames-per-second-gaming-when-makes-sense/",
       "image": "https://www.engadget.com/img/gallery/should-you-limit-your-fps-in-games-heres-when-it-makes-sense/l-intro-1791988078.jpg",
       "category": "Artificial Intelligence",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-18T16:45:00+00:00"
     },
@@ -118,7 +166,7 @@
       "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
       "image": "https://techcrunch.com/wp-content/uploads/2024/01/character-ai-alexa.jpg?resize=1200,675",
       "category": "Artificial Intelligence",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-18T16:30:00+00:00"
     },
@@ -154,7 +202,7 @@
       "url": "https://www.engadget.com/2286349/flat-ethernet-cable-not-answer-home-networking-issues/",
       "image": "https://www.engadget.com/img/gallery/flat-ethernet-cables-probably-arent-the-answer-to-your-home-networking-problem/l-intro-1791980716.jpg",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-18T15:45:00+00:00"
     },
@@ -166,7 +214,7 @@
       "url": "https://www.engadget.com/2286322/why-new-drive-shows-less-storage/",
       "image": "https://www.engadget.com/img/gallery/the-reason-why-your-drive-shows-less-storage-than-you-paid-for/l-intro-1791975351.jpg",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-18T15:15:00+00:00"
     },
@@ -178,7 +226,7 @@
       "url": "https://www.engadget.com/2286246/ios-27-carplay-features-not-available-older-iphones/",
       "image": "https://www.engadget.com/img/gallery/ios-27s-new-carplay-features-are-great-but-only-these-iphones-can-actually-use-them/l-intro-1791964323.jpg",
       "category": "Operating Systems",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-18T14:45:00+00:00"
     },
@@ -190,7 +238,7 @@
       "url": "https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/",
       "image": "https://www.engadget.com/img/gallery/the-reason-your-amazon-alexa-devices-are-always-listening/l-intro-1791919400.jpg",
       "category": "Data & Analytics",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-18T14:15:00+00:00"
     },
@@ -673,54 +721,6 @@
       "section": "none",
       "featured": false,
       "published": "2026-10-16T19:36:02+00:00"
-    },
-    {
-      "id": "cefe5a628618",
-      "title": "Friday\u2019s Android app deals and freebies: Majesty, Boxville 2, Dungeon Defense, Mythic Trials 2, more",
-      "summary": "Friday\u2019s best Google Play app and game deals are ready, including Majesty: The Fantasy Kingdom, Majesty\uff0dThe Northern Expansion, Boxville 2, Dungeon Defense, Mythic Trials 2, Tempest: Pirate RPG Premium, The Tiny Bang Story: Premium...",
-      "source": "9to5Google",
-      "url": "https://9to5toys.com/2026/10/16/todays-highlight-google-play-deals-30/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-Play-collage-d25fd0.webp?w=1600",
-      "category": "Operating Systems",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-16T18:57:23+00:00"
-    },
-    {
-      "id": "8069354151ed",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic...",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "image": "",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-16T18:00:00+00:00"
-    },
-    {
-      "id": "c74e5a79a0e1",
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "image": "",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-16T17:52:24+00:00"
-    },
-    {
-      "id": "21c091951764",
-      "title": "ChatGPT gets deeper Google Chrome integration including control over tabs",
-      "summary": "OpenAI this week announced deeper integration between ChatGPT and Google Chrome, including the ability to hand control over your tabs to the AI assistant. more\u2026",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/16/chatgpt-gets-deeper-google-chrome-integration-including-control-over-tabs/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/chatgpt-google-chrome-1.jpg?quality=82&strip=all&w=1600",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-16T17:50:00+00:00"
     }
   ]
 }

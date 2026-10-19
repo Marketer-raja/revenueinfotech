@@ -1,6 +1,46 @@
 {
-  "updated": "2026-10-18T23:09:03+00:00",
+  "updated": "2026-10-19T01:14:16+00:00",
   "items": [
+    {
+      "id": "3f8c312d657e",
+      "title": "What do all the lights on your Netgear router mean, and which ones actually matter?",
+      "url": "https://www.engadget.com/2287059/netgear-router-lights-what-they-mean/",
+      "source": "Engadget",
+      "published": "2026-10-19T00:30:00+00:00",
+      "excerpt": "Some router symbols are obvious, while others take a bit of work to decipher. Their lights can vary, too.",
+      "image": "https://www.engadget.com/img/gallery/what-do-all-the-lights-on-your-netgear-router-mean-and-which-ones-actually-matter/l-intro-1792009377.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "ee9da280f777",
+      "title": "What does the orange dot on your Samsung Galaxy Watch mean?",
+      "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+      "source": "Engadget",
+      "published": "2026-10-19T00:00:00+00:00",
+      "excerpt": "You might sometimes see an orange dot on the left side of your Galaxy Watch's screen. Here's what is tells you.",
+      "image": "https://www.engadget.com/img/gallery/what-does-the-orange-dot-on-your-samsung-galaxy-watch-mean/l-intro-1792007262.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "cfc324e8d01f",
+      "title": "Why you should never point a laser pointer at a security camera",
+      "url": "https://www.engadget.com/2286993/why-never-point-laser-pointer-at-security-camera/",
+      "source": "Engadget",
+      "published": "2026-10-18T23:45:00+00:00",
+      "excerpt": "Laser pointers are known to damage security cameras, but do they really? Here's what damage can actually be done.",
+      "image": "https://www.engadget.com/img/gallery/why-you-should-never-point-a-laser-pointer-at-a-security-camera/l-intro-1792005987.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "88ae37f5ff5f",
+      "title": "How to use Google's SynthID AI detection website",
+      "url": "https://www.engadget.com/2286802/how-to-use-google-ai-detection-website-synthid/",
+      "source": "Engadget",
+      "published": "2026-10-18T23:30:00+00:00",
+      "excerpt": "It's a simple way to check whether an image has been created or manipulated, with a few caveats.",
+      "image": "https://www.engadget.com/img/gallery/how-to-use-googles-synthid-ai-detection-website/l-intro-1791998472.jpg",
+      "category": "Artificial Intelligence"
+    },
     {
       "id": "0a7ef30901c6",
       "title": "An Xbox Series X can now run PlayStation 5 games, but there's a catch",
@@ -559,46 +599,6 @@
       "published": "2026-10-16T19:36:02+00:00",
       "excerpt": "And there\u2019s no opt-out available.",
       "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2188450078.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "cefe5a628618",
-      "title": "Friday\u2019s Android app deals and freebies: Majesty, Boxville 2, Dungeon Defense, Mythic Trials 2, more",
-      "url": "https://9to5toys.com/2026/10/16/todays-highlight-google-play-deals-30/",
-      "source": "9to5Google",
-      "published": "2026-10-16T18:57:23+00:00",
-      "excerpt": "Friday\u2019s best Google Play app and game deals are ready, including Majesty: The Fantasy Kingdom, Majesty\uff0dThe Northern Expansion, Boxville 2, Dungeon Defense, Mythic Trials 2, Tempest: Pirate RPG Premium, The Tiny Bang Story: Premium...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-Play-collage-d25fd0.webp?w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "8069354151ed",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "source": "MIT Technology Review",
-      "published": "2026-10-16T18:00:00+00:00",
-      "excerpt": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic...",
-      "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "c74e5a79a0e1",
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "source": "TechCrunch",
-      "published": "2026-10-16T17:52:24+00:00",
-      "excerpt": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-      "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "21c091951764",
-      "title": "ChatGPT gets deeper Google Chrome integration including control over tabs",
-      "url": "https://9to5google.com/2026/10/16/chatgpt-gets-deeper-google-chrome-integration-including-control-over-tabs/",
-      "source": "9to5Google",
-      "published": "2026-10-16T17:50:00+00:00",
-      "excerpt": "OpenAI this week announced deeper integration between ChatGPT and Google Chrome, including the ability to hand control over your tabs to the AI assistant. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/chatgpt-google-chrome-1.jpg?quality=82&strip=all&w=1600",
       "category": "Artificial Intelligence"
     }
   ]
