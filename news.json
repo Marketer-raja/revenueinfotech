@@ -1,6 +1,306 @@
 {
-  "updated": "2026-10-20T10:01:23+00:00",
+  "updated": "2026-10-20T15:03:05+00:00",
   "items": [
+    {
+      "id": "54bfaa637fd3",
+      "title": "RAM prices are crazy high, but do not settle for an 8GB laptop",
+      "url": "https://www.engadget.com/2288833/ram-prices-high-do-not-settle-8-gb-laptop/",
+      "source": "Engadget",
+      "published": "2026-10-20T14:45:00+00:00",
+      "excerpt": "An 8GB laptop can seem like the solution to rising computer prices, but that's a mistake that will cost you for years.",
+      "image": "https://www.engadget.com/img/gallery/ram-prices-are-crazy-high-but-do-not-settle-for-an-8gb-laptop/l-intro-1792164591.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "1d1c8f367e2d",
+      "title": "The real reason to care about Vivo\u2019s latest phone is the camera [Gallery]",
+      "url": "https://9to5google.com/2026/10/20/vivo-v80-ai-creation-camera-mode/",
+      "source": "9to5Google",
+      "published": "2026-10-20T14:45:00+00:00",
+      "excerpt": "The Vivo V80 sports flagship design quality, a massive 7200mAh battery, Center-Stage selfie camera, IP68/69 ingress protection, and one of the wildest AI camera modes I\u2019ve seen yet. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/vivo-ai-creation-vivo-x500.jpg?quality=82&strip=all&w=1600",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "f31ca89b3fe4",
+      "title": "Xiaomi 18 Pro gears up for global debut with rumored battery cuts and \u20ac1,449 starting price",
+      "url": "https://9to5google.com/2026/10/20/xiaomi-18-pro-global-debut-price-battery-rumors/",
+      "source": "9to5Google",
+      "published": "2026-10-20T14:30:00+00:00",
+      "excerpt": "Ouch. That\u2019s the reaction many will probably have around pricing for the Xiaomi 18 Pro series when it lands globally, with prices starting at \u20ac1,449 according to a new leak. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-colors-1-copy.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "482e64d57bb4",
+      "title": "Latest Windows update disables key security setting \u2013 but there\u2019s a workaround",
+      "url": "https://www.zdnet.com/tech/microsoft-october-windows-update-disables-security-setting-workaround/",
+      "source": "ZDNET",
+      "published": "2026-10-20T14:26:05+00:00",
+      "excerpt": "A bug in Microsoft\u2019s October Windows update prevents you from turning on a security setting that blocks malicious or suspicious apps. A Registry hack fixes the glitch.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/mshq2GettyImages-1408775753.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "b3c5441d5c67",
+      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+      "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+      "source": "TechCrunch",
+      "published": "2026-10-20T14:13:32+00:00",
+      "excerpt": "Figma said it plans to support as many standards as possible without exposing all of its data",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1233645802.jpg?resize=1200,800",
+      "category": "Data & Analytics"
+    },
+    {
+      "id": "ef60af45ef29",
+      "title": "Modretro\u2019s Chromatic is more transparent and cheaper than ever; how could I not love it?",
+      "url": "https://9to5google.com/2026/10/20/modretro-chromatic-transparent/",
+      "source": "9to5Google",
+      "published": "2026-10-20T14:00:00+00:00",
+      "excerpt": "As a retro gamer, I\u2019ve tried all manner of consoles aiming to replace my OG Game Boy Color, but not many that scratch the itch of the recently released Chromatic Transparent from Modretro. It\u2019s, honestly, the best way to replicate the...",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Chromatic-Transparent-and-Chromatic-1st-Edition.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "ae7c1e34c556",
+      "title": "The Galaxy S26 Ultra just hit its lowest price in months",
+      "url": "https://9to5google.com/2026/10/20/galaxy-s26-ultra-deal/",
+      "source": "9to5Google",
+      "published": "2026-10-20T13:54:48+00:00",
+      "excerpt": "If you are in the market for a new device, you cannot go wrong with the Galaxy S26 Ultra with a deal bringing the device below $950 on Amazon right now. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/galaxy-s26-ultra-review-2.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "5589b0ba52ba",
+      "title": "Amazon Prime comes with an Alexa upgrade you should know about",
+      "url": "https://www.engadget.com/2288734/amazon-prime-alexa-upgrade-you-should-know-about/",
+      "source": "Engadget",
+      "published": "2026-10-20T13:45:00+00:00",
+      "excerpt": "Amazon's Echo Show and Dot devices, tablets and website all have new capabilities that you might want to take for a spin.",
+      "image": "https://www.engadget.com/img/gallery/amazon-prime-comes-with-an-alexa-upgrade-you-should-know-about/l-intro-1792159763.jpg",
+      "category": "Web Development"
+    },
+    {
+      "id": "bfd53c614fcd",
+      "title": "Galaxy S27 might drop to 8GB of RAM; other Android phones could go back to 4GB",
+      "url": "https://9to5google.com/2026/10/20/samsung-galaxy-s27-8gb-ram-rumor/",
+      "source": "9to5Google",
+      "published": "2026-10-20T13:40:00+00:00",
+      "excerpt": "As the AI industry continues to directly cause a crisis in the availability of RAM, new rumors suggest that the Galaxy S27 could downgrade to 8GB of RAM, while other Android brands could go back to 4GB for some models. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Galaxy-S26-in-white-1.jpg?quality=82&strip=all&w=1600",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "dac4ed1e7530",
+      "title": "SpaceX alum\u2019s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
+      "url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/",
+      "source": "TechCrunch",
+      "published": "2026-10-20T13:17:36+00:00",
+      "excerpt": "Reliable Robotics extended its Series D round with $115 million in equity and $25 million in debt.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Autonomous-Flight_820-Autoland_2026-09.jpg?resize=1200,675",
+      "category": "Enterprise Software & SaaS"
+    },
+    {
+      "id": "410a056346ff",
+      "title": "How to stop fake virus pop-ups on your Windows PC",
+      "url": "https://www.engadget.com/2288676/how-to-stop-fake-virus-pop-up-windows-pc/",
+      "source": "Engadget",
+      "published": "2026-10-20T13:15:00+00:00",
+      "excerpt": "Blaring security alerts that urge you to call a number or download a scanner are bogus, and you can shut them up easily.",
+      "image": "https://www.engadget.com/img/gallery/how-to-stop-fake-virus-pop-ups-on-your-windows-pc/l-intro-1792156820.jpg",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "3309b6ce15f4",
+      "title": "US orders federal agencies to remove China\u2019s DeepSeek AI from their systems",
+      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+      "source": "TechCrunch",
+      "published": "2026-10-20T13:07:24+00:00",
+      "excerpt": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2195703830.jpg?w=1024",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "15705003f60b",
+      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "source": "TechCrunch",
+      "published": "2026-10-20T13:00:00+00:00",
+      "excerpt": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-19-at-1.21.23-PM.png?resize=1200,974",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "9d25d29da004",
+      "title": "Antigravity's Follow Me bundle adds accurate tracking and gesture controls to its A1 drone",
+      "url": "https://www.engadget.com/2289029/antigravity-a1-drone-follow-me-bundle-hands-on/",
+      "source": "Engadget",
+      "published": "2026-10-20T13:00:00+00:00",
+      "excerpt": "Antigravity's watch and ring remote are available as an accessory bundle or as a full kit with the A1 drone.",
+      "image": "https://www.engadget.com/img/gallery/antigravitys-follow-me-bundle-adds-accurate-tracking-and-gesture-controls-to-its-a1-drone/l-intro-1792172648.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "a27b1d588713",
+      "title": "Wyze Solar Cam has a 2K camera and needs just an hour of sunlight to keep recording",
+      "url": "https://9to5google.com/2026/10/20/wyze-solar-cam-price-battery-camera/",
+      "source": "9to5Google",
+      "published": "2026-10-20T13:00:00+00:00",
+      "excerpt": "Wyze is launching a new Solar Cam that has a camera that matches the best Google Nest has to offer, while needing just an hour of sunlight to avoid needing to manually recharge. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/wyze-solar-cam-1.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "34da694ad0e5",
+      "title": "How to know it's time to replace your router",
+      "url": "https://www.engadget.com/2288619/how-to-know-time-to-replace-router/",
+      "source": "Engadget",
+      "published": "2026-10-20T12:45:00+00:00",
+      "excerpt": "One of the issues with internet routers is that it's not always obvious when it's not working as it should. Here's how to check if it could be on its way out.",
+      "image": "https://www.engadget.com/img/gallery/how-to-know-its-time-to-replace-your-router/l-intro-1792149452.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "f444e3864ad8",
+      "title": "UK antitrust regulator wants Apple to open up iPhone NFC access",
+      "url": "https://www.engadget.com/2291486/uk-antitrust-regulartor-wants-apple-to-open-up-iphone-nfc-access/",
+      "source": "Engadget",
+      "published": "2026-10-20T12:42:27+00:00",
+      "excerpt": "The UK is taking aim at Apple's near-monopoly on contactless NFC smartphone payments.",
+      "image": "https://www.engadget.com/img/gallery/uk-antitrust-regulartor-wants-apple-to-open-up-iphone-nfc-access/l-intro-1792504983.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "add383da2fc0",
+      "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "source": "Ars Technica",
+      "published": "2026-10-20T12:33:13+00:00",
+      "excerpt": "A single query is all that's required to find thousands of conversations listed by title.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-robot-hand-caution-1152x648.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "fb640b2d7f9e",
+      "title": "3+ useful features included with Google One that people ignore",
+      "url": "https://www.engadget.com/2288598/google-one-useful-features/",
+      "source": "Engadget",
+      "published": "2026-10-20T12:15:00+00:00",
+      "excerpt": "Google One plans originally started off as a way to expand the storage limits for files and photos. Now, they come with more features and additional perks.",
+      "image": "https://www.engadget.com/img/gallery/3-useful-features-included-with-google-one-that-people-ignore/l-intro-1792146441.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "83e7040a715e",
+      "title": "OpenAI says its models can help banks migrate from old COBOL programs",
+      "url": "https://www.engadget.com/2291457/openai-says-its-models-can-translate-cobol/",
+      "source": "Engadget",
+      "published": "2026-10-20T12:01:59+00:00",
+      "excerpt": "OpenAI says its models now come with better COBOL capabilities.",
+      "image": "https://www.engadget.com/img/gallery/openai-says-its-models-can-help-banks-migrate-from-old-cobol-programs/l-intro-1792497626.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "0a18db4caf21",
+      "title": "AI adoption by industry shows what other sectors can learn",
+      "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-20T12:00:00+00:00",
+      "excerpt": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption\u2013tech is just the first industry in line...",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/TripleTen-MIT-cover.png?w=840",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "467c211f344f",
+      "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
+      "url": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
+      "source": "The Hacker News",
+      "published": "2026-10-20T11:41:06+00:00",
+      "excerpt": "WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who could no longer delete their accounts, even though WhatsApp's own privacy policy...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTtrA7WSHbxSgTUKrOz8Swz6vdK1sarnVj8fCSEjFPdIMyLbOCOIytF60D82szAQpXLHR0mXI3j4zcIobCRS2g8ZI6GkbuLTHkoM4OmkUAWD0P1D1KyYuYrSxWvbq7Yy6zJ-B03VGWxy49q1BUF4owk5gUAVBBd6g2v7xl28TT_ax7Il5ixELfwcBawpA/s1600/whatsapp-chatbot.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "df48f73ea919",
+      "title": "What Security Teams Can Do To Tame Wild Code",
+      "url": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
+      "source": "The Hacker News",
+      "published": "2026-10-20T11:33:04+00:00",
+      "excerpt": "A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared channel. The workflow saves time, reduces manual work, and soon becomes part of the...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7Q3156iY5WJRnphGSZ5PuIiMopF0sG7ku3FR-WROda9fE4jCSIOQpClG1HOBRCvbuqDyLHgsC0N3UFjowgnXzZN4T1mDpkQbTz2gX7z4NRZsfoEpimVlZ7hevcXmeTfpOt1iFrHqvLXubegNIRz15gjlQNHIBBYzQVAmy8MNAGiZs6OXIEuWNntLwTlI/s1600/tines-main.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "f0509be43eab",
+      "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
+      "url": "https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html",
+      "source": "The Hacker News",
+      "published": "2026-10-20T11:32:59+00:00",
+      "excerpt": "Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of eight intermediate certificate authority keys. Programs built on the new release will refuse...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh12Jum-ReZMOyqaMubiLlMwx4-uDVxEJkD6-CJabWhHfCKV-Csw7P4MoeRX85Ag-3rxZMftHE6KGcdh059DoOPvF1Mirv05BQsflmg8RroWBt_t00BGTHsdhqkmVWVuRHKAs56AhNfdsq_YH0QWrMJ1z4dFT3I3xOK7Dwqu7aPp_P7tFSxQ-bzqyz8e4/s1600/go-certs.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "b0930e389e92",
+      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+      "source": "TechCrunch",
+      "published": "2026-10-20T11:00:00+00:00",
+      "excerpt": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Yelp-waitlist.jpg?resize=1200,675",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "82497db5b87a",
+      "title": "Otter.ai raises $320 million from General Catalyst\u2019s growth fund for its meeting tool",
+      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "source": "TechCrunch",
+      "published": "2026-10-20T11:00:00+00:00",
+      "excerpt": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst\u2019s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of...",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Otter-feat.jpg?resize=1200,675",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "e10127ab56c0",
+      "title": "TechPulse puts ZDNET and 4 other tech sites in one feed \u2013 for free",
+      "url": "https://www.zdnet.com/tech/techpulse-free-tech-news-app-zdnet/",
+      "source": "ZDNET",
+      "published": "2026-10-20T11:00:00+00:00",
+      "excerpt": "Choose which CNET Group publications appear in your feed, then catch up on news, reviews, and videos \u2013 without an algorithm deciding what you see.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/TechPulse-app.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "5200a6d66f59",
+      "title": "Foldables are about to get huge",
+      "url": "https://9to5google.com/2026/10/20/foldables-are-about-to-get-huge/",
+      "source": "9to5Google",
+      "published": "2026-10-20T11:00:00+00:00",
+      "excerpt": "Good morning. Today I\u2019m reading about an incredible medical plagiarism scandal , replaying the original Ocarina of Time ahead of its remake\u2019s November 5th release , jamming to the dark new Fontaines D.C. album , and using Gemini to prep...",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/iphone-duo-1.jpg?quality=82&strip=all&w=1600",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "13881c9b4329",
+      "title": "ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident",
+      "url": "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html",
+      "source": "The Hacker News",
+      "published": "2026-10-20T10:56:08+00:00",
+      "excerpt": "ConnectWise on Monday said it has taken remediation measures, including strengthening administrative-access protections and resetting accounts and replacing application credentials, as it continues to respond to a security incident that...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgN8mboHojdAmthr-jUWvIgg5BgmRsrAFJRQFz-nEuPEAIGTqwVKwnf9c7E8jGzdpHfWZuDENURbDFFADIJ76Tf7h5lamLTOUoY5ui438ugfOJYw-2vkAuITMBMxt-0CWFxj43bdgDY19exYceRvJEScmPpWoYXBjkIHLOilUSF1wWmSta5o9ocPpLywQn/s1600/connect.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "52f95601e1f5",
+      "title": "Some Google Home Speakers caught downloading hundreds of gigs of data",
+      "url": "https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download",
+      "source": "The Verge",
+      "published": "2026-10-20T10:16:47+00:00",
+      "excerpt": "Some Google Home Speaker owners are currently experiencing an issue in which hundreds of gigabytes of data are being continuously downloaded to their device in the background. The bug, reported by 9to5Google and several Reddit users over...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268614_Google_Home_Speaker_JTuohy_0010.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Data & Analytics"
+    },
     {
       "id": "213d99dc4be7",
       "title": "The Apple Store will only let you check out two iPhone Duos",
@@ -108,7 +408,7 @@
       "source": "TechCrunch",
       "published": "2026-10-19T23:39:38+00:00",
       "excerpt": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2236544023.jpeg?resize=1200,800",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -148,7 +448,7 @@
       "source": "TechCrunch",
       "published": "2026-10-19T22:49:27+00:00",
       "excerpt": "The idea of embedded evaluators \u2014 in which supposedly \"neutral\" third-party observers are placed inside AI organizations \u2014 has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have...",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4993.jpeg?resize=1200,900",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -188,7 +488,7 @@
       "source": "TechCrunch",
       "published": "2026-10-19T22:04:28+00:00",
       "excerpt": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -207,7 +507,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
       "source": "The Verge",
       "published": "2026-10-19T21:28:20+00:00",
-      "excerpt": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\"...",
+      "excerpt": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesday Chamath \"SPAC King\"...",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Vrg_Illo_AI_Bubble.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Artificial Intelligence"
     },
@@ -228,7 +528,7 @@
       "source": "TechCrunch",
       "published": "2026-10-19T20:09:24+00:00",
       "excerpt": "Amazon wants to break Nvidia\u2019s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205217071.jpg?resize=1200,800",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -248,7 +548,7 @@
       "source": "TechCrunch",
       "published": "2026-10-19T19:28:34+00:00",
       "excerpt": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users\u2019 API keys, and the AI tools it turned to for help kept refusing...",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/cyberatttack.jpg?w=612",
+      "image": "",
       "category": "Software Development"
     },
     {
@@ -258,7 +558,7 @@
       "source": "TechCrunch",
       "published": "2026-10-19T19:00:12+00:00",
       "excerpt": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/tolan.jpg?resize=1200,677",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -278,7 +578,7 @@
       "source": "TechCrunch",
       "published": "2026-10-19T18:49:04+00:00",
       "excerpt": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/wabi-ios-home.png?resize=1200,1200",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -288,7 +588,7 @@
       "source": "TechCrunch",
       "published": "2026-10-19T18:37:27+00:00",
       "excerpt": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/08/rnuUXh8kprc7HfoRAGgTvZ-1200-80.jpg?w=970",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -300,306 +600,6 @@
       "excerpt": "The Samsung Galaxy S27 display may be getting a DC-dimming upgrade, and that will be a huge boon for people sensitive to PWM dimming. more\u2026",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/04/Vivo-X300-Ultra-and-Galaxy-S26-Ultra-displays-2.jpg?quality=82&strip=all&w=1600",
       "category": "Software Development"
-    },
-    {
-      "id": "59d7a6203965",
-      "title": "Making the internet better for AI agents might make it worse for everyone else",
-      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-      "source": "MIT Technology Review",
-      "published": "2026-10-19T18:22:47+00:00",
-      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites...",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_Algo.jpg?resize=1200,600",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "a2c2193a57f3",
-      "title": "Spotify\u2019s \u2018QR code verification\u2019 cracks down on sharing and could ban you for a year",
-      "url": "https://9to5google.com/2026/10/19/spotify-qr-code-verification-family-sharing/",
-      "source": "9to5Google",
-      "published": "2026-10-19T18:15:00+00:00",
-      "excerpt": "Spotify is rolling out a new method of cracking down on Family plan sharing, with \u201cQR code verification\u201d that\u2019s not particularly hard to work around, but has major consequences if you miss the window. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2023/03/spotify-logo-2.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "6865df975999",
-      "title": "We might finally know what's written on that mysterious plaque in Super Mario 64",
-      "url": "https://www.engadget.com/2290685/we-might-finally-know-whats-written-on-that-mysterious-plaque-in-super-mario-64/",
-      "source": "Engadget",
-      "published": "2026-10-19T18:10:14+00:00",
-      "excerpt": "The plaque's message has haunted the internet for 30 years.",
-      "image": "https://www.engadget.com/img/gallery/we-might-finally-know-whats-written-on-that-mysterious-plaque-in-super-mario-64/l-intro-1792433283.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "8a61882c5d2f",
-      "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
-      "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
-      "source": "TechCrunch",
-      "published": "2026-10-19T18:00:39+00:00",
-      "excerpt": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2294590819.jpg?resize=1200,675",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "824641f7bc86",
-      "title": "Is paid antivirus actually a waste of money for your PC in 2026?",
-      "url": "https://www.engadget.com/2287979/is-paid-antivirus-for-pc-waste-of-money/",
-      "source": "Engadget",
-      "published": "2026-10-19T18:00:00+00:00",
-      "excerpt": "Subscribing to an antivirus suite kept you safe a long time ago, but they're much less useful for most people today.",
-      "image": "https://www.engadget.com/img/gallery/is-paid-antivirus-actually-a-waste-of-money-for-your-pc-in-2026/l-intro-1792088590.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "53a5a39bf873",
-      "title": "\u201cWe were looking at it wrong\u201d: The explosive claim that\u2019s upended the AI world",
-      "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
-      "source": "MIT Technology Review",
-      "published": "2026-10-19T17:45:55+00:00",
-      "excerpt": "\u201cI think I have good news about the nature of neural networks.\u201d With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head...",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_LLMsNotcomplicated_V2.jpg?resize=1200,600",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "fe58a8eb08a4",
-      "title": "You should pick up this $850 Pixel 10 Pro XL over its $1,300 sequel",
-      "url": "https://9to5google.com/2026/10/19/you-should-pick-up-this-850-pixel-10-pro-xl-over-its-1300-sequel/",
-      "source": "9to5Google",
-      "published": "2026-10-19T17:35:00+00:00",
-      "excerpt": "Whether you\u2019re in need of a new phone or you\u2019re trying to get some early Christmas shopping out of the way, Amazon has a killer deal on a Pixel 10 Pro XL that might make you forget all about RAMageddon. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/Google-Pixel-10-Pro-XL-moonstone.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "143bfdf19e2b",
-      "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
-      "url": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
-      "source": "The Hacker News",
-      "published": "2026-10-19T17:32:13+00:00",
-      "excerpt": "Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public. According to a researcher who goes by the...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF_Xo8mH5AxIDYx4hFrS1_uhblD0IoGUTo6bioM38mwy-whZAbcq1aaGeH1iZrS8nmk5Ow25NfX67HRXKiWFfzLc8C1A2zs2n948DwyW_NSSkowFDnEzxUofGxhNV72vTEWkgPmbO6XJyDUPwBR-lzSekj5_m8tY3JHjozUXETGEBg6GrLZrekhilW9W_R/s1600/plex-hack.jpg",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "91edc6e7ad92",
-      "title": "Homeland Security bans DeepSeek use in federal civilian agencies",
-      "url": "https://www.engadget.com/2290535/homeland-security-bans-deepseek-use-in-federal-civilian-agencies/",
-      "source": "Engadget",
-      "published": "2026-10-19T16:59:28+00:00",
-      "excerpt": "The decision comes a couple of days after the release of Deepseek's latest AI model.",
-      "image": "https://www.engadget.com/img/gallery/homeland-security-bans-deepseek-use-in-federal-civilian-agencies/l-intro-1792429083.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "203cb0bac928",
-      "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
-      "url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
-      "source": "TechCrunch",
-      "published": "2026-10-19T16:55:56+00:00",
-      "excerpt": "Amazon and X-energy have inked another deal to deploy nuclear power to the grid. This one will generate nearly 1 gigawatt of electricity.",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-487821.jpeg?resize=1200,792",
-      "category": "Software Development"
-    },
-    {
-      "id": "251a9a6cb3f7",
-      "title": "At what distance does a video doorbell stop detecting motion?",
-      "url": "https://www.engadget.com/2287906/video-doorbell-distance-stop-detecting-motion/",
-      "source": "Engadget",
-      "published": "2026-10-19T16:45:00+00:00",
-      "excerpt": "Your video doorbell might see a visitor without sending an alert. Detection depends on more than distance, and some surprising factors can affect its reach.",
-      "image": "https://www.engadget.com/img/gallery/at-what-distance-does-a-video-doorbell-stop-detecting-motion/l-intro-1792085683.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "b89c68cefc64",
-      "title": "Samsung\u2019s Android 18-based One UI 10 update sounds like it might be a big deal",
-      "url": "https://9to5google.com/2026/10/19/samsung-android-18-one-ui-10-update-rumors/",
-      "source": "9to5Google",
-      "published": "2026-10-19T16:45:00+00:00",
-      "excerpt": "While Android 17 is still trickling out to Android phones, Samsung is undoubtedly cooking up its Android 18-based One UI 10 update behind the scenes and, based on some early leaks, it at least sounds like it could be a reasonably big one...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Samsung-S26-and-Z-Fold-8-family.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "4ad529ab6216",
-      "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
-      "url": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
-      "source": "The Hacker News",
-      "published": "2026-10-19T16:28:47+00:00",
-      "excerpt": "Copies of Rank Math PRO, the paid version of the Rank Math SEO plugin for WordPress, that were downloaded from rankmath.com or delivered as updates between 20:02 UTC on October 15 and 07:12 UTC on October 16 contained malware, Rank Math...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja-6AhEjL8YvRsoNjXIIDEnsVd8gMMW_cUqMvLNcRukJXjatSuo-phLfYxt2A76gSCk-uZFmo4EbJjQuMr8_k8Pxl2ho1TnUL_50Q_VknkR8JqnTiVOqZ48i5W6Mv6HB0cQfJoAjs8xHUu6urkucsPClURVP3aWM0aivfngCFZLykMYzJITwenYfSb9Sk/s1600/wordpress-rank.jpg",
-      "category": "Web Development"
-    },
-    {
-      "id": "b6dbf3f2fda4",
-      "title": "Fiber vs. cable internet: What's the difference between them?",
-      "url": "https://www.engadget.com/2287870/fiber-vs-cable-internet-difference-between/",
-      "source": "Engadget",
-      "published": "2026-10-19T16:15:00+00:00",
-      "excerpt": "Fiber internet is more modern than cable, but the older technology still works well for today's connection needs.",
-      "image": "https://www.engadget.com/img/gallery/fiber-vs-cable-internet-whats-the-difference-between-them/l-intro-1792085043.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "69bd463197ee",
-      "title": "People are using AI to make their smart TVs dumb again",
-      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-      "source": "TechCrunch",
-      "published": "2026-10-19T16:13:22+00:00",
-      "excerpt": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
-      "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "cb60352edb27",
-      "title": "Apple is set to hold another product event on October 28",
-      "url": "https://www.engadget.com/2290401/apple-pro-and-tell-event-october-28-announcement/",
-      "source": "Engadget",
-      "published": "2026-10-19T16:09:26+00:00",
-      "excerpt": "Apple's \"Pro and Tell\" event is taking place in Los Angeles and will likely feature the first touchscreen Mac.",
-      "image": "https://www.engadget.com/img/gallery/apple-pro-and-tell-event-october-28-announcement/l-intro-1792426206.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "489d6a6a2275",
-      "title": "Android Auto \u2018Work Account\u2019 support would allow for easy switching in work vehicles",
-      "url": "https://9to5google.com/2026/10/19/android-auto-tests-work-account-support/",
-      "source": "9to5Google",
-      "published": "2026-10-19T16:07:32+00:00",
-      "excerpt": "Support for work accounts was recently discovered in an unreleased version of Android Auto. It could be a perfect feature for users who need to connect to their work vehicle without personal apps enabled. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/android-auto-google-maps-1.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "271039940743",
-      "title": "Google TV shows off its \u2018new\u2019 features in fullscreen roundup when you turn on your TV [Gallery]",
-      "url": "https://9to5google.com/2026/10/19/google-tv-new-features-october-2026/",
-      "source": "9to5Google",
-      "published": "2026-10-19T16:05:00+00:00",
-      "excerpt": "Google TV is rolling out its latest feature roundup, showcasing new features and additions that have rolled out in recent months. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/google-tv-new-features-october-2026-1.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "08d37a40f06b",
-      "title": "Apple teases MacBook Pro event next week",
-      "url": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
-      "source": "The Verge",
-      "published": "2026-10-19T16:04:29+00:00",
-      "excerpt": "Apple has sent invites to a second product launch this month, and it's scheduled for October 28th at 1PM ET in Los Angeles. At the event, Apple is set to announce new Macs and a refreshed iPad Mini, according to Bloomberg. The big...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/pro.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "fe73e052a0cb",
-      "title": "Why your USB device keeps disconnecting (and how to fix it)",
-      "url": "https://www.engadget.com/2287812/usb-device-disconnecting-reasons/",
-      "source": "Engadget",
-      "published": "2026-10-19T15:45:00+00:00",
-      "excerpt": "If your USB peripheral is on the fritz, it's worth doing some troubleshooting with the port itself. Give these steps a try.",
-      "image": "https://www.engadget.com/img/gallery/why-your-usb-device-keeps-disconnecting-and-how-to-fix-it/l-intro-1792082689.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "292580429c9b",
-      "title": "Amazon is funding a new nuclear plant in Indiana",
-      "url": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
-      "source": "The Verge",
-      "published": "2026-10-19T15:44:20+00:00",
-      "excerpt": "Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant, which would replace the now defunct coal-fueled Breed Generating Station...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Amazon-nuclear-power-plant-Indiana-.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Enterprise Software & SaaS"
-    },
-    {
-      "id": "fa33e9ddcb7f",
-      "title": "Deals: Galaxy Z Fold 8 up to $570 off, Galaxy Tab S12 + FREE $200 gift card, Sony 1000XM6 buds, more",
-      "url": "https://9to5google.com/2026/10/19/deals-galaxy-z-fold-8-galaxy-tab-s12-1000xm6-buds/",
-      "source": "9to5Google",
-      "published": "2026-10-19T15:41:53+00:00",
-      "excerpt": "Today\u2019s 9to5Toys Lunch Break is headlined by Galaxy Z Fold 8 up to $570 off courtesy of Best Buy alongside a fleeting chance to secure the Galaxy Tab S12 launch deals ending soon \u2013 up to $550+ off with trades, FREE $200 Amazon credit, and...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/9to5Google-Oct-19.webp?w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "c33a66b4df03",
-      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-      "source": "TechCrunch",
-      "published": "2026-10-19T15:37:09+00:00",
-      "excerpt": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
-      "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "e7aeb91d99d3",
-      "title": "Dizzying lineup of Galaxy Z Fold 9 devices leaks, including the Galaxy Z \u2018Slide\u2019",
-      "url": "https://9to5google.com/2026/10/19/galaxy-z-fold-9-slide-and-trifold-2-leaks/",
-      "source": "9to5Google",
-      "published": "2026-10-19T15:32:34+00:00",
-      "excerpt": "The Galaxy Z Fold 9 lineup looks complicated. Not only does Samsung reportedly plan to add another Fold model, but a slideable phone called the \u201cGalaxy Z Slide.\u201d more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-44.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "15f3b886cf60",
-      "title": "Don't throw away your old USB charging cables \u2014 Repurpose them instead",
-      "url": "https://www.engadget.com/2287681/dont-throw-away-old-usb-charging-cables-repurpose-instead/",
-      "source": "Engadget",
-      "published": "2026-10-19T15:15:00+00:00",
-      "excerpt": "The charger from your three-generations-ago phone can still be useful. Here are several ways to use old cables, both indoors and out.",
-      "image": "https://www.engadget.com/img/gallery/dont-throw-away-your-old-usb-charging-cables-repurpose-them-instead/l-intro-1792078796.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "0efe06857d7c",
-      "title": "Samsung reportedly hasn\u2019t finalized Galaxy S27 details, considers February launch",
-      "url": "https://9to5google.com/2026/10/19/galaxy-s27-pro-ultra-launch-timing/",
-      "source": "9to5Google",
-      "published": "2026-10-19T15:00:24+00:00",
-      "excerpt": "It would be \u201cFebruary at the latest,\u201d but Samsung has yet to set a launch date under pressure to finalize component details for the Galaxy S27 Pro and Ultra. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/galaxy-s27-pro-leak-onl-2.webp?w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "30b8b6dae8a6",
-      "title": "Moto Tag 2 is no longer $19.99 as the UWB tracker gears up for Pixel Tag competition",
-      "url": "https://9to5google.com/2026/10/19/moto-tag-2-price/",
-      "source": "9to5Google",
-      "published": "2026-10-19T14:55:00+00:00",
-      "excerpt": "The Moto Tag 2 was always supposed to be $30, but a long-running introductory discount left the Find Hub tracker cheaper. Now, that deal has ended. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/moto-tag-2-1.png?w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "56028edaf6f8",
-      "title": "Google Phone app beta rolls out Contacts bottom bar tab [U]",
-      "url": "https://9to5google.com/2026/10/19/google-phone-contacts-tab/",
-      "source": "9to5Google",
-      "published": "2026-10-19T14:54:00+00:00",
-      "excerpt": "Last year\u2019s Material 3 Expressive redesign of the Phone by Google app removed the Contacts tab, but it\u2019s now coming back. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2023/03/google-phone-logo-circle-2.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "1a9d9cf3c22f",
-      "title": "Wyze\u2019s latest weight scale has a display you can actually see, Google Health sync",
-      "url": "https://9to5google.com/2026/10/19/wyze-scale-ultra-bodyscan-plus-display-google-health/",
-      "source": "9to5Google",
-      "published": "2026-10-19T14:35:00+00:00",
-      "excerpt": "Wyze has released a new BodyScan Plus scale that syncs with Google Health and Android Health Connect while fixing a long-running problem with scales \u2013 this one actually lets you see the display. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/wyze-scale-ultra-bodyscan-plus-1.jpg?quality=82&strip=all&w=1426",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "fd89b9b5cd58",
-      "title": "JB Pritzker thinks AI could help us live to 100 \u2014 or threaten us like nukes",
-      "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
-      "source": "The Verge",
-      "published": "2026-10-19T14:30:00+00:00",
-      "excerpt": "Today, I\u2019m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you\u2019ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_20261019_Pritzker.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
     }
   ]
 }
