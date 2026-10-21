@@ -1,7 +1,79 @@
 {
-  "updated": "2026-10-20T22:18:04+00:00",
+  "updated": "2026-10-21T01:33:26+00:00",
   "auto": true,
   "items": [
+    {
+      "id": "e4d086444409",
+      "title": "What can you use your Apple Watch Ultra 4 action button for?",
+      "summary": "Here's what your Apple Watch Ultra 4 action button can really do, from launching workouts and retracing routes to controlling smart home devices with one tap.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2289282/apple-watch-ultra-4-action-button-uses-explained/",
+      "image": "https://www.engadget.com/img/gallery/what-can-you-use-your-apple-watch-ultra-4-action-button-for/l-intro-1791574824.jpg",
+      "category": "Software Development",
+      "section": "hero",
+      "featured": true,
+      "published": "2026-10-20T23:30:00+00:00"
+    },
+    {
+      "id": "b6629abae55b",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
+      "category": "Artificial Intelligence",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-20T23:01:23+00:00"
+    },
+    {
+      "id": "6e95d2ebaa25",
+      "title": "Five things you should know before buying the iPhone Duo",
+      "summary": "From software limitations to the pre-sale deals, here's what you need to know ahead of the iPhone Duo launch.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2289279/things-know-before-buying-iphone-duo/",
+      "image": "https://www.engadget.com/img/gallery/five-things-you-should-know-before-buying-the-iphone-duo/l-intro-1791925293.jpg",
+      "category": "Software Development",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-20T23:00:00+00:00"
+    },
+    {
+      "id": "17f20161d88a",
+      "title": "SpaceX and Tesla boards form special committees to review merger",
+      "summary": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/space-tesla-cybertruck.jpg?resize=1200,801",
+      "category": "Software Development",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-20T22:57:57+00:00"
+    },
+    {
+      "id": "60f9f63a806e",
+      "title": "Fitbit Edge vs. Fitbit Inspire 3: How these Google fitness trackers compare",
+      "summary": "Google's latest tracker is a middle ground between a simple tracker and full smartwatch.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2289183/fitbit-edge-vs-inspire-3-google-fitness-tracker-comparison/",
+      "image": "https://www.engadget.com/img/gallery/fitbit-edge-vs-fitbit-inspire-3-how-these-google-fitness-trackers-compare/l-intro-1792178621.jpg",
+      "category": "Software Development",
+      "section": "latest",
+      "featured": false,
+      "published": "2026-10-20T22:30:00+00:00"
+    },
+    {
+      "id": "7f6bb9c0aa50",
+      "title": "Google\u2019s more personalized Gemini AI is heading to your car",
+      "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube...",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/google-gemini-personal-intelligence.png?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Artificial Intelligence",
+      "section": "latest",
+      "featured": false,
+      "published": "2026-10-20T22:11:34+00:00"
+    },
     {
       "id": "69e64097b7f0",
       "title": "The next Xbox might cost $1,800, report says",
@@ -10,8 +82,8 @@
       "url": "https://www.engadget.com/2292408/the-next-xbox-might-cost-1800-report-says/",
       "image": "https://www.engadget.com/img/gallery/the-next-xbox-might-cost-1800-report-says/l-intro-1792533408.jpg",
       "category": "Enterprise Software & SaaS",
-      "section": "hero",
-      "featured": true,
+      "section": "latest",
+      "featured": false,
       "published": "2026-10-20T22:01:23+00:00"
     },
     {
@@ -22,7 +94,7 @@
       "url": "https://www.engadget.com/2292117/apple-pro-and-tell-event-october-28-what-to-expect/",
       "image": "https://www.engadget.com/img/gallery/what-to-expect-at-apples-pro-and-tell-event-on-october-28/l-intro-1792520191.jpg",
       "category": "Software Development",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-20T22:00:00+00:00"
     },
@@ -34,7 +106,7 @@
       "url": "https://www.engadget.com/2292388/playstation-5-hackers-crack-gta-6-firmware/",
       "image": "https://www.engadget.com/img/gallery/the-latest-playstation-firmware-may-have-already-been-cracked-ahead-of-gta-6/l-intro-1792530805.jpg",
       "category": "Operating Systems",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-20T21:30:57+00:00"
     },
@@ -46,7 +118,7 @@
       "url": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_D.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Software Development",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-20T21:30:24+00:00"
     },
@@ -58,7 +130,7 @@
       "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800",
       "category": "Artificial Intelligence",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-20T21:25:22+00:00"
     },
@@ -70,7 +142,7 @@
       "url": "https://9to5google.com/2026/10/20/android-17-qpr3-beta-2-everything-new/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Android-17-QPR1-yellow.jpg?quality=82&strip=all&w=1600",
       "category": "Operating Systems",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-20T21:05:40+00:00"
     },
@@ -80,9 +152,9 @@
       "summary": "OpenAI has introduced a new \"locked chats\" feature to protect users' more sensitive conversations with ChatGPT.",
       "source": "Engadget",
       "url": "https://www.engadget.com/2292365/chatgpt-now-lets-you-lock-sensitive-chats-behind-a-pin/",
-      "image": "https://www.engadget.com/img/gallery/chatgpt-now-lets-you-lock-sensitive-chats-behind-a-pin/l-intro-1792530123.jpg",
+      "image": "https://www.engadget.com/img/gallery/chatgpt-now-lets-you-lock-sensitive-chats-behind-a-pin/l-intro-1792535723.jpg",
       "category": "Artificial Intelligence",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-20T21:05:00+00:00"
     },
@@ -94,7 +166,7 @@
       "url": "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/52822624215_2e5d62e50a_o.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-20T21:02:53+00:00"
     },
@@ -106,7 +178,7 @@
       "url": "https://www.engadget.com/2292346/judge-tosses-sexual-abuse-lawsuit-from-sam-altmans-sister/",
       "image": "https://www.engadget.com/img/gallery/judge-tosses-sexual-abuse-lawsuit-from-sam-altmans-sister/l-intro-1792529383.jpg",
       "category": "Artificial Intelligence",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-20T20:53:25+00:00"
     },
@@ -118,7 +190,7 @@
       "url": "https://9to5google.com/2026/10/20/the-sideload-048-its-ai-mania-not-ai-psychosis/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/sideload-podcast-wider-copy-1.jpg?quality=82&strip=all&w=1600",
       "category": "Artificial Intelligence",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-20T20:52:13+00:00"
     },
@@ -130,7 +202,7 @@
       "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-2.40.46-PM.png?resize=1130,1200",
       "category": "Artificial Intelligence",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-20T20:40:41+00:00"
     },
@@ -142,7 +214,7 @@
       "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/pills-GettyImages-157287767.jpg?resize=1200,800",
       "category": "Artificial Intelligence",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-20T20:35:10+00:00"
     },
@@ -154,7 +226,7 @@
       "url": "https://www.theverge.com/tech/1014869/snap-specs-robert-downey-jr",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_10042.png?quality=90&strip=all&crop=0,0,100,100",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-20T20:32:09+00:00"
     },
@@ -166,7 +238,7 @@
       "url": "https://9to5google.com/2026/10/20/android-17-qpr3-beta-2-pixel/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-1.jpg?quality=82&strip=all&w=1600",
       "category": "Operating Systems",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-20T20:31:34+00:00"
     },
@@ -178,7 +250,7 @@
       "url": "https://9to5google.com/2026/10/20/payday-aces-high-playtest-meta-quest-free-mask/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/PSX_20261020_161631.png?w=1600",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-20T20:30:00+00:00"
     },
@@ -190,7 +262,7 @@
       "url": "https://www.engadget.com/2292281/meta-suspends-muse-chats-sharing-feature-after-it-left-private-details-exposed/",
       "image": "https://www.engadget.com/img/gallery/meta-suspends-muse-chats-sharing-feature-after-it-left-private-details-exposed/l-intro-1792526399.jpg",
       "category": "Artificial Intelligence",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-20T20:00:43+00:00"
     },
@@ -293,7 +365,7 @@
     {
       "id": "cd605ea9f119",
       "title": "Microsoft reportedly plans Xbox handheld in 2027, next-gen console in 2028",
-      "summary": "Microsoft is reportedly planning to launch an Xbox \"next-generation handheld device\" for the holiday season of 2027. The Xbox next-gen console, codename Project Helix, would then launch in the holidays of 2028, according to a new report...",
+      "summary": "Microsoft is reportedly planning to launch an Xbox \"next-generation handheld device\" for the holiday season of 2027. The Xbox next-gen console, codenamed Project Helix, would then launch in the holidays of 2028, according to a new report...",
       "source": "The Verge",
       "url": "https://www.theverge.com/news/1014666/xbox-project-helix-launch-2028-rumor",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290359/STK048_XBOX_C.jpg?quality=90&strip=all&crop=0,0,100,100",
@@ -440,7 +512,7 @@
       "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
+      "image": "",
       "category": "Artificial Intelligence",
       "section": "none",
       "featured": false,
@@ -649,78 +721,6 @@
       "section": "none",
       "featured": false,
       "published": "2026-10-20T15:32:27+00:00"
-    },
-    {
-      "id": "ebc7ad18c4ce",
-      "title": "The new economics of enterprise AI",
-      "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency \u2014 consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends...",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/HPE-iStock-1168748420.jpg?w=840",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-20T15:20:25+00:00"
-    },
-    {
-      "id": "084a63eba3ac",
-      "title": "This Garmin Instinct Crossover deal makes it $400 less than the latest model",
-      "summary": "Get month-long battery life, physical watch hands, all the health tracking you need, and more for just $249 with this Garmin Instinct Crossover deal. more\u2026",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/20/hybrid-garmin-instinct-crossover-deal-oct-2026/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/garmin-instinct-crossover-render-with-gradient.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-20T15:20:00+00:00"
-    },
-    {
-      "id": "713beb9a9752",
-      "title": "5 CarPlay navigation apps you should be using instead of Apple Maps",
-      "summary": "Alternative GPS apps for CarPlay can provide better routing, real-time alerts, weather condition info and much more.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2288748/carplay-navigation-apps-should-be-using-not-apple-maps/",
-      "image": "https://www.engadget.com/img/gallery/5-carplay-navigation-apps-you-should-be-using-instead-of-apple-maps/l-intro-1792160620.jpg",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-20T15:15:00+00:00"
-    },
-    {
-      "id": "54bfaa637fd3",
-      "title": "RAM prices are crazy high, but do not settle for an 8GB laptop",
-      "summary": "An 8GB laptop can seem like the solution to rising computer prices, but that's a mistake that will cost you for years.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2288833/ram-prices-high-do-not-settle-8-gb-laptop/",
-      "image": "https://www.engadget.com/img/gallery/ram-prices-are-crazy-high-but-do-not-settle-for-an-8gb-laptop/l-intro-1792164591.jpg",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-20T14:45:00+00:00"
-    },
-    {
-      "id": "1d1c8f367e2d",
-      "title": "The real reason to care about Vivo\u2019s latest phone is the camera [Gallery]",
-      "summary": "The Vivo V80 sports flagship design quality, a massive 7200mAh battery, Center-Stage selfie camera, IP68/69 ingress protection, and one of the wildest AI camera modes I\u2019ve seen yet. more\u2026",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/20/vivo-v80-ai-creation-camera-mode/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/vivo-ai-creation-vivo-x500.jpg?quality=82&strip=all&w=1600",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-20T14:45:00+00:00"
-    },
-    {
-      "id": "f31ca89b3fe4",
-      "title": "Xiaomi 18 Pro gears up for global debut with rumored battery cuts and \u20ac1,449 starting price",
-      "summary": "Ouch. That\u2019s the reaction many will probably have around pricing for the Xiaomi 18 Pro series when it lands globally, with prices starting at \u20ac1,449 according to a new leak. more\u2026",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/20/xiaomi-18-pro-global-debut-price-battery-rumors/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-colors-1-copy.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-20T14:30:00+00:00"
     }
   ]
 }
