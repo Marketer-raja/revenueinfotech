@@ -1,6 +1,286 @@
 {
-  "updated": "2026-10-21T18:36:22+00:00",
+  "updated": "2026-10-21T22:18:58+00:00",
   "items": [
+    {
+      "id": "86bbef590f28",
+      "title": "Meta to create a new class of shares to fund AI push",
+      "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+      "source": "The Verge",
+      "published": "2026-10-21T21:30:02+00:00",
+      "excerpt": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "e9fc4036438c",
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "source": "TechCrunch",
+      "published": "2026-10-21T21:14:19+00:00",
+      "excerpt": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "cd8ee52c8abe",
+      "title": "Claude Duet is Anthropic's answer to Meta Muse and OpenAI Dots",
+      "url": "https://www.engadget.com/2293646/claude-duet-is-anthropics-answer-to-meta-muse-and-openai-dots/",
+      "source": "Engadget",
+      "published": "2026-10-21T21:03:19+00:00",
+      "excerpt": "Anthropic subscribers in the US can join a waitlist to try the company's new agent.",
+      "image": "https://www.engadget.com/img/gallery/claude-duet-is-anthropics-answer-to-meta-muse-and-openai-dots/l-intro-1792616502.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "d5677bf5e5de",
+      "title": "Someone made a Walkman music player for the Galaxy Z Fold 8, and it works with YouTube Music",
+      "url": "https://9to5google.com/2026/10/21/walkman-player-for-the-galaxy-z-fold-8/",
+      "source": "9to5Google",
+      "published": "2026-10-21T21:01:25+00:00",
+      "excerpt": "The Galaxy Z Fold 8 app turns it into a Sony Walkman using your music, YouTube Music, and even Spotify very soon. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-FOld-8-walkman-music-player.jpg?quality=82&strip=all&w=1400",
+      "category": "Software Development"
+    },
+    {
+      "id": "c600bafa0bd3",
+      "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+      "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+      "source": "TechCrunch",
+      "published": "2026-10-21T20:57:40+00:00",
+      "excerpt": "Just 9 months after raising an $180 million seed round, Flapping Airplanes has landed $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Flapping-Airplanes-founders-photo.jpg?resize=1200,821",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "9635a5174047",
+      "title": "Government websites in the EU and Canada taken offline over PHP vulnerability",
+      "url": "https://www.engadget.com/2293625/government-websites-in-the-eu-and-canada-taken-offline-over-php-vulnerability/",
+      "source": "Engadget",
+      "published": "2026-10-21T20:56:47+00:00",
+      "excerpt": "All websites using PHP should update to the latest security patch.",
+      "image": "https://www.engadget.com/img/gallery/government-websites-in-eu-and-canada-taken-offline-over-php-vulnerability/l-intro-1792616156.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "f3e22c3912f3",
+      "title": "New York\u2019s first microdrama film festival searches for its audience",
+      "url": "https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals",
+      "source": "The Verge",
+      "published": "2026-10-21T20:49:07+00:00",
+      "excerpt": "It remains to be seen if people really want to watch vertical content on horizontal TV screens, but many filmmakers and creators were confident that their latest projects would play well at Alza - New York City's first microdrama film...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2300700160.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "31d21f169841",
+      "title": "Meta says it would\u2019ve made over $22 billion if it didn\u2019t have to pay a child safety settlement",
+      "url": "https://www.theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement",
+      "source": "The Verge",
+      "published": "2026-10-21T20:46:56+00:00",
+      "excerpt": "Meta had to shell out $9.89 billion to pay for a chunk of the child safety settlement it reached with US attorneys general. That's according to the company's third-quarter earnings report released on Wednesday, which says Meta's income...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS487_ANTITRUST_2__STK043_META.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "ab73dd30d321",
+      "title": "Claude Duet is Anthropic\u2019s proactive AI agent answer to Muse and OpenAI\u2019s Dots [Video]",
+      "url": "https://9to5google.com/2026/10/21/claude-duet-anthropic-ai-agent-waitlist/",
+      "source": "9to5Google",
+      "published": "2026-10-21T20:45:00+00:00",
+      "excerpt": "Anthropic is today revealing Claude Duet, its new AI agent that rivals Muse, OpenAI Dots, but it\u2019s not widely available just yet. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/claude-duet-1.jpg?quality=82&strip=all&w=1280",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "77efa06da871",
+      "title": "Meta ordered to cough up $25 billion in New Mexico privacy case",
+      "url": "https://www.engadget.com/2293597/new-mexico-court-order-meta-pay-25-billion-privacy-case/",
+      "source": "Engadget",
+      "published": "2026-10-21T20:43:17+00:00",
+      "excerpt": "The case stemmed from the nearly decade-old Cambridge Analytica scandal.",
+      "image": "https://www.engadget.com/img/gallery/meta-ordered-to-cough-up-25-billion-in-new-mexico-privacy-case/l-intro-1792615292.jpg",
+      "category": "Data & Analytics"
+    },
+    {
+      "id": "0efdcaa8b19e",
+      "title": "PHP: The three letters that shut down sites all over the internet today",
+      "url": "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026",
+      "source": "The Verge",
+      "published": "2026-10-21T20:36:56+00:00",
+      "excerpt": "Two bugs found with AI are behind major issues today for 4chan, DeviantArt, Wikipedia, and the blog where the bar around the corner posts pictures of people's dogs. The \"critical vulnerabilities\" were discovered in the PHP programming...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "c4ee3f30eef4",
+      "title": "Tesla starts Optimus robot production in California as profit falls 43%",
+      "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
+      "source": "TechCrunch",
+      "published": "2026-10-21T20:33:09+00:00",
+      "excerpt": "Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/tesla-opitmus-Getty.jpg?resize=1200,800",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "d777d785a3ac",
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "source": "TechCrunch",
+      "published": "2026-10-21T20:27:41+00:00",
+      "excerpt": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2157738833.jpg?resize=1200,800",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "8bbf45a144d1",
+      "title": "Flying Roadsters can\u2019t lift Tesla\u2019s flat Q3 revenues",
+      "url": "https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger",
+      "source": "The Verge",
+      "published": "2026-10-21T20:22:31+00:00",
+      "excerpt": "As the smoke clears from its outrageous Roadster demo, Tesla reported Q3 earnings on Wednesday - and the cold reality is that revenue has flatlined. Tesla said it earned $1.7 billion in net income on $28.0 billion in revenue in the quarter...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23382326/VRG_Illo_STK022_K_Radtke_Musk_Tesla.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "f0eb317dc7b3",
+      "title": "Bose acquires Skullcandy to help it reach a wider audience",
+      "url": "https://www.theverge.com/tech/1015276/bose-acquisition-skullcandy-headphones-earbuds-speakers",
+      "source": "The Verge",
+      "published": "2026-10-21T20:15:00+00:00",
+      "excerpt": "Bose announced today it has acquired Skullcandy. Although the two companies are competitors in the consumer audio space, Skullcandy recently partnered with its new owner to bring several of Bose's audio technologies - including its...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/skullcandy1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "83d2f5d78934",
+      "title": "Automattic begins layoffs following board upheaval and executive departures",
+      "url": "https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/",
+      "source": "TechCrunch",
+      "published": "2026-10-21T20:15:00+00:00",
+      "excerpt": "Automattic has begun laying off employees across multiple teams, including WordPress.com and its enterprise business, following a board shakeup and a series of executive departures. Sources say more cuts could follow as the company looks...",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/11/wordpress-automattic-v3.jpg?resize=1200,800",
+      "category": "Enterprise Software & SaaS"
+    },
+    {
+      "id": "b828b890498e",
+      "title": "Xbox is previewing paid cloud gaming for players without Game Pass",
+      "url": "https://www.engadget.com/2293519/xbox-is-previewing-paid-cloud-gaming-for-players-without-game-pass/",
+      "source": "Engadget",
+      "published": "2026-10-21T19:52:50+00:00",
+      "excerpt": "Here come new rate limits.",
+      "image": "https://www.engadget.com/img/gallery/xbox-is-previewing-paid-cloud-gaming-for-players-without-game-pass/l-intro-1792612307.jpg",
+      "category": "Cloud Computing"
+    },
+    {
+      "id": "29c16e423f02",
+      "title": "GM is betting compute and AI will help it compete with Chinese automakers",
+      "url": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
+      "source": "TechCrunch",
+      "published": "2026-10-21T19:52:20+00:00",
+      "excerpt": "To compete with Tesla, Rivian, and a host of Chinese automakers, GM\u2019s fourth-gen EV platform will roll out a new central computer and electrical architecture that will debut in 2028 in the Cadillac Escalade IQ.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Row-of-pre-production-vehicles-at-PPO.jpg?resize=1200,801",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "c77bdd3c5dfc",
+      "title": "Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal",
+      "url": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
+      "source": "TechCrunch",
+      "published": "2026-10-21T19:42:32+00:00",
+      "excerpt": "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-meta-connect.jpg?resize=1200,799",
+      "category": "Data & Analytics"
+    },
+    {
+      "id": "89a2c6e8757c",
+      "title": "Walmart is inviting AI agents to shop for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+      "source": "The Verge",
+      "published": "2026-10-21T19:30:00+00:00",
+      "excerpt": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2247092603.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "4472664e9020",
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "source": "TechCrunch",
+      "published": "2026-10-21T19:30:00+00:00",
+      "excerpt": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+      "image": "https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-903923942.jpeg?resize=1200,800",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "c7b8bdcd7625",
+      "title": "Samsung releases \u2018Re-Newed\u2019 Galaxy phones on Amazon starting under $500",
+      "url": "https://9to5google.com/2026/10/21/samsung-re-newed-refurbished-galaxy-phones-amazon/",
+      "source": "9to5Google",
+      "published": "2026-10-21T19:25:00+00:00",
+      "excerpt": "Samsung is now selling its \u201cRe-Newed Galaxy phones via Amazon, with over a dozen models now available starting under $500. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/02/Galaxy-S24-and-S25-Ultra-cameras-close-up.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "5ec447e33d03",
+      "title": "The internet is having a very bad cybersecurity day",
+      "url": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
+      "source": "TechCrunch",
+      "published": "2026-10-21T19:03:28+00:00",
+      "excerpt": "From AI-discovered PHP vulnerabilities to flaws in Node.js and popular AI tool LiteLLM, cybersecurity teams have plenty to worry about this week.",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/05/cybersecurity-data-sharing-2024-v1.jpg?resize=1200,675",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "c32a385a1b86",
+      "title": "Meta ordered to pay $25 billion in penalties over the Cambridge Analytica scandal",
+      "url": "https://www.theverge.com/policy/1015782/meta-new-mexico-cambridge-analytica-penalty",
+      "source": "The Verge",
+      "published": "2026-10-21T19:02:49+00:00",
+      "excerpt": "The Cambridge Analytica scandal has come back to haunt Meta after a New Mexico judge ordered it to pay $25 billion in penalties for more than 43 million violations of the state's unfair practices law. The ruling marks the biggest legal hit...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_2_E.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "a9726704f0fa",
+      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+      "url": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+      "source": "The Hacker News",
+      "published": "2026-10-21T18:57:34+00:00",
+      "excerpt": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014. The fix matters even for...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig4Pkd5r0GeWGSaCoHaEsZVVoh5Y6xBkFvMTGYKvD5oONYnczQGAUqpjD6eCiA6sxiiel6Zs0kPiBEWOZJ21URkE59iJm-LDUFPYwPEf8o8d8lnyiMOR53H7IeXGKn3tTG9pusA-HKwYo0n04WQ1m8kg8dxIWEtxFGMDiBzrV-zzqAH2R2OVT2E1ViX_U/s1600/git-rce.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "7029da4abf6c",
+      "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+      "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+      "source": "TechCrunch",
+      "published": "2026-10-21T18:51:56+00:00",
+      "excerpt": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2296593553.jpg?w=1024",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "e41e3580238e",
+      "title": "Xbox Cloud Gaming\u2019s added playtime costs start at around 40\u00a2 per hour",
+      "url": "https://9to5google.com/2026/10/21/xbox-cloud-gaming-added-playtime-pricing/",
+      "source": "9to5Google",
+      "published": "2026-10-21T18:40:00+00:00",
+      "excerpt": "Microsoft is sharing more details on added playtime costs for Xbox Game Pass cloud gaming which starts at around 40\u00a2 per hour. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2023/03/xbox-cloud-logo-4.jpg?quality=82&strip=all&w=1600",
+      "category": "Cloud Computing"
+    },
+    {
+      "id": "d659fc7375a9",
+      "title": "Hold onto your old HomePod \u2013 an upgrade is on the way",
+      "url": "https://www.zdnet.com/home-and-office/keep-old-apple-homepod-upgrades/",
+      "source": "ZDNET",
+      "published": "2026-10-21T18:37:07+00:00",
+      "excerpt": "An upcoming update will bring new features to existing HomePods. Here\u2019s what to know.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/F269D9F0-A35B-45D4-A3A1-082DA9E58CF0_1_105_c.jpeg",
+      "category": "Software Development"
+    },
     {
       "id": "c56385baeae6",
       "title": "Xbox mandates a four-day return to office",
@@ -20,6 +300,16 @@
       "excerpt": "The Honor Win2 series and the Honor Tablet are pushing the boundaries of mobile tech, with impressive specs, built-in fans, and the same excellent eye care features the company is known for. more\u2026",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/honor-win2-fans.jpg?quality=82&strip=all&w=1444",
       "category": "Software Development"
+    },
+    {
+      "id": "5246eacc7d62",
+      "title": "OpenAI\u2019s most powerful AI models turned off safety monitoring \u2013 then lied about it",
+      "url": "https://www.zdnet.com/innovation/openai-astra-sol-models-disable-safety-monitoring/",
+      "source": "ZDNET",
+      "published": "2026-10-21T18:15:19+00:00",
+      "excerpt": "The models Astra and Sol misinterpreted instructions during internal use, which has serious implications for alignment monitoring.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/purpleblob-GettyImages-2287018600.jpg",
+      "category": "Artificial Intelligence"
     },
     {
       "id": "f5335e20393b",
@@ -128,7 +418,7 @@
       "source": "TechCrunch",
       "published": "2026-10-21T16:59:44+00:00",
       "excerpt": "Pickups and dropoffs will happen at dedicated \"autonomous vehicle zones\" at Terminal 1 and Terminal 3.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/waymo-ojai-street.jpg?resize=1200,801",
+      "image": "",
       "category": "Software Development"
     },
     {
@@ -310,296 +600,6 @@
       "excerpt": "Google\u2019s Face Unlock feature on Pixel phones works really well, until the lights go out. The company appears to be building out a new upgrade to this with \u201cactive illumination\u201d which is\u2026 just turning up the screen brightness. more\u2026",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/11/Face-Unlock-screen-on-Pixel-9.jpg?quality=82&strip=all&w=1600",
       "category": "Software Development"
-    },
-    {
-      "id": "1326b727f62a",
-      "title": "Apple says it only has \u2018limited\u2019 iPhone Duo units for in-store sales",
-      "url": "https://www.theverge.com/tech/1015372/apple-says-it-only-has-limited-iphone-duo-units-for-in-store-sales",
-      "source": "The Verge",
-      "published": "2026-10-21T14:22:59+00:00",
-      "excerpt": "Apple says it will have \"limited\" iPhone Duo models for sale in stores, according to a report from Reuters. The iPhone Duo launches on Friday, October 23rd, but online preorders quickly sold out, with some delivery estimates extending into...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1499.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "66efef2be627",
-      "title": "Foursquare co-founder says equity holders saw no returns from the company\u2019s acquisition",
-      "url": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
-      "source": "TechCrunch",
-      "published": "2026-10-21T14:03:11+00:00",
-      "excerpt": "Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/foursquare-city-guides.jpg?resize=1200,797",
-      "category": "Enterprise Software & SaaS"
-    },
-    {
-      "id": "ae9c16f75d65",
-      "title": "Amazon unveiled 5 new Blink cameras, including a 4K model that caught my eye",
-      "url": "https://www.zdnet.com/home-and-office/new-amazon-blink-cameras-worth-the-upgrade/",
-      "source": "ZDNET",
-      "published": "2026-10-21T14:01:31+00:00",
-      "excerpt": "Five new Blink cameras are coming to the market, and the extended-range model has all my attention.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Blink-Frontier-XR_BLK_1600x900-copy.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "5765f068d39a",
-      "title": "Blink brings 4K to its low-cost security camera lineup",
-      "url": "https://www.theverge.com/tech/1015238/amazon-blink-4k-trail-security-camera-launch",
-      "source": "The Verge",
-      "published": "2026-10-21T14:00:00+00:00",
-      "excerpt": "Amazon is launching a new lineup of Blink security cameras, including its first 4K, pan-tilt models, and battery-powered spotlight models. These new additions provide better resolution and extended range for monitoring your property...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Blink-security-camera-lineup.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "6c14b19c5f4c",
-      "title": "AI promises productivity, but for managers, it\u2019s mostly a headache for now",
-      "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-      "source": "TechCrunch",
-      "published": "2026-10-21T14:00:00+00:00",
-      "excerpt": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-157163369.jpg?resize=1200,900",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "6478f5844cef",
-      "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
-      "url": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
-      "source": "The Hacker News",
-      "published": "2026-10-21T14:00:00+00:00",
-      "excerpt": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35, and the PHP team says only...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz8MKP95jyzesxy1eZd6zQDCb3dr-9m-bRE9W0PYnomN3z8lodXmM_0Oo4AAiP_nt2QMNpLxsUNPKueH4TW6FnvXl7ijDGDwxnXcfiyAII6sUDd8cfKoB7Z3MgLOvcAWDeplnUdixy-zfpgVqCuAVZmqH-Orn4S-QhYREVcY1ew7_6kIG8LBsdLZC8Ofs/s1600/PHP2SHELL.gif",
-      "category": "Software Development"
-    },
-    {
-      "id": "c55b4c3c8ca2",
-      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-      "source": "The Verge",
-      "published": "2026-10-21T13:57:43+00:00",
-      "excerpt": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "96dbea069000",
-      "title": "Google gives Pixel 9 another year of free Satellite SOS connectivity",
-      "url": "https://9to5google.com/2026/10/21/google-gives-pixel-9-another-year-of-free-satellite-sos-connectivity/",
-      "source": "9to5Google",
-      "published": "2026-10-21T13:55:00+00:00",
-      "excerpt": "Google won\u2019t start charging for the Satellite SOS feature on its Pixel 9 series phones just yet, despite the timer having run out. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/08/Pixel-9-Satellite-SOS-how-to-6.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "f04a58e5ceab",
-      "title": "Now Serato DJ works on your iPhone",
-      "url": "https://www.theverge.com/tech/1015319/serato-dj-for-ios",
-      "source": "The Verge",
-      "published": "2026-10-21T13:51:31+00:00",
-      "excerpt": "Serato DJ for iOS is finally bringing the company's pro-level DJ suite to the iPhone and iPad. Until now, the company had only dipped its toes into mobile software, with apps like Pyro that basically just added some autofades between songs...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DJ-for-iOS-iPhone-Handheld-1920x1080-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "294744de6228",
-      "title": "Heat pump tech is 170 years old \u2014 Pascal thinks it\u2019s time for an update",
-      "url": "https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/",
-      "source": "TechCrunch",
-      "published": "2026-10-21T13:30:00+00:00",
-      "excerpt": "Refrigerants startup Pascal has a new take on heat pump and cooling tech using a sponge-like material that promises to be 20% more efficient.",
-      "image": "",
-      "category": "Enterprise Software & SaaS"
-    },
-    {
-      "id": "f29fd7d40b5f",
-      "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
-      "url": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
-      "source": "The Hacker News",
-      "published": "2026-10-21T13:15:09+00:00",
-      "excerpt": "Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled. ClickFix is a popular social engineering technique in which bad actors trick...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkkBWQk1mVx_ybLuq6r6miCGLiZJUyA_-tPpzi5cyWpcmN_WX43NqfOoH-Tc5VaAh1rVA78waqQ9hx4j-jNwq1GX9bbZjezpx1Q28YcxlBPqnxMbbHd15spg63hSVS0sidhyR9wTg6Aq7ijZJdNIfdY_jev1_K4KJR-6yIoCLlD6cbkGwVY3SUke5IuXS5/s1600/chrome-clickfix-warning.jpg",
-      "category": "Web Development"
-    },
-    {
-      "id": "77468b305b5c",
-      "title": "Nvidia\u2019s latest GPU driver brings a new way to speed up PC games",
-      "url": "https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support",
-      "source": "The Verge",
-      "published": "2026-10-21T13:09:26+00:00",
-      "excerpt": "Nvidia is rolling out a new GPU driver today (621.01) that enables Microsoft's new Advanced Shader Delivery technology to speed up game launches. The technology also removes mid-game \"just-in-time\" shader compilation, reducing stuttering...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "b8b6610a2dc5",
-      "title": "Mach9 raises $34M after pivoting to AI CAD software",
-      "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
-      "source": "TechCrunch",
-      "published": "2026-10-21T13:00:00+00:00",
-      "excerpt": "The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.",
-      "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "e4813fa24a8a",
-      "title": "How to spot a white label gadget, and why that's important",
-      "url": "https://www.engadget.com/2292707/how-to-spot-a-white-label-gadget/",
-      "source": "Engadget",
-      "published": "2026-10-21T13:00:00+00:00",
-      "excerpt": "Sometimes the same product is sold under multiple brands, which means you might not be getting the best gear.",
-      "image": "https://www.engadget.com/img/gallery/how-to-spot-a-white-label-gadget-and-why-thats-important/l-intro-1792586287.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "d579ae7e78a7",
-      "title": "Here's how SpaceX plans to catch Starship's upper stage for the first time",
-      "url": "https://www.engadget.com/2292685/heres-how-spacex-plans-to-catch-starships-upper-stage-for-the-first-time/",
-      "source": "Engadget",
-      "published": "2026-10-21T12:19:58+00:00",
-      "excerpt": "SpaceX has released a demo showing how it intends to catch Starship's upper stage, which could happen as soon as next month.",
-      "image": "https://www.engadget.com/img/gallery/heres-how-spacex-plans-to-catch-starships-upper-stage-for-the-first-time/l-intro-1792584880.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "6af4ed1b2898",
-      "title": "I reviewed the iPhone Duo, ask me anything",
-      "url": "https://www.theverge.com/tech/1014316/iphone-duo-review-ama",
-      "source": "The Verge",
-      "published": "2026-10-21T12:15:00+00:00",
-      "excerpt": "I'm The Verge's senior smartphone reviewer and I've been using the iPhone Duo for the past week. I've unfolded it, flipped it, and folded it more times than I could count as I've been working on the review alongside our editor-in-chief...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_0082.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "c7a020f274e0",
-      "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
-      "url": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
-      "source": "The Hacker News",
-      "published": "2026-10-21T12:05:00+00:00",
-      "excerpt": "Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and Africa since mid-2025. \"The most distinctive...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq2iUs3zJHHrrskI-icX8x-nBeJxjr_O9uRE2lvcLQkaOhVUHFjTQYLItaZPVskt39VgI2ZYoMDuIhqkAAqEl1bYHLv5ctEfQvPe9UmLyzVEo46YS4xOEz7HcoYKSiNtT_g2bqfKLPFis98BVTTjSR9gafpKRceKKcj0rUf3pb89zBXVt_PequHoA-ta3t/s1600/sandboxie.png",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "db195c34f927",
-      "title": "Spotify is busting free of CarPlay with the launch of its first native car app",
-      "url": "https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay",
-      "source": "The Verge",
-      "published": "2026-10-21T12:00:00+00:00",
-      "excerpt": "Spotify announced Wednesday the launch of its next-generation, fully native in-car app, built directly on Google's Android Automotive operating system. The standalone app, which is launching today in select Audi models, runs directly on...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Spotify-x-Audi-Image-2.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "cc2a5991b179",
-      "title": "I can\u2019t get enough of the iPhone Duo\u2019s matte inner display",
-      "url": "https://www.theverge.com/tech/1014709/iphone-duo-inner-screen-nano-texture-matte",
-      "source": "The Verge",
-      "published": "2026-10-21T12:00:00+00:00",
-      "excerpt": "The iPhone Duo has all the messiness of a first-gen product. And while I'm not sure I love all of the decisions Apple made around its design, it got one thing right: the matte finish on the inner screen. I've been using it for the past...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_0055.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "807ca8a71eff",
-      "title": "The iPhone Duo is a messy, expensive, good time",
-      "url": "https://www.theverge.com/tech/1015028/iphone-duo-review",
-      "source": "The Verge",
-      "published": "2026-10-21T12:00:00+00:00",
-      "excerpt": "The iPhone Duo is the riskiest Apple product in years. It's a huge rethink of what an iPhone is and could be, and it contains the seeds of many fascinating ideas that might be great in the future. But that future is yet to come. The iPhone...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1378.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "3a25ef26dadf",
-      "title": "Apple iPhone Duo review: A first-class foldable",
-      "url": "https://www.engadget.com/2292333/apple-iphone-duo-review/",
-      "source": "Engadget",
-      "published": "2026-10-21T12:00:00+00:00",
-      "excerpt": "Even though it's heavy and expensive, Apple's first foldable handset is a treat for iPhone users unwilling to switch to Android.",
-      "image": "https://www.engadget.com/img/gallery/apple-iphone-duo-review-a-first-class-foldable/l-intro-1792528421.jpg",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "b81260804ad3",
-      "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
-      "url": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
-      "source": "The Hacker News",
-      "published": "2026-10-21T11:53:34+00:00",
-      "excerpt": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and unique to each recipient, and the...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH7zuBEyUN7xB2yVXHoNSB6jWMLhxTtu9LqItz3TNMkY5P59w2MW5dRYcLBp1hakchf5442zpMwNG3nzombXfaoo7O5IzgNw61nsbKWAjaKGP8D9ITLy11wkHBUUAwksYEqTiH27t7FTgpa5fpJQ42t6lVqO8qcbI57oWnxc7o8SWLupLpIiiZW6eBqj4/s1600/proofpoint.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "82167f895ff5",
-      "title": "A critical PHP vulnerability may take websites down today",
-      "url": "https://www.theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress",
-      "source": "The Verge",
-      "published": "2026-10-21T11:49:17+00:00",
-      "excerpt": "Security patches for the PHP programming language, widely used to build websites and web apps, are expected to roll out today, with the goal of fixing two critical vulnerabilities that could wreak havoc on the internet if left unchecked...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/VRG_ILLO_STK001_carlo_cadenas_cybersecurity_virus.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "47e798982b8e",
-      "title": "ServiceNow and Nvidia launch Arc, a new AI agent for enterprise",
-      "url": "https://www.zdnet.com/innovation/exclusive-servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise/",
-      "source": "ZDNET",
-      "published": "2026-10-21T11:30:00+00:00",
-      "excerpt": "The two companies are trying to solve the AI agent security conundrum with multiple layers of real-time security checks.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2299990631.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "713262acc4ba",
-      "title": "Two dangerous internet security issues are putting site admins on edge",
-      "url": "https://www.engadget.com/2292647/two-dangerous-internet-security-issues-are-putting-site-admins-on-edge/",
-      "source": "Engadget",
-      "published": "2026-10-21T11:02:54+00:00",
-      "excerpt": "The web is a bit of a hot mess today following the discovery of two severe vulnerabilities.",
-      "image": "https://www.engadget.com/img/gallery/two-dangerous-internet-security-issues-are-putting-site-admins-on-edge/l-intro-1792580279.jpg",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "37e508782d81",
-      "title": "Samsung is rolling out Android 17 updates for some of its most popular Galaxy phones",
-      "url": "https://9to5google.com/2026/10/21/samsung-android-17-update-galaxy-a-s23-more/",
-      "source": "9to5Google",
-      "published": "2026-10-21T11:00:00+00:00",
-      "excerpt": "Samsung continues its One UI 9 rollout, bringing Android 17 updates to a flurry of Galaxy devices including some of its most popular mid-rangers and last-gen flagships including Galaxy S23, Galaxy A36, and many more. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/galaxy-a37-1.webp?w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "7b95c7f5c622",
-      "title": "OpenAI's agents disabled their own safety monitoring systems",
-      "url": "https://www.engadget.com/2292644/openai-agents-disabled-own-safety-monitoring-systems/",
-      "source": "Engadget",
-      "published": "2026-10-21T10:53:21+00:00",
-      "excerpt": "OpenAI reveals that its agents misbehaved by switching off the system monitoring them for misbehaviors.",
-      "image": "https://www.engadget.com/img/gallery/openais-agents-disabled-their-own-safety-monitoring-systems/l-intro-1792579899.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "ec0fd993c8b5",
-      "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
-      "url": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
-      "source": "The Hacker News",
-      "published": "2026-10-21T10:36:53+00:00",
-      "excerpt": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggested it now says. PHP will release the fix...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipzsA5sBIvBsTGT1YIrSeK_4YH5ISqTd40ZG1tV8YN1VkjjZuiY6CfQojYR-TIoYKM0EgZM4fYrmdtD25XjeTtgBkTFCQGny4DLL0fTKT5SEFpOFBcxNjLgif_FrX-1d-IX9DE58tQX6ELzGk4cWNpUpU5Eaig8pqdLL2h6qqVCC95ZmHFN6m7tD6m7BY/s1600/php-rce-patch.jpg",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "f31f85df952c",
-      "title": "The Harness Is the Hard Part of Agentic Pentesting",
-      "url": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
-      "source": "The Hacker News",
-      "published": "2026-10-21T10:32:40+00:00",
-      "excerpt": "An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those attacks safe to run against production and worth acting on...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTdLja8gnPl92G1mhffmAZ3Dy5Q8gX9wpjY22n1J2xerzpx0Eab4VMj2fzt3XAe_TjT8hlDkjdzW8DdBwWCvAPa9o5SKnFN4MSo5H0MnXylWX36NwFiwcI19f3MR0QDPT2uKXtXH4RAj5_rU3aBnmAVxsczeL2sfBj7G1r878XbJ6rAyEFgIg0XeuBNKk/s1600/pentera-main.jpg",
-      "category": "Artificial Intelligence"
     }
   ]
 }
