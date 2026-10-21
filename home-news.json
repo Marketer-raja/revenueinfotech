@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-21T01:33:26+00:00",
+  "updated": "2026-10-21T07:35:39+00:00",
   "auto": true,
   "items": [
+    {
+      "id": "705a2aee0bf3",
+      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
+      "summary": "PHP will ship an out-of-cycle security release at 14:00 UTC today, October 21, for two critical vulnerabilities that its security team has rated 9.2 on the CVSS v4.0 scale but has not described. Security researchers at watchTowr say the...",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxq1wmaSTaMiFJnrulXjwGrIIkIHBR3Q9Yv6Lky3rAie6XPOnFmXOVckMgVzGn9yvodrbkt6kV623Ofg8Iw-1MTDRoCVzXPiikivnZ5R7OynIF5-QC0DAiwXq8q2MRS3PZaz9NpjhJUqa-QWi1AQJ2XnJ-nvUNEvG3f1E0UpU5slUwzguAI-cESkZ5Xc/s1600/php2shell.jpg",
+      "category": "Software Development",
+      "section": "hero",
+      "featured": true,
+      "published": "2026-10-21T04:57:50+00:00"
+    },
+    {
+      "id": "2411e8b45618",
+      "title": "Google rolling out minor Nest Hub update",
+      "summary": "Google is rolling out yet another update to its Nest Hub family but, as per usual, don\u2019t expect much. more\u2026",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/10/20/google-rolling-out-minor-nest-hub-update/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/04/Photo-frame-demo-Nest-Hub-2nd-Gen.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-21T02:35:00+00:00"
+    },
+    {
+      "id": "23f909b5d1b9",
+      "title": "PHP warns it plans to release 2 emergency patches imminently",
+      "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
+      "category": "Cybersecurity",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-21T02:12:18+00:00"
+    },
     {
       "id": "e4d086444409",
       "title": "What can you use your Apple Watch Ultra 4 action button for?",
@@ -10,19 +46,19 @@
       "url": "https://www.engadget.com/2289282/apple-watch-ultra-4-action-button-uses-explained/",
       "image": "https://www.engadget.com/img/gallery/what-can-you-use-your-apple-watch-ultra-4-action-button-for/l-intro-1791574824.jpg",
       "category": "Software Development",
-      "section": "hero",
-      "featured": true,
+      "section": "brief",
+      "featured": false,
       "published": "2026-10-20T23:30:00+00:00"
     },
     {
       "id": "b6629abae55b",
       "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
       "category": "Artificial Intelligence",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-20T23:01:23+00:00"
     },
@@ -34,7 +70,7 @@
       "url": "https://www.engadget.com/2289279/things-know-before-buying-iphone-duo/",
       "image": "https://www.engadget.com/img/gallery/five-things-you-should-know-before-buying-the-iphone-duo/l-intro-1791925293.jpg",
       "category": "Software Development",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-20T23:00:00+00:00"
     },
@@ -46,7 +82,7 @@
       "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/space-tesla-cybertruck.jpg?resize=1200,801",
       "category": "Software Development",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-20T22:57:57+00:00"
     },
@@ -94,7 +130,7 @@
       "url": "https://www.engadget.com/2292117/apple-pro-and-tell-event-october-28-what-to-expect/",
       "image": "https://www.engadget.com/img/gallery/what-to-expect-at-apples-pro-and-tell-event-on-october-28/l-intro-1792520191.jpg",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-20T22:00:00+00:00"
     },
@@ -106,7 +142,7 @@
       "url": "https://www.engadget.com/2292388/playstation-5-hackers-crack-gta-6-firmware/",
       "image": "https://www.engadget.com/img/gallery/the-latest-playstation-firmware-may-have-already-been-cracked-ahead-of-gta-6/l-intro-1792530805.jpg",
       "category": "Operating Systems",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-20T21:30:57+00:00"
     },
@@ -118,7 +154,7 @@
       "url": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_D.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-20T21:30:24+00:00"
     },
@@ -166,7 +202,7 @@
       "url": "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/52822624215_2e5d62e50a_o.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-20T21:02:53+00:00"
     },
@@ -178,7 +214,7 @@
       "url": "https://www.engadget.com/2292346/judge-tosses-sexual-abuse-lawsuit-from-sam-altmans-sister/",
       "image": "https://www.engadget.com/img/gallery/judge-tosses-sexual-abuse-lawsuit-from-sam-altmans-sister/l-intro-1792529383.jpg",
       "category": "Artificial Intelligence",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-20T20:53:25+00:00"
     },
@@ -190,14 +226,14 @@
       "url": "https://9to5google.com/2026/10/20/the-sideload-048-its-ai-mania-not-ai-psychosis/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/sideload-podcast-wider-copy-1.jpg?quality=82&strip=all&w=1600",
       "category": "Artificial Intelligence",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-20T20:52:13+00:00"
     },
     {
       "id": "4e839948c5b0",
       "title": "SpaceX\u2019s AI business is beating expectations",
-      "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+      "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-2.40.46-PM.png?resize=1130,1200",
@@ -328,7 +364,7 @@
     },
     {
       "id": "01dc03ee61c3",
-      "title": "GM to close Detroit battery assembly plant, but not for reasons you might think",
+      "title": "GM to close Detroit battery-assembly plant, but not for reasons you might think",
       "summary": "GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with the automaker's electrification strategy.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/",
@@ -473,10 +509,10 @@
     {
       "id": "7fe075e5e5f0",
       "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-      "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+      "summary": "Eric Schmidt\u2019s fortune is about to get even bigger.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Eric-Schmidt.jpg?w=1024",
+      "image": "",
       "category": "Artificial Intelligence",
       "section": "none",
       "featured": false,
@@ -508,8 +544,8 @@
     },
     {
       "id": "319f79c551ee",
-      "title": "Meta\u2019s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
-      "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
+      "title": "Meta\u2019s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
+      "summary": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
       "image": "",
@@ -592,7 +628,7 @@
     },
     {
       "id": "2d379e8ffc91",
-      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: \u2018Physical AI is in it\u2019s LEGO era\u2019",
+      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: \u2018Physical AI is in its LEGO era\u2019",
       "summary": "It\u2019s the moment everyone is waiting for \u2014 the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch\u2019s Equity.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
@@ -685,42 +721,6 @@
       "section": "none",
       "featured": false,
       "published": "2026-10-20T15:45:00+00:00"
-    },
-    {
-      "id": "6e58cc25655b",
-      "title": "Perplexity makes it easier to run AI workflows entirely on your own Mac",
-      "summary": "A Mac with at least 36GB of RAM can now run Perplexity AI workflows locally.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2291754/perplexity-makes-it-easier-to-run-ai-workflows-entirely-on-your-mac/",
-      "image": "https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-20T15:42:45+00:00"
-    },
-    {
-      "id": "53ddecf9f5b1",
-      "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
-      "summary": "Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution. The vulnerability, tracked as...",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3BuJLxcpzxzxwpUcwsPb7L-gNCeXeyuPtNysOMHtf06VmANCx2DR3O52Puw9AQwUu0C8ccQ77MF_l0bAf4zL-hrvYO8jSHs6Km0Xz6-Q4yYm1thRvJ-y59qLRX9Qni0zD161qJ53oCgzEIo3NjOLKtgOrIAbOMsAhITOhL9qoy2v9D6tRU26m0fBoMDhJ/s1600/fort-poc.jpg",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-20T15:38:52+00:00"
-    },
-    {
-      "id": "0d304799e621",
-      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
-      "summary": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting PAN-OS and Prisma Access by ransomware actors. The activity relates to CVE-2026-0257 (CVSS score: 7.8), an...",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd71tvun8MRT5muo9ZiruSzkyqhGkeh-_5dP4QardwiC54o4wW3PtC7I1jtP_vVX1rPujN_YdrmILFSZw_Ikl6v8Gn2w75v-90aSHpnngi2WE-Ezv6OAO37YY4pJpNwe_DcGWRMgIOUxAEPyVisI3SxXnV30HejoGfGtlXDfAgGkdqrdFJjAI7x6jjFFj-/s1600/palo-ransomware.jpg",
-      "category": "Cybersecurity",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-20T15:32:27+00:00"
     }
   ]
 }

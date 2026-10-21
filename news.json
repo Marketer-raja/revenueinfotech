@@ -1,6 +1,36 @@
 {
-  "updated": "2026-10-21T01:33:26+00:00",
+  "updated": "2026-10-21T07:35:39+00:00",
   "items": [
+    {
+      "id": "705a2aee0bf3",
+      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
+      "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
+      "source": "The Hacker News",
+      "published": "2026-10-21T04:57:50+00:00",
+      "excerpt": "PHP will ship an out-of-cycle security release at 14:00 UTC today, October 21, for two critical vulnerabilities that its security team has rated 9.2 on the CVSS v4.0 scale but has not described. Security researchers at watchTowr say the...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxq1wmaSTaMiFJnrulXjwGrIIkIHBR3Q9Yv6Lky3rAie6XPOnFmXOVckMgVzGn9yvodrbkt6kV623Ofg8Iw-1MTDRoCVzXPiikivnZ5R7OynIF5-QC0DAiwXq8q2MRS3PZaz9NpjhJUqa-QWi1AQJ2XnJ-nvUNEvG3f1E0UpU5slUwzguAI-cESkZ5Xc/s1600/php2shell.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "2411e8b45618",
+      "title": "Google rolling out minor Nest Hub update",
+      "url": "https://9to5google.com/2026/10/20/google-rolling-out-minor-nest-hub-update/",
+      "source": "9to5Google",
+      "published": "2026-10-21T02:35:00+00:00",
+      "excerpt": "Google is rolling out yet another update to its Nest Hub family but, as per usual, don\u2019t expect much. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/04/Photo-frame-demo-Nest-Hub-2nd-Gen.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "23f909b5d1b9",
+      "title": "PHP warns it plans to release 2 emergency patches imminently",
+      "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+      "source": "Ars Technica",
+      "published": "2026-10-21T02:12:18+00:00",
+      "excerpt": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
+      "category": "Cybersecurity"
+    },
     {
       "id": "e4d086444409",
       "title": "What can you use your Apple Watch Ultra 4 action button for?",
@@ -17,7 +47,7 @@
       "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
       "source": "TechCrunch",
       "published": "2026-10-20T23:01:23+00:00",
-      "excerpt": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "excerpt": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
       "category": "Artificial Intelligence"
     },
@@ -167,7 +197,7 @@
       "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
       "source": "TechCrunch",
       "published": "2026-10-20T20:40:41+00:00",
-      "excerpt": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+      "excerpt": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-2.40.46-PM.png?resize=1130,1200",
       "category": "Artificial Intelligence"
     },
@@ -273,7 +303,7 @@
     },
     {
       "id": "01dc03ee61c3",
-      "title": "GM to close Detroit battery assembly plant, but not for reasons you might think",
+      "title": "GM to close Detroit battery-assembly plant, but not for reasons you might think",
       "url": "https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/",
       "source": "TechCrunch",
       "published": "2026-10-20T19:32:43+00:00",
@@ -397,8 +427,8 @@
       "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
       "source": "TechCrunch",
       "published": "2026-10-20T17:55:12+00:00",
-      "excerpt": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Eric-Schmidt.jpg?w=1024",
+      "excerpt": "Eric Schmidt\u2019s fortune is about to get even bigger.",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -423,11 +453,11 @@
     },
     {
       "id": "319f79c551ee",
-      "title": "Meta\u2019s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+      "title": "Meta\u2019s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
       "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
       "source": "TechCrunch",
       "published": "2026-10-20T17:12:48+00:00",
-      "excerpt": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
+      "excerpt": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
       "image": "",
       "category": "Artificial Intelligence"
     },
@@ -493,7 +523,7 @@
     },
     {
       "id": "2d379e8ffc91",
-      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: \u2018Physical AI is in it\u2019s LEGO era\u2019",
+      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: \u2018Physical AI is in its LEGO era\u2019",
       "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
       "source": "TechCrunch",
       "published": "2026-10-20T16:20:06+00:00",
@@ -570,36 +600,6 @@
       "excerpt": "Your iPhone will slow down over time, but some changes can help it run at its best for longer.",
       "image": "https://www.engadget.com/img/gallery/5-ways-to-make-your-old-iphone-feel-faster/l-intro-1792168459.jpg",
       "category": "Software Development"
-    },
-    {
-      "id": "6e58cc25655b",
-      "title": "Perplexity makes it easier to run AI workflows entirely on your own Mac",
-      "url": "https://www.engadget.com/2291754/perplexity-makes-it-easier-to-run-ai-workflows-entirely-on-your-mac/",
-      "source": "Engadget",
-      "published": "2026-10-20T15:42:45+00:00",
-      "excerpt": "A Mac with at least 36GB of RAM can now run Perplexity AI workflows locally.",
-      "image": "https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "53ddecf9f5b1",
-      "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
-      "url": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
-      "source": "The Hacker News",
-      "published": "2026-10-20T15:38:52+00:00",
-      "excerpt": "Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution. The vulnerability, tracked as...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3BuJLxcpzxzxwpUcwsPb7L-gNCeXeyuPtNysOMHtf06VmANCx2DR3O52Puw9AQwUu0C8ccQ77MF_l0bAf4zL-hrvYO8jSHs6Km0Xz6-Q4yYm1thRvJ-y59qLRX9Qni0zD161qJ53oCgzEIo3NjOLKtgOrIAbOMsAhITOhL9qoy2v9D6tRU26m0fBoMDhJ/s1600/fort-poc.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "0d304799e621",
-      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
-      "url": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
-      "source": "The Hacker News",
-      "published": "2026-10-20T15:32:27+00:00",
-      "excerpt": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting PAN-OS and Prisma Access by ransomware actors. The activity relates to CVE-2026-0257 (CVSS score: 7.8), an...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd71tvun8MRT5muo9ZiruSzkyqhGkeh-_5dP4QardwiC54o4wW3PtC7I1jtP_vVX1rPujN_YdrmILFSZw_Ikl6v8Gn2w75v-90aSHpnngi2WE-Ezv6OAO37YY4pJpNwe_DcGWRMgIOUxAEPyVisI3SxXnV30HejoGfGtlXDfAgGkdqrdFJjAI7x6jjFFj-/s1600/palo-ransomware.jpg",
-      "category": "Cybersecurity"
     }
   ]
 }
