@@ -1,15 +1,285 @@
 {
-  "updated": "2026-10-21T07:35:39+00:00",
+  "updated": "2026-10-21T13:45:25+00:00",
   "items": [
+    {
+      "id": "294744de6228",
+      "title": "Heat pump tech is 170 years old. Pascal thinks it\u2019s time for an update.",
+      "url": "https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/",
+      "source": "TechCrunch",
+      "published": "2026-10-21T13:30:00+00:00",
+      "excerpt": "Refrigerants startup Pascal has a new take on heat pump and cooling tech using a sponge-like material that promises to be 20% more efficient.",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1418464846.jpg?resize=1200,774",
+      "category": "Enterprise Software & SaaS"
+    },
+    {
+      "id": "f29fd7d40b5f",
+      "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
+      "url": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
+      "source": "The Hacker News",
+      "published": "2026-10-21T13:15:09+00:00",
+      "excerpt": "Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled. ClickFix is a popular social engineering technique in which bad actors trick...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkkBWQk1mVx_ybLuq6r6miCGLiZJUyA_-tPpzi5cyWpcmN_WX43NqfOoH-Tc5VaAh1rVA78waqQ9hx4j-jNwq1GX9bbZjezpx1Q28YcxlBPqnxMbbHd15spg63hSVS0sidhyR9wTg6Aq7ijZJdNIfdY_jev1_K4KJR-6yIoCLlD6cbkGwVY3SUke5IuXS5/s1600/chrome-clickfix-warning.jpg",
+      "category": "Web Development"
+    },
+    {
+      "id": "77468b305b5c",
+      "title": "Nvidia\u2019s latest GPU driver brings a new way to speed up PC games",
+      "url": "https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support",
+      "source": "The Verge",
+      "published": "2026-10-21T13:09:26+00:00",
+      "excerpt": "Nvidia is rolling out a new GPU driver today (621.01) that enables Microsoft's new Advanced Shader Delivery technology to speed up game launches. The technology also removes mid-game \"just-in-time\" shader compilation, reducing stuttering...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "b8b6610a2dc5",
+      "title": "Mach9 raises $34M after pivoting to AI CAD software",
+      "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+      "source": "TechCrunch",
+      "published": "2026-10-21T13:00:00+00:00",
+      "excerpt": "The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/mach9-founders.jpg?resize=1200,800",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "e4813fa24a8a",
+      "title": "How to spot a white label gadget, and why that's important",
+      "url": "https://www.engadget.com/2292707/how-to-spot-a-white-label-gadget/",
+      "source": "Engadget",
+      "published": "2026-10-21T13:00:00+00:00",
+      "excerpt": "Sometimes the same product is sold under multiple brands, which means you might not be getting the best gear.",
+      "image": "https://www.engadget.com/img/gallery/how-to-spot-a-white-label-gadget-and-why-thats-important/l-intro-1792586287.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "d579ae7e78a7",
+      "title": "Here's how SpaceX plans to catch Starship's upper stage for the first time",
+      "url": "https://www.engadget.com/2292685/heres-how-spacex-plans-to-catch-starships-upper-stage-for-the-first-time/",
+      "source": "Engadget",
+      "published": "2026-10-21T12:19:58+00:00",
+      "excerpt": "SpaceX has released a demo showing how it intends to catch Starship's upper stage, which could happen as soon as next month.",
+      "image": "https://www.engadget.com/img/gallery/heres-how-spacex-plans-to-catch-starships-upper-stage-for-the-first-time/l-intro-1792584880.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "6af4ed1b2898",
+      "title": "I reviewed the iPhone Duo, ask me anything",
+      "url": "https://www.theverge.com/tech/1014316/iphone-duo-review-ama",
+      "source": "The Verge",
+      "published": "2026-10-21T12:15:00+00:00",
+      "excerpt": "I'm The Verge's senior smartphone reviewer and I've been using the iPhone Duo for the past week. I've unfolded it, flipped it, and folded it more times than I could count as I've been working on the review alongside our editor-in-chief...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_0082.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "c7a020f274e0",
+      "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
+      "url": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
+      "source": "The Hacker News",
+      "published": "2026-10-21T12:05:00+00:00",
+      "excerpt": "Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and Africa since mid-2025. \"The most distinctive...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq2iUs3zJHHrrskI-icX8x-nBeJxjr_O9uRE2lvcLQkaOhVUHFjTQYLItaZPVskt39VgI2ZYoMDuIhqkAAqEl1bYHLv5ctEfQvPe9UmLyzVEo46YS4xOEz7HcoYKSiNtT_g2bqfKLPFis98BVTTjSR9gafpKRceKKcj0rUf3pb89zBXVt_PequHoA-ta3t/s1600/sandboxie.png",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "db195c34f927",
+      "title": "Spotify is busting free of CarPlay with the launch of its first native car app",
+      "url": "https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay",
+      "source": "The Verge",
+      "published": "2026-10-21T12:00:00+00:00",
+      "excerpt": "Spotify announced Wednesday the launch of its next-generation, fully native in-car app, built directly on Google's Android Automotive operating system. The standalone app, which is launching today in select Audi models, runs directly on...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Spotify-x-Audi-Image-2.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "cc2a5991b179",
+      "title": "I can\u2019t get enough of the iPhone Duo\u2019s matte inner display",
+      "url": "https://www.theverge.com/tech/1014709/iphone-duo-inner-screen-nano-texture-matte",
+      "source": "The Verge",
+      "published": "2026-10-21T12:00:00+00:00",
+      "excerpt": "The iPhone Duo has all the messiness of a first-gen product. And while I'm not sure I love all of the decisions Apple made around its design, it got one thing right: the matte finish on the inner screen. I've been using it for the past...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_0055.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "807ca8a71eff",
+      "title": "The iPhone Duo is a messy, expensive, good time",
+      "url": "https://www.theverge.com/tech/1015028/iphone-duo-review",
+      "source": "The Verge",
+      "published": "2026-10-21T12:00:00+00:00",
+      "excerpt": "The iPhone Duo is the riskiest Apple product in years. It's a huge rethink of what an iPhone is and could be, and it contains the seeds of many fascinating ideas that might be great in the future. But that future is yet to come. The iPhone...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1378.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "3a25ef26dadf",
+      "title": "Apple iPhone Duo review: A first-class foldable",
+      "url": "https://www.engadget.com/2292333/apple-iphone-duo-review/",
+      "source": "Engadget",
+      "published": "2026-10-21T12:00:00+00:00",
+      "excerpt": "Even though it's heavy and expensive, Apple's first foldable handset is a treat for iPhone users unwilling to switch to Android.",
+      "image": "https://www.engadget.com/img/gallery/apple-iphone-duo-review-a-first-class-foldable/l-intro-1792528421.jpg",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "b81260804ad3",
+      "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
+      "url": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
+      "source": "The Hacker News",
+      "published": "2026-10-21T11:53:34+00:00",
+      "excerpt": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and unique to each recipient, and the...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH7zuBEyUN7xB2yVXHoNSB6jWMLhxTtu9LqItz3TNMkY5P59w2MW5dRYcLBp1hakchf5442zpMwNG3nzombXfaoo7O5IzgNw61nsbKWAjaKGP8D9ITLy11wkHBUUAwksYEqTiH27t7FTgpa5fpJQ42t6lVqO8qcbI57oWnxc7o8SWLupLpIiiZW6eBqj4/s1600/proofpoint.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "82167f895ff5",
+      "title": "A critical PHP vulnerability may take websites down today",
+      "url": "https://www.theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress",
+      "source": "The Verge",
+      "published": "2026-10-21T11:49:17+00:00",
+      "excerpt": "Security patches for the PHP programming language, widely used to build websites and web apps, are expected to roll out today, with the goal of fixing two critical vulnerabilities that could wreak havoc on the internet if left unchecked...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/VRG_ILLO_STK001_carlo_cadenas_cybersecurity_virus.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "47e798982b8e",
+      "title": "Exclusive: ServiceNow and Nvidia launch Arc, a new AI agent for enterprise",
+      "url": "https://www.zdnet.com/innovation/exclusive-servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise/",
+      "source": "ZDNET",
+      "published": "2026-10-21T11:30:00+00:00",
+      "excerpt": "The two companies are trying to solve the AI agent security conundrum with multiple layers of real-time security checks.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2299990631.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "713262acc4ba",
+      "title": "Two dangerous internet security issues are putting site admins on edge",
+      "url": "https://www.engadget.com/2292647/two-dangerous-internet-security-issues-are-putting-site-admins-on-edge/",
+      "source": "Engadget",
+      "published": "2026-10-21T11:02:54+00:00",
+      "excerpt": "The web is a bit of a hot mess today following the discovery of two severe vulnerabilities.",
+      "image": "https://www.engadget.com/img/gallery/two-dangerous-internet-security-issues-are-putting-site-admins-on-edge/l-intro-1792580279.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "37e508782d81",
+      "title": "Samsung is rolling out Android 17 updates for some of its most popular Galaxy phones",
+      "url": "https://9to5google.com/2026/10/21/samsung-android-17-update-galaxy-a-s23-more/",
+      "source": "9to5Google",
+      "published": "2026-10-21T11:00:00+00:00",
+      "excerpt": "Samsung continues its One UI 9 rollout, bringing Android 17 updates to a flurry of Galaxy devices including some of its most popular mid-rangers and last-gen flagships including Galaxy S23, Galaxy A36, and many more. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/galaxy-a37-1.webp?w=1600",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "7b95c7f5c622",
+      "title": "OpenAI's agents disabled their own safety monitoring systems",
+      "url": "https://www.engadget.com/2292644/openai-agents-disabled-own-safety-monitoring-systems/",
+      "source": "Engadget",
+      "published": "2026-10-21T10:53:21+00:00",
+      "excerpt": "OpenAI reveals that its agents misbehaved by switching off the system monitoring them for misbehaviors.",
+      "image": "https://www.engadget.com/img/gallery/openais-agents-disabled-their-own-safety-monitoring-systems/l-intro-1792579899.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "ec0fd993c8b5",
+      "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
+      "url": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
+      "source": "The Hacker News",
+      "published": "2026-10-21T10:36:53+00:00",
+      "excerpt": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggested it now says. PHP will release the fix...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipzsA5sBIvBsTGT1YIrSeK_4YH5ISqTd40ZG1tV8YN1VkjjZuiY6CfQojYR-TIoYKM0EgZM4fYrmdtD25XjeTtgBkTFCQGny4DLL0fTKT5SEFpOFBcxNjLgif_FrX-1d-IX9DE58tQX6ELzGk4cWNpUpU5Eaig8pqdLL2h6qqVCC95ZmHFN6m7tD6m7BY/s1600/php-rce-patch.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "f31f85df952c",
+      "title": "The Harness Is the Hard Part of Agentic Pentesting",
+      "url": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
+      "source": "The Hacker News",
+      "published": "2026-10-21T10:32:40+00:00",
+      "excerpt": "An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those attacks safe to run against production and worth acting on...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTdLja8gnPl92G1mhffmAZ3Dy5Q8gX9wpjY22n1J2xerzpx0Eab4VMj2fzt3XAe_TjT8hlDkjdzW8DdBwWCvAPa9o5SKnFN4MSo5H0MnXylWX36NwFiwcI19f3MR0QDPT2uKXtXH4RAj5_rU3aBnmAVxsczeL2sfBj7G1r878XbJ6rAyEFgIg0XeuBNKk/s1600/pentera-main.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "00d9c6c07315",
+      "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
+      "url": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
+      "source": "The Hacker News",
+      "published": "2026-10-21T10:30:27+00:00",
+      "excerpt": "Attackers took control of more than 300 Tor exit relays in early October and used them to redirect SSH connections to servers that stole login passwords, a researcher found. Exit relays are the last hop in a Tor circuit, where traffic...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-PokIxnQKc5RkxwrgRCR7Aaw8sjbkT1F4TQWCIG2V_rhQVKp8CJgtivgF5Zns45rObi0Tf-e9FDBXdX0L7OUshol00GvpiQhAi3SUAa72DV-bjeDu2oNzET9uV_cIQV2U9jSXGC2qiWWOr00M1ZYPAtcaWJNSn2_IH_BwPWVaUEqqjpmUSgfhIvRUdbY/s1600/tor-ssh.jpg",
+      "category": "Cloud Computing"
+    },
     {
       "id": "705a2aee0bf3",
       "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
       "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
       "source": "The Hacker News",
-      "published": "2026-10-21T04:57:50+00:00",
-      "excerpt": "PHP will ship an out-of-cycle security release at 14:00 UTC today, October 21, for two critical vulnerabilities that its security team has rated 9.2 on the CVSS v4.0 scale but has not described. Security researchers at watchTowr say the...",
+      "published": "2026-10-21T09:05:17+00:00",
+      "excerpt": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory. PHP will ship an out-of-cycle security...",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxq1wmaSTaMiFJnrulXjwGrIIkIHBR3Q9Yv6Lky3rAie6XPOnFmXOVckMgVzGn9yvodrbkt6kV623Ofg8Iw-1MTDRoCVzXPiikivnZ5R7OynIF5-QC0DAiwXq8q2MRS3PZaz9NpjhJUqa-QWi1AQJ2XnJ-nvUNEvG3f1E0UpU5slUwzguAI-cESkZ5Xc/s1600/php2shell.jpg",
       "category": "Software Development"
+    },
+    {
+      "id": "7f88afbf76a3",
+      "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
+      "url": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
+      "source": "The Hacker News",
+      "published": "2026-10-21T09:01:12+00:00",
+      "excerpt": "Unknown threat actors breached TeamUpdraft's website and potentially gained unauthorized access to customers' connection keys for UpdraftCentral, UpdraftVault, and UpdraftClone, using them to backdoor WordPress sites. TeamUpdraft is the...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdsSYB_dpfRL3wD0MeCT_VyPyFJS8HjQAW0VuBHSTviFY4WBOQfa8MCP79qyJR3zYyMBesIXiCtL8XwwtjjLGm9Stxdv_qoIkf3_Rpc7YGFwZuzVS974TbuDfF5GkLRJX2DxFaDudlMlXSDyiZ8fvoVGaKaA-tpCr_eAvvEsfQr1uyfdBk-8KyK4aisYgC/s1600/wp-backdoor.jpg",
+      "category": "Web Development"
+    },
+    {
+      "id": "bb2ca1255a4e",
+      "title": "SpaceX and Tesla are exploring a possible merger",
+      "url": "https://www.engadget.com/2292594/spacex-tesla-exploring-possible-merger/",
+      "source": "Engadget",
+      "published": "2026-10-21T08:40:59+00:00",
+      "excerpt": "SpaceX and Tesla have formed special committees to discuss a merger, but Elon Musk says it's not a certainty.",
+      "image": "https://www.engadget.com/img/gallery/spacex-and-tesla-are-exploring-a-possible-merger/l-intro-1792571852.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "0c6fe061465a",
+      "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases",
+      "url": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
+      "source": "The Hacker News",
+      "published": "2026-10-21T08:04:17+00:00",
+      "excerpt": "U.S. federal civilian agencies must remove DeepSeek products from their information technology systems, along with any third-party products or services \"developed using DeepSeek implementations,\" under a Department of Homeland Security...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjAZGBcWVyeZELPmEq7fujTJPeDgQoEZQpt7sD2rB1EO9fXByN2kmezefmvfihwR7fDE-77o-JVKB8bASzvKamkZB9kx9SstR2PA529wjrAWiSr1IBHEfrShRbiOd3PG2OP3iqygUb_ZeXYBSzrTN86MY5pjngL6WsqwoqJYYzUXSSVCJNKihe8F7FKsA/s1600/deepseek-dhs.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "17efaa05bd14",
+      "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
+      "url": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
+      "source": "The Hacker News",
+      "published": "2026-10-21T07:44:22+00:00",
+      "excerpt": "State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark web, and it does not yet know where the data came from. The state-owned bank, India's...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlQofjstTN3Rpma_akZslqH5L5GLXJ6yhYDWwr5R-rK78jnhUq0L0jk3Ds7sYrlCMjyV8SPGb9PqOr1n46ssgdRRdSdFxPVHc-uxVaVm_l-atc0RXV2MTG6Y5AmIivnljGOMRIKNxeOlIfzIuDdZGl7CHP_Xplctaz8YkiWvriWkCgQ8GyKkR804LI0KQ/s1600/sbi-data-breach.jpg",
+      "category": "Data & Analytics"
+    },
+    {
+      "id": "f6fe2f9557b7",
+      "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
+      "url": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
+      "source": "The Hacker News",
+      "published": "2026-10-21T07:26:49+00:00",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including four vulnerabilities impacting Plex Media Server that's collectively...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNWLuogjq0EVRQo6oTMUucF21anDW9Jpvs5w98qm-I6hOqH4fU1ZeHA1DqNilI_drxE548BnZD4vkXfB3KmWXAm4xfU3KU3j38LI-ZXhB03kZy4rWc9qiQqSED6vVjxihA1-uM_46qlXjjDchlvKmtgFG-ym3oosqXFEED6w2mG_Zb-yHjq4IIPcFDeX13/s1600/cisa-patch.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "bd60f0eb51aa",
+      "title": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion",
+      "url": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
+      "source": "The Hacker News",
+      "published": "2026-10-21T06:05:15+00:00",
+      "excerpt": "A Belarus-aligned hacktivist group spent nearly two years within the network of a Russian healthcare organization. According to a report published by Russian cybersecurity firm Solar, the activity has been attributed to a threat cluster...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwNHgVe_6hmXG-V6Nx8pk56jDEW1WRCKtvvG9RHugoj65LqTTVGLvgl1Eh1E7ClmyMDn9k4RrF7Yp1kteZvZ_r7v9IxQPG_Eif3nk_13gz_MSddPcBtJdLKFwYAPa4BKMN5FdZLvvTIjahr4aTdiiLeQMuVzrj8Ff9wvgmUCW_6_OyfXPSGIEEIxZgdtQ-/s1600/vmware-healthcare.jpg",
+      "category": "Cybersecurity"
     },
     {
       "id": "2411e8b45618",
@@ -138,7 +408,7 @@
       "source": "TechCrunch",
       "published": "2026-10-20T21:25:22+00:00",
       "excerpt": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -198,7 +468,7 @@
       "source": "TechCrunch",
       "published": "2026-10-20T20:40:41+00:00",
       "excerpt": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-2.40.46-PM.png?resize=1130,1200",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -208,7 +478,7 @@
       "source": "TechCrunch",
       "published": "2026-10-20T20:35:10+00:00",
       "excerpt": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/pills-GettyImages-157287767.jpg?resize=1200,800",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -258,7 +528,7 @@
       "source": "TechCrunch",
       "published": "2026-10-20T20:00:00+00:00",
       "excerpt": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Gemini-google-vehicles.jpeg?w=1200",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -308,7 +578,7 @@
       "source": "TechCrunch",
       "published": "2026-10-20T19:32:43+00:00",
       "excerpt": "GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with the automaker's electrification strategy.",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1237977593.jpg?resize=1200,800",
+      "image": "",
       "category": "Software Development"
     },
     {
@@ -329,276 +599,6 @@
       "published": "2026-10-20T18:56:50+00:00",
       "excerpt": "After announcing plans to introduce its own streaming service last month, JustWatch, a popular guide and search engine for finding things to watch on existing platforms like Disney Plus and Netflix, launched JustWatch TV today. The new...",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/justwatch.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "cd605ea9f119",
-      "title": "Microsoft reportedly plans Xbox handheld in 2027, next-gen console in 2028",
-      "url": "https://www.theverge.com/news/1014666/xbox-project-helix-launch-2028-rumor",
-      "source": "The Verge",
-      "published": "2026-10-20T18:45:39+00:00",
-      "excerpt": "Microsoft is reportedly planning to launch an Xbox \"next-generation handheld device\" for the holiday season of 2027. The Xbox next-gen console, codenamed Project Helix, would then launch in the holidays of 2028, according to a new report...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290359/STK048_XBOX_C.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Enterprise Software & SaaS"
-    },
-    {
-      "id": "2e553dc45565",
-      "title": "Google has joined Amazon in attacking Nvidia\u2019s stronghold with AI app developers",
-      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-      "source": "TechCrunch",
-      "published": "2026-10-20T18:38:24+00:00",
-      "excerpt": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2215577882.jpg?resize=1200,800",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "b799bf523cce",
-      "title": "ChatGPT now lets you lock your chats",
-      "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-      "source": "TechCrunch",
-      "published": "2026-10-20T18:36:53+00:00",
-      "excerpt": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them...",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "10efd8edcbd8",
-      "title": "How long can you expect your original Steam Deck to last?",
-      "url": "https://www.engadget.com/2289277/how-long-steam-deck-last-lifespan-support/",
-      "source": "Engadget",
-      "published": "2026-10-20T18:30:00+00:00",
-      "excerpt": "The original Steam Deck has been around for a while, but unless you only play the heaviest games, it should be great for some time more.",
-      "image": "https://www.engadget.com/img/gallery/how-long-can-you-expect-your-original-steam-deck-to-last/l-intro-1791573909.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "ad48e9acde7f",
-      "title": "AMD is bringing its next-gen FSR 4.1 upscaling tech to Xbox",
-      "url": "https://www.engadget.com/2292103/amd-is-bringing-its-next-gen-fsr-41-upscaling-tech-to-xbox/",
-      "source": "Engadget",
-      "published": "2026-10-20T18:17:00+00:00",
-      "excerpt": "Coming soon to the X/S and Ally devices.",
-      "image": "https://www.engadget.com/img/gallery/amd-is-bringing-its-next-gen-fsr-4-1-upscaling-tech-to-xbox/l-intro-1792520179.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "e439a8e0aa89",
-      "title": "YouTube starts hiding the dislike button on normal videos",
-      "url": "https://9to5google.com/2026/10/20/youtube-hidden-dislike-button-test/",
-      "source": "9to5Google",
-      "published": "2026-10-20T18:10:00+00:00",
-      "excerpt": "After removing dislike counts years ago, new UI tests at YouTube are making it harder to even using the dislike button at all. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/06/youtube-logo-desktop-3.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "f52190a49967",
-      "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
-      "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
-      "source": "The Verge",
-      "published": "2026-10-20T18:07:34+00:00",
-      "excerpt": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_A.png?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "08f1d3045fd3",
-      "title": "Today\u2019s Android app deals and freebies: Chrono Trigger, Next Level, Not A Bot, more",
-      "url": "https://9to5toys.com/2026/10/20/todays-highlight-google-play-deals-32/",
-      "source": "9to5Google",
-      "published": "2026-10-20T18:06:17+00:00",
-      "excerpt": "Today\u2019s best Google Play app and game deals are ready, including DRAGON QUEST IV, Next Level, Not A Bot, Eco inc. Save the Earth, Cafeteria Nipponica, Spin Miner: Idle Gold Tycoon, Chrono Trigger, and more. If you\u2019re quick you might also...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-Play-collage-c9c028.webp?w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "8139871fd53b",
-      "title": "How often should you restart your Apple Watch?",
-      "url": "https://www.engadget.com/2288986/how-often-should-restart-apple-watch/",
-      "source": "Engadget",
-      "published": "2026-10-20T18:00:00+00:00",
-      "excerpt": "Your Apple Watch doesn't need frequent restarts like a computer, but you might still want to shut down when something's off.",
-      "image": "https://www.engadget.com/img/gallery/how-often-should-you-restart-your-apple-watch/l-intro-1792170963.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "7fe075e5e5f0",
-      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-      "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-      "source": "TechCrunch",
-      "published": "2026-10-20T17:55:12+00:00",
-      "excerpt": "Eric Schmidt\u2019s fortune is about to get even bigger.",
-      "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "9987932c5739",
-      "title": "The $20,000 Voxel bot will help you find misplaced things around your home",
-      "url": "https://www.theverge.com/tech/1014533/tuesday-labs-voxel-series-1-home-robot-reservation",
-      "source": "The Verge",
-      "published": "2026-10-20T17:49:55+00:00",
-      "excerpt": "Tuesday Labs, a New York City-based robotics lab and design studio, has opened reservations for Voxel, its new bi-pedal robot designed to learn and take over routine tasks throughout your home. Similar to other robots like Weave Robotics'...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/voxel1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "ae00a5f4e8c7",
-      "title": "You can cut your cell phone bill to $10/month or get a Pixel 11 for $400 right now \u2013 here\u2019s how",
-      "url": "https://9to5google.com/2026/10/20/mint-mobile-10-month-deal-pixel-11-deals/",
-      "source": "9to5Google",
-      "published": "2026-10-20T17:15:00+00:00",
-      "excerpt": "Mint Mobile has two killer offers going for cell service and/or a Google Pixel 11, both of which can save you hundreds compared to the alternatives. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-in-Obsidian-various-2.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "319f79c551ee",
-      "title": "Meta\u2019s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
-      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-      "source": "TechCrunch",
-      "published": "2026-10-20T17:12:48+00:00",
-      "excerpt": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
-      "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "e37a921adae6",
-      "title": "Spotify is dancing around its AI 'slop and spam' problem",
-      "url": "https://www.engadget.com/2291954/spotify-is-dancing-around-its-ai-slop-and-spam-problem/",
-      "source": "Engadget",
-      "published": "2026-10-20T17:11:26+00:00",
-      "excerpt": "The company said it removed 50 million such tracks from recommendations, but hasn't necessarily wiped them entirely.",
-      "image": "https://www.engadget.com/img/gallery/spotify-is-dancing-around-its-ai-slop-and-spam-problem/l-intro-1792516193.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "1530955429aa",
-      "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
-      "url": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
-      "source": "The Hacker News",
-      "published": "2026-10-20T17:09:53+00:00",
-      "excerpt": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised, Mozilla and Google's Chrome Root Program confirms on October 20. An intermediate CA signs the certificates that websites present, so...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJOWLzgriXXM626bAOaX_LEoNH97Ab_XV4oQ0GxBeY3-PqkdXdcae52-wrl8r0LipTFBsvl4R7Y5j6jFsiG_9V8ZAwHOkAlsZaRcOAswStHhAG1FYm9W6kjA4FmOz0bXgVXO6LyEs9Fv75UrRFphZEzhXodKdTlYzfPK8sqW3DpxKBnD7OFQfqJJ_ay2c/s1600/ecert.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "6d1023110992",
-      "title": "Chrome will now show a warning before you visit \u2018suspicious\u2019 sites",
-      "url": "https://www.theverge.com/tech/1014446/google-chrome-suspicious-website-warning",
-      "source": "The Verge",
-      "published": "2026-10-20T17:00:00+00:00",
-      "excerpt": "Google is launching a new browser safety feature for Chrome that aims to keep you better informed about how malicious a website might be before you open it. The new suspicious site warnings, available when Chrome's Enhanced Protection is...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Google-Chrome-suspicious-website-warning-hero.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Web Development"
-    },
-    {
-      "id": "de468e3ff6ce",
-      "title": "Google says Chrome\u2019s Safe Browsing Enhanced Protection mode makes users 10x safer",
-      "url": "https://9to5google.com/2026/10/20/safe-browsing-enhanced-protection-updates/",
-      "source": "9to5Google",
-      "published": "2026-10-20T17:00:00+00:00",
-      "excerpt": "Chrome today announced the latest features for Safe Browsing Enhanced Protection. Google says this mode makes users ten times safer from phishing, social engineering, notification abuse, and other scams compared to Standard Protection...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Chrome-Suspicious-Site-Warnings.jpg?quality=82&strip=all&w=1600",
-      "category": "Web Development"
-    },
-    {
-      "id": "9d0cbb2ced76",
-      "title": "Don't put your phone in the TSA bin \u2014 do this instead",
-      "url": "https://www.engadget.com/2288969/why-shouldnt-put-phone-tsa-bin/",
-      "source": "Engadget",
-      "published": "2026-10-20T16:45:00+00:00",
-      "excerpt": "Let's be honest, TSA bins are just gross.",
-      "image": "https://www.engadget.com/img/gallery/dont-put-your-phone-in-the-tsa-bin-do-this-instead/l-intro-1792170181.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "857bd7c875c8",
-      "title": "AMD is bringing FSR 4.1 to Xbox consoles and handhelds",
-      "url": "https://www.theverge.com/news/1014455/amd-fsr-4-1-xbox-consoles-handhelds-laptops",
-      "source": "The Verge",
-      "published": "2026-10-20T16:21:18+00:00",
-      "excerpt": "AMD has just revealed that it's bringing its latest upscaling technology, FSR 4.1, to the Xbox Series S and X consoles, as well as laptops, 6000-series GPUs, and handhelds like the Xbox Ally X devices. FSR 4.1 will start appearing for...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/3b4peqgb3j7f1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "2d379e8ffc91",
-      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: \u2018Physical AI is in its LEGO era\u2019",
-      "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-      "source": "TechCrunch",
-      "published": "2026-10-20T16:20:06+00:00",
-      "excerpt": "It\u2019s the moment everyone is waiting for \u2014 the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch\u2019s Equity.",
-      "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "e3ed975a16e3",
-      "title": "Older Pixel phones appear to be getting Google\u2019s new 3D emoji",
-      "url": "https://9to5google.com/2026/10/20/older-pixels-getting-3d-emoji/",
-      "source": "9to5Google",
-      "published": "2026-10-20T16:06:33+00:00",
-      "excerpt": "Google\u2019s redesigned 3D emoji library debuted on the Pixel 11, but might now be slowly appearing on older Pixel devices. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-11-Pro-Updated-Emoji.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "3b29865c9823",
-      "title": "Streaming guide JustWatch becomes a streamer itself",
-      "url": "https://techcrunch.com/2026/10/20/streaming-guide-justwatch-becomes-a-streamer-itself/",
-      "source": "TechCrunch",
-      "published": "2026-10-20T16:01:24+00:00",
-      "excerpt": "JustWatch, the popular streaming search guide used by 50 million people, is launching its own streaming service, offering free, ad-supported movies and shows alongside a $3.99-per-month ad-free tier and movie rentals.",
-      "image": "",
-      "category": "Software Development"
-    },
-    {
-      "id": "7ada51372b27",
-      "title": "Arturia\u2019s MiniFreak 49 makes its Freak synths more professional",
-      "url": "https://www.theverge.com/gadgets/1014255/arturias-minifreak-49-synthesizer",
-      "source": "The Verge",
-      "published": "2026-10-20T16:00:00+00:00",
-      "excerpt": "Arturia is adding to its Freak line of proudly weird digital synths with the MiniFreak 49. Under the hood, it's almost identical to the current MiniFreak, but it adds a number of more professional features and some interface improvements...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Playful2.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "87c5cb39af2e",
-      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-      "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-      "source": "TechCrunch",
-      "published": "2026-10-20T16:00:00+00:00",
-      "excerpt": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
-      "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "d32b9660471c",
-      "title": "Deals: Galaxy S26 Ultra $455 off brand new, TCL Android tab at $150, docks, magnetic chargers, more",
-      "url": "https://9to5google.com/2026/10/20/deals-galaxy-s26-ultra-tcl-android-tab-magnetic-chargers/",
-      "source": "9to5Google",
-      "published": "2026-10-20T15:46:47+00:00",
-      "excerpt": "Alongside $455 price drop on Samsung Galaxy S26 Ultra (could disappear at any minute). We also have 2026 TCL TAB 10 Gen 4 Android Tablet down at $150 , launch deals on the new smart display-equipped Baseus Spacemate RD1 docks at up to 35%...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/9to5Google-Oct-20.webp?w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "9f8273565fc0",
-      "title": "The Gospel according to Peter (Thiel)",
-      "url": "https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis",
-      "source": "The Verge",
-      "published": "2026-10-20T15:45:00+00:00",
-      "excerpt": "It's a time of apocalyptic worldviews in Silicon Valley. The latest AI doom cycle is driven by effective altruism (EA), a philosophy that has lurked around the fringes for years but recently burst into the mainstream because its adherents...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/258014_Peter_Thiel_LKantrowitz.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "6045b6cd4100",
-      "title": "5 ways to make your old iPhone feel faster",
-      "url": "https://www.engadget.com/2288921/ways-make-old-iphone-feel-faster/",
-      "source": "Engadget",
-      "published": "2026-10-20T15:45:00+00:00",
-      "excerpt": "Your iPhone will slow down over time, but some changes can help it run at its best for longer.",
-      "image": "https://www.engadget.com/img/gallery/5-ways-to-make-your-old-iphone-feel-faster/l-intro-1792168459.jpg",
       "category": "Software Development"
     }
   ]
