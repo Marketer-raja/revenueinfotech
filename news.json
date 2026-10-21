@@ -1,14 +1,414 @@
 {
-  "updated": "2026-10-21T13:45:25+00:00",
+  "updated": "2026-10-21T18:36:22+00:00",
   "items": [
     {
+      "id": "c56385baeae6",
+      "title": "Xbox mandates a four-day return to office",
+      "url": "https://www.theverge.com/report/1015733/xbox-return-to-office-policy-four-days",
+      "source": "The Verge",
+      "published": "2026-10-21T18:31:15+00:00",
+      "excerpt": "Microsoft asked its employees to return to the office three days per week last year, and it's now upping this requirement to four days a week for most Xbox employees. An internal memo, seen by The Verge, describes the change as a \"need to...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485114/STK048_XBOX2__A.png?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Enterprise Software & SaaS"
+    },
+    {
+      "id": "825451af395a",
+      "title": "Honor\u2019s new gaming phone & tablet have 10,000+ mAh batteries, fans, up to 240Hz OLED display",
+      "url": "https://9to5google.com/2026/10/21/honors-new-gaming-phone-tablet-have-10000-mah-batteries-fans-up-to-240hz-oled-display/",
+      "source": "9to5Google",
+      "published": "2026-10-21T18:30:00+00:00",
+      "excerpt": "The Honor Win2 series and the Honor Tablet are pushing the boundaries of mobile tech, with impressive specs, built-in fans, and the same excellent eye care features the company is known for. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/honor-win2-fans.jpg?quality=82&strip=all&w=1444",
+      "category": "Software Development"
+    },
+    {
+      "id": "f5335e20393b",
+      "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
+      "url": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
+      "source": "The Hacker News",
+      "published": "2026-10-21T18:01:57+00:00",
+      "excerpt": "The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and Upwind. The compromise...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-f1TsJE93kcT5Cp1wvKlnR-bCWFP9ZUZofd0PXryxRBt0B1q0-t0BaHnEJcNhy3IhRZq2fBU9fmILshSvlY-qk28TOO-f1JoBcGSRtwiC3MIV4gDxdXYzTS_ZMirtPka7UaG9Shie7kgWKzauZOwKgPvk8hHXUTFly2YXpzBuxUD20MdxBfKeXrRsIG-W/s1600/litellm-hack.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "6215fd7aa112",
+      "title": "Will TP-Link really make routers in the US? Here\u2019s what it told us",
+      "url": "https://www.theverge.com/policy/1013807/tp-link-router-us-onshoring-manufacturing-assembly-interview",
+      "source": "The Verge",
+      "published": "2026-10-21T18:00:00+00:00",
+      "excerpt": "TP-Link, one of the world's leading manufacturers of consumer Wi-Fi routers, is in a precarious position in the US. The company just launched its first Wi-Fi 8 routers, but can't bring them here because of President Donald Trump's foreign...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/tp-link-wifi-8.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "1494a6697f40",
+      "title": "Xbox Cloud Gaming\u2019s pay-as-you-go option starts at $3.99 for 10 hours",
+      "url": "https://www.theverge.com/news/1015321/xbox-cloud-gaming-pay-as-you-go-cloud-hours-pricing",
+      "source": "The Verge",
+      "published": "2026-10-21T18:00:00+00:00",
+      "excerpt": "Microsoft announced last month that it will let anyone access Xbox Cloud Gaming in November, without the need to subscribe to Xbox Game Pass. The new pay-as-you-go model will require players to purchase bundles of cloud hours, and now...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22478836/acastro_210429_1777_0004.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Cloud Computing"
+    },
+    {
+      "id": "7c5ac7acb914",
+      "title": "GM is giving OnStar an AI makeover",
+      "url": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
+      "source": "TechCrunch",
+      "published": "2026-10-21T18:00:00+00:00",
+      "excerpt": "It's one of the biggest overhauls ever to the 30-year-old connected car product.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-AI-Assistant.jpg?resize=1200,624",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "a61190ef2d92",
+      "title": "PHP armageddon: OpenAI, Google\u2019s Wiz find ancient holes, panicking the internet",
+      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+      "source": "TechCrunch",
+      "published": "2026-10-21T17:59:12+00:00",
+      "excerpt": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-460689215.jpg?resize=1200,801",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "570a432281f5",
+      "title": "Mid-week Android app deals and freebies: Lara Croft GO, Between Kilometers, Find it All, more",
+      "url": "https://9to5toys.com/2026/10/21/todays-highlight-google-play-deals-33/",
+      "source": "9to5Google",
+      "published": "2026-10-21T17:46:16+00:00",
+      "excerpt": "Today\u2019s best Google Play app and game deals are ready, including Lara Croft GO, Between Kilometers \u2013 Together, Abyss \u2013 Dungeon Action RPG, Find it All, Slime Tower Defense TD, and more. Just be sure to dive into Galaxy Z Fold 8 at up to...",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-Play-collage-d42a17.webp?w=1600",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "5edbda4726b0",
+      "title": "There's a new Apple Music logo and it looks like ripples in water",
+      "url": "https://www.engadget.com/2293262/theres-a-new-apple-music-logo-and-it-looks-like-ripples-in-water/",
+      "source": "Engadget",
+      "published": "2026-10-21T17:35:47+00:00",
+      "excerpt": "Maybe they should use it as the app logo instead.",
+      "image": "https://www.engadget.com/img/gallery/theres-a-new-apple-music-logo-and-it-looks-like-ripples-in-water/l-intro-1792604071.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "d534e648cbd2",
+      "title": "OpenAI GPT models are coming to Google Antigravity \u2018soon,\u2019 Cloud \u2018in the coming weeks\u2019",
+      "url": "https://9to5google.com/2026/10/21/openai-gpt-models-google-antigravity-cloud/",
+      "source": "9to5Google",
+      "published": "2026-10-21T17:30:00+00:00",
+      "excerpt": "A deal struck between OpenAI and Google will see OpenAI\u2019s models coming to Google Cloud and even Antigravity. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/Google-Antigravity-1.jpg?quality=82&strip=all&w=1600",
+      "category": "Cloud Computing"
+    },
+    {
+      "id": "7427c42a84e4",
+      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+      "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+      "source": "TechCrunch",
+      "published": "2026-10-21T17:18:27+00:00",
+      "excerpt": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Blacksmith.jpg?resize=1200,800",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "62a7dd4018a9",
+      "title": "The Galaxy Tab S10 FE+ just hit one of its lowest price in months",
+      "url": "https://9to5google.com/2026/10/21/the-galaxy-tab-s10-fe-just-hit-its-lowest-price-in-months/",
+      "source": "9to5Google",
+      "published": "2026-10-21T17:00:00+00:00",
+      "excerpt": "If you are in the market for a new Android tablet, you cannot go wrong with the Galaxy Tab S10 FE+, with a deal bringing the 256GB model down to $599 on Amazon right now. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/04/galaxy-tab-s10-fe-plus-1.jpg?quality=82&strip=all&w=1600",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "27160a917683",
+      "title": "Waymo starts offering rides at the Las Vegas airport",
+      "url": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/",
+      "source": "TechCrunch",
+      "published": "2026-10-21T16:59:44+00:00",
+      "excerpt": "Pickups and dropoffs will happen at dedicated \"autonomous vehicle zones\" at Terminal 1 and Terminal 3.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/waymo-ojai-street.jpg?resize=1200,801",
+      "category": "Software Development"
+    },
+    {
+      "id": "3bea7c376d08",
+      "title": "Chrome warns you about suspicious websites now \u2013 how to turn on Google\u2019s new scam protection",
+      "url": "https://www.zdnet.com/business/chrome-browser-warns-suspicious-websites-scam-protection/",
+      "source": "ZDNET",
+      "published": "2026-10-21T16:43:12+00:00",
+      "excerpt": "Google\u2019s browser will flash two types of warnings based on whether the site is deemed dangerous or just suspicious.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Chrome-Enhance-protection-in-Safe-Browsing-mode.jpg",
+      "category": "Web Development"
+    },
+    {
+      "id": "3be1e464c007",
+      "title": "Google Wallet rolling out notifications feed, support for more digital passports",
+      "url": "https://9to5google.com/2026/10/21/google-wallet-notifications-passports/",
+      "source": "9to5Google",
+      "published": "2026-10-21T16:37:14+00:00",
+      "excerpt": "After the stacked card list redesign , Google Wallet for Android is gaining a notifications feed and support for more passports. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/03/Id-pass-Google-Wallet-how-to-1.jpg?quality=82&strip=all&w=1600",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "2cd8b2bd53ed",
+      "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
+      "url": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
+      "source": "The Hacker News",
+      "published": "2026-10-21T16:33:47+00:00",
+      "excerpt": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and one GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks. The AI company said the...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLjuo6QB0kLx2z3u5thyphenhyphenjrULwTFigmtHb1U1y6141FNvIITM2nytdxcKmShZMElSSZdMFbnGfiwjTIpqOYtNzK3gAeSGkEVr8XnsPB9RF1GOh-6qqkXPmX8SY2COyV0eyA6khfN3QYzF-Ydbsz8Mw8jBmFDouame4hTt0ulaNxq0pPTR4FKFuVyQ2Ln6WC/s1600/openai-bot.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "7664f1f356fa",
+      "title": "iPhone Duo review roundup: The same problems Android foldables face, but with Apple\u2019s polish",
+      "url": "https://9to5google.com/2026/10/21/iphone-duo-review-roundup/",
+      "source": "9to5Google",
+      "published": "2026-10-21T16:15:00+00:00",
+      "excerpt": "Apple\u2019s first foldable has arrived, the better part of a decade after Android laid the groundwork for the form factor. iPhone Duo reviews are here and, while it sounds like a lot of the same problems that plague Android foldables still...",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/iphone-duo-9to5mac-review.webp?w=1600",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "ceb6c35f55a7",
+      "title": "Sony's PlayStation Pulse headset arrives on November 19 for $100",
+      "url": "https://www.engadget.com/2293077/sonys-playstation-pulse-headset-arrives-on-november-19-for-dollar100/",
+      "source": "Engadget",
+      "published": "2026-10-21T16:09:48+00:00",
+      "excerpt": "Pre-orders open on October 29.",
+      "image": "https://www.engadget.com/img/gallery/sonys-playstation-pulse-headset-arrives-on-november-19-for-100/l-intro-1792598917.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "f278bfa8c6ce",
+      "title": "Supernatural\u2019s comeback starts today, with more music and VR workouts coming soon",
+      "url": "https://www.theverge.com/tech/1015550/supernatural-vr-workout-app-relaunch",
+      "source": "The Verge",
+      "published": "2026-10-21T16:05:51+00:00",
+      "excerpt": "Despite Meta saying it would stop creating new content for Supernatural, the beloved fitness VR game is back after spinning off to go its own way and is relaunching with an Early Access preview in the Meta Horizon Store. Thousands of...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268305_Supernatural_Sherry_LPhilomene_0024.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "f241e1df001d",
+      "title": "Supernatural's VR exercise app has relaunched on Meta VR headsets",
+      "url": "https://www.engadget.com/2293056/supernaturals-vr-exercise-app-has-relaunched-on-meta-vr-headsets/",
+      "source": "Engadget",
+      "published": "2026-10-21T16:00:00+00:00",
+      "excerpt": "It's in early access and subscriptions cost $20 per month or $200 each year.",
+      "image": "https://www.engadget.com/img/gallery/supernaturals-vr-exercise-app-has-relaunched-on-meta-vr-headsets/l-intro-1792598064.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "0f41d12da3ad",
+      "title": "Supernatural, the best VR workout app, makes its glorious comeback today",
+      "url": "https://9to5google.com/2026/10/21/supernatural-the-best-vr-workout-app-makes-its-glorious-comeback-today/",
+      "source": "9to5Google",
+      "published": "2026-10-21T16:00:00+00:00",
+      "excerpt": "Supernatural made a name for itself as the de facto workout app through the COVID era and beyond, and is coming back from the grave as an independent app, starting today. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/supernatural-returns-meta-vr-glasses.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "0353f17717e3",
+      "title": "Apple Music has a new logo",
+      "url": "https://www.theverge.com/tech/1015533/apple-music-new-logo",
+      "source": "The Verge",
+      "published": "2026-10-21T15:48:12+00:00",
+      "excerpt": "Apple is officially launching a rebrand of Apple Music. Following the appearance of a redesigned wordmark in a video and an updated app icon in an iOS 27.2 beta, Apple introduced the new \"identity\" for Apple Music today. There's a new...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_70284.png?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "55fe71b32538",
+      "title": "Deals: Galaxy Z Fold 8 up to $580 off, S26 Ultra $420 off, new Amazon Fire TV Stick 4K 50% off, more",
+      "url": "https://9to5google.com/2026/10/21/deals-galaxy-z-fold-8-amazon-fire-tv-stick-lg-c6/",
+      "source": "9to5Google",
+      "published": "2026-10-21T15:38:14+00:00",
+      "excerpt": "We now have a solid $420 price drop on Samsung Galaxy S26 Ultra, but today\u2019s 9to5Toys Lunch Break is headlined by the most affordable $30 all-time low (50% off), a relatively rare deal on Zelda Ocarina of Time remake release. Head below...",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/9to5Google-Oct-21.webp?w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "6103f66c459f",
+      "title": "Google TV powers the RayNeo Pocket TV Pro glasses, and that\u2019s exactly the problem",
+      "url": "https://9to5google.com/2026/10/21/google-tv-powers-the-rayneo-pocket-tv-pro-glasses-and-thats-exactly-the-problem/",
+      "source": "9to5Google",
+      "published": "2026-10-21T15:30:00+00:00",
+      "excerpt": "The Google TV platform is amazing on the big screen, but its limitations make it more frustrating than it should be on the mobile RayNeo Pocket TV Pro. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/rayneo-pocket-tv-rayneo-gt-glasses-unimpressed.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "d57338db09bb",
+      "title": "Google reiterates missing Fibit Air sleep breathing quality feature coming \u2018soon\u2019",
+      "url": "https://9to5google.com/2026/10/21/fitbit-air-delayed-sleep-breathing-feature-coming-soon/",
+      "source": "9to5Google",
+      "published": "2026-10-21T15:18:29+00:00",
+      "excerpt": "Google is holding off on a sleep breathing quality feature it promised for the Fitbit Air. It launched for the Pixel Watch last month. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Fitbit-Air-in-Fog-1.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "1bbb4f6fc3d1",
+      "title": "Conversational Gemini navigation comes to Apple CarPlay",
+      "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+      "source": "The Verge",
+      "published": "2026-10-21T15:00:00+00:00",
+      "excerpt": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\"...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "9ef1663b8abf",
+      "title": "Now you can chat with Gemini while using Google Maps through CarPlay",
+      "url": "https://www.engadget.com/2292912/now-you-can-chat-with-gemini-while-using-google-maps-through-carplay/",
+      "source": "Engadget",
+      "published": "2026-10-21T15:00:00+00:00",
+      "excerpt": "Just tap the new Gemini icon to get started.",
+      "image": "https://www.engadget.com/img/gallery/now-you-can-chat-with-gemini-while-using-google-maps-through-carplay/l-intro-1792593259.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "37d0ca652ce9",
+      "title": "Review: The Oppo Find X10 Pro Max is a gut punch in a post-OnePlus world",
+      "url": "https://9to5google.com/2026/10/21/oppo-find-x10-pro-max-review/",
+      "source": "9to5Google",
+      "published": "2026-10-21T15:00:00+00:00",
+      "excerpt": "OnePlus is dead. The enthusiast-focused brand turned Oppo for the rest of the world was shuttered, ironically only for the rest of the world, earlier this year and its memory loomed large over my past few weeks using the Oppo Find X10 Pro...",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/oppo-find-x10-pro-max-6.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "311d9a3d0e1d",
+      "title": "Google Maps on CarPlay rolling out Gemini when navigating",
+      "url": "https://9to5google.com/2026/10/21/google-maps-carplay-gemini/",
+      "source": "9to5Google",
+      "published": "2026-10-21T15:00:00+00:00",
+      "excerpt": "Google Maps in CarPlay now lets you access Gemini when navigating for a conversational driving experience. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-Google-Maps-CarPlay.jpg?quality=82&strip=all&w=1600",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "10f4648d2df6",
+      "title": "The wide folds are coming; foldable display shipments to increase by 44% in 2026, analysts say",
+      "url": "https://9to5google.com/2026/10/21/wide-foldable-popularity-sparks-display-shipment-increase-prediction/",
+      "source": "9to5Google",
+      "published": "2026-10-21T14:48:32+00:00",
+      "excerpt": "Samsung is expected to play a major role in what analysts predict will be a 44% increase in foldable display shipments in 2026, thanks to the popularity of wider foldables. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-32.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "13e8a4aa3072",
+      "title": "Google Pixel\u2019s solution to using Face Unlock in the dark seems to be just blinding you",
+      "url": "https://9to5google.com/2026/10/21/google-pixel-face-unlock-illumination-code-leaks/",
+      "source": "9to5Google",
+      "published": "2026-10-21T14:30:00+00:00",
+      "excerpt": "Google\u2019s Face Unlock feature on Pixel phones works really well, until the lights go out. The company appears to be building out a new upgrade to this with \u201cactive illumination\u201d which is\u2026 just turning up the screen brightness. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/11/Face-Unlock-screen-on-Pixel-9.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "1326b727f62a",
+      "title": "Apple says it only has \u2018limited\u2019 iPhone Duo units for in-store sales",
+      "url": "https://www.theverge.com/tech/1015372/apple-says-it-only-has-limited-iphone-duo-units-for-in-store-sales",
+      "source": "The Verge",
+      "published": "2026-10-21T14:22:59+00:00",
+      "excerpt": "Apple says it will have \"limited\" iPhone Duo models for sale in stores, according to a report from Reuters. The iPhone Duo launches on Friday, October 23rd, but online preorders quickly sold out, with some delivery estimates extending into...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1499.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "66efef2be627",
+      "title": "Foursquare co-founder says equity holders saw no returns from the company\u2019s acquisition",
+      "url": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
+      "source": "TechCrunch",
+      "published": "2026-10-21T14:03:11+00:00",
+      "excerpt": "Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/foursquare-city-guides.jpg?resize=1200,797",
+      "category": "Enterprise Software & SaaS"
+    },
+    {
+      "id": "ae9c16f75d65",
+      "title": "Amazon unveiled 5 new Blink cameras, including a 4K model that caught my eye",
+      "url": "https://www.zdnet.com/home-and-office/new-amazon-blink-cameras-worth-the-upgrade/",
+      "source": "ZDNET",
+      "published": "2026-10-21T14:01:31+00:00",
+      "excerpt": "Five new Blink cameras are coming to the market, and the extended-range model has all my attention.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Blink-Frontier-XR_BLK_1600x900-copy.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "5765f068d39a",
+      "title": "Blink brings 4K to its low-cost security camera lineup",
+      "url": "https://www.theverge.com/tech/1015238/amazon-blink-4k-trail-security-camera-launch",
+      "source": "The Verge",
+      "published": "2026-10-21T14:00:00+00:00",
+      "excerpt": "Amazon is launching a new lineup of Blink security cameras, including its first 4K, pan-tilt models, and battery-powered spotlight models. These new additions provide better resolution and extended range for monitoring your property...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Blink-security-camera-lineup.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "6c14b19c5f4c",
+      "title": "AI promises productivity, but for managers, it\u2019s mostly a headache for now",
+      "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+      "source": "TechCrunch",
+      "published": "2026-10-21T14:00:00+00:00",
+      "excerpt": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-157163369.jpg?resize=1200,900",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "6478f5844cef",
+      "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
+      "url": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
+      "source": "The Hacker News",
+      "published": "2026-10-21T14:00:00+00:00",
+      "excerpt": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35, and the PHP team says only...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz8MKP95jyzesxy1eZd6zQDCb3dr-9m-bRE9W0PYnomN3z8lodXmM_0Oo4AAiP_nt2QMNpLxsUNPKueH4TW6FnvXl7ijDGDwxnXcfiyAII6sUDd8cfKoB7Z3MgLOvcAWDeplnUdixy-zfpgVqCuAVZmqH-Orn4S-QhYREVcY1ew7_6kIG8LBsdLZC8Ofs/s1600/PHP2SHELL.gif",
+      "category": "Software Development"
+    },
+    {
+      "id": "c55b4c3c8ca2",
+      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "source": "The Verge",
+      "published": "2026-10-21T13:57:43+00:00",
+      "excerpt": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "96dbea069000",
+      "title": "Google gives Pixel 9 another year of free Satellite SOS connectivity",
+      "url": "https://9to5google.com/2026/10/21/google-gives-pixel-9-another-year-of-free-satellite-sos-connectivity/",
+      "source": "9to5Google",
+      "published": "2026-10-21T13:55:00+00:00",
+      "excerpt": "Google won\u2019t start charging for the Satellite SOS feature on its Pixel 9 series phones just yet, despite the timer having run out. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/08/Pixel-9-Satellite-SOS-how-to-6.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "f04a58e5ceab",
+      "title": "Now Serato DJ works on your iPhone",
+      "url": "https://www.theverge.com/tech/1015319/serato-dj-for-ios",
+      "source": "The Verge",
+      "published": "2026-10-21T13:51:31+00:00",
+      "excerpt": "Serato DJ for iOS is finally bringing the company's pro-level DJ suite to the iPhone and iPad. Until now, the company had only dipped its toes into mobile software, with apps like Pyro that basically just added some autofades between songs...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DJ-for-iOS-iPhone-Handheld-1920x1080-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
       "id": "294744de6228",
-      "title": "Heat pump tech is 170 years old. Pascal thinks it\u2019s time for an update.",
+      "title": "Heat pump tech is 170 years old \u2014 Pascal thinks it\u2019s time for an update",
       "url": "https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/",
       "source": "TechCrunch",
       "published": "2026-10-21T13:30:00+00:00",
       "excerpt": "Refrigerants startup Pascal has a new take on heat pump and cooling tech using a sponge-like material that promises to be 20% more efficient.",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1418464846.jpg?resize=1200,774",
+      "image": "",
       "category": "Enterprise Software & SaaS"
     },
     {
@@ -38,7 +438,7 @@
       "source": "TechCrunch",
       "published": "2026-10-21T13:00:00+00:00",
       "excerpt": "The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/mach9-founders.jpg?resize=1200,800",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -143,7 +543,7 @@
     },
     {
       "id": "47e798982b8e",
-      "title": "Exclusive: ServiceNow and Nvidia launch Arc, a new AI agent for enterprise",
+      "title": "ServiceNow and Nvidia launch Arc, a new AI agent for enterprise",
       "url": "https://www.zdnet.com/innovation/exclusive-servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise/",
       "source": "ZDNET",
       "published": "2026-10-21T11:30:00+00:00",
@@ -200,406 +600,6 @@
       "excerpt": "An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those attacks safe to run against production and worth acting on...",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTdLja8gnPl92G1mhffmAZ3Dy5Q8gX9wpjY22n1J2xerzpx0Eab4VMj2fzt3XAe_TjT8hlDkjdzW8DdBwWCvAPa9o5SKnFN4MSo5H0MnXylWX36NwFiwcI19f3MR0QDPT2uKXtXH4RAj5_rU3aBnmAVxsczeL2sfBj7G1r878XbJ6rAyEFgIg0XeuBNKk/s1600/pentera-main.jpg",
       "category": "Artificial Intelligence"
-    },
-    {
-      "id": "00d9c6c07315",
-      "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
-      "url": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
-      "source": "The Hacker News",
-      "published": "2026-10-21T10:30:27+00:00",
-      "excerpt": "Attackers took control of more than 300 Tor exit relays in early October and used them to redirect SSH connections to servers that stole login passwords, a researcher found. Exit relays are the last hop in a Tor circuit, where traffic...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-PokIxnQKc5RkxwrgRCR7Aaw8sjbkT1F4TQWCIG2V_rhQVKp8CJgtivgF5Zns45rObi0Tf-e9FDBXdX0L7OUshol00GvpiQhAi3SUAa72DV-bjeDu2oNzET9uV_cIQV2U9jSXGC2qiWWOr00M1ZYPAtcaWJNSn2_IH_BwPWVaUEqqjpmUSgfhIvRUdbY/s1600/tor-ssh.jpg",
-      "category": "Cloud Computing"
-    },
-    {
-      "id": "705a2aee0bf3",
-      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
-      "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
-      "source": "The Hacker News",
-      "published": "2026-10-21T09:05:17+00:00",
-      "excerpt": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory. PHP will ship an out-of-cycle security...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxq1wmaSTaMiFJnrulXjwGrIIkIHBR3Q9Yv6Lky3rAie6XPOnFmXOVckMgVzGn9yvodrbkt6kV623Ofg8Iw-1MTDRoCVzXPiikivnZ5R7OynIF5-QC0DAiwXq8q2MRS3PZaz9NpjhJUqa-QWi1AQJ2XnJ-nvUNEvG3f1E0UpU5slUwzguAI-cESkZ5Xc/s1600/php2shell.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "7f88afbf76a3",
-      "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
-      "url": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
-      "source": "The Hacker News",
-      "published": "2026-10-21T09:01:12+00:00",
-      "excerpt": "Unknown threat actors breached TeamUpdraft's website and potentially gained unauthorized access to customers' connection keys for UpdraftCentral, UpdraftVault, and UpdraftClone, using them to backdoor WordPress sites. TeamUpdraft is the...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdsSYB_dpfRL3wD0MeCT_VyPyFJS8HjQAW0VuBHSTviFY4WBOQfa8MCP79qyJR3zYyMBesIXiCtL8XwwtjjLGm9Stxdv_qoIkf3_Rpc7YGFwZuzVS974TbuDfF5GkLRJX2DxFaDudlMlXSDyiZ8fvoVGaKaA-tpCr_eAvvEsfQr1uyfdBk-8KyK4aisYgC/s1600/wp-backdoor.jpg",
-      "category": "Web Development"
-    },
-    {
-      "id": "bb2ca1255a4e",
-      "title": "SpaceX and Tesla are exploring a possible merger",
-      "url": "https://www.engadget.com/2292594/spacex-tesla-exploring-possible-merger/",
-      "source": "Engadget",
-      "published": "2026-10-21T08:40:59+00:00",
-      "excerpt": "SpaceX and Tesla have formed special committees to discuss a merger, but Elon Musk says it's not a certainty.",
-      "image": "https://www.engadget.com/img/gallery/spacex-and-tesla-are-exploring-a-possible-merger/l-intro-1792571852.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "0c6fe061465a",
-      "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases",
-      "url": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
-      "source": "The Hacker News",
-      "published": "2026-10-21T08:04:17+00:00",
-      "excerpt": "U.S. federal civilian agencies must remove DeepSeek products from their information technology systems, along with any third-party products or services \"developed using DeepSeek implementations,\" under a Department of Homeland Security...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjAZGBcWVyeZELPmEq7fujTJPeDgQoEZQpt7sD2rB1EO9fXByN2kmezefmvfihwR7fDE-77o-JVKB8bASzvKamkZB9kx9SstR2PA529wjrAWiSr1IBHEfrShRbiOd3PG2OP3iqygUb_ZeXYBSzrTN86MY5pjngL6WsqwoqJYYzUXSSVCJNKihe8F7FKsA/s1600/deepseek-dhs.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "17efaa05bd14",
-      "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
-      "url": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
-      "source": "The Hacker News",
-      "published": "2026-10-21T07:44:22+00:00",
-      "excerpt": "State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark web, and it does not yet know where the data came from. The state-owned bank, India's...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlQofjstTN3Rpma_akZslqH5L5GLXJ6yhYDWwr5R-rK78jnhUq0L0jk3Ds7sYrlCMjyV8SPGb9PqOr1n46ssgdRRdSdFxPVHc-uxVaVm_l-atc0RXV2MTG6Y5AmIivnljGOMRIKNxeOlIfzIuDdZGl7CHP_Xplctaz8YkiWvriWkCgQ8GyKkR804LI0KQ/s1600/sbi-data-breach.jpg",
-      "category": "Data & Analytics"
-    },
-    {
-      "id": "f6fe2f9557b7",
-      "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
-      "url": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
-      "source": "The Hacker News",
-      "published": "2026-10-21T07:26:49+00:00",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including four vulnerabilities impacting Plex Media Server that's collectively...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNWLuogjq0EVRQo6oTMUucF21anDW9Jpvs5w98qm-I6hOqH4fU1ZeHA1DqNilI_drxE548BnZD4vkXfB3KmWXAm4xfU3KU3j38LI-ZXhB03kZy4rWc9qiQqSED6vVjxihA1-uM_46qlXjjDchlvKmtgFG-ym3oosqXFEED6w2mG_Zb-yHjq4IIPcFDeX13/s1600/cisa-patch.jpg",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "bd60f0eb51aa",
-      "title": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion",
-      "url": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
-      "source": "The Hacker News",
-      "published": "2026-10-21T06:05:15+00:00",
-      "excerpt": "A Belarus-aligned hacktivist group spent nearly two years within the network of a Russian healthcare organization. According to a report published by Russian cybersecurity firm Solar, the activity has been attributed to a threat cluster...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwNHgVe_6hmXG-V6Nx8pk56jDEW1WRCKtvvG9RHugoj65LqTTVGLvgl1Eh1E7ClmyMDn9k4RrF7Yp1kteZvZ_r7v9IxQPG_Eif3nk_13gz_MSddPcBtJdLKFwYAPa4BKMN5FdZLvvTIjahr4aTdiiLeQMuVzrj8Ff9wvgmUCW_6_OyfXPSGIEEIxZgdtQ-/s1600/vmware-healthcare.jpg",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "2411e8b45618",
-      "title": "Google rolling out minor Nest Hub update",
-      "url": "https://9to5google.com/2026/10/20/google-rolling-out-minor-nest-hub-update/",
-      "source": "9to5Google",
-      "published": "2026-10-21T02:35:00+00:00",
-      "excerpt": "Google is rolling out yet another update to its Nest Hub family but, as per usual, don\u2019t expect much. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/04/Photo-frame-demo-Nest-Hub-2nd-Gen.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "23f909b5d1b9",
-      "title": "PHP warns it plans to release 2 emergency patches imminently",
-      "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
-      "source": "Ars Technica",
-      "published": "2026-10-21T02:12:18+00:00",
-      "excerpt": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "e4d086444409",
-      "title": "What can you use your Apple Watch Ultra 4 action button for?",
-      "url": "https://www.engadget.com/2289282/apple-watch-ultra-4-action-button-uses-explained/",
-      "source": "Engadget",
-      "published": "2026-10-20T23:30:00+00:00",
-      "excerpt": "Here's what your Apple Watch Ultra 4 action button can really do, from launching workouts and retracing routes to controlling smart home devices with one tap.",
-      "image": "https://www.engadget.com/img/gallery/what-can-you-use-your-apple-watch-ultra-4-action-button-for/l-intro-1791574824.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "b6629abae55b",
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "source": "TechCrunch",
-      "published": "2026-10-20T23:01:23+00:00",
-      "excerpt": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "6e95d2ebaa25",
-      "title": "Five things you should know before buying the iPhone Duo",
-      "url": "https://www.engadget.com/2289279/things-know-before-buying-iphone-duo/",
-      "source": "Engadget",
-      "published": "2026-10-20T23:00:00+00:00",
-      "excerpt": "From software limitations to the pre-sale deals, here's what you need to know ahead of the iPhone Duo launch.",
-      "image": "https://www.engadget.com/img/gallery/five-things-you-should-know-before-buying-the-iphone-duo/l-intro-1791925293.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "17f20161d88a",
-      "title": "SpaceX and Tesla boards form special committees to review merger",
-      "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
-      "source": "TechCrunch",
-      "published": "2026-10-20T22:57:57+00:00",
-      "excerpt": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/space-tesla-cybertruck.jpg?resize=1200,801",
-      "category": "Software Development"
-    },
-    {
-      "id": "60f9f63a806e",
-      "title": "Fitbit Edge vs. Fitbit Inspire 3: How these Google fitness trackers compare",
-      "url": "https://www.engadget.com/2289183/fitbit-edge-vs-inspire-3-google-fitness-tracker-comparison/",
-      "source": "Engadget",
-      "published": "2026-10-20T22:30:00+00:00",
-      "excerpt": "Google's latest tracker is a middle ground between a simple tracker and full smartwatch.",
-      "image": "https://www.engadget.com/img/gallery/fitbit-edge-vs-fitbit-inspire-3-how-these-google-fitness-trackers-compare/l-intro-1792178621.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "7f6bb9c0aa50",
-      "title": "Google\u2019s more personalized Gemini AI is heading to your car",
-      "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-      "source": "The Verge",
-      "published": "2026-10-20T22:11:34+00:00",
-      "excerpt": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/google-gemini-personal-intelligence.png?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "69e64097b7f0",
-      "title": "The next Xbox might cost $1,800, report says",
-      "url": "https://www.engadget.com/2292408/the-next-xbox-might-cost-1800-report-says/",
-      "source": "Engadget",
-      "published": "2026-10-20T22:01:23+00:00",
-      "excerpt": "Microsoft is targeting a 2028 release for its next-gen Xbox, which could be incredibly expensive, according to details reported in a profile with Xbox's CEO.",
-      "image": "https://www.engadget.com/img/gallery/the-next-xbox-might-cost-1800-report-says/l-intro-1792533408.jpg",
-      "category": "Enterprise Software & SaaS"
-    },
-    {
-      "id": "c7177123ffbb",
-      "title": "What to expect at Apple's 'Pro and Tell' event on October 28",
-      "url": "https://www.engadget.com/2292117/apple-pro-and-tell-event-october-28-what-to-expect/",
-      "source": "Engadget",
-      "published": "2026-10-20T22:00:00+00:00",
-      "excerpt": "From the first touchscreen MacBook to an OLED iPad mini, here's everything Apple is expected to announce next week.",
-      "image": "https://www.engadget.com/img/gallery/what-to-expect-at-apples-pro-and-tell-event-on-october-28/l-intro-1792520191.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "5c7bb258ed3a",
-      "title": "The latest PlayStation firmware may have already been cracked ahead of GTA 6",
-      "url": "https://www.engadget.com/2292388/playstation-5-hackers-crack-gta-6-firmware/",
-      "source": "Engadget",
-      "published": "2026-10-20T21:30:57+00:00",
-      "excerpt": "Hackers aren't giving up at cracking the Playstation 5's latest firmware as evidenced by a new video showing an apparent kernel exploit.",
-      "image": "https://www.engadget.com/img/gallery/the-latest-playstation-firmware-may-have-already-been-cracked-ahead-of-gta-6/l-intro-1792530805.jpg",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "589388b0b142",
-      "title": "Tesla and SpaceX are discussing a possible merger, Musk says",
-      "url": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
-      "source": "The Verge",
-      "published": "2026-10-20T21:30:24+00:00",
-      "excerpt": "Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. Musk, who serves as CEO of both companies, said the special committees were formed at the...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "dd8747983c69",
-      "title": "Anthropic\u2019s cloud partnerships are getting messy",
-      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-      "source": "TechCrunch",
-      "published": "2026-10-20T21:25:22+00:00",
-      "excerpt": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
-      "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "64fae5c49cbd",
-      "title": "Here\u2019s everything new in Android 17 QPR3 Beta 2 [Gallery]",
-      "url": "https://9to5google.com/2026/10/20/android-17-qpr3-beta-2-everything-new/",
-      "source": "9to5Google",
-      "published": "2026-10-20T21:05:40+00:00",
-      "excerpt": "Google today rolled out Android 17 QPR3 Beta 2 with a number of fixes for Pixel devices. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Android-17-QPR1-yellow.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "9bc55b99a313",
-      "title": "ChatGPT now lets you lock sensitive chats behind a PIN",
-      "url": "https://www.engadget.com/2292365/chatgpt-now-lets-you-lock-sensitive-chats-behind-a-pin/",
-      "source": "Engadget",
-      "published": "2026-10-20T21:05:00+00:00",
-      "excerpt": "OpenAI has introduced a new \"locked chats\" feature to protect users' more sensitive conversations with ChatGPT.",
-      "image": "https://www.engadget.com/img/gallery/chatgpt-now-lets-you-lock-sensitive-chats-behind-a-pin/l-intro-1792535723.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "0181caf4503d",
-      "title": "SpaceX will try catching Starship and its booster for first time, Musk says",
-      "url": "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says",
-      "source": "The Verge",
-      "published": "2026-10-20T21:02:53+00:00",
-      "excerpt": "SpaceX CEO Elon Musk said the company would attempt to catch Starship and its booster next month, with the goal of recovering the entire orbital launch system for the first time. If successful, Musk said, the attempt would mark the first...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/52822624215_2e5d62e50a_o.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "3c6f8793f34b",
-      "title": "Judge tosses sexual abuse lawsuit from Sam Altman's sister",
-      "url": "https://www.engadget.com/2292346/judge-tosses-sexual-abuse-lawsuit-from-sam-altmans-sister/",
-      "source": "Engadget",
-      "published": "2026-10-20T20:53:25+00:00",
-      "excerpt": "A lawsuit brought by the OpenAI CEO's sister was dismissed after Anne Altman refused a medical exam.",
-      "image": "https://www.engadget.com/img/gallery/judge-tosses-sexual-abuse-lawsuit-from-sam-altmans-sister/l-intro-1792529383.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "370bc8e92e47",
-      "title": "The Sideload 048: It\u2019s AI Mania, Not AI Psychosis",
-      "url": "https://9to5google.com/2026/10/20/the-sideload-048-its-ai-mania-not-ai-psychosis/",
-      "source": "9to5Google",
-      "published": "2026-10-20T20:52:13+00:00",
-      "excerpt": "Welcome to episode 48 of The Sideload, a 9to5Google podcast. This week, Will is joined by Daniel Bader to discuss AI mania, vibe coding, and the uneasy feeling of finding useful tools in an industry you inherently cannot trust. Sponsored...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/sideload-podcast-wider-copy-1.jpg?quality=82&strip=all&w=1600",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "4e839948c5b0",
-      "title": "SpaceX\u2019s AI business is beating expectations",
-      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-      "source": "TechCrunch",
-      "published": "2026-10-20T20:40:41+00:00",
-      "excerpt": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
-      "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "aeaa448f66c5",
-      "title": "OpenAI acquires startup Orchestra Bio\u2060 to beef up its biotech business",
-      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-      "source": "TechCrunch",
-      "published": "2026-10-20T20:35:10+00:00",
-      "excerpt": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
-      "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "4eecb6b253e3",
-      "title": "Snap is paying Robert Downey Jr. to do the Iron Man thing",
-      "url": "https://www.theverge.com/tech/1014869/snap-specs-robert-downey-jr",
-      "source": "The Verge",
-      "published": "2026-10-20T20:32:09+00:00",
-      "excerpt": "Snap has a new brand ambassador for its Specs AR glasses: Iron Man actor Robert Downey Jr. The company has brought on Downey as Specs' \"Chief Customer Experience Officer\" and has published several videos featuring Downey showcasing the...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_10042.png?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "6ca287db7dba",
-      "title": "Android 17 QPR3 Beta 2 for Pixel rolling out with 21 fixes",
-      "url": "https://9to5google.com/2026/10/20/android-17-qpr3-beta-2-pixel/",
-      "source": "9to5Google",
-      "published": "2026-10-20T20:31:34+00:00",
-      "excerpt": "The Android 17 QPR3 preview ahead of the March 2027 launch continues today with Beta 2 for Google Pixel devices. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-1.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "c089821d1e06",
-      "title": "Final Payday: Aces High playtest on Meta Quest and Steam comes with a free mask this week",
-      "url": "https://9to5google.com/2026/10/20/payday-aces-high-playtest-meta-quest-free-mask/",
-      "source": "9to5Google",
-      "published": "2026-10-20T20:30:00+00:00",
-      "excerpt": "Payday\u2019s first full-VR game is on the cusp of release, but you don\u2019t have to wait! Join the playtest now and get exclusive rewards when the full game releases on November 5. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/PSX_20261020_161631.png?w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "6a9736c4a4b3",
-      "title": "Meta suspends Muse chats sharing feature after it left private details exposed",
-      "url": "https://www.engadget.com/2292281/meta-suspends-muse-chats-sharing-feature-after-it-left-private-details-exposed/",
-      "source": "Engadget",
-      "published": "2026-10-20T20:00:43+00:00",
-      "excerpt": "Researchers accessed 6,800 shared conversations with the AI agent, including internal company documents.",
-      "image": "https://www.engadget.com/img/gallery/meta-suspends-muse-chats-sharing-feature-after-it-left-private-details-exposed/l-intro-1792526399.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "0e9ae3eb35f0",
-      "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
-      "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
-      "source": "TechCrunch",
-      "published": "2026-10-20T20:00:00+00:00",
-      "excerpt": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.",
-      "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "44376cf48e80",
-      "title": "Google brings Gemini Personal Intelligence to Android Auto",
-      "url": "https://www.engadget.com/2292027/google-brings-gemini-personal-intelligence-to-android-auto/",
-      "source": "Engadget",
-      "published": "2026-10-20T20:00:00+00:00",
-      "excerpt": "In the coming months, the feature will also roll out to cars with Google built-in.",
-      "image": "https://www.engadget.com/img/gallery/google-brings-gemini-personal-intelligence-to-android-auto/l-intro-1792518047.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "92b35d0bc473",
-      "title": "Gemini on Android Auto can access my photos, emails, and calendar now \u2013 why I\u2019m OK with that (mostly)",
-      "url": "https://www.zdnet.com/tech/gemini-on-android-auto-can-look-through-my-photos-emails-and-calendar-now-im-cautiously-optimistic/",
-      "source": "ZDNET",
-      "published": "2026-10-20T20:00:00+00:00",
-      "excerpt": "The latest Android Auto update lets the AI assistant tap into your Google services for context-based responses.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_4285.jpeg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "ce54ddcb54b6",
-      "title": "Google upgrading Gemini for Android Auto with Personal Intelligence",
-      "url": "https://9to5google.com/2026/10/20/gemini-android-auto-personal-intelligence/",
-      "source": "9to5Google",
-      "published": "2026-10-20T20:00:00+00:00",
-      "excerpt": "Google is beginning to roll out Personal Intelligence for Gemini on Android Auto and Android Automotive (cars with Google built-in). more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-Personal-Intelligence-Android-Auto.jpg?quality=82&strip=all&w=1600",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "c645704d900c",
-      "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
-      "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
-      "source": "Ars Technica",
-      "published": "2026-10-20T19:47:35+00:00",
-      "excerpt": "Intermediate certs allow anyone to mint web credentials for any Internet server.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-1152x648.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "01dc03ee61c3",
-      "title": "GM to close Detroit battery-assembly plant, but not for reasons you might think",
-      "url": "https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/",
-      "source": "TechCrunch",
-      "published": "2026-10-20T19:32:43+00:00",
-      "excerpt": "GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with the automaker's electrification strategy.",
-      "image": "",
-      "category": "Software Development"
-    },
-    {
-      "id": "933195697744",
-      "title": "Xbox CEO is reportedly planning three more rounds of layoffs",
-      "url": "https://www.theverge.com/games/1014700/xbox-ceo-asha-sharma-layoffs",
-      "source": "The Verge",
-      "published": "2026-10-20T19:06:40+00:00",
-      "excerpt": "Xbox CEO Asha Sharma is planning new rounds of layoffs for sometime this month, November, and January, according to Fortune. In July, as part of an organizational \"reset,\" Sharma announced planned layoffs affecting 3,200 staffers over the...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK048_XBOX_2_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Enterprise Software & SaaS"
-    },
-    {
-      "id": "37f767649b34",
-      "title": "JustWatch now streams TV shows and movies, too",
-      "url": "https://www.theverge.com/entertainment/1014640/justwatch-tv-plus-free-store-streaming-service-movie-rental",
-      "source": "The Verge",
-      "published": "2026-10-20T18:56:50+00:00",
-      "excerpt": "After announcing plans to introduce its own streaming service last month, JustWatch, a popular guide and search engine for finding things to watch on existing platforms like Disney Plus and Netflix, launched JustWatch TV today. The new...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/justwatch.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
     }
   ]
 }
