@@ -1,7 +1,103 @@
 {
-  "updated": "2026-10-21T22:18:58+00:00",
+  "updated": "2026-10-22T01:29:27+00:00",
   "auto": true,
   "items": [
+    {
+      "id": "d652a02279b4",
+      "title": "Not impressed with Google Maps? Make Waze your default on Pixel \u2013 here\u2019s how",
+      "summary": "If you\u2019re tired of Google Maps failing to get you where you need to go, set Waze as the default on your Pixel. I\u2019ve finally figured out how.",
+      "source": "ZDNET",
+      "url": "https://www.zdnet.com/tech/waze-your-way-to-a-different-default-map-app-on-pixel/",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/wazehero2.jpg",
+      "category": "Software Development",
+      "section": "hero",
+      "featured": true,
+      "published": "2026-10-22T01:00:00+00:00"
+    },
+    {
+      "id": "e7c2b56037de",
+      "title": "Tesla says it will start selling Cybercabs by end of year",
+      "summary": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering...",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Cybercab_76.jpg?resize=1200,675",
+      "category": "Software Development",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-22T00:17:54+00:00"
+    },
+    {
+      "id": "84ad5b5c753b",
+      "title": "YouTube says it isn\u2019t testing hiding the dislike button",
+      "summary": "On Tuesday, I published a story about how YouTube appeared to be testing hiding the dislike button on videos, with at least two users on X sharing screenshots of the dislike button moved into the three-dot menu. But a YouTube spokesperson...",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK092_03.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-21T23:46:45+00:00"
+    },
+    {
+      "id": "8d0e217e826a",
+      "title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year \u2014 will it happen?",
+      "summary": "For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's third-quarter earnings call, the company...",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-21T23:36:31+00:00"
+    },
+    {
+      "id": "f7403dc55170",
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
+      "category": "Artificial Intelligence",
+      "section": "latest",
+      "featured": false,
+      "published": "2026-10-21T22:45:34+00:00"
+    },
+    {
+      "id": "118bbdbccd39",
+      "title": "INMO GO3 smart glasses pack a display and Gemini integration with clever camera privacy",
+      "summary": "There are two problems with smart glasses today. Most don\u2019t deliver that futuristic display we all want to have, and the camera has become a serious point of friction. INMO GO3 solve both problems while also supporting Google\u2019s Gemini and...",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/10/21/inmo-go3-smart-glasses-pack-a-display-and-gemini-integration-with-clever-camera-privacy/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/inmo-go3-1.png?w=1600",
+      "category": "Artificial Intelligence",
+      "section": "latest",
+      "featured": false,
+      "published": "2026-10-21T22:45:00+00:00"
+    },
+    {
+      "id": "ae351f7918f0",
+      "title": "Mark Zuckerberg says Meta is 'entering a new phase' with Muse",
+      "summary": "Zuckerberg expects the agent will generate more revenue per user than the company's apps.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2293705/mark-zuckerberg-says-meta-is-entering-a-new-phase-with-muse/",
+      "image": "https://www.engadget.com/img/gallery/mark-zuckerberg-says-meta-is-entering-a-new-phase-with-muse/l-intro-1792621715.jpg",
+      "category": "Software Development",
+      "section": "latest",
+      "featured": false,
+      "published": "2026-10-21T22:36:03+00:00"
+    },
+    {
+      "id": "33fab8fdc973",
+      "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
+      "summary": "Survey of 2,018 IT heads at big firms points to a lack of leverage.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-832621336-1024x648.jpg",
+      "category": "Software Development",
+      "section": "latest",
+      "featured": false,
+      "published": "2026-10-21T21:48:52+00:00"
+    },
     {
       "id": "86bbef590f28",
       "title": "Meta to create a new class of shares to fund AI push",
@@ -10,8 +106,8 @@
       "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Artificial Intelligence",
-      "section": "hero",
-      "featured": true,
+      "section": "latest",
+      "featured": false,
       "published": "2026-10-21T21:30:02+00:00"
     },
     {
@@ -22,7 +118,7 @@
       "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
       "category": "Artificial Intelligence",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-21T21:14:19+00:00"
     },
@@ -34,7 +130,7 @@
       "url": "https://www.engadget.com/2293646/claude-duet-is-anthropics-answer-to-meta-muse-and-openai-dots/",
       "image": "https://www.engadget.com/img/gallery/claude-duet-is-anthropics-answer-to-meta-muse-and-openai-dots/l-intro-1792616502.jpg",
       "category": "Artificial Intelligence",
-      "section": "brief",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-21T21:03:19+00:00"
     },
@@ -46,19 +142,19 @@
       "url": "https://9to5google.com/2026/10/21/walkman-player-for-the-galaxy-z-fold-8/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-FOld-8-walkman-music-player.jpg?quality=82&strip=all&w=1400",
       "category": "Software Development",
-      "section": "brief",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-21T21:01:25+00:00"
     },
     {
       "id": "c600bafa0bd3",
       "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
-      "summary": "Just 9 months after raising an $180 million seed round, Flapping Airplanes has landed $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
+      "summary": "Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/02/Flapping-Airplanes-founders-photo.jpg?resize=1200,821",
       "category": "Artificial Intelligence",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-21T20:57:40+00:00"
     },
@@ -70,7 +166,7 @@
       "url": "https://www.engadget.com/2293625/government-websites-in-the-eu-and-canada-taken-offline-over-php-vulnerability/",
       "image": "https://www.engadget.com/img/gallery/government-websites-in-eu-and-canada-taken-offline-over-php-vulnerability/l-intro-1792616156.jpg",
       "category": "Cybersecurity",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-21T20:56:47+00:00"
     },
@@ -82,7 +178,7 @@
       "url": "https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2300700160.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-21T20:49:07+00:00"
     },
@@ -94,7 +190,7 @@
       "url": "https://www.theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS487_ANTITRUST_2__STK043_META.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-21T20:46:56+00:00"
     },
@@ -106,7 +202,7 @@
       "url": "https://9to5google.com/2026/10/21/claude-duet-anthropic-ai-agent-waitlist/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/claude-duet-1.jpg?quality=82&strip=all&w=1280",
       "category": "Artificial Intelligence",
-      "section": "latest",
+      "section": "none",
       "featured": false,
       "published": "2026-10-21T20:45:00+00:00"
     },
@@ -118,7 +214,7 @@
       "url": "https://www.engadget.com/2293597/new-mexico-court-order-meta-pay-25-billion-privacy-case/",
       "image": "https://www.engadget.com/img/gallery/meta-ordered-to-cough-up-25-billion-in-new-mexico-privacy-case/l-intro-1792615292.jpg",
       "category": "Data & Analytics",
-      "section": "latest",
+      "section": "none",
       "featured": false,
       "published": "2026-10-21T20:43:17+00:00"
     },
@@ -130,7 +226,7 @@
       "url": "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Artificial Intelligence",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-21T20:36:56+00:00"
     },
@@ -142,7 +238,7 @@
       "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/04/tesla-opitmus-Getty.jpg?resize=1200,800",
       "category": "Artificial Intelligence",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-21T20:33:09+00:00"
     },
@@ -154,7 +250,7 @@
       "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2157738833.jpg?resize=1200,800",
       "category": "Artificial Intelligence",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-21T20:27:41+00:00"
     },
@@ -166,7 +262,7 @@
       "url": "https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23382326/VRG_Illo_STK022_K_Radtke_Musk_Tesla.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-21T20:22:31+00:00"
     },
@@ -178,7 +274,7 @@
       "url": "https://www.theverge.com/tech/1015276/bose-acquisition-skullcandy-headphones-earbuds-speakers",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/skullcandy1.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-21T20:15:00+00:00"
     },
@@ -190,7 +286,7 @@
       "url": "https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/",
       "image": "https://techcrunch.com/wp-content/uploads/2024/11/wordpress-automattic-v3.jpg?resize=1200,800",
       "category": "Enterprise Software & SaaS",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-21T20:15:00+00:00"
     },
@@ -220,7 +316,7 @@
     },
     {
       "id": "c77bdd3c5dfc",
-      "title": "Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal",
+      "title": "Meta ordered to pay $25B in case related to Cambridge Analytica scandal",
       "summary": "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
@@ -416,7 +512,7 @@
       "summary": "It's one of the biggest overhauls ever to the 30-year-old connected car product.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-AI-Assistant.jpg?resize=1200,624",
+      "image": "",
       "category": "Artificial Intelligence",
       "section": "none",
       "featured": false,
@@ -424,11 +520,11 @@
     },
     {
       "id": "a61190ef2d92",
-      "title": "PHP armageddon: OpenAI, Google\u2019s Wiz find ancient holes, panicking the internet",
+      "title": "PHP Armageddon: OpenAI, Google\u2019s Wiz find ancient holes, panicking the internet",
       "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-460689215.jpg?resize=1200,801",
+      "image": "",
       "category": "Artificial Intelligence",
       "section": "none",
       "featured": false,
@@ -476,7 +572,7 @@
       "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Blacksmith.jpg?resize=1200,800",
+      "image": "",
       "category": "Artificial Intelligence",
       "section": "none",
       "featured": false,
@@ -497,7 +593,7 @@
     {
       "id": "27160a917683",
       "title": "Waymo starts offering rides at the Las Vegas airport",
-      "summary": "Pickups and dropoffs will happen at dedicated \"autonomous vehicle zones\" at Terminal 1 and Terminal 3.",
+      "summary": "Waymo only just started offering rides to the public in Las Vegas in September but is already serving a 24-square-mile area in the city.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/",
       "image": "",
@@ -625,102 +721,6 @@
       "section": "none",
       "featured": false,
       "published": "2026-10-21T15:38:14+00:00"
-    },
-    {
-      "id": "6103f66c459f",
-      "title": "Google TV powers the RayNeo Pocket TV Pro glasses, and that\u2019s exactly the problem",
-      "summary": "The Google TV platform is amazing on the big screen, but its limitations make it more frustrating than it should be on the mobile RayNeo Pocket TV Pro. more\u2026",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/21/google-tv-powers-the-rayneo-pocket-tv-pro-glasses-and-thats-exactly-the-problem/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/rayneo-pocket-tv-rayneo-gt-glasses-unimpressed.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-21T15:30:00+00:00"
-    },
-    {
-      "id": "d57338db09bb",
-      "title": "Google reiterates missing Fibit Air sleep breathing quality feature coming \u2018soon\u2019",
-      "summary": "Google is holding off on a sleep breathing quality feature it promised for the Fitbit Air. It launched for the Pixel Watch last month. more\u2026",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/21/fitbit-air-delayed-sleep-breathing-feature-coming-soon/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Fitbit-Air-in-Fog-1.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-21T15:18:29+00:00"
-    },
-    {
-      "id": "1bbb4f6fc3d1",
-      "title": "Conversational Gemini navigation comes to Apple CarPlay",
-      "summary": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\"...",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-21T15:00:00+00:00"
-    },
-    {
-      "id": "9ef1663b8abf",
-      "title": "Now you can chat with Gemini while using Google Maps through CarPlay",
-      "summary": "Just tap the new Gemini icon to get started.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2292912/now-you-can-chat-with-gemini-while-using-google-maps-through-carplay/",
-      "image": "https://www.engadget.com/img/gallery/now-you-can-chat-with-gemini-while-using-google-maps-through-carplay/l-intro-1792593259.jpg",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-21T15:00:00+00:00"
-    },
-    {
-      "id": "37d0ca652ce9",
-      "title": "Review: The Oppo Find X10 Pro Max is a gut punch in a post-OnePlus world",
-      "summary": "OnePlus is dead. The enthusiast-focused brand turned Oppo for the rest of the world was shuttered, ironically only for the rest of the world, earlier this year and its memory loomed large over my past few weeks using the Oppo Find X10 Pro...",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/21/oppo-find-x10-pro-max-review/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/oppo-find-x10-pro-max-6.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-21T15:00:00+00:00"
-    },
-    {
-      "id": "311d9a3d0e1d",
-      "title": "Google Maps on CarPlay rolling out Gemini when navigating",
-      "summary": "Google Maps in CarPlay now lets you access Gemini when navigating for a conversational driving experience. more\u2026",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/21/google-maps-carplay-gemini/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-Google-Maps-CarPlay.jpg?quality=82&strip=all&w=1600",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-21T15:00:00+00:00"
-    },
-    {
-      "id": "10f4648d2df6",
-      "title": "The wide folds are coming; foldable display shipments to increase by 44% in 2026, analysts say",
-      "summary": "Samsung is expected to play a major role in what analysts predict will be a 44% increase in foldable display shipments in 2026, thanks to the popularity of wider foldables. more\u2026",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/21/wide-foldable-popularity-sparks-display-shipment-increase-prediction/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-32.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-21T14:48:32+00:00"
-    },
-    {
-      "id": "13e8a4aa3072",
-      "title": "Google Pixel\u2019s solution to using Face Unlock in the dark seems to be just blinding you",
-      "summary": "Google\u2019s Face Unlock feature on Pixel phones works really well, until the lights go out. The company appears to be building out a new upgrade to this with \u201cactive illumination\u201d which is\u2026 just turning up the screen brightness. more\u2026",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/21/google-pixel-face-unlock-illumination-code-leaks/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/11/Face-Unlock-screen-on-Pixel-9.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-21T14:30:00+00:00"
     }
   ]
 }

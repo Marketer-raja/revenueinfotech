@@ -1,6 +1,86 @@
 {
-  "updated": "2026-10-21T22:18:58+00:00",
+  "updated": "2026-10-22T01:29:27+00:00",
   "items": [
+    {
+      "id": "d652a02279b4",
+      "title": "Not impressed with Google Maps? Make Waze your default on Pixel \u2013 here\u2019s how",
+      "url": "https://www.zdnet.com/tech/waze-your-way-to-a-different-default-map-app-on-pixel/",
+      "source": "ZDNET",
+      "published": "2026-10-22T01:00:00+00:00",
+      "excerpt": "If you\u2019re tired of Google Maps failing to get you where you need to go, set Waze as the default on your Pixel. I\u2019ve finally figured out how.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/wazehero2.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "e7c2b56037de",
+      "title": "Tesla says it will start selling Cybercabs by end of year",
+      "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+      "source": "TechCrunch",
+      "published": "2026-10-22T00:17:54+00:00",
+      "excerpt": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering...",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Cybercab_76.jpg?resize=1200,675",
+      "category": "Software Development"
+    },
+    {
+      "id": "84ad5b5c753b",
+      "title": "YouTube says it isn\u2019t testing hiding the dislike button",
+      "url": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
+      "source": "The Verge",
+      "published": "2026-10-21T23:46:45+00:00",
+      "excerpt": "On Tuesday, I published a story about how YouTube appeared to be testing hiding the dislike button on videos, with at least two users on X sharing screenshots of the dislike button moved into the three-dot menu. But a YouTube spokesperson...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK092_03.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "8d0e217e826a",
+      "title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year \u2014 will it happen?",
+      "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+      "source": "The Verge",
+      "published": "2026-10-21T23:36:31+00:00",
+      "excerpt": "For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's third-quarter earnings call, the company...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "f7403dc55170",
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+      "source": "TechCrunch",
+      "published": "2026-10-21T22:45:34+00:00",
+      "excerpt": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "118bbdbccd39",
+      "title": "INMO GO3 smart glasses pack a display and Gemini integration with clever camera privacy",
+      "url": "https://9to5google.com/2026/10/21/inmo-go3-smart-glasses-pack-a-display-and-gemini-integration-with-clever-camera-privacy/",
+      "source": "9to5Google",
+      "published": "2026-10-21T22:45:00+00:00",
+      "excerpt": "There are two problems with smart glasses today. Most don\u2019t deliver that futuristic display we all want to have, and the camera has become a serious point of friction. INMO GO3 solve both problems while also supporting Google\u2019s Gemini and...",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/inmo-go3-1.png?w=1600",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "ae351f7918f0",
+      "title": "Mark Zuckerberg says Meta is 'entering a new phase' with Muse",
+      "url": "https://www.engadget.com/2293705/mark-zuckerberg-says-meta-is-entering-a-new-phase-with-muse/",
+      "source": "Engadget",
+      "published": "2026-10-21T22:36:03+00:00",
+      "excerpt": "Zuckerberg expects the agent will generate more revenue per user than the company's apps.",
+      "image": "https://www.engadget.com/img/gallery/mark-zuckerberg-says-meta-is-entering-a-new-phase-with-muse/l-intro-1792621715.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "33fab8fdc973",
+      "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
+      "url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
+      "source": "Ars Technica",
+      "published": "2026-10-21T21:48:52+00:00",
+      "excerpt": "Survey of 2,018 IT heads at big firms points to a lack of leverage.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-832621336-1024x648.jpg",
+      "category": "Software Development"
+    },
     {
       "id": "86bbef590f28",
       "title": "Meta to create a new class of shares to fund AI push",
@@ -47,7 +127,7 @@
       "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
       "source": "TechCrunch",
       "published": "2026-10-21T20:57:40+00:00",
-      "excerpt": "Just 9 months after raising an $180 million seed round, Flapping Airplanes has landed $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
+      "excerpt": "Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
       "image": "https://techcrunch.com/wp-content/uploads/2026/02/Flapping-Airplanes-founders-photo.jpg?resize=1200,821",
       "category": "Artificial Intelligence"
     },
@@ -183,7 +263,7 @@
     },
     {
       "id": "c77bdd3c5dfc",
-      "title": "Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal",
+      "title": "Meta ordered to pay $25B in case related to Cambridge Analytica scandal",
       "url": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
       "source": "TechCrunch",
       "published": "2026-10-21T19:42:32+00:00",
@@ -348,17 +428,17 @@
       "source": "TechCrunch",
       "published": "2026-10-21T18:00:00+00:00",
       "excerpt": "It's one of the biggest overhauls ever to the 30-year-old connected car product.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-AI-Assistant.jpg?resize=1200,624",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
       "id": "a61190ef2d92",
-      "title": "PHP armageddon: OpenAI, Google\u2019s Wiz find ancient holes, panicking the internet",
+      "title": "PHP Armageddon: OpenAI, Google\u2019s Wiz find ancient holes, panicking the internet",
       "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
       "source": "TechCrunch",
       "published": "2026-10-21T17:59:12+00:00",
       "excerpt": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-460689215.jpg?resize=1200,801",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -398,7 +478,7 @@
       "source": "TechCrunch",
       "published": "2026-10-21T17:18:27+00:00",
       "excerpt": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Blacksmith.jpg?resize=1200,800",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -417,7 +497,7 @@
       "url": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/",
       "source": "TechCrunch",
       "published": "2026-10-21T16:59:44+00:00",
-      "excerpt": "Pickups and dropoffs will happen at dedicated \"autonomous vehicle zones\" at Terminal 1 and Terminal 3.",
+      "excerpt": "Waymo only just started offering rides to the public in Las Vegas in September but is already serving a 24-square-mile area in the city.",
       "image": "",
       "category": "Software Development"
     },
@@ -519,86 +599,6 @@
       "published": "2026-10-21T15:38:14+00:00",
       "excerpt": "We now have a solid $420 price drop on Samsung Galaxy S26 Ultra, but today\u2019s 9to5Toys Lunch Break is headlined by the most affordable $30 all-time low (50% off), a relatively rare deal on Zelda Ocarina of Time remake release. Head below...",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/9to5Google-Oct-21.webp?w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "6103f66c459f",
-      "title": "Google TV powers the RayNeo Pocket TV Pro glasses, and that\u2019s exactly the problem",
-      "url": "https://9to5google.com/2026/10/21/google-tv-powers-the-rayneo-pocket-tv-pro-glasses-and-thats-exactly-the-problem/",
-      "source": "9to5Google",
-      "published": "2026-10-21T15:30:00+00:00",
-      "excerpt": "The Google TV platform is amazing on the big screen, but its limitations make it more frustrating than it should be on the mobile RayNeo Pocket TV Pro. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/rayneo-pocket-tv-rayneo-gt-glasses-unimpressed.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "d57338db09bb",
-      "title": "Google reiterates missing Fibit Air sleep breathing quality feature coming \u2018soon\u2019",
-      "url": "https://9to5google.com/2026/10/21/fitbit-air-delayed-sleep-breathing-feature-coming-soon/",
-      "source": "9to5Google",
-      "published": "2026-10-21T15:18:29+00:00",
-      "excerpt": "Google is holding off on a sleep breathing quality feature it promised for the Fitbit Air. It launched for the Pixel Watch last month. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Fitbit-Air-in-Fog-1.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "1bbb4f6fc3d1",
-      "title": "Conversational Gemini navigation comes to Apple CarPlay",
-      "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
-      "source": "The Verge",
-      "published": "2026-10-21T15:00:00+00:00",
-      "excerpt": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\"...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "9ef1663b8abf",
-      "title": "Now you can chat with Gemini while using Google Maps through CarPlay",
-      "url": "https://www.engadget.com/2292912/now-you-can-chat-with-gemini-while-using-google-maps-through-carplay/",
-      "source": "Engadget",
-      "published": "2026-10-21T15:00:00+00:00",
-      "excerpt": "Just tap the new Gemini icon to get started.",
-      "image": "https://www.engadget.com/img/gallery/now-you-can-chat-with-gemini-while-using-google-maps-through-carplay/l-intro-1792593259.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "37d0ca652ce9",
-      "title": "Review: The Oppo Find X10 Pro Max is a gut punch in a post-OnePlus world",
-      "url": "https://9to5google.com/2026/10/21/oppo-find-x10-pro-max-review/",
-      "source": "9to5Google",
-      "published": "2026-10-21T15:00:00+00:00",
-      "excerpt": "OnePlus is dead. The enthusiast-focused brand turned Oppo for the rest of the world was shuttered, ironically only for the rest of the world, earlier this year and its memory loomed large over my past few weeks using the Oppo Find X10 Pro...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/oppo-find-x10-pro-max-6.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "311d9a3d0e1d",
-      "title": "Google Maps on CarPlay rolling out Gemini when navigating",
-      "url": "https://9to5google.com/2026/10/21/google-maps-carplay-gemini/",
-      "source": "9to5Google",
-      "published": "2026-10-21T15:00:00+00:00",
-      "excerpt": "Google Maps in CarPlay now lets you access Gemini when navigating for a conversational driving experience. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-Google-Maps-CarPlay.jpg?quality=82&strip=all&w=1600",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "10f4648d2df6",
-      "title": "The wide folds are coming; foldable display shipments to increase by 44% in 2026, analysts say",
-      "url": "https://9to5google.com/2026/10/21/wide-foldable-popularity-sparks-display-shipment-increase-prediction/",
-      "source": "9to5Google",
-      "published": "2026-10-21T14:48:32+00:00",
-      "excerpt": "Samsung is expected to play a major role in what analysts predict will be a 44% increase in foldable display shipments in 2026, thanks to the popularity of wider foldables. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-32.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "13e8a4aa3072",
-      "title": "Google Pixel\u2019s solution to using Face Unlock in the dark seems to be just blinding you",
-      "url": "https://9to5google.com/2026/10/21/google-pixel-face-unlock-illumination-code-leaks/",
-      "source": "9to5Google",
-      "published": "2026-10-21T14:30:00+00:00",
-      "excerpt": "Google\u2019s Face Unlock feature on Pixel phones works really well, until the lights go out. The company appears to be building out a new upgrade to this with \u201cactive illumination\u201d which is\u2026 just turning up the screen brightness. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/11/Face-Unlock-screen-on-Pixel-9.jpg?quality=82&strip=all&w=1600",
       "category": "Software Development"
     }
   ]
