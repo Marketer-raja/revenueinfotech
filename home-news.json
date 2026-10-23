@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-23T01:28:50+00:00",
+  "updated": "2026-10-23T07:28:50+00:00",
   "auto": true,
   "items": [
+    {
+      "id": "3602c8887bef",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/indrive-pony-ai-kazakhstan.jpg?resize=1200,800",
+      "category": "Artificial Intelligence",
+      "section": "hero",
+      "featured": true,
+      "published": "2026-10-23T04:00:00+00:00"
+    },
     {
       "id": "8937fd9c8277",
       "title": "Left alone with nothing to do, AI agents started playing",
@@ -10,8 +22,8 @@
       "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-5.42.44-PM.png?resize=1200,590",
       "category": "Artificial Intelligence",
-      "section": "hero",
-      "featured": true,
+      "section": "brief",
+      "featured": false,
       "published": "2026-10-23T00:45:37+00:00"
     },
     {
@@ -46,7 +58,7 @@
       "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Warhound.png?resize=1200,675",
       "category": "Software Development",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-22T23:15:00+00:00"
     },
@@ -118,7 +130,7 @@
       "url": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_C.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-22T21:30:39+00:00"
     },
@@ -190,7 +202,7 @@
       "url": "https://9to5google.com/2026/10/22/google-explains-how-to-fix-time-zones-on-android-amid-changes-in-canada/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/pixel-10-pro-8.jpg?quality=82&strip=all&w=1600",
       "category": "Operating Systems",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-22T20:45:00+00:00"
     },
@@ -682,18 +694,6 @@
       "url": "https://www.theverge.com/tech/1016389/microsoft-garage-closure-hackathon-notepad",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/R_2016-Hackathon-Day2-064-1.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Enterprise Software & SaaS",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-22T16:00:00+00:00"
-    },
-    {
-      "id": "1e9cbbb39711",
-      "title": "LineageOS 24 review: Easier than ever to recommend [Video]",
-      "summary": "Times have changed. Prices have changed. Your phone hasn\u2019t changed, but the value of LineageOS 24 certainly has. more\u2026",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/22/lineageos-24-review/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/LineageOS-24-logo.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development",
       "section": "none",
       "featured": false,
       "published": "2026-10-22T16:00:00+00:00"
