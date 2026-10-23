@@ -1,17 +1,89 @@
 {
-  "updated": "2026-10-22T22:18:08+00:00",
+  "updated": "2026-10-23T01:28:50+00:00",
   "auto": true,
   "items": [
     {
+      "id": "8937fd9c8277",
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-5.42.44-PM.png?resize=1200,590",
+      "category": "Artificial Intelligence",
+      "section": "hero",
+      "featured": true,
+      "published": "2026-10-23T00:45:37+00:00"
+    },
+    {
+      "id": "515bea56e524",
+      "title": "Etsy is cracking down on AI slop listings",
+      "summary": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve AI-generated content\" and...",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-5.03.44-PM.png?quality=90&strip=all&crop=0,0,100,82.725656291205",
+      "category": "Artificial Intelligence",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-23T00:09:58+00:00"
+    },
+    {
+      "id": "93ee3750c1cc",
+      "title": "Mark Zuckerberg\u2019s creative plan to pay California\u2019s proposed billionaire tax without losing control of Meta",
+      "summary": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-meta-connect.jpg?resize=1200,799",
+      "category": "Software Development",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-22T23:50:41+00:00"
+    },
+    {
+      "id": "45bf2434c375",
+      "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+      "summary": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Warhound.png?resize=1200,675",
+      "category": "Software Development",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-22T23:15:00+00:00"
+    },
+    {
+      "id": "d4932dc2fe4f",
+      "title": "The next-gen Xbox won\u2019t cost you $1,800. It can\u2019t. Can it?",
+      "summary": "Fortune dropped a bombshell report on the future of gaming this week. According to the publication's Microsoft insiders, the next Xbox is projected to cost between $1,200 and $1,800 when it arrives in 2028. My first reaction: The next Xbox...",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23516635/adbenedetto_220508_5192_0047.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Enterprise Software & SaaS",
+      "section": "latest",
+      "featured": false,
+      "published": "2026-10-22T23:00:00+00:00"
+    },
+    {
+      "id": "5a8c43ecaaad",
+      "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
+      "summary": "The digital asset unit, helmed by Chris Dixon, broadens its scope.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/10/tc-disrupt-2022-chris-dixon-8.jpg?resize=1200,800",
+      "category": "Software Development",
+      "section": "latest",
+      "featured": false,
+      "published": "2026-10-22T22:34:54+00:00"
+    },
+    {
       "id": "6372ebaa66c8",
       "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the mostly highly valued private company ever.",
+      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
       "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
       "category": "Artificial Intelligence",
-      "section": "hero",
-      "featured": true,
+      "section": "latest",
+      "featured": false,
       "published": "2026-10-22T22:08:24+00:00"
     },
     {
@@ -22,7 +94,7 @@
       "url": "https://9to5google.com/2026/10/22/youtube-subscriptions-android-ios/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/YouTube-Subscriptions-move-cover.jpg?quality=82&strip=all&w=1600",
       "category": "Operating Systems",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-22T22:05:06+00:00"
     },
@@ -34,7 +106,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&strip=all&crop=0,0,100,100",
       "category": "Artificial Intelligence",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-22T21:51:25+00:00"
     },
@@ -46,7 +118,7 @@
       "url": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_C.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Software Development",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-22T21:30:39+00:00"
     },
@@ -58,7 +130,7 @@
       "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/GettyImages-2188328005_9f1d59-e1791493652782.jpg?w=840",
       "category": "Artificial Intelligence",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-22T21:17:29+00:00"
     },
@@ -70,7 +142,7 @@
       "url": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS501_STOCKS_CVIRGINIA_E.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Artificial Intelligence",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-22T21:15:16+00:00"
     },
@@ -82,7 +154,7 @@
       "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
       "image": "https://techcrunch.com/wp-content/uploads/2025/12/Rivian-Universal-Hands-Free.jpg?resize=1200,900",
       "category": "Enterprise Software & SaaS",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-22T21:05:05+00:00"
     },
@@ -94,7 +166,7 @@
       "url": "https://9to5google.com/2026/10/22/galaxy-z-fold-8-hit-iphone-duo-boost/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-42.jpg?quality=82&strip=all&w=1600",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-22T21:05:00+00:00"
     },
@@ -106,7 +178,7 @@
       "url": "https://www.engadget.com/2294854/a-new-subscription-service-promises-an-evolving-collection-of-bold-and-bizarre-indie-games/",
       "image": "https://www.engadget.com/img/gallery/a-new-subscription-service-promises-an-evolving-collection-of-bold-and-bizarre-indie-games/l-intro-1792701864.jpg",
       "category": "Artificial Intelligence",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-22T20:57:17+00:00"
     },
@@ -118,7 +190,7 @@
       "url": "https://9to5google.com/2026/10/22/google-explains-how-to-fix-time-zones-on-android-amid-changes-in-canada/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/pixel-10-pro-8.jpg?quality=82&strip=all&w=1600",
       "category": "Operating Systems",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-22T20:45:00+00:00"
     },
@@ -130,7 +202,7 @@
       "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Artificial Intelligence",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-22T20:32:05+00:00"
     },
@@ -142,7 +214,7 @@
       "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_C.png?quality=90&strip=all&crop=0,0,100,100",
       "category": "Cybersecurity",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-22T20:24:04+00:00"
     },
@@ -154,7 +226,7 @@
       "url": "https://www.engadget.com/2294799/spotify-family-plan-qr-code-cost-premium-access/",
       "image": "https://www.engadget.com/img/gallery/spotifys-family-plan-qr-code-could-cost-you-premium-access/l-intro-1792700036.jpg",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-22T20:19:19+00:00"
     },
@@ -166,7 +238,7 @@
       "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-1778229942-1152x648.jpg",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-22T20:17:52+00:00"
     },
@@ -178,7 +250,7 @@
       "url": "https://www.engadget.com/2294778/rhode-island-sues-meta-over-its-approach-to-scam-ads/",
       "image": "https://www.engadget.com/img/gallery/rhode-island-sues-meta-over-its-approach-to-scam-ads/l-intro-1792699351.jpg",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-22T20:05:26+00:00"
     },
@@ -190,7 +262,7 @@
       "url": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
       "image": "https://techcrunch.com/wp-content/uploads/2024/05/arc-search-call.png?resize=1200,675",
       "category": "Web Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-22T20:01:51+00:00"
     },
@@ -649,78 +721,6 @@
       "section": "none",
       "featured": false,
       "published": "2026-10-22T16:00:00+00:00"
-    },
-    {
-      "id": "a608d7730c12",
-      "title": "PC shipments are in the toilet, plunging over 20 percent from last year",
-      "summary": "This could reach 27 percent throughout the end of 2026 as prices continue to rise.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2294257/pc-shipments-are-in-the-toilet-plunging-over-20-percent-from-last-year/",
-      "image": "https://www.engadget.com/img/gallery/pc-shipments-are-in-the-toilet-plunging-over-20-percent-from-last-year/l-intro-1792684457.jpg",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-22T15:56:26+00:00"
-    },
-    {
-      "id": "4772d21a352a",
-      "title": "Amazon\u2019s Kindle Unlimited is now Kindle+, and the 2 big changes include AI audiobooks",
-      "summary": "Unlike narrated audiobooks from Audible and other providers, the audiobooks created with Virtual Voice in Kindle+ will instead be narrated by AI.",
-      "source": "ZDNET",
-      "url": "https://www.zdnet.com/tech/kindle-unlimited-kindle-plus-audiobooks-ai/",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/f81cca78-3254-44e3-870c-cbfa2d83af91.jpg",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-22T15:55:55+00:00"
-    },
-    {
-      "id": "2ff2cf679864",
-      "title": "Deals: Pixel 11 Pro Fold up to $419 off, S26 Ultra $420 off, HP OLED Copilot+ PC all-time low, more",
-      "summary": "Today\u2019s 9to5Toys Lunch Break is headlined by a chance to score Google\u2019s latest Head below for a closer look. more\u2026",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/22/deals-pixel-11-pro-fold-s26-ultra-hp-oled-copilot-pc/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/9to5Google-Oct-22.webp?w=1600",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-22T15:52:36+00:00"
-    },
-    {
-      "id": "540e896edf86",
-      "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
-      "summary": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by...",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-22T15:50:30+00:00"
-    },
-    {
-      "id": "65dfbe5ddc18",
-      "title": "Tesla is prepping a Cybercab onslaught",
-      "summary": "The company is looking to roll out the gold two-seater robotaxis to other U.S. cities this year, even as it goes mum on the number of paid rides.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/",
-      "image": "",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-22T15:44:39+00:00"
-    },
-    {
-      "id": "5cad8a0079ad",
-      "title": "Galaxy Watch user reports burn overnight; this isn\u2019t the first time",
-      "summary": "One Galaxy Watch 5 Pro user reported burns and blisters on their skin after sleeping with their watch under what can only be considered normal operation. more\u2026",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/22/galaxy-watch-5-pro-user-reported-burn/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2022/08/Samsung-Galaxy-Watch-5-Pro-11.jpg?quality=82&strip=all&w=1500",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-22T15:31:29+00:00"
     }
   ]
 }
