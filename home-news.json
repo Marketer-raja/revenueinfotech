@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-23T22:07:26+00:00",
+  "updated": "2026-10-24T00:39:26+00:00",
   "auto": true,
   "items": [
+    {
+      "id": "f699a3e5cdaf",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "category": "Artificial Intelligence",
+      "section": "hero",
+      "featured": true,
+      "published": "2026-10-23T23:05:49+00:00"
+    },
+    {
+      "id": "04ff91f878cb",
+      "title": "OpenAI says it's cutting off internet access for frontier model training",
+      "summary": "OpenAI says it will no longer allow frontier models to access the internet during training in an effort to put in new safety measures after a series of incidents.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training/",
+      "image": "https://www.engadget.com/img/gallery/openai-says-its-cutting-off-internet-access-for-frontier-model-training/l-intro-1792794862.jpg",
+      "category": "Artificial Intelligence",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-23T22:37:02+00:00"
+    },
     {
       "id": "6bba15b726bf",
       "title": "Gemini for Android rolls out side panel and settings redesign",
@@ -10,14 +34,14 @@
       "url": "https://9to5google.com/2026/10/23/gemini-settings-redesign-android/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-2.jpg?quality=82&strip=all&w=1600",
       "category": "Artificial Intelligence",
-      "section": "hero",
-      "featured": true,
+      "section": "brief",
+      "featured": false,
       "published": "2026-10-23T22:02:00+00:00"
     },
     {
       "id": "67ab64203109",
       "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-      "summary": "The robots, stomping their little feet and making tiny R2D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676",
@@ -34,7 +58,7 @@
       "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485116/STK048_XBOX2__B.png?quality=90&strip=all&crop=0,0,100,100",
       "category": "Enterprise Software & SaaS",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-23T21:39:26+00:00"
     },
@@ -46,7 +70,7 @@
       "url": "https://9to5google.com/2026/10/23/google-health-5-11-release-notes/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-fitbit-air-hands-on-13.jpg?quality=82&strip=all&w=1600",
       "category": "Software Development",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-23T21:00:10+00:00"
     },
@@ -106,7 +130,7 @@
       "url": "https://9to5toys.com/2026/10/23/todays-highlight-google-play-deals-35/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-Play-collage-b282d1.png?w=1600",
       "category": "Operating Systems",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-23T19:55:20+00:00"
     },
@@ -118,7 +142,7 @@
       "url": "https://9to5google.com/2026/10/23/google-will-target-ads-based-on-gmail-photos-data-if-personal-intelligence-is-enabled/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-11-Pro-Gemini-Splashscreen.jpg?quality=82&strip=all&w=1600",
       "category": "Data & Analytics",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-23T19:45:00+00:00"
     },
@@ -178,7 +202,7 @@
       "url": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA5n8ST_yuElQgTwbfq1oFnVAoiTvZCW_Ct1b8lT_OQ9dnyeXfocrqzTUJJ1t920YaEa-7Sonxl9KlthV4x7lXI3dmJxc9_S11NjWRJ6dcgfsX4UGhv0KFWZsZrzXKpjh92JPyDdHPlCPQh1AHd0YKM44sVcc9d-57r8_BdrIb3V06MWfk8bRAy4kDU6I/s1600/ruby-rce.jpg",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-23T17:54:08+00:00"
     },
@@ -190,7 +214,7 @@
       "url": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6gkXKzxUypnUKbTuo7Xq-8TSUpDD8TNF5XEG-bV6zcA7V3z_cO2pJeTiX1KIFi-rFNX5SOlMY93oGQpfQUuWOl0RJ35nM1XeIqu2ZV4aAIZXEd9RXQVQk0rMmeI67ysGsTJ1OXLIQg2LvGjMLHCQQ8dgqalHaBE9yCZKwIOVjHCD_lOTlsP1HdBziZ3Sb/s1600/ai-hacker-kimi.jpg",
       "category": "Artificial Intelligence",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-23T17:50:47+00:00"
     },
@@ -292,7 +316,7 @@
     },
     {
       "id": "989bc7148e25",
-      "title": "What some of Anthropic\u2019s backers are reportedly worth before its IPO",
+      "title": "What some of Anthropic\u2019s backers are worth before its IPO",
       "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
@@ -697,30 +721,6 @@
       "section": "none",
       "featured": false,
       "published": "2026-10-23T00:45:37+00:00"
-    },
-    {
-      "id": "515bea56e524",
-      "title": "Etsy is cracking down on AI slop listings",
-      "summary": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve AI-generated content\" and...",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-5.03.44-PM.png?quality=90&strip=all&crop=0,0,100,82.725656291205",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-23T00:09:58+00:00"
-    },
-    {
-      "id": "93ee3750c1cc",
-      "title": "Mark Zuckerberg\u2019s creative plan to pay California\u2019s proposed billionaire tax without losing control of Meta",
-      "summary": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
-      "image": "",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-22T23:50:41+00:00"
     }
   ]
 }
