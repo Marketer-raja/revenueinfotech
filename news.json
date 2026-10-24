@@ -1,6 +1,176 @@
 {
-  "updated": "2026-10-24T10:54:48+00:00",
+  "updated": "2026-10-24T14:30:15+00:00",
   "items": [
+    {
+      "id": "75a4fa274339",
+      "title": "What to expect from Apple\u2019s \u2018Pro and tell\u2019 event",
+      "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
+      "source": "The Verge",
+      "published": "2026-10-24T14:15:00+00:00",
+      "excerpt": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it looks like. Its \"Pro...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/pro-and-tell.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "e0f9c91b3506",
+      "title": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
+      "url": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
+      "source": "TechCrunch",
+      "published": "2026-10-24T14:15:00+00:00",
+      "excerpt": "The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/boox-palma-2-pro.png?resize=1200,666",
+      "category": "Software Development"
+    },
+    {
+      "id": "1b7d2312eca3",
+      "title": "I hope Apple\u2019s touchscreen MacBook takes some lessons from this Lenovo laptop",
+      "url": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
+      "source": "The Verge",
+      "published": "2026-10-24T14:00:00+00:00",
+      "excerpt": "It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this is a lot of what I want from a...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_HP_Lenovo_Yoga_9n_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "4a535eced667",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch",
+      "published": "2026-10-24T14:00:00+00:00",
+      "excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "22b02dccdfe8",
+      "title": "The MacBook Neo uses an iPhone chip, and it's just good enough",
+      "url": "https://www.engadget.com/2290733/macbook-neo-a18-pro-chip-performance/",
+      "source": "Engadget",
+      "published": "2026-10-24T14:00:00+00:00",
+      "excerpt": "The MacBook Neo had to make some compromises to meet its price point. And as long as you're aware of them, it offers a solid value.",
+      "image": "https://www.engadget.com/img/gallery/the-macbook-neo-uses-an-iphone-chip-and-its-just-good-enough/l-intro-1792434494.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "38db05941383",
+      "title": "How to get better iPhone battery life without closing any apps",
+      "url": "https://www.engadget.com/2290702/get-better-iphone-battery-life-without-closing-apps/",
+      "source": "Engadget",
+      "published": "2026-10-24T13:45:00+00:00",
+      "excerpt": "Apple has added a host of battery-management features to the iPhone over the years.",
+      "image": "https://www.engadget.com/img/gallery/how-to-get-better-iphone-battery-life-without-closing-any-apps/l-intro-1792433821.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "ff86d3992b6d",
+      "title": "The beneficial purpose of 'IQ' on your Anker chargers",
+      "url": "https://www.engadget.com/2290640/anker-charger-iq-meaning-purpose/",
+      "source": "Engadget",
+      "published": "2026-10-24T13:30:00+00:00",
+      "excerpt": "Anker's PowerIQ technology helps identify and charge your devices more efficiently.",
+      "image": "https://www.engadget.com/img/gallery/the-beneficial-purpose-of-iq-on-your-anker-chargers/l-intro-1792432015.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "d111230639f9",
+      "title": "This clever USB-C cable doubles as a stand for your phone [Gallery]",
+      "url": "https://9to5google.com/2026/10/24/statik-powerstand-usb-c-cable-kickstand/",
+      "source": "9to5Google",
+      "published": "2026-10-24T13:30:00+00:00",
+      "excerpt": "One of my favorite things about the rise of magnetic wireless charging has been the prevalence of chargers that hold my phone upright on my nightstand. But, when travelling, that tends to be a bit more cumbersome, or at least a little more...",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/statik-powerstand-7.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "a409b6c4983e",
+      "title": "Which services can you safely disable to improve PC gaming?",
+      "url": "https://www.engadget.com/2290638/which-windows-background-services-safely-disable-improve-pc-gaming/",
+      "source": "Engadget",
+      "published": "2026-10-24T13:00:00+00:00",
+      "excerpt": "A lot of what Windows does out of the box isn't essential, and can waste your computer's power when you're trying to game.",
+      "image": "https://www.engadget.com/img/gallery/which-services-can-you-safely-disable-to-improve-pc-gaming/l-intro-1792431811.jpg",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "fad839cb90c5",
+      "title": "How to improve your PC's airflow for better cooling",
+      "url": "https://www.engadget.com/2290489/how-to-improve-pc-airflow-better-cooling/",
+      "source": "Engadget",
+      "published": "2026-10-24T12:45:00+00:00",
+      "excerpt": "Here's how to think about your PC's fans.",
+      "image": "https://www.engadget.com/img/gallery/how-to-improve-your-pcs-airflow-for-better-cooling/l-intro-1792426812.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "9a93e93a1a70",
+      "title": "'Father of the PlayStation' Ken Kutaragi sides with Sony on the physical discs debate",
+      "url": "https://www.engadget.com/2294585/ken-kutaragi-father-of-playstation-sides-with-sony-physical-games/",
+      "source": "Engadget",
+      "published": "2026-10-24T12:15:00+00:00",
+      "excerpt": "The debate about Sony's plan to stop making physical PS5 discs has raged since this summer.",
+      "image": "https://www.engadget.com/img/gallery/father-of-the-playstation-ken-kutaragi-sides-with-sony-on-the-physical-discs-debate/l-intro-1792693371.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "fccc36c874e6",
+      "title": "It\u2019s time to find a new browser",
+      "url": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
+      "source": "The Verge",
+      "published": "2026-10-24T12:00:00+00:00",
+      "excerpt": "Hi, friends! Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood), and also you can read all the old...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-149.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Web Development"
+    },
+    {
+      "id": "9952e09fd3af",
+      "title": "Engadget review recap: iPhone Duo, Rivian R2 and more",
+      "url": "https://www.engadget.com/2295366/engadget-review-recap-iphone-duo-rivian-r2-and-more/",
+      "source": "Engadget",
+      "published": "2026-10-24T12:00:00+00:00",
+      "excerpt": "A roundup of recent reviews from Engadget.",
+      "image": "https://www.engadget.com/img/gallery/engadget-review-recap-iphone-duo-rivian-r2-and-more/l-intro-1792768704.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "bb786dd771e1",
+      "title": "Peak on consoles, hockey roguelites and other new indie games worth checking out",
+      "url": "https://www.engadget.com/2295856/peak-on-consoles-hockey-roguelites-and-other-new-indie-games-worth-checking-out/",
+      "source": "Engadget",
+      "published": "2026-10-24T11:30:00+00:00",
+      "excerpt": "Steam Next Fest means there are a lot of weird new games in our indie gaming roundup this week.",
+      "image": "https://www.engadget.com/img/gallery/peak-on-consoles-hockey-roguelites-and-other-new-indie-games-worth-checking-out/l-intro-1792786507.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "a0a9e49aec28",
+      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+      "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+      "source": "The Hacker News",
+      "published": "2026-10-24T11:09:29+00:00",
+      "excerpt": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxIIerJT3LOMCGn3nXAnmhaHzJlJnVJCso1COluq8t3WuF4IpNARa_Asl5nEhRUDTEcR89kwzo5vGmP5IyNbj1ncdaCpkhqcHUODHAd3khanaE-7N8Vb0NyEJkmPmNkhSpJtLCLgi9srDRhZLtM5n8UDI58F797ZJaVzC7JzjPLfca4NpxZr_7tCX8RIk/s1600/br-nodejs.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "3a1a036ef73a",
+      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
+      "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
+      "source": "The Hacker News",
+      "published": "2026-10-24T11:03:33+00:00",
+      "excerpt": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package. \"On May 27...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipiDo2Yur6TXZHLped9EQgORAH65rC4APGTaq_EZzlDnspAaULTQCKblBC0FeIah7nOCKTiQa2Oi8cyx-bbxHj042Km9oYAf2s78XmStFxzPBTSQ_oqv4ZcWGEkUP1wo5JfJ1UDrWQpAtz8ZHd9i3ZbGWWe8s6CMeUU_nObp5tCEywMWGovqFh9NA1H8Sv/s1600/lite.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "afec56c7243a",
+      "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+      "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+      "source": "The Hacker News",
+      "published": "2026-10-24T10:36:33+00:00",
+      "excerpt": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other connected Google...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhROXFilBwGnS1Jb3AQ6nIinoxB1mh-7gsbdRfToYn8VReagY7IMb3CCVyZkzPFEfOHIkwnRxmOSeM30Gxp7e9uRzvuvEqQTmIMPilPM_IfujygTv6OfExi8kWoEhF42lBKok_gzwD4Md_daCMvVOtlf2pQT7mgtYuJA0TzJnhkM4PCycgKpf0XxIBQmI57/s1600/google-ai.jpg",
+      "category": "Artificial Intelligence"
+    },
     {
       "id": "b36af81e0870",
       "title": "Meta is delaying its controversial new business terms amid scraping concerns",
@@ -20,16 +190,6 @@
       "excerpt": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the...",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuy-T7iQPeiRqkJd7yhxd2WVQzxURRnLyHG9yz5fUXxIhjUW-bv_yAAt13dnTE1ecuh1w6cRjenRXL3In2b55rL22lXnBhpKrVvS9c5Qb6Bv0TeQPLeAXYoafNYnqYxYQwWnZBCO3e8ZW-HS8Y2GMbQuGz58-_wG7gT6Pcok3j53J4iiZ7jw6kLoGGtWU/s1600/popcorn.jpg",
       "category": "Cybersecurity"
-    },
-    {
-      "id": "a0a9e49aec28",
-      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-      "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-      "source": "The Hacker News",
-      "published": "2026-10-24T08:45:56+00:00",
-      "excerpt": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxIIerJT3LOMCGn3nXAnmhaHzJlJnVJCso1COluq8t3WuF4IpNARa_Asl5nEhRUDTEcR89kwzo5vGmP5IyNbj1ncdaCpkhqcHUODHAd3khanaE-7N8Vb0NyEJkmPmNkhSpJtLCLgi9srDRhZLtM5n8UDI58F797ZJaVzC7JzjPLfca4NpxZr_7tCX8RIk/s1600/br-nodejs.jpg",
-      "category": "Software Development"
     },
     {
       "id": "838b4b1ce253",
@@ -278,7 +438,7 @@
       "source": "TechCrunch",
       "published": "2026-10-23T16:26:29+00:00",
       "excerpt": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/Daytona_Founders-e1698845569762.jpg?resize=1200,676",
+      "image": "",
       "category": "Cloud Computing"
     },
     {
@@ -288,7 +448,7 @@
       "source": "TechCrunch",
       "published": "2026-10-23T16:20:28+00:00",
       "excerpt": "Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/CFS-Brandon-Sorbom-Disrupt-2026.jpg?resize=1200,800",
+      "image": "",
       "category": "Enterprise Software & SaaS"
     },
     {
@@ -308,7 +468,7 @@
       "source": "TechCrunch",
       "published": "2026-10-23T16:02:43+00:00",
       "excerpt": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2181797246.jpg?resize=1200,800",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -388,7 +548,7 @@
       "source": "TechCrunch",
       "published": "2026-10-23T15:00:09+00:00",
       "excerpt": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/quest-862530304.jpg?resize=1200,743",
+      "image": "",
       "category": "Cybersecurity"
     },
     {
@@ -440,166 +600,6 @@
       "excerpt": "If you've been feeling nostalgic for your old iPod, you can head over to Apple Music's 404 page to listen to music on a virtual re-creation of the first-generation iPod. The hidden iPod was spotted by users on social media on Friday. It's...",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-23-at-9.37.49-AM.png?quality=90&strip=all&crop=0,0,100,100",
       "category": "Software Development"
-    },
-    {
-      "id": "f059789b2437",
-      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
-      "url": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
-      "source": "The Hacker News",
-      "published": "2026-10-23T13:50:56+00:00",
-      "excerpt": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls. \"Artifacts from this investigation also...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSk-Q06Dd5YyYmXWMt9b860DzGRKbTae_QwvoZDKNICaEznAj2AUurJmv6vPnpcH7qqDjauFZWWx7GX1RN93BLaU9Rqgiqe9j1iQRg2Vqcz3HpSqgesA6oS-GrMTyx4CTzwOD7C_z205k57ZpT70Gv4RXi-65X-nyI04wpA3raJ5nh46pN5ox42cyLnHjv/s1600/1000117358.jpg",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "a108c42cc0a8",
-      "title": "You can score a Pixel Watch 5 with LTE for $100 off right now",
-      "url": "https://9to5google.com/2026/10/23/pixel-watch-5-lte-discount/",
-      "source": "9to5Google",
-      "published": "2026-10-23T13:35:00+00:00",
-      "excerpt": "Good deals in tech are becoming a bit harder to find, but a solid offer on a Pixel Watch 5 with LTE has popped up, bringing $100 off. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-Watch-5-and-Pixel-11.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "d28dfc1dfecb",
-      "title": "People are vibe coding their way to better TVs",
-      "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
-      "source": "The Verge",
-      "published": "2026-10-23T13:00:00+00:00",
-      "excerpt": "Vibe coding has reached TVs. Social media is awash with posts from people using LLMs and open-source tools to remove ads and tracking, trim bloat so the OS runs faster, and even completely change the look and organization of their...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/cleanyourtv-home-page.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "77dae13ca6f5",
-      "title": "Brick\u2019s new app blocker is designed for bedtime doomscrolling",
-      "url": "https://www.theverge.com/gadgets/1017383/brick-night-app-blocker-gadget-bluetooth-launch",
-      "source": "The Verge",
-      "published": "2026-10-23T12:50:17+00:00",
-      "excerpt": "Brick, the company behind the $59 gadget that blocks you from using apps on your phone, has launched a new device that's designed to help you cut back on doomscrolling in bed. The $129 Brick Night introduces a location-based element...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Brick-Night-app-blocker-hero.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "fc996803a2a0",
-      "title": "Samsung is releasing a new foldable next week, and it just leaked",
-      "url": "https://9to5google.com/2026/10/23/samsung-galaxy-w27-foldable-leak/",
-      "source": "9to5Google",
-      "published": "2026-10-23T12:15:00+00:00",
-      "excerpt": "Samsung has a bunch of new foldables in store for next year, but also one more coming out this year, and it\u2019s coming out in just a few days according to a new leak. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Galaxy-Z-Fold-8-Ultra-6-2.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "409b982a65e4",
-      "title": "ASUS ProArt P16 review: A sleek showcase for NVIDIA's RTX Spark",
-      "url": "https://www.engadget.com/2294849/asus-proart-p16-rtx-spark-review/",
-      "source": "Engadget",
-      "published": "2026-10-23T12:00:00+00:00",
-      "excerpt": "NVIDIA's RTX Spark platform is off to a good start, but the ProArt P16 is really only meant for AI fanatics.",
-      "image": "https://www.engadget.com/img/gallery/asus-proart-p16-review-a-sleek-showcase-for-nvidias-rtx-spark/l-intro-1792702282.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "ba853bc71ecc",
-      "title": "Tesla says it will no longer release the Cybertruck in Australia and New Zealand",
-      "url": "https://www.engadget.com/2295058/tesla-will-not-release-cybertruck-in-australia-and-new-zealand/",
-      "source": "Engadget",
-      "published": "2026-10-23T11:26:04+00:00",
-      "excerpt": "People who reserved the Cybertruck in Australia and New Zealand will soon get a refund, because Tesla now won't release it there.",
-      "image": "https://www.engadget.com/img/gallery/tesla-says-it-will-no-longer-release-the-cybertruck-in-australia-and-new-zealand/l-intro-1792754657.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "3bc9a46d2904",
-      "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
-      "url": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
-      "source": "The Hacker News",
-      "published": "2026-10-23T11:25:43+00:00",
-      "excerpt": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications configured in an...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSXE1XecomGt7TSLi_DCDVL8oQjsLEtppNNGjkuW1cbVl-cXZkMG-rqTr-oSVz_6XfoU8aoScw3rjGxsnTpV3JaV5eWfj431lg09Rnrrk1UjwNq1ZEofkwR4FaM2qatC_FD9ZNBZk-T9_9ddu8n-BtUkhwVgWzc2ZvaWAHP8eMxlLU19qxIjlXeHOJYHs/s1600/php2.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "8e0c778063fe",
-      "title": "Samsung confirms a list of Galaxy phones and tablets getting Android 17 updates",
-      "url": "https://9to5google.com/2026/10/23/samsung-galaxy-android-17-update-list-confirmed/",
-      "source": "9to5Google",
-      "published": "2026-10-23T11:15:00+00:00",
-      "excerpt": "Samsung has confirmed a list of Galaxy devices that are set to get its Android 17-based One UI 9 update in at least one region, which tells us what to expect globally in the coming months. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/samsung-galaxy-tab-s10-fe-s23-flip-6.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "80697809b26e",
-      "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
-      "url": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
-      "source": "The Hacker News",
-      "published": "2026-10-23T11:11:23+00:00",
-      "excerpt": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UAC-0099 (aka Earth...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxH9YdfH7FHfSBJt7wrnd1P2hTQG6_2rpkp3YBqp2Yd49nYy4-a0zmvk5mqKlXH4DWfRO4Q4MmzLG4_t19me5rErcvoEpGJ5Q8LYty_GXXys63QC8HlO3G2jRC9f5vJd1BDiOp4APzxV4rSbFOZY80zIUmxvJ8V6isB-eDy9e9tVWaLR53fpPO80mzn_BH/s1600/uk-russia.jpg",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "10b1e6c4d14e",
-      "title": "Startup equips genetically enhanced dogs with Palmer Luckey\u2019s military tech",
-      "url": "https://www.theverge.com/tech/1017343/warhound-palmer-luckey-anduril-colossal-war-dogs",
-      "source": "The Verge",
-      "published": "2026-10-23T10:58:03+00:00",
-      "excerpt": "A new Texas-based defense startup has a plan to improve military and police dogs in the US: it's going to genetically modify them and equip them with Anduril's military technology. Warhound is the brainchild of Anduril's Palmer Luckey and...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Warhound-Palmer-Luckey-startup-hero.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Enterprise Software & SaaS"
-    },
-    {
-      "id": "892795e623ab",
-      "title": "The Oppo Find X10 Pro Max was exciting until I found out about the price",
-      "url": "https://9to5google.com/2026/10/23/oppo-find-x10-pro-max-price-reactions/",
-      "source": "9to5Google",
-      "published": "2026-10-23T10:05:00+00:00",
-      "excerpt": "RAMageddon sucks folks. Over the past few weeks I\u2019ve been using the Oppo Find X10 Pro Max, a phone I\u2019ve been pretty enthralled by, but its price tag really killed the hype on this one. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/oppo-find-x10-pro-max-4.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "9342a8a8e939",
-      "title": "No, the iPhone Duo isn\u2019t a small phone",
-      "url": "https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini",
-      "source": "The Verge",
-      "published": "2026-10-23T10:00:00+00:00",
-      "excerpt": "When we published our review of the iPhone Duo, I got a lot of hopeful questions from my fellow Mini fans who took note of the cover screen's Mini-ish 5.4-inch size. \"Is this\u2026 a small phone that turns into a tablet?\" they asked. And I'm...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04350_processed.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "3a89e69463ce",
-      "title": "Critical Flaw in Python\u2019s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
-      "url": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
-      "source": "The Hacker News",
-      "published": "2026-10-23T09:36:00+00:00",
-      "excerpt": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open. The flaw, CVE-2026-112900, is in the way Pillow handles EPS images, which...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGp9s38cCmrESabSZezAPkJaYoavpBM8Ehckei0ZrhKfBSoSXMyrWkzooakGExz1GBYVgi0izvW8wyKH2CEX7vpzLExRkK7uNW8wDdMzJ_k7NR8u6q-WA9e8Aoc19LNfJbFKgB6GkbAKbXW69_lOdM4sz4t5fmpKsLxHWKJPOugq5g_45Q5_WmCm_vA6U/s1600/python-image.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "a1c7c71a8e4b",
-      "title": "A startup called Warhound is genetically engineering dogs for the military",
-      "url": "https://www.engadget.com/2295033/warhound-genetically-engineering-dogs-military/",
-      "source": "Engadget",
-      "published": "2026-10-23T09:01:01+00:00",
-      "excerpt": "Warhound is genetically engineering dogs for the military, law enforcement and first responder operations.",
-      "image": "https://www.engadget.com/img/gallery/a-startup-called-warhound-is-genetically-engineering-dogs-for-the-military/l-intro-1792745868.jpg",
-      "category": "Enterprise Software & SaaS"
-    },
-    {
-      "id": "a2a9e372db7b",
-      "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
-      "url": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
-      "source": "The Hacker News",
-      "published": "2026-10-23T08:40:43+00:00",
-      "excerpt": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have demonstrated. Their \"Node2Shell\" proof of concept ran code on the official Node.js 24.22.0 image...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDudJHAM27KiE-F4E5vX1WOgITTdawUaZrFoXUIrf7lscEHIl7fgGQY5Qo60bRxr-o7UKloYK1sp23i5cvWPpc6XXttZa8GFvYxqSV7pp0B6vdBTp0sIBCX8r8oC5CAXO1mdJfshaIpLFyrFDCm9HPiYyBZMECEcSHKzbVzOk_VpGL2kEQDjB1rNk21Y8/s1600/node2shell.gif",
-      "category": "Cybersecurity"
     }
   ]
 }
