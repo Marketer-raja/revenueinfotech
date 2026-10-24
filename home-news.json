@@ -1,7 +1,55 @@
 {
-  "updated": "2026-10-24T20:45:56+00:00",
+  "updated": "2026-10-24T23:10:35+00:00",
   "auto": true,
   "items": [
+    {
+      "id": "1081f515cd82",
+      "title": "Why your EV battery still loses charge while it's parked",
+      "summary": "Electric vehicles lose battery when they're left unused for long periods. There are a number of reasons why, and some might be totally out of your control.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2292646/ev-battery-why-it-loses-charge-when-parked/",
+      "image": "https://www.engadget.com/img/gallery/why-your-ev-battery-still-loses-charge-while-its-parked/l-intro-1792579754.jpg",
+      "category": "Software Development",
+      "section": "hero",
+      "featured": true,
+      "published": "2026-10-24T23:00:00+00:00"
+    },
+    {
+      "id": "fb60d0e97d30",
+      "title": "What kind of cooling system do EV batteries use and how does it work?",
+      "summary": "Electric cars need incredibly large batteries that offer long driving ranges and charge quickly, but remain cool when under load. This is how they do so.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2292606/ev-battery-cooling-system-how-works/",
+      "image": "https://www.engadget.com/img/gallery/what-kind-of-cooling-system-do-ev-batteries-use-and-how-does-it-work/l-intro-1792571941.jpg",
+      "category": "Software Development",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-24T22:45:00+00:00"
+    },
+    {
+      "id": "48e79e478178",
+      "title": "What are the different types of digital wallets?",
+      "summary": "Digital wallets can completely remove the need to carry cards and cash, but there's a lot more to them than just your usual Apple, Samsung and Google offerings.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2292582/different-types-digital-wallet-explained/",
+      "image": "https://www.engadget.com/img/gallery/what-are-the-different-types-of-digital-wallets/l-intro-1792568656.jpg",
+      "category": "Software Development",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-24T22:30:00+00:00"
+    },
+    {
+      "id": "9de87f6482a1",
+      "title": "Starlink seems to be working normally again in Ukraine",
+      "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800",
+      "category": "Software Development",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-24T20:46:34+00:00"
+    },
     {
       "id": "c95cc9144761",
       "title": "Will AI expose the rickety infrastructure of the internet?",
@@ -10,8 +58,8 @@
       "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
       "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1195574782.jpg?resize=1200,800",
       "category": "Artificial Intelligence",
-      "section": "hero",
-      "featured": true,
+      "section": "latest",
+      "featured": false,
       "published": "2026-10-24T20:15:33+00:00"
     },
     {
@@ -22,7 +70,7 @@
       "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
       "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
       "category": "Artificial Intelligence",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-24T19:00:00+00:00"
     },
@@ -34,7 +82,7 @@
       "url": "https://www.engadget.com/2292018/google-quietly-linking-phone-number-to-android-accounts/",
       "image": "https://www.engadget.com/img/gallery/google-is-quietly-linking-your-phone-number-to-other-android-accounts/l-intro-1792517776.jpg",
       "category": "Operating Systems",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-24T18:45:00+00:00"
     },
@@ -46,7 +94,7 @@
       "url": "https://www.engadget.com/2294278/why-wires-in-ethernet-cable-twisted-explained/",
       "image": "https://www.engadget.com/img/gallery/why-the-wires-in-your-ethernet-cables-are-twisted/l-intro-1790877005.jpg",
       "category": "Software Development",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-24T18:30:00+00:00"
     },
@@ -82,7 +130,7 @@
       "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
       "image": "https://www.engadget.com/img/gallery/capcom-confirms-data-breach-that-affected-11-7-million-users/l-intro-1792859616.jpg",
       "category": "Cybersecurity",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-24T16:40:45+00:00"
     },
@@ -94,7 +142,7 @@
       "url": "https://www.engadget.com/2291739/chance-playstation-5-plugged-into-wrong-hdmi-port/",
       "image": "https://www.engadget.com/img/gallery/theres-a-chance-your-playstation-5-is-plugged-into-the-wrong-hdmi-port/l-intro-1792510070.jpg",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-24T16:30:00+00:00"
     },
@@ -106,7 +154,7 @@
       "url": "https://www.engadget.com/2296211/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab/",
       "image": "https://www.engadget.com/img/gallery/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab/l-intro-1792858052.jpg",
       "category": "Artificial Intelligence",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-24T16:11:53+00:00"
     },
@@ -118,7 +166,7 @@
       "url": "https://www.engadget.com/2291599/smart-tv-wifi-faster-than-ethernet-speed-isnt-everything/",
       "image": "https://www.engadget.com/img/gallery/your-smart-tvs-wi-fi-is-probably-faster-than-its-ethernet-but-speed-isnt-everything/l-intro-1792505372.jpg",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-24T16:00:00+00:00"
     },
@@ -154,7 +202,7 @@
       "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-24T15:00:00+00:00"
     },
@@ -166,7 +214,7 @@
       "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1777713346.jpg?resize=1200,900",
       "category": "Artificial Intelligence",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-24T15:00:00+00:00"
     },
@@ -178,7 +226,7 @@
       "url": "https://www.engadget.com/2291408/how-to-test-cr2032-battery-see-if-good/",
       "image": "https://www.engadget.com/img/gallery/heres-how-to-test-a-cr2032-battery-to-see-if-its-good/l-intro-1792489885.jpg",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-24T15:00:00+00:00"
     },
@@ -190,7 +238,7 @@
       "url": "https://www.engadget.com/2291366/why-ring-camera-useful-without-subscription/",
       "image": "https://www.engadget.com/img/gallery/why-your-ring-camera-is-still-useful-without-a-subscription/l-intro-1791283019.jpg",
       "category": "Cybersecurity",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-24T14:30:00+00:00"
     },
@@ -440,7 +488,7 @@
       "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "image": "",
       "category": "Artificial Intelligence",
       "section": "none",
       "featured": false,
@@ -476,7 +524,7 @@
       "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676",
+      "image": "",
       "category": "Artificial Intelligence",
       "section": "none",
       "featured": false,
@@ -673,54 +721,6 @@
       "section": "none",
       "featured": false,
       "published": "2026-10-23T17:00:18+00:00"
-    },
-    {
-      "id": "55f38e2b0de9",
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its...",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Data & Analytics",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-23T16:52:55+00:00"
-    },
-    {
-      "id": "48ee0a6d76f8",
-      "title": "The first broken iPhone Duos are here",
-      "summary": "The iPhone Duo officially goes on sale today, but a few units already have broken screens. According to posts on Reddit about the affected units, the issue appears to be happening at a similar spot on all of them: Some kind of problem...",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20ruxzn728xh1.jpeg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-23T16:37:03+00:00"
-    },
-    {
-      "id": "bceb9600e7ad",
-      "title": "Android lets you \u2018bubble\u2019 apps for easy access now \u2013 how it works",
-      "summary": "Keep your most-used apps accessible with this new feature.",
-      "source": "ZDNET",
-      "url": "https://www.zdnet.com/tech/android-17-app-bubbles-how-to/",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/abbb415c-4966-456b-a00d-2bc9d4a14659.jpg",
-      "category": "Operating Systems",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-23T16:28:46+00:00"
-    },
-    {
-      "id": "794617893429",
-      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who\u2019s who of angels",
-      "summary": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
-      "image": "",
-      "category": "Cloud Computing",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-23T16:26:29+00:00"
     }
   ]
 }

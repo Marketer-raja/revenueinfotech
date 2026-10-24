@@ -1,6 +1,46 @@
 {
-  "updated": "2026-10-24T20:45:56+00:00",
+  "updated": "2026-10-24T23:10:35+00:00",
   "items": [
+    {
+      "id": "1081f515cd82",
+      "title": "Why your EV battery still loses charge while it's parked",
+      "url": "https://www.engadget.com/2292646/ev-battery-why-it-loses-charge-when-parked/",
+      "source": "Engadget",
+      "published": "2026-10-24T23:00:00+00:00",
+      "excerpt": "Electric vehicles lose battery when they're left unused for long periods. There are a number of reasons why, and some might be totally out of your control.",
+      "image": "https://www.engadget.com/img/gallery/why-your-ev-battery-still-loses-charge-while-its-parked/l-intro-1792579754.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "fb60d0e97d30",
+      "title": "What kind of cooling system do EV batteries use and how does it work?",
+      "url": "https://www.engadget.com/2292606/ev-battery-cooling-system-how-works/",
+      "source": "Engadget",
+      "published": "2026-10-24T22:45:00+00:00",
+      "excerpt": "Electric cars need incredibly large batteries that offer long driving ranges and charge quickly, but remain cool when under load. This is how they do so.",
+      "image": "https://www.engadget.com/img/gallery/what-kind-of-cooling-system-do-ev-batteries-use-and-how-does-it-work/l-intro-1792571941.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "48e79e478178",
+      "title": "What are the different types of digital wallets?",
+      "url": "https://www.engadget.com/2292582/different-types-digital-wallet-explained/",
+      "source": "Engadget",
+      "published": "2026-10-24T22:30:00+00:00",
+      "excerpt": "Digital wallets can completely remove the need to carry cards and cash, but there's a lot more to them than just your usual Apple, Samsung and Google offerings.",
+      "image": "https://www.engadget.com/img/gallery/what-are-the-different-types-of-digital-wallets/l-intro-1792568656.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "9de87f6482a1",
+      "title": "Starlink seems to be working normally again in Ukraine",
+      "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+      "source": "TechCrunch",
+      "published": "2026-10-24T20:46:34+00:00",
+      "excerpt": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800",
+      "category": "Software Development"
+    },
     {
       "id": "c95cc9144761",
       "title": "Will AI expose the rickety infrastructure of the internet?",
@@ -368,7 +408,7 @@
       "source": "TechCrunch",
       "published": "2026-10-23T23:05:49+00:00",
       "excerpt": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -398,7 +438,7 @@
       "source": "TechCrunch",
       "published": "2026-10-23T21:59:19+00:00",
       "excerpt": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -560,46 +600,6 @@
       "excerpt": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history...",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_102326_Site_attempt.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Software Development"
-    },
-    {
-      "id": "55f38e2b0de9",
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "source": "The Verge",
-      "published": "2026-10-23T16:52:55+00:00",
-      "excerpt": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Data & Analytics"
-    },
-    {
-      "id": "48ee0a6d76f8",
-      "title": "The first broken iPhone Duos are here",
-      "url": "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen",
-      "source": "The Verge",
-      "published": "2026-10-23T16:37:03+00:00",
-      "excerpt": "The iPhone Duo officially goes on sale today, but a few units already have broken screens. According to posts on Reddit about the affected units, the issue appears to be happening at a similar spot on all of them: Some kind of problem...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20ruxzn728xh1.jpeg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "bceb9600e7ad",
-      "title": "Android lets you \u2018bubble\u2019 apps for easy access now \u2013 how it works",
-      "url": "https://www.zdnet.com/tech/android-17-app-bubbles-how-to/",
-      "source": "ZDNET",
-      "published": "2026-10-23T16:28:46+00:00",
-      "excerpt": "Keep your most-used apps accessible with this new feature.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/abbb415c-4966-456b-a00d-2bc9d4a14659.jpg",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "794617893429",
-      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who\u2019s who of angels",
-      "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
-      "source": "TechCrunch",
-      "published": "2026-10-23T16:26:29+00:00",
-      "excerpt": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
-      "image": "",
-      "category": "Cloud Computing"
     }
   ]
 }
