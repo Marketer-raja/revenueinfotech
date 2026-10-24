@@ -1,7 +1,67 @@
 {
-  "updated": "2026-10-24T18:07:01+00:00",
+  "updated": "2026-10-24T20:45:56+00:00",
   "auto": true,
   "items": [
+    {
+      "id": "c95cc9144761",
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1195574782.jpg?resize=1200,800",
+      "category": "Artificial Intelligence",
+      "section": "hero",
+      "featured": true,
+      "published": "2026-10-24T20:15:33+00:00"
+    },
+    {
+      "id": "dbe76530e989",
+      "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
+      "category": "Artificial Intelligence",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-24T19:00:00+00:00"
+    },
+    {
+      "id": "f9fee958ef2b",
+      "title": "Google is quietly linking your phone number to other Android accounts",
+      "summary": "Adding a new SIM to your phone links it to all Google accounts, and any new Google accounts you add all inherit your phone number.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2292018/google-quietly-linking-phone-number-to-android-accounts/",
+      "image": "https://www.engadget.com/img/gallery/google-is-quietly-linking-your-phone-number-to-other-android-accounts/l-intro-1792517776.jpg",
+      "category": "Operating Systems",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-24T18:45:00+00:00"
+    },
+    {
+      "id": "c7dcdb4a3b61",
+      "title": "Why the wires in your ethernet cables are twisted",
+      "summary": "There's a good reason for that arrangement.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2294278/why-wires-in-ethernet-cable-twisted-explained/",
+      "image": "https://www.engadget.com/img/gallery/why-the-wires-in-your-ethernet-cables-are-twisted/l-intro-1790877005.jpg",
+      "category": "Software Development",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-24T18:30:00+00:00"
+    },
+    {
+      "id": "8e0c1f19429e",
+      "title": "Steam rolls out Personal Calendar feature that constantly updates recommended games",
+      "summary": "You can try out the new feature on the Steam store's homepage.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2296237/steam-rolls-out-personal-calendar-feature-that-constantly-updates-recommended-games/",
+      "image": "https://www.engadget.com/img/gallery/steam-rolls-out-personal-calendar-feature-that-constantly-updates-recommended-games/l-intro-1792865304.jpg",
+      "category": "Software Development",
+      "section": "latest",
+      "featured": false,
+      "published": "2026-10-24T18:09:54+00:00"
+    },
     {
       "id": "a3a282d6d2d8",
       "title": "Xbox Game Pass could let you pick which features you pay for",
@@ -10,8 +70,8 @@
       "url": "https://www.engadget.com/2296222/xbox-game-pass-pick-which-features/",
       "image": "https://www.engadget.com/img/gallery/xbox-game-pass-could-let-you-pick-which-features-you-pay-for/l-intro-1792860193.jpg",
       "category": "Enterprise Software & SaaS",
-      "section": "hero",
-      "featured": true,
+      "section": "latest",
+      "featured": false,
       "published": "2026-10-24T18:00:00+00:00"
     },
     {
@@ -22,7 +82,7 @@
       "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
       "image": "https://www.engadget.com/img/gallery/capcom-confirms-data-breach-that-affected-11-7-million-users/l-intro-1792859616.jpg",
       "category": "Cybersecurity",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-24T16:40:45+00:00"
     },
@@ -34,7 +94,7 @@
       "url": "https://www.engadget.com/2291739/chance-playstation-5-plugged-into-wrong-hdmi-port/",
       "image": "https://www.engadget.com/img/gallery/theres-a-chance-your-playstation-5-is-plugged-into-the-wrong-hdmi-port/l-intro-1792510070.jpg",
       "category": "Software Development",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-24T16:30:00+00:00"
     },
@@ -46,7 +106,7 @@
       "url": "https://www.engadget.com/2296211/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab/",
       "image": "https://www.engadget.com/img/gallery/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab/l-intro-1792858052.jpg",
       "category": "Artificial Intelligence",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-24T16:11:53+00:00"
     },
@@ -70,7 +130,7 @@
       "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/php-web-bug-padlock-2300746159.jpg?resize=1200,800",
       "category": "Web Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-24T15:30:00+00:00"
     },
@@ -82,7 +142,7 @@
       "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
       "image": "https://www.engadget.com/img/gallery/what-is-theater-mode-on-your-apple-watch-and-when-should-you-use-it/l-intro-1792501458.jpg",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-24T15:30:00+00:00"
     },
@@ -94,7 +154,7 @@
       "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-24T15:00:00+00:00"
     },
@@ -106,7 +166,7 @@
       "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1777713346.jpg?resize=1200,900",
       "category": "Artificial Intelligence",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-24T15:00:00+00:00"
     },
@@ -118,7 +178,7 @@
       "url": "https://www.engadget.com/2291408/how-to-test-cr2032-battery-see-if-good/",
       "image": "https://www.engadget.com/img/gallery/heres-how-to-test-a-cr2032-battery-to-see-if-its-good/l-intro-1792489885.jpg",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-24T15:00:00+00:00"
     },
@@ -142,7 +202,7 @@
       "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/pro-and-tell.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-24T14:15:00+00:00"
     },
@@ -154,7 +214,7 @@
       "url": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/boox-palma-2-pro.png?resize=1200,666",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-24T14:15:00+00:00"
     },
@@ -166,7 +226,7 @@
       "url": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_HP_Lenovo_Yoga_9n_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Artificial Intelligence",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-24T14:00:00+00:00"
     },
@@ -178,7 +238,7 @@
       "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
       "category": "Artificial Intelligence",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-24T14:00:00+00:00"
     },
@@ -190,7 +250,7 @@
       "url": "https://www.engadget.com/2290733/macbook-neo-a18-pro-chip-performance/",
       "image": "https://www.engadget.com/img/gallery/the-macbook-neo-uses-an-iphone-chip-and-its-just-good-enough/l-intro-1792434494.jpg",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-24T14:00:00+00:00"
     },
@@ -661,66 +721,6 @@
       "section": "none",
       "featured": false,
       "published": "2026-10-23T16:26:29+00:00"
-    },
-    {
-      "id": "2c268d0851cd",
-      "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
-      "summary": "Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
-      "image": "",
-      "category": "Enterprise Software & SaaS",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-23T16:20:28+00:00"
-    },
-    {
-      "id": "1bdaf465c0ae",
-      "title": "Meta is charging government and nonprofit pages to post links on Facebook",
-      "summary": "The new restrictions are a test which is explicitly not supposed to impact these entities.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2295422/meta-is-charging-government-and-nonprofit-pages-to-post-links-on-facebook/",
-      "image": "https://www.engadget.com/img/gallery/meta-is-charging-government-and-nonprofit-pages-to-post-links-on-facebook/l-intro-1792783602.jpg",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-23T16:09:39+00:00"
-    },
-    {
-      "id": "989bc7148e25",
-      "title": "What some of Anthropic\u2019s backers are worth before its IPO",
-      "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
-      "image": "",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-23T16:02:43+00:00"
-    },
-    {
-      "id": "06af6944bdf8",
-      "title": "Google Wallet rolling out notifications feed, support for more digital passports [U]",
-      "summary": "After the stacked card list redesign , Google Wallet for Android is gaining a notifications feed and support for more passports. more\u2026",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/23/google-wallet-notifications-passports/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/03/Id-pass-Google-Wallet-how-to-1.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-23T15:58:00+00:00"
-    },
-    {
-      "id": "375d977bbddb",
-      "title": "Deals: Pixel Watch 5 up to $150 off, Pixel 11 Pro Fold $420 off, Lenovo Tab Plus Gen 2, Ring\u2019s 2026 Doorbell at $45, more",
-      "summary": "Alongside the ongoing 50% price drop on the new new Amazon Fire TV Stick 4K and the LG 55-inch OLED evo AI C6 4K Smart TV at $1,000 off the launch price, today\u2019s 9to5Toys Lunch Break is headlined by Pixel Watch 5 at up to $150 off ...",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/23/deals-pixel-watch-5-lenovo-tab-plus-gen-2-ring-doorbell/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/9to5Google-Oct-23.png?w=1600",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-23T15:54:03+00:00"
     }
   ]
 }
