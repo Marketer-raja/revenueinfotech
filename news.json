@@ -1,6 +1,46 @@
 {
-  "updated": "2026-10-24T05:49:17+00:00",
+  "updated": "2026-10-24T10:54:48+00:00",
   "items": [
+    {
+      "id": "b36af81e0870",
+      "title": "Meta is delaying its controversial new business terms amid scraping concerns",
+      "url": "https://www.engadget.com/2296124/meta-delaying-controversial-business-terms-scraping-concerns/",
+      "source": "Engadget",
+      "published": "2026-10-24T10:18:15+00:00",
+      "excerpt": "Meta drew flak for an upcoming change to its business terms that would allow it to scrape business accounts' content for AI training.",
+      "image": "https://www.engadget.com/img/gallery/meta-is-delaying-its-controversial-new-business-terms-amid-scraping-concerns/l-intro-1792836885.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "94d51fe2d204",
+      "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
+      "url": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
+      "source": "The Hacker News",
+      "published": "2026-10-24T09:04:24+00:00",
+      "excerpt": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuy-T7iQPeiRqkJd7yhxd2WVQzxURRnLyHG9yz5fUXxIhjUW-bv_yAAt13dnTE1ecuh1w6cRjenRXL3In2b55rL22lXnBhpKrVvS9c5Qb6Bv0TeQPLeAXYoafNYnqYxYQwWnZBCO3e8ZW-HS8Y2GMbQuGz58-_wG7gT6Pcok3j53J4iiZ7jw6kLoGGtWU/s1600/popcorn.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "a0a9e49aec28",
+      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+      "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+      "source": "The Hacker News",
+      "published": "2026-10-24T08:45:56+00:00",
+      "excerpt": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxIIerJT3LOMCGn3nXAnmhaHzJlJnVJCso1COluq8t3WuF4IpNARa_Asl5nEhRUDTEcR89kwzo5vGmP5IyNbj1ncdaCpkhqcHUODHAd3khanaE-7N8Vb0NyEJkmPmNkhSpJtLCLgi9srDRhZLtM5n8UDI58F797ZJaVzC7JzjPLfca4NpxZr_7tCX8RIk/s1600/br-nodejs.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "838b4b1ce253",
+      "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+      "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+      "source": "The Hacker News",
+      "published": "2026-10-24T06:25:57+00:00",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV)...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmm0pKX3kbfMC2GKemUiMT8PH1uDJIHn4AcmoiQ5nUK4TWZl0Ni_-k6kjpAFUrFzEWSSq_G307YJXTXmn9FZ7q6oOr5OEMASP9mrXOXrk9lSOGzqPCAbkQqpHsMxFe1q5CnyDZnqeDq_FiiC7jEzp0ie1r_nnQOSKcbPcKBdoXI-ycAjCZA9AuxemUhE5k/s1600/arista-cisa.jpg",
+      "category": "Software Development"
+    },
     {
       "id": "f699a3e5cdaf",
       "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d",
@@ -560,46 +600,6 @@
       "excerpt": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have demonstrated. Their \"Node2Shell\" proof of concept ran code on the official Node.js 24.22.0 image...",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDudJHAM27KiE-F4E5vX1WOgITTdawUaZrFoXUIrf7lscEHIl7fgGQY5Qo60bRxr-o7UKloYK1sp23i5cvWPpc6XXttZa8GFvYxqSV7pp0B6vdBTp0sIBCX8r8oC5CAXO1mdJfshaIpLFyrFDCm9HPiYyBZMECEcSHKzbVzOk_VpGL2kEQDjB1rNk21Y8/s1600/node2shell.gif",
       "category": "Cybersecurity"
-    },
-    {
-      "id": "6f084559d703",
-      "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents\u2019 Token Balances",
-      "url": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
-      "source": "The Hacker News",
-      "published": "2026-10-23T08:35:45+00:00",
-      "excerpt": "AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it, security firm V12 said on October 22. The cause was the SDKs' default client, which set no...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1nl6HARmLzzb4BlklarhKxB1F2U6dwKebASj9-Ow-WI6otLzFoATEY-icF7OCAgwHqRzwNhs9jHY2S7e4ZGRHykrIzedvLxQlAyen6jQsOoY_L80gd0Lrjy3-3xzlHavaxahxsI1o13_r2MRRDwbQrtslkXfbITBGcp_736F1sPVq7dR8Rnq_JSVQP3A/s1600/ai-wallet.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "199bd0864fa3",
-      "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
-      "url": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
-      "source": "The Hacker News",
-      "published": "2026-10-23T07:40:45+00:00",
-      "excerpt": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing the flaws may be...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3SkRCDhjMsUS2FZ9ES40x39o7u2jdwMQDcq4NC75CsC2Xjji94ZZt_0Jgzdxmbf92n3razC07QvKJ-VT65axzIbXWoYrHytaQhNRBdYEMgmb1Fki-gR2NKY1TXuhpb9lcCemaPSqu8E0Q6KVczRNa97_7tj5Vyt0wngICj6GnWEHphW8fpaSybzKAa-pV/s1600/phpshell.jpg",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "3602c8887bef",
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-      "source": "TechCrunch",
-      "published": "2026-10-23T04:00:00+00:00",
-      "excerpt": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-      "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "8937fd9c8277",
-      "title": "Left alone with nothing to do, AI agents started playing",
-      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-      "source": "TechCrunch",
-      "published": "2026-10-23T00:45:37+00:00",
-      "excerpt": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-      "image": "",
-      "category": "Artificial Intelligence"
     }
   ]
 }

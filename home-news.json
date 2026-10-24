@@ -1,7 +1,55 @@
 {
-  "updated": "2026-10-24T05:49:17+00:00",
+  "updated": "2026-10-24T10:54:48+00:00",
   "auto": true,
   "items": [
+    {
+      "id": "b36af81e0870",
+      "title": "Meta is delaying its controversial new business terms amid scraping concerns",
+      "summary": "Meta drew flak for an upcoming change to its business terms that would allow it to scrape business accounts' content for AI training.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2296124/meta-delaying-controversial-business-terms-scraping-concerns/",
+      "image": "https://www.engadget.com/img/gallery/meta-is-delaying-its-controversial-new-business-terms-amid-scraping-concerns/l-intro-1792836885.jpg",
+      "category": "Artificial Intelligence",
+      "section": "hero",
+      "featured": true,
+      "published": "2026-10-24T10:18:15+00:00"
+    },
+    {
+      "id": "94d51fe2d204",
+      "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
+      "summary": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the...",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuy-T7iQPeiRqkJd7yhxd2WVQzxURRnLyHG9yz5fUXxIhjUW-bv_yAAt13dnTE1ecuh1w6cRjenRXL3In2b55rL22lXnBhpKrVvS9c5Qb6Bv0TeQPLeAXYoafNYnqYxYQwWnZBCO3e8ZW-HS8Y2GMbQuGz58-_wG7gT6Pcok3j53J4iiZ7jw6kLoGGtWU/s1600/popcorn.jpg",
+      "category": "Cybersecurity",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-24T09:04:24+00:00"
+    },
+    {
+      "id": "a0a9e49aec28",
+      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+      "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as...",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxIIerJT3LOMCGn3nXAnmhaHzJlJnVJCso1COluq8t3WuF4IpNARa_Asl5nEhRUDTEcR89kwzo5vGmP5IyNbj1ncdaCpkhqcHUODHAd3khanaE-7N8Vb0NyEJkmPmNkhSpJtLCLgi9srDRhZLtM5n8UDI58F797ZJaVzC7JzjPLfca4NpxZr_7tCX8RIk/s1600/br-nodejs.jpg",
+      "category": "Software Development",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-24T08:45:56+00:00"
+    },
+    {
+      "id": "838b4b1ce253",
+      "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV)...",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmm0pKX3kbfMC2GKemUiMT8PH1uDJIHn4AcmoiQ5nUK4TWZl0Ni_-k6kjpAFUrFzEWSSq_G307YJXTXmn9FZ7q6oOr5OEMASP9mrXOXrk9lSOGzqPCAbkQqpHsMxFe1q5CnyDZnqeDq_FiiC7jEzp0ie1r_nnQOSKcbPcKBdoXI-ycAjCZA9AuxemUhE5k/s1600/arista-cisa.jpg",
+      "category": "Software Development",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-24T06:25:57+00:00"
+    },
     {
       "id": "f699a3e5cdaf",
       "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d",
@@ -10,8 +58,8 @@
       "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
       "category": "Artificial Intelligence",
-      "section": "hero",
-      "featured": true,
+      "section": "latest",
+      "featured": false,
       "published": "2026-10-23T23:05:49+00:00"
     },
     {
@@ -22,7 +70,7 @@
       "url": "https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training/",
       "image": "https://www.engadget.com/img/gallery/openai-says-its-cutting-off-internet-access-for-frontier-model-training/l-intro-1792794862.jpg",
       "category": "Artificial Intelligence",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-23T22:37:02+00:00"
     },
@@ -34,7 +82,7 @@
       "url": "https://9to5google.com/2026/10/23/gemini-settings-redesign-android/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-2.jpg?quality=82&strip=all&w=1600",
       "category": "Artificial Intelligence",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-23T22:02:00+00:00"
     },
@@ -46,7 +94,7 @@
       "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676",
       "category": "Artificial Intelligence",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-23T21:59:19+00:00"
     },
@@ -82,7 +130,7 @@
       "url": "https://9to5google.com/2026/10/23/google-messages-enhanced-protection/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2023/03/google-messages-logo-circle-3.jpg?quality=82&strip=all&w=1600",
       "category": "Operating Systems",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-23T20:47:00+00:00"
     },
@@ -94,7 +142,7 @@
       "url": "https://9to5google.com/2026/10/23/pixelated-122-seven-years-late-same-foldable-problems/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&strip=all&w=1600",
       "category": "Operating Systems",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-23T20:30:00+00:00"
     },
@@ -106,7 +154,7 @@
       "url": "https://9to5google.com/2026/10/23/gemini-notebook-connected-app/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/gemini-notebook.jpg?quality=82&strip=all&w=1600",
       "category": "Artificial Intelligence",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-23T20:21:15+00:00"
     },
@@ -118,7 +166,7 @@
       "url": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
       "image": "https://techcrunch.com/wp-content/uploads/2025/12/TC-All-Stage-2025-roundtable.jpg?resize=1200,800",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-23T20:03:14+00:00"
     },
@@ -154,7 +202,7 @@
       "url": "https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15706750/CE_tJ_AUIAA9JV-.0.0.1456496896.png?quality=90&strip=all&crop=0,0,100,100",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-23T19:35:15+00:00"
     },
@@ -166,7 +214,7 @@
       "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1200,800",
       "category": "Artificial Intelligence",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-23T19:06:23+00:00"
     },
@@ -178,7 +226,7 @@
       "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0cTK7D5hQFR-3qGTicTlfi6_CbnMIgCJWIojDeXmZr91hrIPqhhxZ72mAsnB6kBOcCdscZOL_VN8RhAdYIxq3d128rkaDweIApSaV5w3IzB1YGN3XNnlarG0IKN5VuDJy_RnPBxXZoKQ1Yh950YFNz-b_pbvEY_QlQa5Tr-BP4366UgkGIg968J-QEN1M/s1600/uefi.jpg",
       "category": "Operating Systems",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-23T18:50:13+00:00"
     },
@@ -190,7 +238,7 @@
       "url": "https://9to5google.com/2026/10/23/google-health-expanded-activity-detection/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-health-logo-1.jpg?quality=82&strip=all&w=1600",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-23T18:36:47+00:00"
     },
@@ -673,54 +721,6 @@
       "section": "none",
       "featured": false,
       "published": "2026-10-23T08:40:43+00:00"
-    },
-    {
-      "id": "6f084559d703",
-      "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents\u2019 Token Balances",
-      "summary": "AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it, security firm V12 said on October 22. The cause was the SDKs' default client, which set no...",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1nl6HARmLzzb4BlklarhKxB1F2U6dwKebASj9-Ow-WI6otLzFoATEY-icF7OCAgwHqRzwNhs9jHY2S7e4ZGRHykrIzedvLxQlAyen6jQsOoY_L80gd0Lrjy3-3xzlHavaxahxsI1o13_r2MRRDwbQrtslkXfbITBGcp_736F1sPVq7dR8Rnq_JSVQP3A/s1600/ai-wallet.jpg",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-23T08:35:45+00:00"
-    },
-    {
-      "id": "199bd0864fa3",
-      "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
-      "summary": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing the flaws may be...",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3SkRCDhjMsUS2FZ9ES40x39o7u2jdwMQDcq4NC75CsC2Xjji94ZZt_0Jgzdxmbf92n3razC07QvKJ-VT65axzIbXWoYrHytaQhNRBdYEMgmb1Fki-gR2NKY1TXuhpb9lcCemaPSqu8E0Q6KVczRNa97_7tj5Vyt0wngICj6GnWEHphW8fpaSybzKAa-pV/s1600/phpshell.jpg",
-      "category": "Cybersecurity",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-23T07:40:45+00:00"
-    },
-    {
-      "id": "3602c8887bef",
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-      "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-      "image": "",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-23T04:00:00+00:00"
-    },
-    {
-      "id": "8937fd9c8277",
-      "title": "Left alone with nothing to do, AI agents started playing",
-      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-      "image": "",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-23T00:45:37+00:00"
     }
   ]
 }
