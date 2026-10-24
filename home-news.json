@@ -1,7 +1,139 @@
 {
-  "updated": "2026-10-24T14:30:15+00:00",
+  "updated": "2026-10-24T18:07:01+00:00",
   "auto": true,
   "items": [
+    {
+      "id": "a3a282d6d2d8",
+      "title": "Xbox Game Pass could let you pick which features you pay for",
+      "summary": "Microsoft is reportedly planning to let subscribers build their own Game Pass bundle rather than pay for set tiers.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2296222/xbox-game-pass-pick-which-features/",
+      "image": "https://www.engadget.com/img/gallery/xbox-game-pass-could-let-you-pick-which-features-you-pay-for/l-intro-1792860193.jpg",
+      "category": "Enterprise Software & SaaS",
+      "section": "hero",
+      "featured": true,
+      "published": "2026-10-24T18:00:00+00:00"
+    },
+    {
+      "id": "304d513e47d0",
+      "title": "Capcom confirms data breach that affected 11.7 million users",
+      "summary": "Capcom ID is still available to use, but users may see more phishing scam emails.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+      "image": "https://www.engadget.com/img/gallery/capcom-confirms-data-breach-that-affected-11-7-million-users/l-intro-1792859616.jpg",
+      "category": "Cybersecurity",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-24T16:40:45+00:00"
+    },
+    {
+      "id": "821690991bc1",
+      "title": "There's a chance your PlayStation 5 is plugged into the wrong HDMI port",
+      "summary": "Your PS5 will look great plugged into any HDMI port on a modern TV, but only some unlock its full suite of display features.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2291739/chance-playstation-5-plugged-into-wrong-hdmi-port/",
+      "image": "https://www.engadget.com/img/gallery/theres-a-chance-your-playstation-5-is-plugged-into-the-wrong-hdmi-port/l-intro-1792510070.jpg",
+      "category": "Software Development",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-24T16:30:00+00:00"
+    },
+    {
+      "id": "1ae532bb96a5",
+      "title": "The UK is investing $134 million into an AI Biosecurity Lab",
+      "summary": "The UK has established the AI Biosecurity Lab, which will help it detect biological threats and develop vaccines with AI.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2296211/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab/",
+      "image": "https://www.engadget.com/img/gallery/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab/l-intro-1792858052.jpg",
+      "category": "Artificial Intelligence",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-24T16:11:53+00:00"
+    },
+    {
+      "id": "facd68ee29b9",
+      "title": "Your smart TV's Wi-Fi is probably faster than its Ethernet, but speed isn't everything",
+      "summary": "You might have never thought to use Ethernet with your TV, but it's not speed that's worth connecting for.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2291599/smart-tv-wifi-faster-than-ethernet-speed-isnt-everything/",
+      "image": "https://www.engadget.com/img/gallery/your-smart-tvs-wi-fi-is-probably-faster-than-its-ethernet-but-speed-isnt-everything/l-intro-1792505372.jpg",
+      "category": "Software Development",
+      "section": "latest",
+      "featured": false,
+      "published": "2026-10-24T16:00:00+00:00"
+    },
+    {
+      "id": "7e6031d0571a",
+      "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+      "summary": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet \u2014 and it's unlikely to be the last major software scare.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/php-web-bug-padlock-2300746159.jpg?resize=1200,800",
+      "category": "Web Development",
+      "section": "latest",
+      "featured": false,
+      "published": "2026-10-24T15:30:00+00:00"
+    },
+    {
+      "id": "fa400699ab60",
+      "title": "What is Theater Mode on your Apple Watch and when should you use it?",
+      "summary": "There are various ways to silence your Apple Watch when you need to lock in. Theater Mode doesn't quite go as far as Do Not Disturb, but it's still very useful.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
+      "image": "https://www.engadget.com/img/gallery/what-is-theater-mode-on-your-apple-watch-and-when-should-you-use-it/l-intro-1792501458.jpg",
+      "category": "Software Development",
+      "section": "latest",
+      "featured": false,
+      "published": "2026-10-24T15:30:00+00:00"
+    },
+    {
+      "id": "1b69ea9ef4ce",
+      "title": "These clever apps show off the iPhone Duo\u2019s potential",
+      "summary": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
+      "category": "Software Development",
+      "section": "latest",
+      "featured": false,
+      "published": "2026-10-24T15:00:00+00:00"
+    },
+    {
+      "id": "e4ac1d3f295a",
+      "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats.",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1777713346.jpg?resize=1200,900",
+      "category": "Artificial Intelligence",
+      "section": "latest",
+      "featured": false,
+      "published": "2026-10-24T15:00:00+00:00"
+    },
+    {
+      "id": "163bb6bb36cd",
+      "title": "Here's how to test a CR2032 battery to see if it's good",
+      "summary": "CR2032 batteries are found in a lot of gadgets around your home. They're easy to test when they run low, especially if you have the appropriate devices.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2291408/how-to-test-cr2032-battery-see-if-good/",
+      "image": "https://www.engadget.com/img/gallery/heres-how-to-test-a-cr2032-battery-to-see-if-its-good/l-intro-1792489885.jpg",
+      "category": "Software Development",
+      "section": "latest",
+      "featured": false,
+      "published": "2026-10-24T15:00:00+00:00"
+    },
+    {
+      "id": "41543a8ef13d",
+      "title": "Why your Ring camera is still useful without a subscription",
+      "summary": "Modern smart home cameras and security systems put a lot of features behind a subscription. Here are a few reasons why you don't always need to pay.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2291366/why-ring-camera-useful-without-subscription/",
+      "image": "https://www.engadget.com/img/gallery/why-your-ring-camera-is-still-useful-without-a-subscription/l-intro-1791283019.jpg",
+      "category": "Cybersecurity",
+      "section": "featured",
+      "featured": false,
+      "published": "2026-10-24T14:30:00+00:00"
+    },
     {
       "id": "75a4fa274339",
       "title": "What to expect from Apple\u2019s \u2018Pro and tell\u2019 event",
@@ -10,8 +142,8 @@
       "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/pro-and-tell.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Software Development",
-      "section": "hero",
-      "featured": true,
+      "section": "featured",
+      "featured": false,
       "published": "2026-10-24T14:15:00+00:00"
     },
     {
@@ -22,7 +154,7 @@
       "url": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/boox-palma-2-pro.png?resize=1200,666",
       "category": "Software Development",
-      "section": "brief",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-24T14:15:00+00:00"
     },
@@ -34,7 +166,7 @@
       "url": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_HP_Lenovo_Yoga_9n_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Artificial Intelligence",
-      "section": "brief",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-24T14:00:00+00:00"
     },
@@ -46,7 +178,7 @@
       "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
       "category": "Artificial Intelligence",
-      "section": "brief",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-24T14:00:00+00:00"
     },
@@ -58,7 +190,7 @@
       "url": "https://www.engadget.com/2290733/macbook-neo-a18-pro-chip-performance/",
       "image": "https://www.engadget.com/img/gallery/the-macbook-neo-uses-an-iphone-chip-and-its-just-good-enough/l-intro-1792434494.jpg",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-24T14:00:00+00:00"
     },
@@ -70,7 +202,7 @@
       "url": "https://www.engadget.com/2290702/get-better-iphone-battery-life-without-closing-apps/",
       "image": "https://www.engadget.com/img/gallery/how-to-get-better-iphone-battery-life-without-closing-any-apps/l-intro-1792433821.jpg",
       "category": "Software Development",
-      "section": "latest",
+      "section": "none",
       "featured": false,
       "published": "2026-10-24T13:45:00+00:00"
     },
@@ -82,7 +214,7 @@
       "url": "https://www.engadget.com/2290640/anker-charger-iq-meaning-purpose/",
       "image": "https://www.engadget.com/img/gallery/the-beneficial-purpose-of-iq-on-your-anker-chargers/l-intro-1792432015.jpg",
       "category": "Software Development",
-      "section": "latest",
+      "section": "none",
       "featured": false,
       "published": "2026-10-24T13:30:00+00:00"
     },
@@ -94,7 +226,7 @@
       "url": "https://9to5google.com/2026/10/24/statik-powerstand-usb-c-cable-kickstand/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/statik-powerstand-7.jpg?quality=82&strip=all&w=1600",
       "category": "Software Development",
-      "section": "latest",
+      "section": "none",
       "featured": false,
       "published": "2026-10-24T13:30:00+00:00"
     },
@@ -106,7 +238,7 @@
       "url": "https://www.engadget.com/2290638/which-windows-background-services-safely-disable-improve-pc-gaming/",
       "image": "https://www.engadget.com/img/gallery/which-services-can-you-safely-disable-to-improve-pc-gaming/l-intro-1792431811.jpg",
       "category": "Operating Systems",
-      "section": "latest",
+      "section": "none",
       "featured": false,
       "published": "2026-10-24T13:00:00+00:00"
     },
@@ -118,7 +250,7 @@
       "url": "https://www.engadget.com/2290489/how-to-improve-pc-airflow-better-cooling/",
       "image": "https://www.engadget.com/img/gallery/how-to-improve-your-pcs-airflow-for-better-cooling/l-intro-1792426812.jpg",
       "category": "Software Development",
-      "section": "latest",
+      "section": "none",
       "featured": false,
       "published": "2026-10-24T12:45:00+00:00"
     },
@@ -130,7 +262,7 @@
       "url": "https://www.engadget.com/2294585/ken-kutaragi-father-of-playstation-sides-with-sony-physical-games/",
       "image": "https://www.engadget.com/img/gallery/father-of-the-playstation-ken-kutaragi-sides-with-sony-on-the-physical-discs-debate/l-intro-1792693371.jpg",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-24T12:15:00+00:00"
     },
@@ -142,7 +274,7 @@
       "url": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-149.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Web Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-24T12:00:00+00:00"
     },
@@ -154,7 +286,7 @@
       "url": "https://www.engadget.com/2295366/engadget-review-recap-iphone-duo-rivian-r2-and-more/",
       "image": "https://www.engadget.com/img/gallery/engadget-review-recap-iphone-duo-rivian-r2-and-more/l-intro-1792768704.jpg",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-24T12:00:00+00:00"
     },
@@ -166,7 +298,7 @@
       "url": "https://www.engadget.com/2295856/peak-on-consoles-hockey-roguelites-and-other-new-indie-games-worth-checking-out/",
       "image": "https://www.engadget.com/img/gallery/peak-on-consoles-hockey-roguelites-and-other-new-indie-games-worth-checking-out/l-intro-1792786507.jpg",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-24T11:30:00+00:00"
     },
@@ -178,7 +310,7 @@
       "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxIIerJT3LOMCGn3nXAnmhaHzJlJnVJCso1COluq8t3WuF4IpNARa_Asl5nEhRUDTEcR89kwzo5vGmP5IyNbj1ncdaCpkhqcHUODHAd3khanaE-7N8Vb0NyEJkmPmNkhSpJtLCLgi9srDRhZLtM5n8UDI58F797ZJaVzC7JzjPLfca4NpxZr_7tCX8RIk/s1600/br-nodejs.jpg",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-24T11:09:29+00:00"
     },
@@ -190,7 +322,7 @@
       "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipiDo2Yur6TXZHLped9EQgORAH65rC4APGTaq_EZzlDnspAaULTQCKblBC0FeIah7nOCKTiQa2Oi8cyx-bbxHj042Km9oYAf2s78XmStFxzPBTSQ_oqv4ZcWGEkUP1wo5JfJ1UDrWQpAtz8ZHd9i3ZbGWWe8s6CMeUU_nObp5tCEywMWGovqFh9NA1H8Sv/s1600/lite.jpg",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-24T11:03:33+00:00"
     },
@@ -356,7 +488,7 @@
       "summary": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller...",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/12/TC-All-Stage-2025-roundtable.jpg?resize=1200,800",
+      "image": "",
       "category": "Software Development",
       "section": "none",
       "featured": false,
@@ -404,7 +536,7 @@
       "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and...",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1200,800",
+      "image": "",
       "category": "Artificial Intelligence",
       "section": "none",
       "featured": false,
@@ -589,138 +721,6 @@
       "section": "none",
       "featured": false,
       "published": "2026-10-23T15:54:03+00:00"
-    },
-    {
-      "id": "bedba4269eab",
-      "title": "Apple Music has a fun Easter egg for the iPod's 25th anniversary",
-      "summary": "Time to dust off the click wheel.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2295392/apple-music-has-a-fun-easter-egg-for-the-ipods-25th-anniversary/",
-      "image": "https://www.engadget.com/img/gallery/apple-music-has-a-fun-easter-egg-for-the-ipods-25th-anniversary/l-intro-1792770156.jpg",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-23T15:47:03+00:00"
-    },
-    {
-      "id": "ccd7c4390ff7",
-      "title": "I needed a dashcam while out running. Meta glasses turned out to be the answer",
-      "summary": "I already love to use all of Meta\u2019s AI glasses when I leave the house, and now I\u2019ve got a new reason to love the camera that comes on (almost) every pair. more\u2026",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/23/i-needed-a-dashcam-while-out-running-meta-glasses-turned-out-to-be-the-answer/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/meta-nova-glasses-camera-01.jpg?quality=82&strip=all&w=1600",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-23T15:45:44+00:00"
-    },
-    {
-      "id": "50aa1aa2044d",
-      "title": "SpaceX\u2019s mobile carrier push reportedly involves tapping into 80,000 cell sites",
-      "summary": "SpaceX plans to access at least 80,000 cell sites as part of efforts to compete directly with Verizon, T-Mobile, and AT&T, according to a report from Bloomberg. Sources tell the publication that SpaceX is in talks with Crown Castle Inc...",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/science/1017477/spacex-cell-sites-major-us-carrier",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-1187777086.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-23T15:16:24+00:00"
-    },
-    {
-      "id": "1fee91d18032",
-      "title": "iPhone Duo\u2019s software restricts an already-small display; Galaxy Z Fold 8 doesn\u2019t",
-      "summary": "Apple\u2019s take on a wide foldable isn\u2019t being received without some criticism as it makes its way into the hands of users. The biggest limitation might not even be the hardware. more\u2026",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/23/iphone-duo-software-restricts-small-display-galaxy-z-fold-8-doesnt/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/iPhone-Duo-9to5mac-2.jpg?quality=82&strip=all&w=1400",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-23T15:13:53+00:00"
-    },
-    {
-      "id": "668329a7835f",
-      "title": "PHP2Shell: Haven\u2019t patched yet? Take these steps now to mitigate",
-      "summary": "The PHP Project provides instructions to stop further RCE exploits in limited settings.",
-      "source": "ZDNET",
-      "url": "https://www.zdnet.com/tech/php2shell-php-patch-mitigation-critical-exploit/",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/digitallockGettyImages-2300746116.jpg",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-23T15:09:47+00:00"
-    },
-    {
-      "id": "6e395679877e",
-      "title": "Lab testing giant Quest Diagnostics confirms patients\u2019 personal and health data was compromised during breach",
-      "summary": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
-      "image": "",
-      "category": "Cybersecurity",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-23T15:00:09+00:00"
-    },
-    {
-      "id": "d34a3f37bdd3",
-      "title": "Meta delays new business terms after publisher pushback on AI scraping",
-      "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta...",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951350/STK043_VRG_Illo_N_Barclay_6_Meta.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-23T14:47:41+00:00"
-    },
-    {
-      "id": "9553dfb61e2b",
-      "title": "The Sigma FP2 brings significant upgrades to the \u2018world\u2019s smallest\u2019 full-frame camera",
-      "summary": "Seven years after Sigma claimed its original fp was the world's smallest and lightest full-frame mirrorless camera, the company has announced a similarly compact follow-up with several welcome upgrades, including an improved sensor, an...",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1017410/sigma-fp2-mirrorless-full-frame-modular-camera-upgrade",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/sigmafp2_1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-23T14:42:46+00:00"
-    },
-    {
-      "id": "c3a5b73182a7",
-      "title": "OnePlus starts rolling out stable Android 17 updates early, marking the end of OxygenOS",
-      "summary": "OnePlus is now rolling out stable Android 17 updates to OnePlus 15 and OnePlus Pad 4, marking the end of OxygenOS as these devices are just the first to transition to ColorOS. more\u2026",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/23/oneplus-stable-android-17-rollout-begins/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/11/oneplus-15-review-02.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-23T14:15:00+00:00"
-    },
-    {
-      "id": "24aad419de8e",
-      "title": "Our best tips for using the iPhone Duo",
-      "summary": "The Duo is an entirely new kind of iPhone, so it comes with a bit of a learning curve. That's a wild thing to imagine, since the iPhone has had very few fundamental changes since its inception. But the Duo is built different. If you won...",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1017157/iphone-duo-tips-touch-id-magsafe",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1057.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-23T14:00:00+00:00"
-    },
-    {
-      "id": "81966c79b944",
-      "title": "Apple revives the original iPod as an Apple Music easter egg",
-      "summary": "If you've been feeling nostalgic for your old iPod, you can head over to Apple Music's 404 page to listen to music on a virtual re-creation of the first-generation iPod. The hidden iPod was spotted by users on social media on Friday. It's...",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-23-at-9.37.49-AM.png?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-23T13:58:43+00:00"
     }
   ]
 }
