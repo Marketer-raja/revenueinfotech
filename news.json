@@ -1,6 +1,146 @@
 {
-  "updated": "2026-10-25T11:22:05+00:00",
+  "updated": "2026-10-25T16:12:56+00:00",
   "items": [
+    {
+      "id": "7f3afb38eae3",
+      "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
+      "url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
+      "source": "TechCrunch",
+      "published": "2026-10-25T16:05:00+00:00",
+      "excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-cybercab-getty.jpg?resize=1200,834",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "4dbc450e02ae",
+      "title": "Here's how much PlayStation Plus cost in 2010 vs. 2026",
+      "url": "https://www.engadget.com/2293248/how-much-playstation-plus-cost-2010-vs-2026/",
+      "source": "Engadget",
+      "published": "2026-10-25T15:45:00+00:00",
+      "excerpt": "Sony's gaming service has changed a lot in recent years, and the price reflects that.",
+      "image": "https://www.engadget.com/img/gallery/heres-how-much-playstation-plus-cost-in-2010-vs-2026/l-intro-1792603440.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "1cae3dbc2134",
+      "title": "4 Ray-Ban Meta privacy settings you should change before wearing them",
+      "url": "https://www.engadget.com/2293112/meta-ray-ban-settings-change-before-wearing/",
+      "source": "Engadget",
+      "published": "2026-10-25T15:15:00+00:00",
+      "excerpt": "Ray-Ban Meta smart glasses have rightly been criticized for the many ways they can violate people's privacy.",
+      "image": "https://www.engadget.com/img/gallery/4-ray-ban-meta-privacy-settings-you-should-change-before-wearing-them/l-intro-1792599800.jpg",
+      "category": "Data & Analytics"
+    },
+    {
+      "id": "a2279cc91098",
+      "title": "Get the ultimate security for your MacBook by changing these privacy settings",
+      "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+      "source": "Engadget",
+      "published": "2026-10-25T14:45:00+00:00",
+      "excerpt": "Your Mac comes with a fairly robust suite of built-in privacy tools.",
+      "image": "https://www.engadget.com/img/gallery/get-the-ultimate-security-for-your-macbook-by-changing-these-privacy-settings/l-intro-1792599428.jpg",
+      "category": "Data & Analytics"
+    },
+    {
+      "id": "2e53d1922f8d",
+      "title": "Why are earbuds usually cheaper than headphones?",
+      "url": "https://www.engadget.com/2293014/why-earbuds-cheaper-than-headphones/",
+      "source": "Engadget",
+      "published": "2026-10-25T14:15:00+00:00",
+      "excerpt": "Earbuds tend to be smaller and less complex to build than headphones.",
+      "image": "https://www.engadget.com/img/gallery/why-are-earbuds-usually-cheaper-than-headphones/l-intro-1792596068.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "611184d5aa6f",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "source": "TechCrunch",
+      "published": "2026-10-25T14:10:00+00:00",
+      "excerpt": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "image": "https://techcrunch.com/wp-content/uploads/2016/09/robocash.jpg?resize=1200,849",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "38afa4b1d7f7",
+      "title": "Samsung probably isn't rebranding One UI as Galaxy OS",
+      "url": "https://www.engadget.com/2292973/samsung-probably-not-rebranding-one-ui-as-galaxy-os/",
+      "source": "Engadget",
+      "published": "2026-10-25T13:45:00+00:00",
+      "excerpt": "A bunch of recent rumors have suggested Samsung has some changes in store for its smartphone interface.",
+      "image": "https://www.engadget.com/img/gallery/samsung-probably-isnt-rebranding-one-ui-as-galaxy-os/l-intro-1792594756.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "0992bcb7b6f4",
+      "title": "Quantum computers can get colder than deep space \u2014 Here's how they stay running",
+      "url": "https://www.engadget.com/2292950/how-quantum-computer-stays-running-extreme-cold/",
+      "source": "Engadget",
+      "published": "2026-10-25T13:30:00+00:00",
+      "excerpt": "Heat disrupts the accuracy of a quantum computer, so the computer needs to be kept as cold as possible. Which is extremely cold, it turns out.",
+      "image": "https://www.engadget.com/img/gallery/quantum-computers-can-get-colder-than-deep-space-heres-how-they-stay-running/l-intro-1792594079.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "b366ba776fde",
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "source": "The Verge",
+      "published": "2026-10-25T13:25:32+00:00",
+      "excerpt": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "a57aaff4fc63",
+      "title": "Don't throw away your old Chromebook (even if you're getting a Googlebook)",
+      "url": "https://www.engadget.com/2292939/dont-throw-away-old-chromebook-even-if-getting-googlebook/",
+      "source": "Engadget",
+      "published": "2026-10-25T13:15:00+00:00",
+      "excerpt": "There's plenty an old Chromebook can do, even if it's not your main computer.",
+      "image": "https://www.engadget.com/img/gallery/dont-throw-away-your-old-chromebook-even-if-youre-getting-a-googlebook/l-intro-1792593842.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "4dd49cfb9bab",
+      "title": "What tech is making you happy?",
+      "url": "https://9to5google.com/2026/10/25/what-tech-is-making-you-happy/",
+      "source": "9to5Google",
+      "published": "2026-10-25T13:00:00+00:00",
+      "excerpt": "Tech is in a weird place right now. There are plenty of exciting developments in AI, tons of new hardware, and rapidly growing ideas, but it\u2019s all surrounded by the effect today\u2019s tech is having on society. So, what tech is making you...",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Fitbit-Edge-vs-Fitbit-Air-3.jpg?quality=82&strip=all&w=1600",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "d9b875ab23eb",
+      "title": "When AI glasses could be a worthy headphones replacement",
+      "url": "https://www.engadget.com/2292076/when-ai-glasses-worth-headphones-replacement/",
+      "source": "Engadget",
+      "published": "2026-10-25T12:45:00+00:00",
+      "excerpt": "Smart AI glasses are everywhere, but is the audio any good? It really depends on what you're using them for.",
+      "image": "https://www.engadget.com/img/gallery/when-ai-glasses-could-be-a-worthy-headphones-replacement/l-intro-1792519044.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "57e8c3a0e484",
+      "title": "Don't throw away your old speakers \u2014 Use them for your TV instead",
+      "url": "https://www.engadget.com/2291638/dont-throw-away-old-speakers-use-for-tv-instead/",
+      "source": "Engadget",
+      "published": "2026-10-25T12:30:00+00:00",
+      "excerpt": "Old speakers often get set aside alongside the device they were used with, but you may still be able to use them with your current tech.",
+      "image": "https://www.engadget.com/img/gallery/dont-throw-away-your-old-speakers-use-them-for-your-tv-instead/l-intro-1792506662.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "036ef2d96b2b",
+      "title": "Smart bulbs are easy to install, but this smart home upgrade is more inclusive",
+      "url": "https://www.engadget.com/2291551/smart-bulbs-easy-install-smart-switch-home-upgrade-more-inclusive/",
+      "source": "Engadget",
+      "published": "2026-10-25T12:15:00+00:00",
+      "excerpt": "Smart bulbs are a natural entry point to smart home tech, but they come with some annoyances. Use these instead.",
+      "image": "https://www.engadget.com/img/gallery/smart-bulbs-are-easy-to-install-but-this-smart-home-upgrade-is-more-inclusive/l-intro-1792502749.jpg",
+      "category": "Software Development"
+    },
     {
       "id": "5d0e99bc982d",
       "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
@@ -278,7 +418,7 @@
       "source": "TechCrunch",
       "published": "2026-10-24T14:00:00+00:00",
       "excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -460,146 +600,6 @@
       "excerpt": "OpenAI says it will no longer allow frontier models to access the internet during training in an effort to put in new safety measures after a series of incidents.",
       "image": "https://www.engadget.com/img/gallery/openai-says-its-cutting-off-internet-access-for-frontier-model-training/l-intro-1792794862.jpg",
       "category": "Artificial Intelligence"
-    },
-    {
-      "id": "6bba15b726bf",
-      "title": "Gemini for Android rolls out side panel and settings redesign",
-      "url": "https://9to5google.com/2026/10/23/gemini-settings-redesign-android/",
-      "source": "9to5Google",
-      "published": "2026-10-23T22:02:00+00:00",
-      "excerpt": "Following the Spark-to-Task update , the Gemini app has now rolled out redesigns of the side panel and settings on Android. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-2.jpg?quality=82&strip=all&w=1600",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "67ab64203109",
-      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-      "source": "TechCrunch",
-      "published": "2026-10-23T21:59:19+00:00",
-      "excerpt": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
-      "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "598946c250a5",
-      "title": "Xbox\u2019s first chief operating officer is out after just a few months",
-      "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
-      "source": "The Verge",
-      "published": "2026-10-23T21:39:26+00:00",
-      "excerpt": "Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been at Microsoft for 21...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485116/STK048_XBOX2__B.png?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Enterprise Software & SaaS"
-    },
-    {
-      "id": "0d070b51a4fa",
-      "title": "Google Health 5.11 rolling out with Fitbit Air Health Guardian, improved sleep tracking, & more",
-      "url": "https://9to5google.com/2026/10/23/google-health-5-11-release-notes/",
-      "source": "9to5Google",
-      "published": "2026-10-23T21:00:10+00:00",
-      "excerpt": "Google Health 5.11 is rolling out this week as a rather big update for Fitbit trackers and the Pixel Watch. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-fitbit-air-hands-on-13.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "5766b2618f2b",
-      "title": "Google Messages rolling out Enhanced Protection mode against spam and scams",
-      "url": "https://9to5google.com/2026/10/23/google-messages-enhanced-protection/",
-      "source": "9to5Google",
-      "published": "2026-10-23T20:47:00+00:00",
-      "excerpt": "Following the announcement earlier this month , Google Messages for Android is rolling out an Enhanced Protection mode to counter spam and scams. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2023/03/google-messages-logo-circle-3.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "363d64f1874f",
-      "title": "Pixelated 122: Seven years late, same foldable problems",
-      "url": "https://9to5google.com/2026/10/23/pixelated-122-seven-years-late-same-foldable-problems/",
-      "source": "9to5Google",
-      "published": "2026-10-23T20:30:00+00:00",
-      "excerpt": "Welcome to Pixelated episode 122. This week, Abner, Damien, and Will discuss the first slate of iPhone Duo reviews, as Apple dives headfirst into a crowded foldable field for thee very first time. What should Android OEMs learn from the...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "51ce0486507b",
-      "title": "Gemini Notebook now available as Connected App for deeper integration",
-      "url": "https://9to5google.com/2026/10/23/gemini-notebook-connected-app/",
-      "source": "9to5Google",
-      "published": "2026-10-23T20:21:15+00:00",
-      "excerpt": "Gemini Notebooks are already available in the Gemini app side panel, but Google is now adding deeper Connected App integration. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/gemini-notebook.jpg?quality=82&strip=all&w=1600",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "7717ea3a2fe4",
-      "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
-      "url": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
-      "source": "TechCrunch",
-      "published": "2026-10-23T20:03:14+00:00",
-      "excerpt": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller...",
-      "image": "",
-      "category": "Software Development"
-    },
-    {
-      "id": "f7d4dfe50ef3",
-      "title": "Friday\u2019s Android app deals and freebies: DREDGE, Slaps And Beans, Thronefall, more",
-      "url": "https://9to5toys.com/2026/10/23/todays-highlight-google-play-deals-35/",
-      "source": "9to5Google",
-      "published": "2026-10-23T19:55:20+00:00",
-      "excerpt": "Friday\u2019s best Google Play app and game deals are ready, including DREDGE, Slaps And Beans, Argo\u2019s Choice: Offline Game, The Ancestral Legacy, Ticket to Ride, Thronefall, Demon Castle Story, Lumino City, and more. Just be sure to dive into...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-Play-collage-b282d1.png?w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "02135ca4f736",
-      "title": "Google will target ads based on Gmail, Photos data if Personal Intelligence is enabled",
-      "url": "https://9to5google.com/2026/10/23/google-will-target-ads-based-on-gmail-photos-data-if-personal-intelligence-is-enabled/",
-      "source": "9to5Google",
-      "published": "2026-10-23T19:45:00+00:00",
-      "excerpt": "If you\u2019re an Android user, you\u2019ve probably trusted Google with mountains of your own personal data over the last couple of decades. Now, a new privacy policy update suggests that the company is finally dipping into that data to target...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-11-Pro-Gemini-Splashscreen.jpg?quality=82&strip=all&w=1600",
-      "category": "Data & Analytics"
-    },
-    {
-      "id": "95d57f8c7f93",
-      "title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
-      "url": "https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided",
-      "source": "The Verge",
-      "published": "2026-10-23T19:35:15+00:00",
-      "excerpt": "Remember Popcorn Time, the app that served as an easy-to-use front end for streaming torrents of movies and TV shows? Development of the MPAA's least-favorite app of the 2010s has been abandoned for years, but the \"Netflix of Piracy\"...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15706750/CE_tJ_AUIAA9JV-.0.0.1456496896.png?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "4f8bba4990b7",
-      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-      "source": "TechCrunch",
-      "published": "2026-10-23T19:06:23+00:00",
-      "excerpt": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and...",
-      "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "077ef200d3e0",
-      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
-      "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
-      "source": "The Hacker News",
-      "published": "2026-10-23T18:50:13+00:00",
-      "excerpt": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0cTK7D5hQFR-3qGTicTlfi6_CbnMIgCJWIojDeXmZr91hrIPqhhxZ72mAsnB6kBOcCdscZOL_VN8RhAdYIxq3d128rkaDweIApSaV5w3IzB1YGN3XNnlarG0IKN5VuDJy_RnPBxXZoKQ1Yh950YFNz-b_pbvEY_QlQa5Tr-BP4366UgkGIg968J-QEN1M/s1600/uefi.jpg",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "dee3c6233483",
-      "title": "Google Health 5.11 rolling out expanded 100+ activity detection to Fitbit Air, Pixel Watch",
-      "url": "https://9to5google.com/2026/10/23/google-health-expanded-activity-detection/",
-      "source": "9to5Google",
-      "published": "2026-10-23T18:36:47+00:00",
-      "excerpt": "With the Fitbit Edge announcement, Google Health previewed improved automatic activity tracking, and it\u2019s now beginning to roll out with version 5.11 of the app. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-health-logo-1.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
     }
   ]
 }
