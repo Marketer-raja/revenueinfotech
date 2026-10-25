@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-25T19:02:22+00:00",
+  "updated": "2026-10-25T21:45:09+00:00",
   "auto": true,
   "items": [
+    {
+      "id": "bf7f18e0418c",
+      "title": "Grok releases the first seven minutes of its AI-generated \u2018Odyssey\u2019",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
+      "category": "Artificial Intelligence",
+      "section": "hero",
+      "featured": true,
+      "published": "2026-10-25T21:31:16+00:00"
+    },
+    {
+      "id": "b77e72f00b20",
+      "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+      "summary": "Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to catch on something, then...",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20ruxzn728xh1.jpeg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-25T20:16:19+00:00"
+    },
+    {
+      "id": "35542ffb0e04",
+      "title": "Zen Browser is the Arc replacement I was looking for",
+      "summary": "I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and shifted its focus to...",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_4433.png?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Web Development",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-25T19:24:50+00:00"
+    },
     {
       "id": "759a1486150c",
       "title": "What does the bell icon mean on your CarPlay screen?",
@@ -10,8 +46,8 @@
       "url": "https://www.engadget.com/2293911/what-bell-icon-means-carplay-announce-notifications-feature/",
       "image": "https://www.engadget.com/img/gallery/what-does-the-bell-icon-mean-on-your-carplay-screen/l-intro-1792672048.jpg",
       "category": "Software Development",
-      "section": "hero",
-      "featured": true,
+      "section": "brief",
+      "featured": false,
       "published": "2026-10-25T18:45:00+00:00"
     },
     {
@@ -22,7 +58,7 @@
       "url": "https://www.engadget.com/2294275/the-most-unexpected-everyday-tool-can-be-found-on-your-phone/",
       "image": "https://www.engadget.com/img/gallery/the-most-unexpected-everyday-tool-can-be-found-on-your-phone/l-intro-1792514406.jpg",
       "category": "Software Development",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-25T18:30:00+00:00"
     },
@@ -34,7 +70,7 @@
       "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
       "image": "https://www.engadget.com/img/gallery/even-the-best-mesh-wi-fi-system-can-be-easily-improved-with-a-simple-cable/l-intro-1792611196.jpg",
       "category": "Software Development",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-25T18:00:00+00:00"
     },
@@ -46,7 +82,7 @@
       "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbGR63RmXInXPwCVFZlGJSiGv5WQfLTWymToOPIYbKXfXniB7X4YDbTVK-28G4r3WfdelCr_2TRzhoYrIogcG_C9WjXEHaLhURIh_v5RyO5sBY8UKwQWbKUBrv_H5n5K7N4mz2WG3d5dldw_re-M5CgDDbVi_EhTqvB9P87fZJlODojj8ivvj-RwLUhpg/s1600/tailscale.jpg",
       "category": "Software Development",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-25T17:44:09+00:00"
     },
@@ -94,7 +130,7 @@
       "url": "https://www.engadget.com/2293387/features-lost-use-apple-airpods-with-samsung-galaxy-phone/",
       "image": "https://www.engadget.com/img/gallery/what-features-do-you-lose-if-you-use-apple-airpods-with-a-samsung-galaxy-phone/l-intro-1792607815.jpg",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-25T16:45:00+00:00"
     },
@@ -106,7 +142,7 @@
       "url": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/1286x724bb.webp?quality=90&strip=all&crop=0,0,100,100",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-25T16:20:17+00:00"
     },
@@ -118,7 +154,7 @@
       "url": "https://www.engadget.com/2293285/internet-home-network-needs-ipv6/",
       "image": "https://www.engadget.com/img/gallery/the-internet-needs-ipv6-and-so-does-your-home-network/l-intro-1792604641.jpg",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-25T16:15:00+00:00"
     },
@@ -166,7 +202,7 @@
       "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
       "image": "https://www.engadget.com/img/gallery/get-the-ultimate-security-for-your-macbook-by-changing-these-privacy-settings/l-intro-1792599428.jpg",
       "category": "Data & Analytics",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-25T14:45:00+00:00"
     },
@@ -178,7 +214,7 @@
       "url": "https://www.engadget.com/2293014/why-earbuds-cheaper-than-headphones/",
       "image": "https://www.engadget.com/img/gallery/why-are-earbuds-usually-cheaper-than-headphones/l-intro-1792596068.jpg",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-25T14:15:00+00:00"
     },
@@ -190,7 +226,7 @@
       "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
       "image": "https://techcrunch.com/wp-content/uploads/2016/09/robocash.jpg?resize=1200,849",
       "category": "Artificial Intelligence",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-25T14:10:00+00:00"
     },
@@ -685,42 +721,6 @@
       "section": "none",
       "featured": false,
       "published": "2026-10-24T13:00:00+00:00"
-    },
-    {
-      "id": "fad839cb90c5",
-      "title": "How to improve your PC's airflow for better cooling",
-      "summary": "Here's how to think about your PC's fans.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2290489/how-to-improve-pc-airflow-better-cooling/",
-      "image": "https://www.engadget.com/img/gallery/how-to-improve-your-pcs-airflow-for-better-cooling/l-intro-1792426812.jpg",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-24T12:45:00+00:00"
-    },
-    {
-      "id": "9a93e93a1a70",
-      "title": "'Father of the PlayStation' Ken Kutaragi sides with Sony on the physical discs debate",
-      "summary": "The debate about Sony's plan to stop making physical PS5 discs has raged since this summer.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2294585/ken-kutaragi-father-of-playstation-sides-with-sony-physical-games/",
-      "image": "https://www.engadget.com/img/gallery/father-of-the-playstation-ken-kutaragi-sides-with-sony-on-the-physical-discs-debate/l-intro-1792693371.jpg",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-24T12:15:00+00:00"
-    },
-    {
-      "id": "fccc36c874e6",
-      "title": "It\u2019s time to find a new browser",
-      "summary": "Hi, friends! Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood), and also you can read all the old...",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-149.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Web Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-24T12:00:00+00:00"
     }
   ]
 }

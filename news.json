@@ -1,6 +1,36 @@
 {
-  "updated": "2026-10-25T19:02:22+00:00",
+  "updated": "2026-10-25T21:45:09+00:00",
   "items": [
+    {
+      "id": "bf7f18e0418c",
+      "title": "Grok releases the first seven minutes of its AI-generated \u2018Odyssey\u2019",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "source": "TechCrunch",
+      "published": "2026-10-25T21:31:16+00:00",
+      "excerpt": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "b77e72f00b20",
+      "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+      "url": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
+      "source": "The Verge",
+      "published": "2026-10-25T20:16:19+00:00",
+      "excerpt": "Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to catch on something, then...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20ruxzn728xh1.jpeg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "35542ffb0e04",
+      "title": "Zen Browser is the Arc replacement I was looking for",
+      "url": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
+      "source": "The Verge",
+      "published": "2026-10-25T19:24:50+00:00",
+      "excerpt": "I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and shifted its focus to...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_4433.png?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Web Development"
+    },
     {
       "id": "759a1486150c",
       "title": "What does the bell icon mean on your CarPlay screen?",
@@ -570,36 +600,6 @@
       "excerpt": "A lot of what Windows does out of the box isn't essential, and can waste your computer's power when you're trying to game.",
       "image": "https://www.engadget.com/img/gallery/which-services-can-you-safely-disable-to-improve-pc-gaming/l-intro-1792431811.jpg",
       "category": "Operating Systems"
-    },
-    {
-      "id": "fad839cb90c5",
-      "title": "How to improve your PC's airflow for better cooling",
-      "url": "https://www.engadget.com/2290489/how-to-improve-pc-airflow-better-cooling/",
-      "source": "Engadget",
-      "published": "2026-10-24T12:45:00+00:00",
-      "excerpt": "Here's how to think about your PC's fans.",
-      "image": "https://www.engadget.com/img/gallery/how-to-improve-your-pcs-airflow-for-better-cooling/l-intro-1792426812.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "9a93e93a1a70",
-      "title": "'Father of the PlayStation' Ken Kutaragi sides with Sony on the physical discs debate",
-      "url": "https://www.engadget.com/2294585/ken-kutaragi-father-of-playstation-sides-with-sony-physical-games/",
-      "source": "Engadget",
-      "published": "2026-10-24T12:15:00+00:00",
-      "excerpt": "The debate about Sony's plan to stop making physical PS5 discs has raged since this summer.",
-      "image": "https://www.engadget.com/img/gallery/father-of-the-playstation-ken-kutaragi-sides-with-sony-on-the-physical-discs-debate/l-intro-1792693371.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "fccc36c874e6",
-      "title": "It\u2019s time to find a new browser",
-      "url": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
-      "source": "The Verge",
-      "published": "2026-10-24T12:00:00+00:00",
-      "excerpt": "Hi, friends! Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood), and also you can read all the old...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-149.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Web Development"
     }
   ]
 }
