@@ -1,7 +1,127 @@
 {
-  "updated": "2026-10-25T16:12:56+00:00",
+  "updated": "2026-10-25T19:02:22+00:00",
   "auto": true,
   "items": [
+    {
+      "id": "759a1486150c",
+      "title": "What does the bell icon mean on your CarPlay screen?",
+      "summary": "Even as a simplified interface, CarPlay has a few icons that aren't so obvious, like its bell that appears on the app switcher.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2293911/what-bell-icon-means-carplay-announce-notifications-feature/",
+      "image": "https://www.engadget.com/img/gallery/what-does-the-bell-icon-mean-on-your-carplay-screen/l-intro-1792672048.jpg",
+      "category": "Software Development",
+      "section": "hero",
+      "featured": true,
+      "published": "2026-10-25T18:45:00+00:00"
+    },
+    {
+      "id": "05bf53adf65a",
+      "title": "The most unexpected everyday tool can be found on your phone",
+      "summary": "If you have an iPhone, that is.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2294275/the-most-unexpected-everyday-tool-can-be-found-on-your-phone/",
+      "image": "https://www.engadget.com/img/gallery/the-most-unexpected-everyday-tool-can-be-found-on-your-phone/l-intro-1792514406.jpg",
+      "category": "Software Development",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-25T18:30:00+00:00"
+    },
+    {
+      "id": "1dcc816b9be1",
+      "title": "Even the best mesh Wi-Fi system can be easily improved with a simple cable",
+      "summary": "Mesh systems generally provide better Wi-Fi coverage than standalone routers, but you can make the mesh signal even stronger.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+      "image": "https://www.engadget.com/img/gallery/even-the-best-mesh-wi-fi-system-can-be-easily-improved-with-a-simple-cable/l-intro-1792611196.jpg",
+      "category": "Software Development",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-25T18:00:00+00:00"
+    },
+    {
+      "id": "4a8154151413",
+      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+      "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The attack requires two things: Tailscale SSH set up to...",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbGR63RmXInXPwCVFZlGJSiGv5WQfLTWymToOPIYbKXfXniB7X4YDbTVK-28G4r3WfdelCr_2TRzhoYrIogcG_C9WjXEHaLhURIh_v5RyO5sBY8UKwQWbKUBrv_H5n5K7N4mz2WG3d5dldw_re-M5CgDDbVi_EhTqvB9P87fZJlODojj8ivvj-RwLUhpg/s1600/tailscale.jpg",
+      "category": "Software Development",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-25T17:44:09+00:00"
+    },
+    {
+      "id": "3eda0d6ae7e3",
+      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+      "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619. \"In one case, the...",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzK2qokKedMIUzd876s0EWaLDb7qw-DMzlFWKvmfgCzMKZ2KVvdpZ-298SoEm1_PP6aoEBc6q1LAydnANGur1FbFNmXmhlo6zHtRFvgRcbx-LOoDoM_-JI-_7XkkM4r5q3LQH1SdfirarXTGeiu16d5YMDSeYs8tfJn5ITfRQ4DThbqkq66b4WdDQcOJqf/s1600/php2shell-exploit.jpg",
+      "category": "Artificial Intelligence",
+      "section": "latest",
+      "featured": false,
+      "published": "2026-10-25T17:19:46+00:00"
+    },
+    {
+      "id": "0c010e657167",
+      "title": "This Switch 2 sequel accessory was a few millimeters away from being good",
+      "summary": "The Crkd Nitro Deck was a saving grace for the original Nintendo Switch. The slide-on $59.99 accessory brought Hall effect sticks to drift-plagued consoles - no need to open up your Joy-Con for a complicated repair. The Nitro Deck 2, made...",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/crkd1_56c540.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development",
+      "section": "latest",
+      "featured": false,
+      "published": "2026-10-25T17:00:00+00:00"
+    },
+    {
+      "id": "b23877b88e69",
+      "title": "AI delivers \u2018zero financial payoff\u2019 to most companies, Apollo economist says",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1308803174.jpg?resize=1200,800",
+      "category": "Artificial Intelligence",
+      "section": "latest",
+      "featured": false,
+      "published": "2026-10-25T16:57:32+00:00"
+    },
+    {
+      "id": "be65f6207514",
+      "title": "What features do you lose if you use Apple AirPods with a Samsung Galaxy phone?",
+      "summary": "AirPods work with any Bluetooth device, but they lose almost all of Apple's fancy features.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2293387/features-lost-use-apple-airpods-with-samsung-galaxy-phone/",
+      "image": "https://www.engadget.com/img/gallery/what-features-do-you-lose-if-you-use-apple-airpods-with-a-samsung-galaxy-phone/l-intro-1792607815.jpg",
+      "category": "Software Development",
+      "section": "latest",
+      "featured": false,
+      "published": "2026-10-25T16:45:00+00:00"
+    },
+    {
+      "id": "6cc3d7a00b17",
+      "title": "Now you can watch Instagram Reels on your Apple TV",
+      "summary": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up for a bigger screen...",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/1286x724bb.webp?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development",
+      "section": "latest",
+      "featured": false,
+      "published": "2026-10-25T16:20:17+00:00"
+    },
+    {
+      "id": "57618c8e2a97",
+      "title": "The internet needs IPv6 and so does your home network",
+      "summary": "IPv6 has more available addresses than we could ever hope to use, but not all devices are taking advantage yet.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2293285/internet-home-network-needs-ipv6/",
+      "image": "https://www.engadget.com/img/gallery/the-internet-needs-ipv6-and-so-does-your-home-network/l-intro-1792604641.jpg",
+      "category": "Software Development",
+      "section": "latest",
+      "featured": false,
+      "published": "2026-10-25T16:15:00+00:00"
+    },
     {
       "id": "7f3afb38eae3",
       "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
@@ -10,8 +130,8 @@
       "url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-cybercab-getty.jpg?resize=1200,834",
       "category": "Artificial Intelligence",
-      "section": "hero",
-      "featured": true,
+      "section": "featured",
+      "featured": false,
       "published": "2026-10-25T16:05:00+00:00"
     },
     {
@@ -22,7 +142,7 @@
       "url": "https://www.engadget.com/2293248/how-much-playstation-plus-cost-2010-vs-2026/",
       "image": "https://www.engadget.com/img/gallery/heres-how-much-playstation-plus-cost-in-2010-vs-2026/l-intro-1792603440.jpg",
       "category": "Software Development",
-      "section": "brief",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-25T15:45:00+00:00"
     },
@@ -34,7 +154,7 @@
       "url": "https://www.engadget.com/2293112/meta-ray-ban-settings-change-before-wearing/",
       "image": "https://www.engadget.com/img/gallery/4-ray-ban-meta-privacy-settings-you-should-change-before-wearing-them/l-intro-1792599800.jpg",
       "category": "Data & Analytics",
-      "section": "brief",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-25T15:15:00+00:00"
     },
@@ -46,7 +166,7 @@
       "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
       "image": "https://www.engadget.com/img/gallery/get-the-ultimate-security-for-your-macbook-by-changing-these-privacy-settings/l-intro-1792599428.jpg",
       "category": "Data & Analytics",
-      "section": "brief",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-25T14:45:00+00:00"
     },
@@ -58,7 +178,7 @@
       "url": "https://www.engadget.com/2293014/why-earbuds-cheaper-than-headphones/",
       "image": "https://www.engadget.com/img/gallery/why-are-earbuds-usually-cheaper-than-headphones/l-intro-1792596068.jpg",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-25T14:15:00+00:00"
     },
@@ -70,7 +190,7 @@
       "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
       "image": "https://techcrunch.com/wp-content/uploads/2016/09/robocash.jpg?resize=1200,849",
       "category": "Artificial Intelligence",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-25T14:10:00+00:00"
     },
@@ -82,7 +202,7 @@
       "url": "https://www.engadget.com/2292973/samsung-probably-not-rebranding-one-ui-as-galaxy-os/",
       "image": "https://www.engadget.com/img/gallery/samsung-probably-isnt-rebranding-one-ui-as-galaxy-os/l-intro-1792594756.jpg",
       "category": "Software Development",
-      "section": "latest",
+      "section": "none",
       "featured": false,
       "published": "2026-10-25T13:45:00+00:00"
     },
@@ -94,7 +214,7 @@
       "url": "https://www.engadget.com/2292950/how-quantum-computer-stays-running-extreme-cold/",
       "image": "https://www.engadget.com/img/gallery/quantum-computers-can-get-colder-than-deep-space-heres-how-they-stay-running/l-intro-1792594079.jpg",
       "category": "Software Development",
-      "section": "latest",
+      "section": "none",
       "featured": false,
       "published": "2026-10-25T13:30:00+00:00"
     },
@@ -106,7 +226,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&strip=all&crop=0,0,100,100",
       "category": "Artificial Intelligence",
-      "section": "latest",
+      "section": "none",
       "featured": false,
       "published": "2026-10-25T13:25:32+00:00"
     },
@@ -118,7 +238,7 @@
       "url": "https://www.engadget.com/2292939/dont-throw-away-old-chromebook-even-if-getting-googlebook/",
       "image": "https://www.engadget.com/img/gallery/dont-throw-away-your-old-chromebook-even-if-youre-getting-a-googlebook/l-intro-1792593842.jpg",
       "category": "Software Development",
-      "section": "latest",
+      "section": "none",
       "featured": false,
       "published": "2026-10-25T13:15:00+00:00"
     },
@@ -130,7 +250,7 @@
       "url": "https://9to5google.com/2026/10/25/what-tech-is-making-you-happy/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Fitbit-Edge-vs-Fitbit-Air-3.jpg?quality=82&strip=all&w=1600",
       "category": "Artificial Intelligence",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-25T13:00:00+00:00"
     },
@@ -142,7 +262,7 @@
       "url": "https://www.engadget.com/2292076/when-ai-glasses-worth-headphones-replacement/",
       "image": "https://www.engadget.com/img/gallery/when-ai-glasses-could-be-a-worthy-headphones-replacement/l-intro-1792519044.jpg",
       "category": "Artificial Intelligence",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-25T12:45:00+00:00"
     },
@@ -154,7 +274,7 @@
       "url": "https://www.engadget.com/2291638/dont-throw-away-old-speakers-use-for-tv-instead/",
       "image": "https://www.engadget.com/img/gallery/dont-throw-away-your-old-speakers-use-them-for-your-tv-instead/l-intro-1792506662.jpg",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-25T12:30:00+00:00"
     },
@@ -166,7 +286,7 @@
       "url": "https://www.engadget.com/2291551/smart-bulbs-easy-install-smart-switch-home-upgrade-more-inclusive/",
       "image": "https://www.engadget.com/img/gallery/smart-bulbs-are-easy-to-install-but-this-smart-home-upgrade-is-more-inclusive/l-intro-1792502749.jpg",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-25T12:15:00+00:00"
     },
@@ -178,7 +298,7 @@
       "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSwuCxStjU_WIIOJ5dEqVxFVQeLfJevQdmLoYLBiXsduAvosK7VfzyduIRRmiOcpl2lQlSdEoInwRkfOnR4devMGT6oI_Limrjcx8yLFsTRau7CBK76cGIMXxC916OKHtwALlELG-nPljBDVIPl2aPDOZTYqkTr6AyZMyFQ6hwUFdfx5Tr2cz8KpDSlb9j/s1600/ai-agents.jpg",
       "category": "Artificial Intelligence",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-25T06:54:29+00:00"
     },
@@ -190,7 +310,7 @@
       "url": "https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/",
       "image": "https://www.engadget.com/img/gallery/what-is-the-cheapest-new-gaming-console-you-can-buy-in-2026/l-intro-1792596898.jpg",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-25T00:00:00+00:00"
     },
@@ -387,18 +507,6 @@
       "published": "2026-10-24T16:00:00+00:00"
     },
     {
-      "id": "7e6031d0571a",
-      "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
-      "summary": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet \u2014 and it's unlikely to be the last major software scare.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/php-web-bug-padlock-2300746159.jpg?resize=1200,800",
-      "category": "Web Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-24T15:30:00+00:00"
-    },
-    {
       "id": "fa400699ab60",
       "title": "What is Theater Mode on your Apple Watch and when should you use it?",
       "summary": "There are various ways to silence your Apple Watch when you need to lock in. Theater Mode doesn't quite go as far as Do Not Disturb, but it's still very useful.",
@@ -411,12 +519,36 @@
       "published": "2026-10-24T15:30:00+00:00"
     },
     {
+      "id": "7e6031d0571a",
+      "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+      "summary": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet \u2014 and it's unlikely to be the last major software scare.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
+      "image": "",
+      "category": "Web Development",
+      "section": "none",
+      "featured": false,
+      "published": "2026-10-24T15:30:00+00:00"
+    },
+    {
+      "id": "163bb6bb36cd",
+      "title": "Here's how to test a CR2032 battery to see if it's good",
+      "summary": "CR2032 batteries are found in a lot of gadgets around your home. They're easy to test when they run low, especially if you have the appropriate devices.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2291408/how-to-test-cr2032-battery-see-if-good/",
+      "image": "https://www.engadget.com/img/gallery/heres-how-to-test-a-cr2032-battery-to-see-if-its-good/l-intro-1792489885.jpg",
+      "category": "Software Development",
+      "section": "none",
+      "featured": false,
+      "published": "2026-10-24T15:00:00+00:00"
+    },
+    {
       "id": "1b69ea9ef4ce",
       "title": "These clever apps show off the iPhone Duo\u2019s potential",
       "summary": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
+      "image": "",
       "category": "Software Development",
       "section": "none",
       "featured": false,
@@ -428,20 +560,8 @@
       "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1777713346.jpg?resize=1200,900",
+      "image": "",
       "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-24T15:00:00+00:00"
-    },
-    {
-      "id": "163bb6bb36cd",
-      "title": "Here's how to test a CR2032 battery to see if it's good",
-      "summary": "CR2032 batteries are found in a lot of gadgets around your home. They're easy to test when they run low, especially if you have the appropriate devices.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2291408/how-to-test-cr2032-battery-see-if-good/",
-      "image": "https://www.engadget.com/img/gallery/heres-how-to-test-a-cr2032-battery-to-see-if-its-good/l-intro-1792489885.jpg",
-      "category": "Software Development",
       "section": "none",
       "featured": false,
       "published": "2026-10-24T15:00:00+00:00"
@@ -476,7 +596,7 @@
       "summary": "The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/boox-palma-2-pro.png?resize=1200,666",
+      "image": "",
       "category": "Software Development",
       "section": "none",
       "featured": false,
@@ -601,126 +721,6 @@
       "section": "none",
       "featured": false,
       "published": "2026-10-24T12:00:00+00:00"
-    },
-    {
-      "id": "9952e09fd3af",
-      "title": "Engadget review recap: iPhone Duo, Rivian R2 and more",
-      "summary": "A roundup of recent reviews from Engadget.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2295366/engadget-review-recap-iphone-duo-rivian-r2-and-more/",
-      "image": "https://www.engadget.com/img/gallery/engadget-review-recap-iphone-duo-rivian-r2-and-more/l-intro-1792768704.jpg",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-24T12:00:00+00:00"
-    },
-    {
-      "id": "bb786dd771e1",
-      "title": "Peak on consoles, hockey roguelites and other new indie games worth checking out",
-      "summary": "Steam Next Fest means there are a lot of weird new games in our indie gaming roundup this week.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2295856/peak-on-consoles-hockey-roguelites-and-other-new-indie-games-worth-checking-out/",
-      "image": "https://www.engadget.com/img/gallery/peak-on-consoles-hockey-roguelites-and-other-new-indie-games-worth-checking-out/l-intro-1792786507.jpg",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-24T11:30:00+00:00"
-    },
-    {
-      "id": "a0a9e49aec28",
-      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-      "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as...",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxIIerJT3LOMCGn3nXAnmhaHzJlJnVJCso1COluq8t3WuF4IpNARa_Asl5nEhRUDTEcR89kwzo5vGmP5IyNbj1ncdaCpkhqcHUODHAd3khanaE-7N8Vb0NyEJkmPmNkhSpJtLCLgi9srDRhZLtM5n8UDI58F797ZJaVzC7JzjPLfca4NpxZr_7tCX8RIk/s1600/br-nodejs.jpg",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-24T11:09:29+00:00"
-    },
-    {
-      "id": "3a1a036ef73a",
-      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
-      "summary": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package. \"On May 27...",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipiDo2Yur6TXZHLped9EQgORAH65rC4APGTaq_EZzlDnspAaULTQCKblBC0FeIah7nOCKTiQa2Oi8cyx-bbxHj042Km9oYAf2s78XmStFxzPBTSQ_oqv4ZcWGEkUP1wo5JfJ1UDrWQpAtz8ZHd9i3ZbGWWe8s6CMeUU_nObp5tCEywMWGovqFh9NA1H8Sv/s1600/lite.jpg",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-24T11:03:33+00:00"
-    },
-    {
-      "id": "afec56c7243a",
-      "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
-      "summary": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other connected Google...",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhROXFilBwGnS1Jb3AQ6nIinoxB1mh-7gsbdRfToYn8VReagY7IMb3CCVyZkzPFEfOHIkwnRxmOSeM30Gxp7e9uRzvuvEqQTmIMPilPM_IfujygTv6OfExi8kWoEhF42lBKok_gzwD4Md_daCMvVOtlf2pQT7mgtYuJA0TzJnhkM4PCycgKpf0XxIBQmI57/s1600/google-ai.jpg",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-24T10:36:33+00:00"
-    },
-    {
-      "id": "b36af81e0870",
-      "title": "Meta is delaying its controversial new business terms amid scraping concerns",
-      "summary": "Meta drew flak for an upcoming change to its business terms that would allow it to scrape business accounts' content for AI training.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2296124/meta-delaying-controversial-business-terms-scraping-concerns/",
-      "image": "https://www.engadget.com/img/gallery/meta-is-delaying-its-controversial-new-business-terms-amid-scraping-concerns/l-intro-1792836885.jpg",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-24T10:18:15+00:00"
-    },
-    {
-      "id": "94d51fe2d204",
-      "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
-      "summary": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the...",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuy-T7iQPeiRqkJd7yhxd2WVQzxURRnLyHG9yz5fUXxIhjUW-bv_yAAt13dnTE1ecuh1w6cRjenRXL3In2b55rL22lXnBhpKrVvS9c5Qb6Bv0TeQPLeAXYoafNYnqYxYQwWnZBCO3e8ZW-HS8Y2GMbQuGz58-_wG7gT6Pcok3j53J4iiZ7jw6kLoGGtWU/s1600/popcorn.jpg",
-      "category": "Cybersecurity",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-24T09:04:24+00:00"
-    },
-    {
-      "id": "838b4b1ce253",
-      "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV)...",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmm0pKX3kbfMC2GKemUiMT8PH1uDJIHn4AcmoiQ5nUK4TWZl0Ni_-k6kjpAFUrFzEWSSq_G307YJXTXmn9FZ7q6oOr5OEMASP9mrXOXrk9lSOGzqPCAbkQqpHsMxFe1q5CnyDZnqeDq_FiiC7jEzp0ie1r_nnQOSKcbPcKBdoXI-ycAjCZA9AuxemUhE5k/s1600/arista-cisa.jpg",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-24T06:25:57+00:00"
-    },
-    {
-      "id": "f699a3e5cdaf",
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d",
-      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "image": "",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-23T23:05:49+00:00"
-    },
-    {
-      "id": "04ff91f878cb",
-      "title": "OpenAI says it's cutting off internet access for frontier model training",
-      "summary": "OpenAI says it will no longer allow frontier models to access the internet during training in an effort to put in new safety measures after a series of incidents.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training/",
-      "image": "https://www.engadget.com/img/gallery/openai-says-its-cutting-off-internet-access-for-frontier-model-training/l-intro-1792794862.jpg",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-23T22:37:02+00:00"
     }
   ]
 }
