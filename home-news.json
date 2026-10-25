@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-24T23:10:35+00:00",
+  "updated": "2026-10-25T01:07:55+00:00",
   "auto": true,
   "items": [
+    {
+      "id": "b0781636daf4",
+      "title": "What is the cheapest new gaming console you can buy in 2026?",
+      "summary": "Even after price hikes, you can get an affordable console, but it requires some care to pick the right option.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/",
+      "image": "https://www.engadget.com/img/gallery/what-is-the-cheapest-new-gaming-console-you-can-buy-in-2026/l-intro-1792596898.jpg",
+      "category": "Software Development",
+      "section": "hero",
+      "featured": true,
+      "published": "2026-10-25T00:00:00+00:00"
+    },
+    {
+      "id": "60d8a53209c2",
+      "title": "How to extend the battery life of your Apple AirTags",
+      "summary": "An AirTag's battery is easy to replace, but you don't want it to run low at a critical moment.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2292921/how-to-extend-battery-life-apple-airtags/",
+      "image": "https://www.engadget.com/img/gallery/how-to-extend-the-battery-life-of-your-apple-airtags/l-intro-1792593493.jpg",
+      "category": "Software Development",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-24T23:45:00+00:00"
+    },
+    {
+      "id": "85647b8c28bf",
+      "title": "Common mistakes you should avoid when setting up your home network",
+      "summary": "Setting up a home network is rewarding, but you should be aware of common missteps to avoid hassle in the future.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2292817/common-mistakes-avoid-setting-up-home-network/",
+      "image": "https://www.engadget.com/img/gallery/common-mistakes-you-should-avoid-when-setting-up-your-home-network/l-intro-1792590096.jpg",
+      "category": "Software Development",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-24T23:30:00+00:00"
+    },
     {
       "id": "1081f515cd82",
       "title": "Why your EV battery still loses charge while it's parked",
@@ -10,8 +46,8 @@
       "url": "https://www.engadget.com/2292646/ev-battery-why-it-loses-charge-when-parked/",
       "image": "https://www.engadget.com/img/gallery/why-your-ev-battery-still-loses-charge-while-its-parked/l-intro-1792579754.jpg",
       "category": "Software Development",
-      "section": "hero",
-      "featured": true,
+      "section": "brief",
+      "featured": false,
       "published": "2026-10-24T23:00:00+00:00"
     },
     {
@@ -22,7 +58,7 @@
       "url": "https://www.engadget.com/2292606/ev-battery-cooling-system-how-works/",
       "image": "https://www.engadget.com/img/gallery/what-kind-of-cooling-system-do-ev-batteries-use-and-how-does-it-work/l-intro-1792571941.jpg",
       "category": "Software Development",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-24T22:45:00+00:00"
     },
@@ -34,7 +70,7 @@
       "url": "https://www.engadget.com/2292582/different-types-digital-wallet-explained/",
       "image": "https://www.engadget.com/img/gallery/what-are-the-different-types-of-digital-wallets/l-intro-1792568656.jpg",
       "category": "Software Development",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-24T22:30:00+00:00"
     },
@@ -46,7 +82,7 @@
       "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800",
       "category": "Software Development",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-24T20:46:34+00:00"
     },
@@ -94,7 +130,7 @@
       "url": "https://www.engadget.com/2294278/why-wires-in-ethernet-cable-twisted-explained/",
       "image": "https://www.engadget.com/img/gallery/why-the-wires-in-your-ethernet-cables-are-twisted/l-intro-1790877005.jpg",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-24T18:30:00+00:00"
     },
@@ -106,7 +142,7 @@
       "url": "https://www.engadget.com/2296237/steam-rolls-out-personal-calendar-feature-that-constantly-updates-recommended-games/",
       "image": "https://www.engadget.com/img/gallery/steam-rolls-out-personal-calendar-feature-that-constantly-updates-recommended-games/l-intro-1792865304.jpg",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-24T18:09:54+00:00"
     },
@@ -118,7 +154,7 @@
       "url": "https://www.engadget.com/2296222/xbox-game-pass-pick-which-features/",
       "image": "https://www.engadget.com/img/gallery/xbox-game-pass-could-let-you-pick-which-features-you-pay-for/l-intro-1792860193.jpg",
       "category": "Enterprise Software & SaaS",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-24T18:00:00+00:00"
     },
@@ -166,7 +202,7 @@
       "url": "https://www.engadget.com/2291599/smart-tv-wifi-faster-than-ethernet-speed-isnt-everything/",
       "image": "https://www.engadget.com/img/gallery/your-smart-tvs-wi-fi-is-probably-faster-than-its-ethernet-but-speed-isnt-everything/l-intro-1792505372.jpg",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-24T16:00:00+00:00"
     },
@@ -178,7 +214,7 @@
       "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/php-web-bug-padlock-2300746159.jpg?resize=1200,800",
       "category": "Web Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-24T15:30:00+00:00"
     },
@@ -190,7 +226,7 @@
       "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
       "image": "https://www.engadget.com/img/gallery/what-is-theater-mode-on-your-apple-watch-and-when-should-you-use-it/l-intro-1792501458.jpg",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-24T15:30:00+00:00"
     },
@@ -685,42 +721,6 @@
       "section": "none",
       "featured": false,
       "published": "2026-10-23T17:54:08+00:00"
-    },
-    {
-      "id": "015a882ee274",
-      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
-      "summary": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an \"Autonomous Red Team Kill Chain...",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6gkXKzxUypnUKbTuo7Xq-8TSUpDD8TNF5XEG-bV6zcA7V3z_cO2pJeTiX1KIFi-rFNX5SOlMY93oGQpfQUuWOl0RJ35nM1XeIqu2ZV4aAIZXEd9RXQVQk0rMmeI67ysGsTJ1OXLIQg2LvGjMLHCQQ8dgqalHaBE9yCZKwIOVjHCD_lOTlsP1HdBziZ3Sb/s1600/ai-hacker-kimi.jpg",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-23T17:50:47+00:00"
-    },
-    {
-      "id": "a63af213fc14",
-      "title": "Elon Musk\u2019s dangerous grip on outer space",
-      "summary": "Last week, Starshield - the version of SpaceX's Starlink used by the Ukrainian military - was throttled to block terminals traveling above certain speeds from accessing the service. The Ukrainian army's interceptors, which counter Russian...",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKB355_SPACE_X_IPO_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-23T17:35:15+00:00"
-    },
-    {
-      "id": "9ecaeb5e8630",
-      "title": "The iPhone Duo should have been an iPad",
-      "summary": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history...",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_102326_Site_attempt.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-23T17:00:18+00:00"
     }
   ]
 }
