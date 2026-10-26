@@ -1,7 +1,91 @@
 {
-  "updated": "2026-10-25T21:45:09+00:00",
+  "updated": "2026-10-26T00:19:52+00:00",
   "auto": true,
   "items": [
+    {
+      "id": "cac8db526c6e",
+      "title": "Can you run regular Ethernet cables outside?",
+      "summary": "Just because you can do something doesn't mean you should.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2294283/ethernet-cables-use-outside-explained/",
+      "image": "https://www.engadget.com/img/gallery/can-you-run-regular-ethernet-cables-outside/l-intro-1792100149.jpg",
+      "category": "Software Development",
+      "section": "hero",
+      "featured": true,
+      "published": "2026-10-26T00:00:00+00:00"
+    },
+    {
+      "id": "a2fd34813fe7",
+      "title": "Which Android phone is the closest equivalent to the iPhone Duo?",
+      "summary": "Can we find the iPhone Duo's perfect Android match?",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2294282/android-phone-closest-equivalent-to-iphone-duo/",
+      "image": "https://www.engadget.com/img/gallery/which-android-phone-is-the-closest-equivalent-to-the-iphone-duo/l-intro-1791823946.jpg",
+      "category": "Operating Systems",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-25T23:45:00+00:00"
+    },
+    {
+      "id": "b47435b1e2cd",
+      "title": "Why Google chrome is always using so much RAM",
+      "summary": "Chrome is known for being a memory hog, but it may be more urban myth than reality. Here's how Google Chrome manages RAM.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2294261/why-google-chrome-using-so-much-ram/",
+      "image": "https://www.engadget.com/img/gallery/why-google-chrome-is-always-using-so-much-ram/l-intro-1792684467.jpg",
+      "category": "Web Development",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-25T23:30:00+00:00"
+    },
+    {
+      "id": "c33d1af7cd4e",
+      "title": "Most Windows users are seriously underusing this powerful desktop feature",
+      "summary": "Windows has an option to give you more working desktop space, but you might have overlooked it.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2294241/why-should-use-multiple-desktop-windows/",
+      "image": "https://www.engadget.com/img/gallery/most-windows-users-are-seriously-underusing-this-powerful-desktop-feature/l-intro-1792683535.jpg",
+      "category": "Operating Systems",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-25T23:00:00+00:00"
+    },
+    {
+      "id": "ff372c5864aa",
+      "title": "Don't throw away your old, unsupported Nest gadgets \u2014 Do this instead",
+      "summary": "If you have a first- or second-generation Nest Learning Thermostat, you may be wondering if it's still worth having.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2294122/dont-throw-away-your-old-unsupported-nest-gadgets/",
+      "image": "https://www.engadget.com/img/gallery/dont-throw-away-your-old-unsupported-nest-gadgets-do-this-instead/l-intro-1792679877.jpg",
+      "category": "Software Development",
+      "section": "latest",
+      "featured": false,
+      "published": "2026-10-25T22:30:00+00:00"
+    },
+    {
+      "id": "45b8848965be",
+      "title": "Your devices could be on the wrong Wi-Fi band, and it's slowing them down",
+      "summary": "Your router has two or perhaps three bands, and choosing the right one for each device is vital for performance.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2294022/devices-could-be-wrong-wifi-band-slowing-them-down/",
+      "image": "https://www.engadget.com/img/gallery/your-devices-could-be-on-the-wrong-wi-fi-band-and-its-slowing-them-down/l-intro-1792677053.jpg",
+      "category": "Software Development",
+      "section": "latest",
+      "featured": false,
+      "published": "2026-10-25T22:00:00+00:00"
+    },
+    {
+      "id": "da114e8ce7c5",
+      "title": "iFixit\u2019s look inside the iPhone Duo may explain those broken screens and hinges",
+      "summary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score...",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo-layout01.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development",
+      "section": "latest",
+      "featured": false,
+      "published": "2026-10-25T21:40:27+00:00"
+    },
     {
       "id": "bf7f18e0418c",
       "title": "Grok releases the first seven minutes of its AI-generated \u2018Odyssey\u2019",
@@ -10,8 +94,8 @@
       "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
       "category": "Artificial Intelligence",
-      "section": "hero",
-      "featured": true,
+      "section": "latest",
+      "featured": false,
       "published": "2026-10-25T21:31:16+00:00"
     },
     {
@@ -22,7 +106,7 @@
       "url": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20ruxzn728xh1.jpeg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Software Development",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-25T20:16:19+00:00"
     },
@@ -34,7 +118,7 @@
       "url": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_4433.png?quality=90&strip=all&crop=0,0,100,100",
       "category": "Web Development",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-25T19:24:50+00:00"
     },
@@ -46,7 +130,7 @@
       "url": "https://www.engadget.com/2293911/what-bell-icon-means-carplay-announce-notifications-feature/",
       "image": "https://www.engadget.com/img/gallery/what-does-the-bell-icon-mean-on-your-carplay-screen/l-intro-1792672048.jpg",
       "category": "Software Development",
-      "section": "brief",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-25T18:45:00+00:00"
     },
@@ -58,7 +142,7 @@
       "url": "https://www.engadget.com/2294275/the-most-unexpected-everyday-tool-can-be-found-on-your-phone/",
       "image": "https://www.engadget.com/img/gallery/the-most-unexpected-everyday-tool-can-be-found-on-your-phone/l-intro-1792514406.jpg",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-25T18:30:00+00:00"
     },
@@ -70,7 +154,7 @@
       "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
       "image": "https://www.engadget.com/img/gallery/even-the-best-mesh-wi-fi-system-can-be-easily-improved-with-a-simple-cable/l-intro-1792611196.jpg",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-25T18:00:00+00:00"
     },
@@ -82,7 +166,7 @@
       "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbGR63RmXInXPwCVFZlGJSiGv5WQfLTWymToOPIYbKXfXniB7X4YDbTVK-28G4r3WfdelCr_2TRzhoYrIogcG_C9WjXEHaLhURIh_v5RyO5sBY8UKwQWbKUBrv_H5n5K7N4mz2WG3d5dldw_re-M5CgDDbVi_EhTqvB9P87fZJlODojj8ivvj-RwLUhpg/s1600/tailscale.jpg",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-25T17:44:09+00:00"
     },
@@ -94,7 +178,7 @@
       "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzK2qokKedMIUzd876s0EWaLDb7qw-DMzlFWKvmfgCzMKZ2KVvdpZ-298SoEm1_PP6aoEBc6q1LAydnANGur1FbFNmXmhlo6zHtRFvgRcbx-LOoDoM_-JI-_7XkkM4r5q3LQH1SdfirarXTGeiu16d5YMDSeYs8tfJn5ITfRQ4DThbqkq66b4WdDQcOJqf/s1600/php2shell-exploit.jpg",
       "category": "Artificial Intelligence",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-25T17:19:46+00:00"
     },
@@ -106,7 +190,7 @@
       "url": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/crkd1_56c540.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-25T17:00:00+00:00"
     },
@@ -118,7 +202,7 @@
       "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
       "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1308803174.jpg?resize=1200,800",
       "category": "Artificial Intelligence",
-      "section": "latest",
+      "section": "none",
       "featured": false,
       "published": "2026-10-25T16:57:32+00:00"
     },
@@ -130,7 +214,7 @@
       "url": "https://www.engadget.com/2293387/features-lost-use-apple-airpods-with-samsung-galaxy-phone/",
       "image": "https://www.engadget.com/img/gallery/what-features-do-you-lose-if-you-use-apple-airpods-with-a-samsung-galaxy-phone/l-intro-1792607815.jpg",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-25T16:45:00+00:00"
     },
@@ -142,7 +226,7 @@
       "url": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/1286x724bb.webp?quality=90&strip=all&crop=0,0,100,100",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-25T16:20:17+00:00"
     },
@@ -154,7 +238,7 @@
       "url": "https://www.engadget.com/2293285/internet-home-network-needs-ipv6/",
       "image": "https://www.engadget.com/img/gallery/the-internet-needs-ipv6-and-so-does-your-home-network/l-intro-1792604641.jpg",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-25T16:15:00+00:00"
     },
@@ -166,7 +250,7 @@
       "url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-cybercab-getty.jpg?resize=1200,834",
       "category": "Artificial Intelligence",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-25T16:05:00+00:00"
     },
@@ -178,7 +262,7 @@
       "url": "https://www.engadget.com/2293248/how-much-playstation-plus-cost-2010-vs-2026/",
       "image": "https://www.engadget.com/img/gallery/heres-how-much-playstation-plus-cost-in-2010-vs-2026/l-intro-1792603440.jpg",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-25T15:45:00+00:00"
     },
@@ -190,7 +274,7 @@
       "url": "https://www.engadget.com/2293112/meta-ray-ban-settings-change-before-wearing/",
       "image": "https://www.engadget.com/img/gallery/4-ray-ban-meta-privacy-settings-you-should-change-before-wearing-them/l-intro-1792599800.jpg",
       "category": "Data & Analytics",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-25T15:15:00+00:00"
     },
@@ -416,7 +500,7 @@
       "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800",
+      "image": "",
       "category": "Software Development",
       "section": "none",
       "featured": false,
@@ -428,7 +512,7 @@
       "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1195574782.jpg?resize=1200,800",
+      "image": "",
       "category": "Artificial Intelligence",
       "section": "none",
       "featured": false,
@@ -440,7 +524,7 @@
       "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
+      "image": "",
       "category": "Artificial Intelligence",
       "section": "none",
       "featured": false,
@@ -637,90 +721,6 @@
       "section": "none",
       "featured": false,
       "published": "2026-10-24T14:15:00+00:00"
-    },
-    {
-      "id": "1b7d2312eca3",
-      "title": "I hope Apple\u2019s touchscreen MacBook takes some lessons from this Lenovo laptop",
-      "summary": "It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this is a lot of what I want from a...",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_HP_Lenovo_Yoga_9n_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-24T14:00:00+00:00"
-    },
-    {
-      "id": "22b02dccdfe8",
-      "title": "The MacBook Neo uses an iPhone chip, and it's just good enough",
-      "summary": "The MacBook Neo had to make some compromises to meet its price point. And as long as you're aware of them, it offers a solid value.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2290733/macbook-neo-a18-pro-chip-performance/",
-      "image": "https://www.engadget.com/img/gallery/the-macbook-neo-uses-an-iphone-chip-and-its-just-good-enough/l-intro-1792434494.jpg",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-24T14:00:00+00:00"
-    },
-    {
-      "id": "4a535eced667",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "image": "",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-24T14:00:00+00:00"
-    },
-    {
-      "id": "38db05941383",
-      "title": "How to get better iPhone battery life without closing any apps",
-      "summary": "Apple has added a host of battery-management features to the iPhone over the years.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2290702/get-better-iphone-battery-life-without-closing-apps/",
-      "image": "https://www.engadget.com/img/gallery/how-to-get-better-iphone-battery-life-without-closing-any-apps/l-intro-1792433821.jpg",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-24T13:45:00+00:00"
-    },
-    {
-      "id": "ff86d3992b6d",
-      "title": "The beneficial purpose of 'IQ' on your Anker chargers",
-      "summary": "Anker's PowerIQ technology helps identify and charge your devices more efficiently.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2290640/anker-charger-iq-meaning-purpose/",
-      "image": "https://www.engadget.com/img/gallery/the-beneficial-purpose-of-iq-on-your-anker-chargers/l-intro-1792432015.jpg",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-24T13:30:00+00:00"
-    },
-    {
-      "id": "d111230639f9",
-      "title": "This clever USB-C cable doubles as a stand for your phone [Gallery]",
-      "summary": "One of my favorite things about the rise of magnetic wireless charging has been the prevalence of chargers that hold my phone upright on my nightstand. But, when travelling, that tends to be a bit more cumbersome, or at least a little more...",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/24/statik-powerstand-usb-c-cable-kickstand/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/statik-powerstand-7.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-24T13:30:00+00:00"
-    },
-    {
-      "id": "a409b6c4983e",
-      "title": "Which services can you safely disable to improve PC gaming?",
-      "summary": "A lot of what Windows does out of the box isn't essential, and can waste your computer's power when you're trying to game.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2290638/which-windows-background-services-safely-disable-improve-pc-gaming/",
-      "image": "https://www.engadget.com/img/gallery/which-services-can-you-safely-disable-to-improve-pc-gaming/l-intro-1792431811.jpg",
-      "category": "Operating Systems",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-24T13:00:00+00:00"
     }
   ]
 }

@@ -1,6 +1,76 @@
 {
-  "updated": "2026-10-25T21:45:09+00:00",
+  "updated": "2026-10-26T00:19:52+00:00",
   "items": [
+    {
+      "id": "cac8db526c6e",
+      "title": "Can you run regular Ethernet cables outside?",
+      "url": "https://www.engadget.com/2294283/ethernet-cables-use-outside-explained/",
+      "source": "Engadget",
+      "published": "2026-10-26T00:00:00+00:00",
+      "excerpt": "Just because you can do something doesn't mean you should.",
+      "image": "https://www.engadget.com/img/gallery/can-you-run-regular-ethernet-cables-outside/l-intro-1792100149.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "a2fd34813fe7",
+      "title": "Which Android phone is the closest equivalent to the iPhone Duo?",
+      "url": "https://www.engadget.com/2294282/android-phone-closest-equivalent-to-iphone-duo/",
+      "source": "Engadget",
+      "published": "2026-10-25T23:45:00+00:00",
+      "excerpt": "Can we find the iPhone Duo's perfect Android match?",
+      "image": "https://www.engadget.com/img/gallery/which-android-phone-is-the-closest-equivalent-to-the-iphone-duo/l-intro-1791823946.jpg",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "b47435b1e2cd",
+      "title": "Why Google chrome is always using so much RAM",
+      "url": "https://www.engadget.com/2294261/why-google-chrome-using-so-much-ram/",
+      "source": "Engadget",
+      "published": "2026-10-25T23:30:00+00:00",
+      "excerpt": "Chrome is known for being a memory hog, but it may be more urban myth than reality. Here's how Google Chrome manages RAM.",
+      "image": "https://www.engadget.com/img/gallery/why-google-chrome-is-always-using-so-much-ram/l-intro-1792684467.jpg",
+      "category": "Web Development"
+    },
+    {
+      "id": "c33d1af7cd4e",
+      "title": "Most Windows users are seriously underusing this powerful desktop feature",
+      "url": "https://www.engadget.com/2294241/why-should-use-multiple-desktop-windows/",
+      "source": "Engadget",
+      "published": "2026-10-25T23:00:00+00:00",
+      "excerpt": "Windows has an option to give you more working desktop space, but you might have overlooked it.",
+      "image": "https://www.engadget.com/img/gallery/most-windows-users-are-seriously-underusing-this-powerful-desktop-feature/l-intro-1792683535.jpg",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "ff372c5864aa",
+      "title": "Don't throw away your old, unsupported Nest gadgets \u2014 Do this instead",
+      "url": "https://www.engadget.com/2294122/dont-throw-away-your-old-unsupported-nest-gadgets/",
+      "source": "Engadget",
+      "published": "2026-10-25T22:30:00+00:00",
+      "excerpt": "If you have a first- or second-generation Nest Learning Thermostat, you may be wondering if it's still worth having.",
+      "image": "https://www.engadget.com/img/gallery/dont-throw-away-your-old-unsupported-nest-gadgets-do-this-instead/l-intro-1792679877.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "45b8848965be",
+      "title": "Your devices could be on the wrong Wi-Fi band, and it's slowing them down",
+      "url": "https://www.engadget.com/2294022/devices-could-be-wrong-wifi-band-slowing-them-down/",
+      "source": "Engadget",
+      "published": "2026-10-25T22:00:00+00:00",
+      "excerpt": "Your router has two or perhaps three bands, and choosing the right one for each device is vital for performance.",
+      "image": "https://www.engadget.com/img/gallery/your-devices-could-be-on-the-wrong-wi-fi-band-and-its-slowing-them-down/l-intro-1792677053.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "da114e8ce7c5",
+      "title": "iFixit\u2019s look inside the iPhone Duo may explain those broken screens and hinges",
+      "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+      "source": "The Verge",
+      "published": "2026-10-25T21:40:27+00:00",
+      "excerpt": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo-layout01.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
     {
       "id": "bf7f18e0418c",
       "title": "Grok releases the first seven minutes of its AI-generated \u2018Odyssey\u2019",
@@ -348,7 +418,7 @@
       "source": "TechCrunch",
       "published": "2026-10-24T20:46:34+00:00",
       "excerpt": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800",
+      "image": "",
       "category": "Software Development"
     },
     {
@@ -358,7 +428,7 @@
       "source": "TechCrunch",
       "published": "2026-10-24T20:15:33+00:00",
       "excerpt": "The moment you realize the internet is \"held together by glue and dreams.\"",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1195574782.jpg?resize=1200,800",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -368,7 +438,7 @@
       "source": "TechCrunch",
       "published": "2026-10-24T19:00:00+00:00",
       "excerpt": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -530,76 +600,6 @@
       "excerpt": "The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.",
       "image": "",
       "category": "Software Development"
-    },
-    {
-      "id": "1b7d2312eca3",
-      "title": "I hope Apple\u2019s touchscreen MacBook takes some lessons from this Lenovo laptop",
-      "url": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
-      "source": "The Verge",
-      "published": "2026-10-24T14:00:00+00:00",
-      "excerpt": "It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this is a lot of what I want from a...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_HP_Lenovo_Yoga_9n_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "4a535eced667",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch",
-      "published": "2026-10-24T14:00:00+00:00",
-      "excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "22b02dccdfe8",
-      "title": "The MacBook Neo uses an iPhone chip, and it's just good enough",
-      "url": "https://www.engadget.com/2290733/macbook-neo-a18-pro-chip-performance/",
-      "source": "Engadget",
-      "published": "2026-10-24T14:00:00+00:00",
-      "excerpt": "The MacBook Neo had to make some compromises to meet its price point. And as long as you're aware of them, it offers a solid value.",
-      "image": "https://www.engadget.com/img/gallery/the-macbook-neo-uses-an-iphone-chip-and-its-just-good-enough/l-intro-1792434494.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "38db05941383",
-      "title": "How to get better iPhone battery life without closing any apps",
-      "url": "https://www.engadget.com/2290702/get-better-iphone-battery-life-without-closing-apps/",
-      "source": "Engadget",
-      "published": "2026-10-24T13:45:00+00:00",
-      "excerpt": "Apple has added a host of battery-management features to the iPhone over the years.",
-      "image": "https://www.engadget.com/img/gallery/how-to-get-better-iphone-battery-life-without-closing-any-apps/l-intro-1792433821.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "ff86d3992b6d",
-      "title": "The beneficial purpose of 'IQ' on your Anker chargers",
-      "url": "https://www.engadget.com/2290640/anker-charger-iq-meaning-purpose/",
-      "source": "Engadget",
-      "published": "2026-10-24T13:30:00+00:00",
-      "excerpt": "Anker's PowerIQ technology helps identify and charge your devices more efficiently.",
-      "image": "https://www.engadget.com/img/gallery/the-beneficial-purpose-of-iq-on-your-anker-chargers/l-intro-1792432015.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "d111230639f9",
-      "title": "This clever USB-C cable doubles as a stand for your phone [Gallery]",
-      "url": "https://9to5google.com/2026/10/24/statik-powerstand-usb-c-cable-kickstand/",
-      "source": "9to5Google",
-      "published": "2026-10-24T13:30:00+00:00",
-      "excerpt": "One of my favorite things about the rise of magnetic wireless charging has been the prevalence of chargers that hold my phone upright on my nightstand. But, when travelling, that tends to be a bit more cumbersome, or at least a little more...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/statik-powerstand-7.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "a409b6c4983e",
-      "title": "Which services can you safely disable to improve PC gaming?",
-      "url": "https://www.engadget.com/2290638/which-windows-background-services-safely-disable-improve-pc-gaming/",
-      "source": "Engadget",
-      "published": "2026-10-24T13:00:00+00:00",
-      "excerpt": "A lot of what Windows does out of the box isn't essential, and can waste your computer's power when you're trying to game.",
-      "image": "https://www.engadget.com/img/gallery/which-services-can-you-safely-disable-to-improve-pc-gaming/l-intro-1792431811.jpg",
-      "category": "Operating Systems"
     }
   ]
 }
