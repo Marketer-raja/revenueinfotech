@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-26T00:19:52+00:00",
+  "updated": "2026-10-26T06:10:00+00:00",
   "items": [
+    {
+      "id": "7f821c661929",
+      "title": "The best apps for tracking your reading and discovering new books",
+      "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+      "source": "TechCrunch",
+      "published": "2026-10-26T01:10:00+00:00",
+      "excerpt": "There are numerous apps on the market that promise to do just that, so we\u2019ve compiled a list of some of the best ones to help you pick the right one for you.",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/12/Screenshot-2026-10-22-at-2.48.45-PM.png?resize=1200,831",
+      "category": "Software Development"
+    },
     {
       "id": "cac8db526c6e",
       "title": "Can you run regular Ethernet cables outside?",
@@ -143,13 +153,13 @@
     },
     {
       "id": "3eda0d6ae7e3",
-      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+      "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
       "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
       "source": "The Hacker News",
       "published": "2026-10-25T17:19:46+00:00",
-      "excerpt": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619. \"In one case, the...",
+      "excerpt": "In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2Shell flaws. \"What researchers saw was an...",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzK2qokKedMIUzd876s0EWaLDb7qw-DMzlFWKvmfgCzMKZ2KVvdpZ-298SoEm1_PP6aoEBc6q1LAydnANGur1FbFNmXmhlo6zHtRFvgRcbx-LOoDoM_-JI-_7XkkM4r5q3LQH1SdfirarXTGeiu16d5YMDSeYs8tfJn5ITfRQ4DThbqkq66b4WdDQcOJqf/s1600/php2shell-exploit.jpg",
-      "category": "Artificial Intelligence"
+      "category": "Cybersecurity"
     },
     {
       "id": "0c010e657167",
@@ -589,16 +599,6 @@
       "published": "2026-10-24T14:15:00+00:00",
       "excerpt": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it looks like. Its \"Pro...",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/pro-and-tell.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "e0f9c91b3506",
-      "title": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
-      "url": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
-      "source": "TechCrunch",
-      "published": "2026-10-24T14:15:00+00:00",
-      "excerpt": "The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.",
-      "image": "",
       "category": "Software Development"
     }
   ]
