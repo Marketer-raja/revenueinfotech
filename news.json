@@ -1,6 +1,106 @@
 {
-  "updated": "2026-10-26T06:10:00+00:00",
+  "updated": "2026-10-26T12:56:02+00:00",
   "items": [
+    {
+      "id": "c1fb05efca42",
+      "title": "The built-in Android phone app most users never bother to use (but should)",
+      "url": "https://www.engadget.com/2294291/built-in-android-phone-app-most-users-never-use/",
+      "source": "Engadget",
+      "published": "2026-10-26T12:45:00+00:00",
+      "excerpt": "Your phone's most honest app doesn't even have a home screen icon.",
+      "image": "https://www.engadget.com/img/gallery/the-built-in-android-phone-app-most-users-never-bother-to-use-but-should/l-intro-1792181099.jpg",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "452231313e2d",
+      "title": "What happens when your PC's CMOS battery dies?",
+      "url": "https://www.engadget.com/2289047/what-happens-when-pc-cmos-battery-dies/",
+      "source": "Engadget",
+      "published": "2026-10-26T12:15:00+00:00",
+      "excerpt": "The CMOS battery isn't something you'll need to change often. But when it goes, it's time for a quick swap.",
+      "image": "https://www.engadget.com/img/gallery/what-happens-when-your-pcs-cmos-battery-dies/l-intro-1792173458.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "49aedb62ce7d",
+      "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
+      "url": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
+      "source": "The Hacker News",
+      "published": "2026-10-26T11:23:56+00:00",
+      "excerpt": "Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform, connects individual alerts into one...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH3sLtMeyrqaZo1e2DoGlQohJtAM96DKv9JxQVxynJVNyJ_76dwQQAvkcN2xeos8NtStnH6A3B4bOwtFvdsNSxdBkR6so5s66iBb0ApIhIJ2cs3hVCYdh6oOnO4K_kwKOJsDSqL4wsPrOJ48x3VmSXiQwpcxm_ULL7En-Xw_9Rc1sEFQvCdb9Sr0NwUH0/s1600/Misses.jpg",
+      "category": "Data & Analytics"
+    },
+    {
+      "id": "f30467adb898",
+      "title": "Elvis Presley's estate is suing Anthropic over copyright infringement",
+      "url": "https://www.engadget.com/2296535/elvis-presley-estate-suing-ai-company-for-copyright-infringement/",
+      "source": "Engadget",
+      "published": "2026-10-26T11:23:48+00:00",
+      "excerpt": "The latest AI copyright infringement suit centers around a single music artist from decades past: Elvis.",
+      "image": "https://www.engadget.com/img/gallery/elvis-presleys-estate-is-suing-anthropic-over-copyright-infringement/l-intro-1793013810.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "275e6f3b55af",
+      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
+      "url": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
+      "source": "The Hacker News",
+      "published": "2026-10-26T09:54:02+00:00",
+      "excerpt": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these tampered copies, spread...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdBBtFdo2KmBzapUDlLWoS0hh17lYfWUw0kOLWTfbgeNOTP5F5pEJPmWSzBHkjSv4HR-vwfJ-Ba38Tg_su11Zi4CDKXJ29BnlQdCrU-oU84jl7TAET_aPyWV2fRazSLy0hBz8sBP3EhFubGETPdPwpnAFAX0CSbEQfsA65JqQMob9R_4cPbbJRi91KAkY/s1600/telegram-wechat.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "b86594d1aae8",
+      "title": "iFixit's teardown of the iPhone Duo shows potential causes for cracked screens",
+      "url": "https://www.engadget.com/2296498/ifixit-teardown-of-iphone-duo-shows-potential-causes-for-cracked-screens/",
+      "source": "Engadget",
+      "published": "2026-10-26T09:31:44+00:00",
+      "excerpt": "iFixit's teardown of the iPhone Duo has arrived and it's especially interesting because of the device's complex folding display.",
+      "image": "https://www.engadget.com/img/gallery/ifixit-teardown-of-iphone-duo-shows-potential-causes-for-cracked-screens/l-intro-1793008492.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "67160bc1e72b",
+      "title": "The focus on AI safety disasters ignores everyday harms",
+      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-26T09:01:00+00:00",
+      "excerpt": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and...",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/monkeys-teen3.jpg?resize=1200,600",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "35a2887f8653",
+      "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
+      "url": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
+      "source": "The Hacker News",
+      "published": "2026-10-26T08:35:51+00:00",
+      "excerpt": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into email accounts at 79...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKwJ8hpTcgaV_VMCyzQDPQQOPlZmmE3Fg-XAOrUfFazMKgVGEoT7OHQgWhyJLhCpHO6Hvp35u_YZGBfyGXAuJfpwP4BriicsNfvhPXjq4BzNyULVQPzNCWzmSIGnDLN7P2RNW2sfm15qZxLrVzpDg8FvOcGTZBhMsBFPH3IhiV1k3NdGAHFRC7kkKaOMMn/s1600/contoso.jpg",
+      "category": "Enterprise Software & SaaS"
+    },
+    {
+      "id": "8e95a20d61e4",
+      "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
+      "url": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+      "source": "The Hacker News",
+      "published": "2026-10-26T07:49:46+00:00",
+      "excerpt": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have succeeded in private...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipCbP2hnS9ddXqMz9cNIAMEQZWy2qX45MZnYfIuO_Zszamhl_FS7ViRp4CZcjHS6uu6A4jR_S4vBzHzoMNtAb0CbaGxHxj2F07wuKWHfSbsFUov-4dsQWUNJZwfGbnfThW1sAQZ61y5ibqyhlW1iBmbWeSwE1gKHsigRRXaql9P96aFANb3al6vno7fuA/s1600/github-secrets.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "8239096a100a",
+      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+      "url": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+      "source": "The Hacker News",
+      "published": "2026-10-26T06:03:48+00:00",
+      "excerpt": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm Forever Security said in a report published last week. The company caught the...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6cUQufM8zcABLKEfGt5xpGX34mUnThXvptS6o1GfAv8Ak_FO__f-rsT0GPf1Nro1NSRQuUsEGJl1boXq5Rt-IMFOnHunESsqj4sfJ_ypu9qhRgva3V0OqPN04FAKvOw0Y0KeKUvgG_RzWvA7u6piuPvLIaTJG2mbeWRRgFJB2vziZdJbkU1dN2nfwBf8/s1600/codex.png",
+      "category": "Software Development"
+    },
     {
       "id": "7f821c661929",
       "title": "The best apps for tracking your reading and discovering new books",
@@ -500,106 +600,6 @@
       "excerpt": "Capcom ID is still available to use, but users may see more phishing scam emails.",
       "image": "https://www.engadget.com/img/gallery/capcom-confirms-data-breach-that-affected-11-7-million-users/l-intro-1792859616.jpg",
       "category": "Cybersecurity"
-    },
-    {
-      "id": "821690991bc1",
-      "title": "There's a chance your PlayStation 5 is plugged into the wrong HDMI port",
-      "url": "https://www.engadget.com/2291739/chance-playstation-5-plugged-into-wrong-hdmi-port/",
-      "source": "Engadget",
-      "published": "2026-10-24T16:30:00+00:00",
-      "excerpt": "Your PS5 will look great plugged into any HDMI port on a modern TV, but only some unlock its full suite of display features.",
-      "image": "https://www.engadget.com/img/gallery/theres-a-chance-your-playstation-5-is-plugged-into-the-wrong-hdmi-port/l-intro-1792510070.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "1ae532bb96a5",
-      "title": "The UK is investing $134 million into an AI Biosecurity Lab",
-      "url": "https://www.engadget.com/2296211/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab/",
-      "source": "Engadget",
-      "published": "2026-10-24T16:11:53+00:00",
-      "excerpt": "The UK has established the AI Biosecurity Lab, which will help it detect biological threats and develop vaccines with AI.",
-      "image": "https://www.engadget.com/img/gallery/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab/l-intro-1792858052.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "facd68ee29b9",
-      "title": "Your smart TV's Wi-Fi is probably faster than its Ethernet, but speed isn't everything",
-      "url": "https://www.engadget.com/2291599/smart-tv-wifi-faster-than-ethernet-speed-isnt-everything/",
-      "source": "Engadget",
-      "published": "2026-10-24T16:00:00+00:00",
-      "excerpt": "You might have never thought to use Ethernet with your TV, but it's not speed that's worth connecting for.",
-      "image": "https://www.engadget.com/img/gallery/your-smart-tvs-wi-fi-is-probably-faster-than-its-ethernet-but-speed-isnt-everything/l-intro-1792505372.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "7e6031d0571a",
-      "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
-      "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
-      "source": "TechCrunch",
-      "published": "2026-10-24T15:30:00+00:00",
-      "excerpt": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet \u2014 and it's unlikely to be the last major software scare.",
-      "image": "",
-      "category": "Web Development"
-    },
-    {
-      "id": "fa400699ab60",
-      "title": "What is Theater Mode on your Apple Watch and when should you use it?",
-      "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
-      "source": "Engadget",
-      "published": "2026-10-24T15:30:00+00:00",
-      "excerpt": "There are various ways to silence your Apple Watch when you need to lock in. Theater Mode doesn't quite go as far as Do Not Disturb, but it's still very useful.",
-      "image": "https://www.engadget.com/img/gallery/what-is-theater-mode-on-your-apple-watch-and-when-should-you-use-it/l-intro-1792501458.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "1b69ea9ef4ce",
-      "title": "These clever apps show off the iPhone Duo\u2019s potential",
-      "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-      "source": "TechCrunch",
-      "published": "2026-10-24T15:00:00+00:00",
-      "excerpt": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
-      "image": "",
-      "category": "Software Development"
-    },
-    {
-      "id": "e4ac1d3f295a",
-      "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats.",
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "source": "TechCrunch",
-      "published": "2026-10-24T15:00:00+00:00",
-      "excerpt": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-      "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "163bb6bb36cd",
-      "title": "Here's how to test a CR2032 battery to see if it's good",
-      "url": "https://www.engadget.com/2291408/how-to-test-cr2032-battery-see-if-good/",
-      "source": "Engadget",
-      "published": "2026-10-24T15:00:00+00:00",
-      "excerpt": "CR2032 batteries are found in a lot of gadgets around your home. They're easy to test when they run low, especially if you have the appropriate devices.",
-      "image": "https://www.engadget.com/img/gallery/heres-how-to-test-a-cr2032-battery-to-see-if-its-good/l-intro-1792489885.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "41543a8ef13d",
-      "title": "Why your Ring camera is still useful without a subscription",
-      "url": "https://www.engadget.com/2291366/why-ring-camera-useful-without-subscription/",
-      "source": "Engadget",
-      "published": "2026-10-24T14:30:00+00:00",
-      "excerpt": "Modern smart home cameras and security systems put a lot of features behind a subscription. Here are a few reasons why you don't always need to pay.",
-      "image": "https://www.engadget.com/img/gallery/why-your-ring-camera-is-still-useful-without-a-subscription/l-intro-1791283019.jpg",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "75a4fa274339",
-      "title": "What to expect from Apple\u2019s \u2018Pro and tell\u2019 event",
-      "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
-      "source": "The Verge",
-      "published": "2026-10-24T14:15:00+00:00",
-      "excerpt": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it looks like. Its \"Pro...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/pro-and-tell.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
     }
   ]
 }
