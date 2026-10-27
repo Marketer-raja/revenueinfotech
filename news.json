@@ -1,6 +1,366 @@
 {
-  "updated": "2026-10-27T14:28:14+00:00",
+  "updated": "2026-10-27T20:04:04+00:00",
   "items": [
+    {
+      "id": "cd64117e56fa",
+      "title": "Rockstar workers in the UK will hold a union vote just as GTA 6 is released",
+      "url": "https://www.engadget.com/2298907/rockstar-workers-in-uk-hold-union-vote-as-gta-6-release/",
+      "source": "Engadget",
+      "published": "2026-10-27T19:55:04+00:00",
+      "excerpt": "A legal case alleging union-busting at the game developer will also wrap next month.",
+      "image": "https://www.engadget.com/img/gallery/rockstar-workers-in-the-uk-will-hold-a-union-vote-just-as-gta-6-is-released/l-intro-1793130818.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "79ae17c0eb32",
+      "title": "Grand Theft Auto VI reportedly requires a 210GB download",
+      "url": "https://www.engadget.com/2298872/gta-6-download-size-reportedly-210-gb/",
+      "source": "Engadget",
+      "published": "2026-10-27T19:39:37+00:00",
+      "excerpt": "Be prepared to surrender a significant portion of your console's hard drive.",
+      "image": "https://www.engadget.com/img/gallery/grand-theft-auto-vi-is-reportedly-a-210gb-download/l-intro-1793129615.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "d4dc3defcdd4",
+      "title": "Elon Musk says Ukraine\u2019s military violated Starlink\u2019s terms of service",
+      "url": "https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service",
+      "source": "The Verge",
+      "published": "2026-10-27T19:24:06+00:00",
+      "excerpt": "Elon Musk claims Ukraine violated Starlink's terms of service before the recent slowdown, as reported earlier by Ars Technica. According to Musk, \"Ukraine military violated Starlink terms of service and used it for offensive drone strikes...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_I.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "195cb6337f5e",
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "source": "TechCrunch",
+      "published": "2026-10-27T18:55:35+00:00",
+      "excerpt": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1191380440.jpg?resize=1200,800",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "f690fb4eb202",
+      "title": "This old Nokia phone got an AI Upgrade it was never designed for",
+      "url": "https://www.engadget.com/2295625/old-nokia-phone-ai-upgrade-never-designed-for/",
+      "source": "Engadget",
+      "published": "2026-10-27T18:30:00+00:00",
+      "excerpt": "The GOAT of dumb phones gets a new lease on life.",
+      "image": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/l-intro-1792779965.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "d09366a97fc8",
+      "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
+      "url": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
+      "source": "The Hacker News",
+      "published": "2026-10-27T18:26:46+00:00",
+      "excerpt": "Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator. TrendAI, which...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiniSfVwM2b4RVouLhc_nIvm2CdQCg9jtQDBVQP6BjvEC2NBaLFqU0A8RyC_GA3PkI4jF87W3h0GJ4xzycp6LAd4I3eRh3JnhnM9yi7CZ9dX2Pfe3MdDaaUSyrDUy1ksA-fdq0bUVzWcFRmS-JWOy3z7xiWB70DzgXLst_YspRqbGIAyv85_D4H9sPT7Sq3/s1600/cyberstrikeai.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "fa78d4d4d01f",
+      "title": "Netflix now, Hulu later? T-Mobile\u2019s T-Mix plans let you switch perks \u2013 what you need to know",
+      "url": "https://www.zdnet.com/home-and-office/t-mobile-t-mix-plans-switch-perks/",
+      "source": "ZDNET",
+      "published": "2026-10-27T18:18:01+00:00",
+      "excerpt": "T-Mobile\u2019s new T-Mix plans deliver tons of extras ranging from streaming to mobile discounts, but there are some caveats to know.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/80e6726a-a939-4cf6-9e60-d9d4cb34f74b.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "8053e5f5aa29",
+      "title": "Google Nest Wifi router and point get October 2026 update",
+      "url": "https://9to5google.com/2026/10/27/nest-wifi-october-2026-update/",
+      "source": "9to5Google",
+      "published": "2026-10-27T18:08:07+00:00",
+      "excerpt": "The second update this year for the Nest Wifi router and point rolled out last week with two improvements. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2019/12/google_nest_wifi_5.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "73a4e9267ae0",
+      "title": "Why buying a Mac mini over a MacBook might be the smarter move",
+      "url": "https://www.engadget.com/2296036/why-buying-mac-mini-over-macbook-smarter-move/",
+      "source": "Engadget",
+      "published": "2026-10-27T18:00:00+00:00",
+      "excerpt": "Apple's smallest desktop delivers better performance and value for those willing to leave the laptop behind.",
+      "image": "https://www.engadget.com/img/gallery/why-buying-a-mac-mini-over-a-macbook-might-be-the-smarter-move/l-intro-1792413302.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "6bc14454eda8",
+      "title": "Someone is bringing Android Auto back to your phone\u2019s screen, and it actually works [Gallery]",
+      "url": "https://9to5google.com/2026/10/27/android-auto-phone-display-app/",
+      "source": "9to5Google",
+      "published": "2026-10-27T17:30:00+00:00",
+      "excerpt": "When Android Auto first debuted, it didn\u2019t require a fancy display in your car. It just worked on your phone screen and, now, someone is bringing that functionality back after Google killed it. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/android-auto-phone-display-phoneauto.jpg?quality=82&strip=all&w=1600",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "8a93bec2dc7c",
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "source": "TechCrunch",
+      "published": "2026-10-27T17:08:08+00:00",
+      "excerpt": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-7.00.44-PM.png?resize=1200,783",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "ac9207d902ad",
+      "title": "Windows finally gets a built-in internet speed test tool \u2013 how to try it",
+      "url": "https://www.zdnet.com/tech/microsoft-is-finally-adding-an-integrated-network-speed-test-tool-to-windows-how-to-try-it/",
+      "source": "ZDNET",
+      "published": "2026-10-27T16:59:12+00:00",
+      "excerpt": "Available to Windows Insiders, the built-in tool measures your upload and download speeds over Ethernet or Wi-Fi.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Windows-Insider-build-internet-speed-test.jpg",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "8eaf11ceae5e",
+      "title": "This tool can recover deleted AI chats from your phone \u2013 how it works",
+      "url": "https://www.zdnet.com/innovation/orisa-tool-recovers-deleted-local-ai-chats-android-phones/",
+      "source": "ZDNET",
+      "published": "2026-10-27T16:55:54+00:00",
+      "excerpt": "This new tool proves it\u2019s still best to limit the info you share with chatbots.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/bluecubes3GettyImages-2279412518.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "fe16a3aa9a31",
+      "title": "Meta\u2019s $25 billion legal loss just put blood in the water",
+      "url": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
+      "source": "The Verge",
+      "published": "2026-10-27T16:44:40+00:00",
+      "excerpt": "When attorneys general from across the US announced a $17 billion settlement with Meta this summer, the sum was unprecedented. But a ruling last week by a New Mexico judge blew that number out of the water. The judge ordered Meta to pay...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_4_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "062533ad3038",
+      "title": "Here are the latest Samsung Galaxy phones getting Android 17 updates",
+      "url": "https://9to5google.com/2026/10/27/latest-galaxy-phones-with-android-17/",
+      "source": "9to5Google",
+      "published": "2026-10-27T16:43:20+00:00",
+      "excerpt": "One UI 9 is in its late-stage rollout phase, and a bunch of Galaxy phones have been added to the Android 17 availability list within the last few days. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Welcome-to-One-UI-9-screen-1.jpg?quality=82&strip=all&w=1600",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "a30b4228516c",
+      "title": "Google\u2019s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "source": "TechCrunch",
+      "published": "2026-10-27T16:30:57+00:00",
+      "excerpt": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Genie-4-blog-header.png?resize=1200,675",
+      "category": "Software Development"
+    },
+    {
+      "id": "44164e80d34a",
+      "title": "Apple Creator Studio update adds MotionVFX to Final Cut, and AI to everywhere",
+      "url": "https://www.engadget.com/2298428/apple-creator-studio-update-adds-motionvfx-to-final-cut-and-ai-to-everywhere/",
+      "source": "Engadget",
+      "published": "2026-10-27T16:21:44+00:00",
+      "excerpt": "Final Cut clips can finally be unlocked from the primary timeline - hallelujah.",
+      "image": "https://www.engadget.com/img/gallery/apple-creator-studio-update-adds-motionvfx-to-final-cut-and-ai-to-everywhere/l-intro-1793118031.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "15c469c559a9",
+      "title": "Apple iPhone Duo vs Google Pixel 11 Pro Fold: The differences beyond foldable style",
+      "url": "https://www.engadget.com/2296032/apple-iphone-duo-vs-google-pixel-11-pro-fold/",
+      "source": "Engadget",
+      "published": "2026-10-27T16:15:00+00:00",
+      "excerpt": "With the iPhone Duo now in people's hands, how does it compare to Google's Pixel 11 Pro Fold?",
+      "image": "https://www.engadget.com/img/gallery/apple-iphone-duo-vs-google-pixel-11-pro-fold-the-differences-beyond-foldable-style/l-intro-1792405273.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "abb96e9fdd6f",
+      "title": "Firefox\u2019s Smart Window adds AI form filling and webpage monitoring",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+      "source": "The Verge",
+      "published": "2026-10-27T16:14:18+00:00",
+      "excerpt": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/firefox-fill.png?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "235a37db6c1f",
+      "title": "The new iPad Mini\u2019s best upgrade has nothing to do with its flashy OLED screen",
+      "url": "https://www.zdnet.com/tech/ipad-mini-upgrade-ip67-rating-kids/",
+      "source": "ZDNET",
+      "published": "2026-10-27T16:09:01+00:00",
+      "excerpt": "Apple\u2019s newest Mini is the first iPad ever with an IP67 rating for dust and water resistance.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/7927f8ce-894f-4820-b2d0-c121c0412952.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "3513fbe8e952",
+      "title": "Google\u2019s next Genie AI model generates more realistic experiences",
+      "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+      "source": "The Verge",
+      "published": "2026-10-27T16:00:00+00:00",
+      "excerpt": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-26-at-3.00.35-PM.png?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "1951422a9e12",
+      "title": "My favorite robot vacuum just got quieter, and more expensive",
+      "url": "https://www.theverge.com/tech/1019298/matic-serene-robot-vacuum-price-specs-release-date",
+      "source": "The Verge",
+      "published": "2026-10-27T16:00:00+00:00",
+      "excerpt": "Matic, the company behind my favorite robot vacuum, is launching its first new model since its 2023 debut: the Matic Serene. The new robotic floor cleaner has one key upgrade: noise reduction. With a promised output of just 52 decibels at...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/matic_yoga_serene-20.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "95e11c2694b2",
+      "title": "The Galaxy Z Fold 8 still feels refreshing in all the best ways [Video]",
+      "url": "https://9to5google.com/2026/10/27/the-galaxy-z-fold-8-still-feels-refreshing/",
+      "source": "9to5Google",
+      "published": "2026-10-27T16:00:00+00:00",
+      "excerpt": "With the iPhone Duo now a thing, it puts the Z Fold 8 in an even more interesting position. Yes, it\u2019s an attempt by Samsung to get ahead of the curve, but, in truth, it really has worked. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-Fold-8-fully-open-rear.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "9fef63cfaf94",
+      "title": "Android 17-based Redmagic OS 12 gets closer to a global release",
+      "url": "https://9to5google.com/2026/10/27/android-17-based-redmagic-os-12-gets-closer-to-a-global-release/",
+      "source": "9to5Google",
+      "published": "2026-10-27T15:50:37+00:00",
+      "excerpt": "The global rollout schedule is still a bit of a mystery, but we at least know which Redmagic devices are getting the Redmagic OS 12 Android 17 upgrade. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2023/02/Redmagic-8-Pro-5.jpg?quality=82&strip=all&w=1600",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "afc8b4644476",
+      "title": "Deals: Galaxy Z Fold 8/Ultra up to $570+ off, CMF Watch 3 Pro for $59, buds from $20, more",
+      "url": "https://9to5google.com/2026/10/27/deals-galaxy-z-fold-8-buds-4-pro-cmf-watch-3-pro/",
+      "source": "9to5Google",
+      "published": "2026-10-27T15:48:36+00:00",
+      "excerpt": "Today\u2019s 9to5Toys Lunch Break is headlined by Galaxy Z Fold 8/Ultra at $200 off with Buds 4 Pro at just $25 (or you can go open-box at up to $570 off ). Alongside the ongoing deal on the new Nothing Buds Neo at just $20 , we also have the...",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/9to5Google-Oct-27.webp?w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "f52c9bc7ad30",
+      "title": "You can finally see who's talking in voice chat on PlayStation 5 \u2014 here's how",
+      "url": "https://www.engadget.com/2284038/playstation-5-display-whos-speaking-party-voice-feature/",
+      "source": "Engadget",
+      "published": "2026-10-27T15:45:00+00:00",
+      "excerpt": "You don't have to guess who's loudly eating chips in your PlayStation 5 party anymore - now you can see who's speaking in real-time.",
+      "image": "https://www.engadget.com/img/gallery/you-can-finally-see-whos-talking-in-voice-chat-on-playstation-5-heres-how/l-intro-1791817383.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "2b97835f7cb0",
+      "title": "Apple\u2019s M6 iMac has arrived \u2013 here\u2019s what\u2019s changed since the M4",
+      "url": "https://www.zdnet.com/tech/apple-imac-m6-vs-m4-whats-new/",
+      "source": "ZDNET",
+      "published": "2026-10-27T15:42:32+00:00",
+      "excerpt": "Apple\u2019s colorful all-in-one gets its first refresh in two years. Here\u2019s what you get for the $1,499 starting price.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/5e73698c-368c-4c5b-96ac-005b32edc3ef.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "72d1dc90e498",
+      "title": "A fake TikTok shop is Surfshark\u2019s most-blocked phishing scam \u2013 how to steer clear",
+      "url": "https://www.zdnet.com/tech/fake-tiktok-shop-phishing-scam-surfshark/",
+      "source": "ZDNET",
+      "published": "2026-10-27T15:30:38+00:00",
+      "excerpt": "Blocked phishing attempts rose 83% in six months, according to Surfshark, largely due to one TikTok shop. Here\u2019s how to spot the red flags.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/TikTok-Use.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "f8ce21883cff",
+      "title": "Vivo's X500 Pro Max is another camera-focused smartphone with more video tricks",
+      "url": "https://www.engadget.com/2297022/vivos-x500-pro-max-hands-on/",
+      "source": "Engadget",
+      "published": "2026-10-27T15:30:00+00:00",
+      "excerpt": "Vivo and Oppo are launching similar phones with different priorities.",
+      "image": "https://www.engadget.com/img/gallery/vivos-x500-pro-max-is-another-camera-focused-smartphone-with-more-video-tricks/l-intro-1793029784.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "8e6a41815117",
+      "title": "The reason why some USB ports are orange",
+      "url": "https://www.engadget.com/2295961/reason-why-usb-ports-orange/",
+      "source": "Engadget",
+      "published": "2026-10-27T15:15:00+00:00",
+      "excerpt": "USB colors and symbols provide an idea of a port's capabilities, but are not as standardized as they should be.",
+      "image": "https://www.engadget.com/img/gallery/the-reason-why-some-usb-ports-are-orange/l-intro-1792790118.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "2c5fec93bc97",
+      "title": "Nintendo sets an Indie World showcase for October 28",
+      "url": "https://www.engadget.com/2298300/nintendo-sets-an-indie-world-showcase-for-october-28/",
+      "source": "Engadget",
+      "published": "2026-10-27T15:06:04+00:00",
+      "excerpt": "The stream will run for around 15 minutes and feature games coming to Switch and Switch 2.",
+      "image": "https://www.engadget.com/img/gallery/nintendo-sets-an-indie-world-showcase-for-october-28/l-intro-1793113525.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "bb124f9e261c",
+      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "source": "TechCrunch",
+      "published": "2026-10-27T14:59:09+00:00",
+      "excerpt": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/rohit-5.jpg?resize=1200,800",
+      "category": "Enterprise Software & SaaS"
+    },
+    {
+      "id": "042781ef42dd",
+      "title": "Ford Fathom will be the cheapest American EV capable of powering a house",
+      "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+      "source": "TechCrunch",
+      "published": "2026-10-27T14:51:33+00:00",
+      "excerpt": "Ford is rolling out two new chargers capable of powering a home or the grid \u2014 so-called V2X capability.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Home-Power-Station_1920x1080.jpg?resize=1200,675",
+      "category": "Software Development"
+    },
+    {
+      "id": "082d76c1ea72",
+      "title": "Why some iPhone apps don't appear in Apple CarPlay",
+      "url": "https://www.engadget.com/2295883/why-some-iphone-apps-dont-appear-carplay/",
+      "source": "Engadget",
+      "published": "2026-10-27T14:45:00+00:00",
+      "excerpt": "The CarPlay experience comes down to the apps, but most of what's on your phone aren't compatible for various reasons.",
+      "image": "https://www.engadget.com/img/gallery/why-some-iphone-apps-dont-appear-in-apple-carplay/l-intro-1792786994.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "723c8555f986",
+      "title": "US government says hackers are now exploiting critical PHP web bugs",
+      "url": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
+      "source": "TechCrunch",
+      "published": "2026-10-27T14:40:39+00:00",
+      "excerpt": "The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/php-outage-2300859754.jpg?resize=1200,867",
+      "category": "Web Development"
+    },
+    {
+      "id": "8408b04cec4a",
+      "title": "Android Find Hub app reveals how \u2018Left Behind\u2019 and \u2018Ring your phone\u2019 alerts work on Pixel Tag",
+      "url": "https://9to5google.com/2026/10/27/android-find-hub-left-behind-ring-your-phone-alert-details/",
+      "source": "9to5Google",
+      "published": "2026-10-27T14:40:00+00:00",
+      "excerpt": "We\u2019re just weeks away from the launch of Google\u2019s first Android Find Hub tracker, the Pixel Tag, and that\u2019s also going to bring new options to the Find Hub app, as revealed in a new app update. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/google-pixel-tag-2.jpg?quality=82&strip=all&w=1600",
+      "category": "Operating Systems"
+    },
     {
       "id": "2a73e713621b",
       "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
@@ -18,7 +378,7 @@
       "source": "Engadget",
       "published": "2026-10-27T14:23:09+00:00",
       "excerpt": "Ahead of its 'Pro and Tell' event, the company has already launched a few new devices.",
-      "image": "https://www.engadget.com/img/gallery/everything-apple-announced-this-week/l-intro-1793108609.jpg",
+      "image": "https://www.engadget.com/img/gallery/everything-apple-announced-ipad-macbook-pro-and-tell-event/l-intro-1793118895.jpg",
       "category": "Software Development"
     },
     {
@@ -42,13 +402,43 @@
       "category": "Software Development"
     },
     {
+      "id": "ff08915e80d7",
+      "title": "OnePlus rolling out ColorOS to OnePlus 13, others as Android 17 update expands",
+      "url": "https://9to5google.com/2026/10/27/oneplus-13-android-17-coloros-update/",
+      "source": "9to5Google",
+      "published": "2026-10-27T14:00:00+00:00",
+      "excerpt": "OnePlus 13 is the latest OnePlus device to ditch OxygenOS for ColorOS as the brand\u2019s Android 17 update rolls out more broadly. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/OnePlus-13-design-1.jpg?quality=82&strip=all&w=1600",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "ae042a0b53b2",
+      "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
+      "url": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
+      "source": "The Hacker News",
+      "published": "2026-10-27T13:59:48+00:00",
+      "excerpt": "The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on affected setups. The flaw is in builds...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6ae8TupuVJ4B0uHZJxwQnaqstuuA42Jwt_Zh7m9RwCBp_IrCYuChUaac6fUphOhpalVEC8tfhGsYGxt1lmswBobM-r-ds6t0uEMSV9HZKT_dYcigHPxGJQo7dcJte96ymjxwSREmiGulG6xPIX4Hx3visDSuyaX2DJ3HRcctAz0Jw1T9ALkCEwZUlMsQ/s1600/goahead.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "0afa3606f14e",
+      "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
+      "url": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
+      "source": "The Hacker News",
+      "published": "2026-10-27T13:59:09+00:00",
+      "excerpt": "Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices. The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bounds write affecting...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqZx9ghfLBFufN5Q4s1dq2U1rXwenlfzU7UsqQfLWn3AEUe5CX3krGuvC6DM4mF2T9MmscvntBNxmgU7UjNOnfJQteKvuAs-4Nq0vJ3TnTkuFy1TRO3ibdh2Ekqi_WqiInvPkXjYlnvrCuYb5mb8neOOqBbmf_034wh8MPOLPKW2Nvvezpb2LFNXPbeUa6/s1600/apple-patch.jpg",
+      "category": "Software Development"
+    },
+    {
       "id": "7a05e19b3998",
       "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
       "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
       "source": "TechCrunch",
       "published": "2026-10-27T13:54:51+00:00",
       "excerpt": "The latest Apple software update for iPhones and iPads includes new features and important security updates.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Siri-feat-iOS-27.jpg?resize=1200,648",
+      "image": "",
       "category": "Cybersecurity"
     },
     {
@@ -68,7 +458,7 @@
       "source": "TechCrunch",
       "published": "2026-10-27T13:32:57+00:00",
       "excerpt": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/07/data-breach-overview-v2.jpg?resize=1200,675",
+      "image": "",
       "category": "Data & Analytics"
     },
     {
@@ -147,8 +537,8 @@
       "url": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
       "source": "TechCrunch",
       "published": "2026-10-27T13:00:00+00:00",
-      "excerpt": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S. and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Palmer-Luckey.jpg?resize=1200,800",
+      "excerpt": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S., and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today.",
+      "image": "",
       "category": "Software Development"
     },
     {
@@ -158,7 +548,7 @@
       "source": "TechCrunch",
       "published": "2026-10-27T13:00:00+00:00",
       "excerpt": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Team-05.jpg?resize=800,1200",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -168,7 +558,7 @@
       "source": "TechCrunch",
       "published": "2026-10-27T13:00:00+00:00",
       "excerpt": "The new standard, WebAI, is designed to work with a variety of AI models.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agents-chatbots-GettyImages-2243730029.jpg?resize=1200,675",
+      "image": "",
       "category": "Web Development"
     },
     {
@@ -210,396 +600,6 @@
       "excerpt": "You have options for selling your old Samsung phone, depending on how much hassle you'll tolerate for more cash.",
       "image": "https://www.engadget.com/img/gallery/heres-how-much-your-older-samsung-phones-are-actually-worth/l-intro-1792776180.jpg",
       "category": "Software Development"
-    },
-    {
-      "id": "a6006728be28",
-      "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
-      "url": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
-      "source": "The Hacker News",
-      "published": "2026-10-27T12:09:50+00:00",
-      "excerpt": "Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's work account. Microsoft tracks the flaw...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqk63DF3MJCMgQqpg91UsWY7mjACbBgPl50GfKwDPi7v3md6sP5l8a2BUqHABjgMN_6BzgcMx4vVKW4hR9B9pz8_XHqp5ctKqQQLw-RJwuKmVWm2MaSzEMkHIsV-Yi0V6Mq_gUYYuzTpi-BzV2-8dRVYBjtuW4nb9TbobkPwvOGTkIFTpr334JB_LZIkw/s1600/msms.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "71f4ff5356ba",
-      "title": "Acer's Predator Atlas 8 gaming handheld finally launches at Best Buy on November 1 for $1,300",
-      "url": "https://www.engadget.com/2298013/acer-predator-atlas-8-gaming-handheld-comes-to-best-buy-on-november-1-for-1300/",
-      "source": "Engadget",
-      "published": "2026-10-27T11:50:55+00:00",
-      "excerpt": "The Predator Atlas 8 gaming handheld PC is coming to the US after all on November 1st for $1,300.",
-      "image": "https://www.engadget.com/img/gallery/acers-predator-atlas-8-gaming-handheld-finally-launches-at-best-buy-on-november-1-for-1300/l-intro-1793101845.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "3fba9192c925",
-      "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
-      "url": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
-      "source": "The Hacker News",
-      "published": "2026-10-27T11:46:00+00:00",
-      "excerpt": "An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a statement on October 26. Someone with that key could build counterfeit devices that pass...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkvGXPUhZZjWBsYYBAx8KeJ8WilsBMLE-JhqfNAEyCOPuxs6-4VIF1e77IHR5zVdGfRsjJkSOfUVE1JaEmKe0mSAVM-ha4SeROxEGAdkLY5n5rBqx1LBSm6UVxA167sJYZEJTRra7BSipFtdlw2S-kFCUOSa9n70NbfSka3zRNVHd0D69qbVpSGIOnuAU/s1600/keystone.jpg",
-      "category": "Web Development"
-    },
-    {
-      "id": "1ce9ccf10a03",
-      "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
-      "url": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
-      "source": "The Hacker News",
-      "published": "2026-10-27T11:32:46+00:00",
-      "excerpt": "Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersonate trusted brands and tailor phishing attempts to specific employees or...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCX1RKz1isf0HwbYOFkKneC7maFNTVr0q0LTVHBsoGhEN5w7ZOfSLYqfq_6-oKzf51Vb3FJTVla21T-RrWus7Dxadw81UmqDBbw8rIWxfbBhPdI5tyAUQZSYwYaq9JetgW4_4yl1qbWU7ScrdxYjoTCot6v9gXMIyjsk4W66Z531z5oHaHHEguj6_EISU/s1600/keeper-password.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "cf5c346fcefd",
-      "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
-      "url": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
-      "source": "The Hacker News",
-      "published": "2026-10-27T11:32:31+00:00",
-      "excerpt": "The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and wire-communication equipment...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoWz3Ex4w0TebsrzDSdna5WAjqoQx5EHWC1kY3db9VgMg6FrGK6VbncVA9b3tKdPnqlR6qmdwsq7CT1f-Cp57WpH6lpfoF-5zb_Xg-ahdsNxO4OUTsdDVeO_8s7SQFLp54SrsWlWrZn-37sAcqv1ZeG_7Yc62vQ5X9Tq-MlIEm6EOQOiTkQVlcy9F4VG4/s1600/korean-malware.jpg",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "0e7ce6088d58",
-      "title": "Galaxy Z Fold 8 is still $200 off as iPhone Duo displays crack",
-      "url": "https://9to5google.com/2026/10/27/galaxy-z-fold-8-discount-iphone-duo-displays/",
-      "source": "9to5Google",
-      "published": "2026-10-27T11:30:00+00:00",
-      "excerpt": "Samsung\u2019s Galaxy Z Fold 8 has the same form factor as Apple\u2019s new iPhone Duo, but it\u2019s in stock, discounted, and doesn\u2019t have any cracking display issue at the moment. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-40.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "02c774ec5299",
-      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-      "source": "TechCrunch",
-      "published": "2026-10-27T11:00:00+00:00",
-      "excerpt": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/simplismart-founders-amritanshu-devansh.jpg?resize=1200,800",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "e0af4cf87c88",
-      "title": "20 Years of MacBook: How Apple shaped the laptops we use today",
-      "url": "https://www.engadget.com/2297565/20-years-of-macbook-how-apple-shaped-the-laptops-we-use-today/",
-      "source": "Engadget",
-      "published": "2026-10-27T11:00:00+00:00",
-      "excerpt": "Apple has influenced everything from unibody laptop cases to high-res screens.",
-      "image": "https://www.engadget.com/img/gallery/20-years-of-macbook-how-apple-shaped-the-laptops-we-use-today/l-intro-1793042760.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "5ad088d8618f",
-      "title": "Slate teams up with Smarties to add candy colors to its EV trucks",
-      "url": "https://www.engadget.com/2295050/slate-ev-smarties-candy-color-wraps/",
-      "source": "Engadget",
-      "published": "2026-10-27T11:00:00+00:00",
-      "excerpt": "Fancy making your Slate EV look like halloween candy? Now you can.",
-      "image": "https://www.engadget.com/img/gallery/slate-teams-up-with-smarties-to-add-candy-colors-to-its-ev-trucks/l-intro-1792751144.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "c834c4fc994d",
-      "title": "Anthropic is printing money, but AI isn\u2019t paying off outside tech",
-      "url": "https://9to5google.com/2026/10/27/anthropic-is-printing-money-but-ai-isnt-paying-off-outside-tech/",
-      "source": "9to5Google",
-      "published": "2026-10-27T11:00:00+00:00",
-      "excerpt": "Good morning. Today I\u2019m reading about Netflix\u2019s bloody week , playing with Apple Music\u2019s fun new 404 page , mourning Arc\u2019s untimely demise , and devouring Maggie O\u2019Farrell\u2019s new novel, Land . As a reminder, Inbox is the tech newsletter...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/claude-chatgpt-1.jpg?quality=82&strip=all&w=1600",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "4103d6bc510a",
-      "title": "Acer is bringing a Predator gaming handheld to the US for the first time",
-      "url": "https://www.theverge.com/games/1019245/acer-predator-atlas-8-launch-price",
-      "source": "The Verge",
-      "published": "2026-10-27T09:54:22+00:00",
-      "excerpt": "It's been several months since Acer unveiled its Predator Atlas 8 gaming handheld, but now we finally know that it's coming to the US, and how much it'll cost. The Intel Arc G3 Extreme variant - the more powerful of the two models...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Acer-Predator-Atlas-8-hero.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "1da67faa3c4a",
-      "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
-      "url": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
-      "source": "The Hacker News",
-      "published": "2026-10-27T09:33:06+00:00",
-      "excerpt": "A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Australian Signals Directorate (ASD) says. The agency's operators gained access to...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinCXm9nOGLf3YFKOH7D87d6Wau4yc3WG_4nSANlzh0oVcI9dUXg07hiHfBkDONqewGH90O6qN1cv9B1vPKGeXr7dhwAjpJ9pHCZKv2MOU9WYesukNBqS55LiPg0ytVl8JonI32qTVei_L25bCcUsPTl2PZsxYhvx0nDsxwqy3RgKE1_iRRuSbAoaH8OcY/s1600/aus.jpg",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "ea5496feaca5",
-      "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
-      "url": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
-      "source": "The Hacker News",
-      "published": "2026-10-27T08:22:43+00:00",
-      "excerpt": "OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text, security firm Xint has shown. OpenAI's reasoning models work through a problem...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNsIWTk2-hgeO3hAG2ohh1yrK20QoX_O0WDYRc83Q9qg-Igk4mEbzap014Pya2lSNiYEvbRIzilTYToybQVVtR3sQH84nJj-kd8tGWOqW3D-ylLpwcxOfvONGVSzjNuu5piwltyECtuezAw4Q8R7S3lvH_g2z3EpDT_EuOOEJg1-FRrChaADA4S6scQkU/s1600/chatgpt-compact.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "ab885e327fab",
-      "title": "OpenAI announces new discoveries in mathematics, computer science and physics",
-      "url": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/",
-      "source": "Engadget",
-      "published": "2026-10-27T08:18:16+00:00",
-      "excerpt": "OpenAI said its models generated proof that the Exponential Time Hypothesis is false. It also released new results for math and physics problems.",
-      "image": "https://www.engadget.com/img/gallery/openai-announces-new-discoveries-in-mathematics-computer-science-and-physics/l-intro-1793089035.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "ad8783319617",
-      "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
-      "url": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
-      "source": "The Hacker News",
-      "published": "2026-10-27T06:34:47+00:00",
-      "excerpt": "The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua. \"Cases of compromising IP cameras and DVRs with access to the video...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjISG9SXb2aeE6Zy-bIbnuaqwUNmGof7xU8RQl0vGZIcxcgNE3YXpuvG7rJKSTn_q9J8d_2DEv6rU2zxoX615DIYePz9rMA2TiLT6Fo1q2leGoyH85hJuIUta8j8FEN2mY5AGaO6zH5o6MkCHZ9Sv7OpjrZ6LE1yZygl9R4hUgt7xWJMMeGXRI4UJziuPCW/s1600/hackers-camera.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "968629f0ead3",
-      "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
-      "url": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
-      "source": "The Hacker News",
-      "published": "2026-10-27T04:37:59+00:00",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog. The PHP vulnerabilities...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-vxKiggBxnuXu0fenkg0gfce0iuuA3OxeVzvWAdc0zaDPDayQgY8y_miqnvHJrpYvw61AhvGHEOW4EIKIYZ4QkRGjGEhqiU-3R0o6m0fgHJYDtszsoXyqse7WDGMh4rvEuTf1T-17KOVkyJKgEcaw5yBXFi6ElwIFyU9TjudvJrHz4fz6VNro8bjUZcnD/s1600/cisa-php.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "62ecc12b68be",
-      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-      "source": "TechCrunch",
-      "published": "2026-10-27T02:00:00+00:00",
-      "excerpt": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55593495974_7bfdac6a15_k.jpg?resize=1200,800",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "30095bde7f28",
-      "title": "Google Photos rolls out customizable redesign of your \u2018Collections\u2019 tab",
-      "url": "https://9to5google.com/2026/10/26/google-photos-collections-redesign/",
-      "source": "9to5Google",
-      "published": "2026-10-27T01:18:33+00:00",
-      "excerpt": "Following the floating navigation bar in July, Google Photos for Android is rolling out a big redesign that lets you customize the Collections tab. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/google-photos-1.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "9af0a1a0b387",
-      "title": "Cohere says Alibaba\u2019s Qwen model tried to send a file to Beijing",
-      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-      "source": "TechCrunch",
-      "published": "2026-10-27T01:12:21+00:00",
-      "excerpt": "An AI model said it wouldn\u2019t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it\u2019s probably a training quirk and not espionage, the whole thing has people asking how much to trust free...",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/gettyimages-2295204296-2048x2048-1.jpg?resize=1200,800",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "f499fe454164",
-      "title": "iPhone Lockdown Mode: The pros and cons of enabling Apple's security feature",
-      "url": "https://www.engadget.com/2295333/iphone-lockdown-mode-pros-cons/",
-      "source": "Engadget",
-      "published": "2026-10-27T00:30:00+00:00",
-      "excerpt": "Lockdown Mode enables extreme protections for those most at risk, but it's overkill for most people.",
-      "image": "https://www.engadget.com/img/gallery/iphone-lockdown-mode-the-pros-and-cons-of-enabling-apples-security-feature/l-intro-1792766868.jpg",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "7a0d430b1627",
-      "title": "The most popular streaming platforms in the US might not be what you think",
-      "url": "https://www.engadget.com/2295216/most-popular-streaming-platforms-united-states-not-what-you-think/",
-      "source": "Engadget",
-      "published": "2026-10-26T23:30:00+00:00",
-      "excerpt": "You might be surprised at the rankings of some streaming services when it comes to what Americans watch on their TVs.",
-      "image": "https://www.engadget.com/img/gallery/the-most-popular-streaming-platforms-in-the-us-might-not-be-what-you-think/l-intro-1792763480.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "c7d736d56dd9",
-      "title": "6+ ways you can use your PlayStation 5's USB ports",
-      "url": "https://www.engadget.com/2294767/ways-to-use-playstation-5-usb-ports/",
-      "source": "Engadget",
-      "published": "2026-10-26T23:00:00+00:00",
-      "excerpt": "You can do more than charge your controllers with the USB ports on your PS5. Here are some of the possibilities.",
-      "image": "https://www.engadget.com/img/gallery/6-ways-you-can-use-your-playstation-5s-usb-ports/l-intro-1792698653.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "9e3fb1466104",
-      "title": "Halide releases its first batch of updates for the iPhone Duo",
-      "url": "https://www.engadget.com/2297806/halide-releases-its-first-batch-of-updates-for-the-iphone-duo/",
-      "source": "Engadget",
-      "published": "2026-10-26T22:51:46+00:00",
-      "excerpt": "Camera app Halide released a new update for the iPhone Duo that adds three different shooting modes based on what position the foldable is in.",
-      "image": "https://www.engadget.com/img/gallery/halide-releases-its-first-batch-of-updates-for-the-iphone-duo/l-intro-1793055082.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "13168decc0bb",
-      "title": "What are the leading causes of EV battery damage?",
-      "url": "https://www.engadget.com/2290322/leading-causing-ev-battery-damage/",
-      "source": "Engadget",
-      "published": "2026-10-26T22:30:00+00:00",
-      "excerpt": "Charging behaviors and heat are the things to pay attention to.",
-      "image": "",
-      "category": "Software Development"
-    },
-    {
-      "id": "72ccc8baf2db",
-      "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
-      "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
-      "source": "TechCrunch",
-      "published": "2026-10-26T22:00:00+00:00",
-      "excerpt": "Turns out selling to big companies isn\u2019t about having the shiniest tech: It\u2019s about hitching a ride on a giant\u2019s sales team.",
-      "image": "",
-      "category": "Enterprise Software & SaaS"
-    },
-    {
-      "id": "18e98a23e2e3",
-      "title": "The mistake iPhone Duo buyers can easily avoid",
-      "url": "https://www.engadget.com/2294592/mistake-iphone-duo-buyers-can-avoid/",
-      "source": "Engadget",
-      "published": "2026-10-26T22:00:00+00:00",
-      "excerpt": "An iPhone Duo can become even more expensive if you have to repair it, so it's vital to plan for that ahead of time.",
-      "image": "https://www.engadget.com/img/gallery/the-mistake-iphone-duo-buyers-can-easily-avoid/l-intro-1792692793.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "800056ac6a33",
-      "title": "Google says Gemini 4 Argon ranks well behind Claude and GPT-6 for Android coding",
-      "url": "https://9to5google.com/2026/10/26/android-bench-rankings-gemini-4-argon/",
-      "source": "9to5Google",
-      "published": "2026-10-26T22:00:00+00:00",
-      "excerpt": "Google has updated its Android Bench list for showing how good AI models are at Android coding assistance, with Gemini 4 Argon ranking way behind that of the latest Claude and GPT models. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/android-figures-mwc-2026-2.jpg?quality=82&strip=all&w=1600",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "2af94b98e472",
-      "title": "Watch out, YouTube \u2014 Instagram goes from short-form to 90-minute videos",
-      "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
-      "source": "TechCrunch",
-      "published": "2026-10-26T21:05:11+00:00",
-      "excerpt": "After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram.",
-      "image": "",
-      "category": "Software Development"
-    },
-    {
-      "id": "10218b80ec26",
-      "title": "Apple\u2019s iOS 27.2 update offers major Siri AI upgrades, dual camera support for FaceTime",
-      "url": "https://www.zdnet.com/tech/apple-ios-27-2-update-siri-ai-facetime-dual-cameras/",
-      "source": "ZDNET",
-      "published": "2026-10-26T20:52:35+00:00",
-      "excerpt": "iOS 27.2 is the first major update for the current OS. Here\u2019s what\u2019s inside and what happened to iOS 27.1.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC00852.jpeg",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "4b628a278f53",
-      "title": "What\u2019s new in Android\u2019s October 2026 Google System Updates [U]",
-      "url": "https://9to5google.com/2026/10/26/october-2026-google-system-updates/",
-      "source": "9to5Google",
-      "published": "2026-10-26T20:15:00+00:00",
-      "excerpt": "The monthly \u201c Google System Release Notes \u201d primarily detail what\u2019s new in Play services, Play Store, and Play system update across Android phones/tablets, Wear OS, Google/Android TV, Auto, and PC. Some features apply to end users, while...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-3.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "1d22dd0edb25",
-      "title": "Chrome 156 for Googlebook rolling out with 14 updates across sites, shortcuts, more",
-      "url": "https://9to5google.com/2026/10/26/chrome-156-googlebooks/",
-      "source": "9to5Google",
-      "published": "2026-10-26T19:58:11+00:00",
-      "excerpt": "Google is rolling out Chrome 156 for Googlebooks with a slew of improvements and bug fixes. This follows the last browser update two weeks ago. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-14-4.jpg?quality=82&strip=all&w=1600",
-      "category": "Web Development"
-    },
-    {
-      "id": "e3f8c40e6585",
-      "title": "Apple adds more Siri AI tools in its 27.2 system updates, out today",
-      "url": "https://www.engadget.com/2297577/apple-adds-more-siri-ai-tools-in-27-2-system-updates-out-today/",
-      "source": "Engadget",
-      "published": "2026-10-26T19:47:56+00:00",
-      "excerpt": "Apple has rolled out software updates for all its platforms today.",
-      "image": "https://www.engadget.com/img/gallery/apple-adds-more-siri-ai-tools-in-its-27-2-system-updates-out-today/l-intro-1793044016.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "1fcc7f8c9a4e",
-      "title": "I\u2019ve been using Android\u2019s iPad Mini OLED for months, and it\u2019s the better tiny tablet",
-      "url": "https://9to5google.com/2026/10/26/android-ipad-mini-oled-redmagic-astra-2-review/",
-      "source": "9to5Google",
-      "published": "2026-10-26T19:30:00+00:00",
-      "excerpt": "Apple has just released a new iPad Mini with an OLED display and it looks great, but I\u2019ve spent the past few months with Android\u2019s equivalent in the Redmagic Astra 2, and it\u2019s well worth your attention. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/redmagic-astra-2-7.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "ecc95cef60a3",
-      "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren\u2019t happy about it",
-      "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
-      "source": "TechCrunch",
-      "published": "2026-10-26T19:22:40+00:00",
-      "excerpt": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.",
-      "image": "",
-      "category": "Software Development"
-    },
-    {
-      "id": "ab4722161f18",
-      "title": "Ghost of Y\u014dtei studio Sucker Punch reportedly lays off 24 workers",
-      "url": "https://www.engadget.com/2297486/ghost-of-yotei-studio-sucker-punch-lays-off-24-workers/",
-      "source": "Engadget",
-      "published": "2026-10-26T19:15:34+00:00",
-      "excerpt": "Developer Sucker Punch just released a well-received expansion for Ghost of Y\u014dtei a few weeks ago.",
-      "image": "https://www.engadget.com/img/gallery/ghost-of-ytei-studio-sucker-punch-lays-off-24-workers/l-intro-1793042059.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "725c4e2b9d6d",
-      "title": "Gemini Live redesign makes it easier to add context to chats",
-      "url": "https://9to5google.com/2026/10/26/gemini-live-plus-redesign/",
-      "source": "9to5Google",
-      "published": "2026-10-26T19:00:50+00:00",
-      "excerpt": "Following the other big interface updates this month, Google is rolling out a small \u2018plus\u2019 redesign to Gemini Live on Android that lets you more easily add photos and files. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-live-2.jpg?quality=82&strip=all&w=1600",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "5e41d0e1a60b",
-      "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
-      "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
-      "source": "TechCrunch",
-      "published": "2026-10-26T18:59:52+00:00",
-      "excerpt": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?",
-      "image": "",
-      "category": "Enterprise Software & SaaS"
-    },
-    {
-      "id": "2c8fbdde4d51",
-      "title": "Apple responds to reports of the iPhone Duo's inner display cracking",
-      "url": "https://www.engadget.com/2297433/apple-responds-to-reports-of-the-iphone-duo-inner-display-cracking/",
-      "source": "Engadget",
-      "published": "2026-10-26T18:52:02+00:00",
-      "excerpt": "Impacted users can contact AppleCare for a replacement.",
-      "image": "https://www.engadget.com/img/gallery/apple-responds-to-reports-of-the-iphone-duo-inner-display-cracking/l-intro-1793044721.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "a95cbb9d120c",
-      "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
-      "url": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
-      "source": "The Verge",
-      "published": "2026-10-26T18:51:06+00:00",
-      "excerpt": "Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo. The software update also includes an \"Edge Light\" feature for the iPhone Duo that's intended to illuminate your face during video calls. Apple previously...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1034.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Operating Systems"
     }
   ]
 }
