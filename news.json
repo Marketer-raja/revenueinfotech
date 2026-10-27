@@ -1,6 +1,26 @@
 {
-  "updated": "2026-10-27T02:03:21+00:00",
+  "updated": "2026-10-27T07:48:46+00:00",
   "items": [
+    {
+      "id": "ad8783319617",
+      "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
+      "url": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
+      "source": "The Hacker News",
+      "published": "2026-10-27T06:34:47+00:00",
+      "excerpt": "The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua. \"Cases of compromising IP cameras and DVRs with access to the video...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjISG9SXb2aeE6Zy-bIbnuaqwUNmGof7xU8RQl0vGZIcxcgNE3YXpuvG7rJKSTn_q9J8d_2DEv6rU2zxoX615DIYePz9rMA2TiLT6Fo1q2leGoyH85hJuIUta8j8FEN2mY5AGaO6zH5o6MkCHZ9Sv7OpjrZ6LE1yZygl9R4hUgt7xWJMMeGXRI4UJziuPCW/s1600/hackers-camera.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "968629f0ead3",
+      "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
+      "url": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
+      "source": "The Hacker News",
+      "published": "2026-10-27T04:37:59+00:00",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog. The PHP vulnerabilities...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-vxKiggBxnuXu0fenkg0gfce0iuuA3OxeVzvWAdc0zaDPDayQgY8y_miqnvHJrpYvw61AhvGHEOW4EIKIYZ4QkRGjGEhqiU-3R0o6m0fgHJYDtszsoXyqse7WDGMh4rvEuTf1T-17KOVkyJKgEcaw5yBXFi6ElwIFyU9TjudvJrHz4fz6VNro8bjUZcnD/s1600/cisa-php.jpg",
+      "category": "Software Development"
+    },
     {
       "id": "62ecc12b68be",
       "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
@@ -580,26 +600,6 @@
       "excerpt": "Microsoft's Surface Laptop Ultra was blighted by some nuisance bugs at launch, but now the company has released some new firmware to resolve them. The October 22nd release addresses three notable issues in particular: screen flickering...",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VERGE_10_04_2026_0184.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Enterprise Software & SaaS"
-    },
-    {
-      "id": "a79a9ee8572b",
-      "title": "Roku apps keep crashing before you hit Play? Here's why",
-      "url": "https://www.engadget.com/2294301/roku-app-keeps-crashing-solution/",
-      "source": "Engadget",
-      "published": "2026-10-26T15:15:00+00:00",
-      "excerpt": "There are a few things you can try to fix it.",
-      "image": "https://www.engadget.com/img/gallery/roku-apps-keep-crashing-before-you-hit-play-heres-why/l-intro-1792343025.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "da7d8995d8f7",
-      "title": "iPhone Duo screens are breaking, but is it a Galaxy Fold moment?",
-      "url": "https://9to5google.com/2026/10/26/iphone-duo-broken-screens-galaxy-fold/",
-      "source": "9to5Google",
-      "published": "2026-10-26T14:45:00+00:00",
-      "excerpt": "Apple\u2019s first foldable is running into a problem. iPhone Duo screens are breaking, but is this a case of a flawed design like Samsung\u2019s original Galaxy Fold, user error, or a bit of both? more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/iphone-duo-broken-displays.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
     }
   ]
 }

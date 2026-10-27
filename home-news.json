@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-27T02:03:21+00:00",
+  "updated": "2026-10-27T07:48:46+00:00",
   "auto": true,
   "items": [
+    {
+      "id": "ad8783319617",
+      "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
+      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua. \"Cases of compromising IP cameras and DVRs with access to the video...",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjISG9SXb2aeE6Zy-bIbnuaqwUNmGof7xU8RQl0vGZIcxcgNE3YXpuvG7rJKSTn_q9J8d_2DEv6rU2zxoX615DIYePz9rMA2TiLT6Fo1q2leGoyH85hJuIUta8j8FEN2mY5AGaO6zH5o6MkCHZ9Sv7OpjrZ6LE1yZygl9R4hUgt7xWJMMeGXRI4UJziuPCW/s1600/hackers-camera.jpg",
+      "category": "Software Development",
+      "section": "hero",
+      "featured": true,
+      "published": "2026-10-27T06:34:47+00:00"
+    },
+    {
+      "id": "968629f0ead3",
+      "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog. The PHP vulnerabilities...",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-vxKiggBxnuXu0fenkg0gfce0iuuA3OxeVzvWAdc0zaDPDayQgY8y_miqnvHJrpYvw61AhvGHEOW4EIKIYZ4QkRGjGEhqiU-3R0o6m0fgHJYDtszsoXyqse7WDGMh4rvEuTf1T-17KOVkyJKgEcaw5yBXFi6ElwIFyU9TjudvJrHz4fz6VNro8bjUZcnD/s1600/cisa-php.jpg",
+      "category": "Software Development",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-27T04:37:59+00:00"
+    },
     {
       "id": "62ecc12b68be",
       "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
@@ -10,8 +34,8 @@
       "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/55593495974_7bfdac6a15_k.jpg?resize=1200,800",
       "category": "Artificial Intelligence",
-      "section": "hero",
-      "featured": true,
+      "section": "brief",
+      "featured": false,
       "published": "2026-10-27T02:00:00+00:00"
     },
     {
@@ -34,7 +58,7 @@
       "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/gettyimages-2295204296-2048x2048-1.jpg?resize=1200,800",
       "category": "Artificial Intelligence",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-27T01:12:21+00:00"
     },
@@ -46,7 +70,7 @@
       "url": "https://www.engadget.com/2295333/iphone-lockdown-mode-pros-cons/",
       "image": "https://www.engadget.com/img/gallery/iphone-lockdown-mode-the-pros-and-cons-of-enabling-apples-security-feature/l-intro-1792766868.jpg",
       "category": "Cybersecurity",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-27T00:30:00+00:00"
     },
@@ -106,7 +130,7 @@
       "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Databricks-co-founder-Arsalan-Tavakoli-Shiraji.jpg?resize=1200,901",
       "category": "Enterprise Software & SaaS",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-26T22:00:00+00:00"
     },
@@ -118,7 +142,7 @@
       "url": "https://www.engadget.com/2294592/mistake-iphone-duo-buyers-can-avoid/",
       "image": "https://www.engadget.com/img/gallery/the-mistake-iphone-duo-buyers-can-easily-avoid/l-intro-1792692793.jpg",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-26T22:00:00+00:00"
     },
@@ -178,7 +202,7 @@
       "url": "https://9to5google.com/2026/10/26/chrome-156-googlebooks/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-14-4.jpg?quality=82&strip=all&w=1600",
       "category": "Web Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-26T19:58:11+00:00"
     },
@@ -190,7 +214,7 @@
       "url": "https://www.engadget.com/2297577/apple-adds-more-siri-ai-tools-in-27-2-system-updates-out-today/",
       "image": "https://www.engadget.com/img/gallery/apple-adds-more-siri-ai-tools-in-its-27-2-system-updates-out-today/l-intro-1793044016.jpg",
       "category": "Artificial Intelligence",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-26T19:47:56+00:00"
     },
@@ -697,30 +721,6 @@
       "section": "none",
       "featured": false,
       "published": "2026-10-26T15:28:11+00:00"
-    },
-    {
-      "id": "a79a9ee8572b",
-      "title": "Roku apps keep crashing before you hit Play? Here's why",
-      "summary": "There are a few things you can try to fix it.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2294301/roku-app-keeps-crashing-solution/",
-      "image": "https://www.engadget.com/img/gallery/roku-apps-keep-crashing-before-you-hit-play-heres-why/l-intro-1792343025.jpg",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-26T15:15:00+00:00"
-    },
-    {
-      "id": "da7d8995d8f7",
-      "title": "iPhone Duo screens are breaking, but is it a Galaxy Fold moment?",
-      "summary": "Apple\u2019s first foldable is running into a problem. iPhone Duo screens are breaking, but is this a case of a flawed design like Samsung\u2019s original Galaxy Fold, user error, or a bit of both? more\u2026",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/26/iphone-duo-broken-screens-galaxy-fold/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/iphone-duo-broken-displays.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-26T14:45:00+00:00"
     }
   ]
 }
