@@ -1,7 +1,67 @@
 {
-  "updated": "2026-10-26T23:08:55+00:00",
+  "updated": "2026-10-27T02:03:21+00:00",
   "auto": true,
   "items": [
+    {
+      "id": "62ecc12b68be",
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55593495974_7bfdac6a15_k.jpg?resize=1200,800",
+      "category": "Artificial Intelligence",
+      "section": "hero",
+      "featured": true,
+      "published": "2026-10-27T02:00:00+00:00"
+    },
+    {
+      "id": "30095bde7f28",
+      "title": "Google Photos rolls out customizable redesign of your \u2018Collections\u2019 tab",
+      "summary": "Following the floating navigation bar in July, Google Photos for Android is rolling out a big redesign that lets you customize the Collections tab. more\u2026",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/10/26/google-photos-collections-redesign/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/google-photos-1.jpg?quality=82&strip=all&w=1600",
+      "category": "Operating Systems",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-27T01:18:33+00:00"
+    },
+    {
+      "id": "9af0a1a0b387",
+      "title": "Cohere says Alibaba\u2019s Qwen model tried to send a file to Beijing",
+      "summary": "An AI model said it wouldn\u2019t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it\u2019s probably a training quirk and not espionage, the whole thing has people asking how much to trust free...",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/gettyimages-2295204296-2048x2048-1.jpg?resize=1200,800",
+      "category": "Artificial Intelligence",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-27T01:12:21+00:00"
+    },
+    {
+      "id": "f499fe454164",
+      "title": "iPhone Lockdown Mode: The pros and cons of enabling Apple's security feature",
+      "summary": "Lockdown Mode enables extreme protections for those most at risk, but it's overkill for most people.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2295333/iphone-lockdown-mode-pros-cons/",
+      "image": "https://www.engadget.com/img/gallery/iphone-lockdown-mode-the-pros-and-cons-of-enabling-apples-security-feature/l-intro-1792766868.jpg",
+      "category": "Cybersecurity",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-27T00:30:00+00:00"
+    },
+    {
+      "id": "7a0d430b1627",
+      "title": "The most popular streaming platforms in the US might not be what you think",
+      "summary": "You might be surprised at the rankings of some streaming services when it comes to what Americans watch on their TVs.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2295216/most-popular-streaming-platforms-united-states-not-what-you-think/",
+      "image": "https://www.engadget.com/img/gallery/the-most-popular-streaming-platforms-in-the-us-might-not-be-what-you-think/l-intro-1792763480.jpg",
+      "category": "Software Development",
+      "section": "latest",
+      "featured": false,
+      "published": "2026-10-26T23:30:00+00:00"
+    },
     {
       "id": "c7d736d56dd9",
       "title": "6+ ways you can use your PlayStation 5's USB ports",
@@ -10,8 +70,8 @@
       "url": "https://www.engadget.com/2294767/ways-to-use-playstation-5-usb-ports/",
       "image": "https://www.engadget.com/img/gallery/6-ways-you-can-use-your-playstation-5s-usb-ports/l-intro-1792698653.jpg",
       "category": "Software Development",
-      "section": "hero",
-      "featured": true,
+      "section": "latest",
+      "featured": false,
       "published": "2026-10-26T23:00:00+00:00"
     },
     {
@@ -22,7 +82,7 @@
       "url": "https://www.engadget.com/2297806/halide-releases-its-first-batch-of-updates-for-the-iphone-duo/",
       "image": "https://www.engadget.com/img/gallery/halide-releases-its-first-batch-of-updates-for-the-iphone-duo/l-intro-1793055082.jpg",
       "category": "Software Development",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-26T22:51:46+00:00"
     },
@@ -34,19 +94,19 @@
       "url": "https://www.engadget.com/2290322/leading-causing-ev-battery-damage/",
       "image": "https://www.engadget.com/img/engadget-meta-image-1280x720.png",
       "category": "Software Development",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-26T22:30:00+00:00"
     },
     {
       "id": "72ccc8baf2db",
-      "title": "Databricks co-founder shares his secrets for winning big enterprises customers",
-      "summary": "Turns out selling to big companies isn\u2019t about having the shiniest tech: it\u2019s about hitching a ride on a giant\u2019s sales team.",
+      "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
+      "summary": "Turns out selling to big companies isn\u2019t about having the shiniest tech: It\u2019s about hitching a ride on a giant\u2019s sales team.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Databricks-co-founder-Arsalan-Tavakoli-Shiraji.jpg?resize=1200,901",
-      "category": "Software Development",
-      "section": "brief",
+      "category": "Enterprise Software & SaaS",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-26T22:00:00+00:00"
     },
@@ -70,7 +130,7 @@
       "url": "https://9to5google.com/2026/10/26/android-bench-rankings-gemini-4-argon/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/android-figures-mwc-2026-2.jpg?quality=82&strip=all&w=1600",
       "category": "Artificial Intelligence",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-26T22:00:00+00:00"
     },
@@ -82,7 +142,7 @@
       "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
       "image": "https://techcrunch.com/wp-content/uploads/2025/10/adam-mosseri-at-bloomberg-screentime.png?resize=1200,675",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-26T21:05:11+00:00"
     },
@@ -94,7 +154,7 @@
       "url": "https://www.zdnet.com/tech/apple-ios-27-2-update-siri-ai-facetime-dual-cameras/",
       "image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC00852.jpeg",
       "category": "Operating Systems",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-26T20:52:35+00:00"
     },
@@ -106,7 +166,7 @@
       "url": "https://9to5google.com/2026/10/26/october-2026-google-system-updates/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-3.jpg?quality=82&strip=all&w=1600",
       "category": "Operating Systems",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-26T20:15:00+00:00"
     },
@@ -118,7 +178,7 @@
       "url": "https://9to5google.com/2026/10/26/chrome-156-googlebooks/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-14-4.jpg?quality=82&strip=all&w=1600",
       "category": "Web Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-26T19:58:11+00:00"
     },
@@ -142,7 +202,7 @@
       "url": "https://9to5google.com/2026/10/26/android-ipad-mini-oled-redmagic-astra-2-review/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/redmagic-astra-2-7.jpg?quality=82&strip=all&w=1600",
       "category": "Operating Systems",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-26T19:30:00+00:00"
     },
@@ -154,7 +214,7 @@
       "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-iPhone-Duo-colors-260909.jpg?resize=1200,675",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-26T19:22:40+00:00"
     },
@@ -166,7 +226,7 @@
       "url": "https://www.engadget.com/2297486/ghost-of-yotei-studio-sucker-punch-lays-off-24-workers/",
       "image": "https://www.engadget.com/img/gallery/ghost-of-ytei-studio-sucker-punch-lays-off-24-workers/l-intro-1793042059.jpg",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-26T19:15:34+00:00"
     },
@@ -178,7 +238,7 @@
       "url": "https://9to5google.com/2026/10/26/gemini-live-plus-redesign/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-live-2.jpg?quality=82&strip=all&w=1600",
       "category": "Artificial Intelligence",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-26T19:00:50+00:00"
     },
@@ -190,7 +250,7 @@
       "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/01/cfs-sparc-digital-twin.jpeg?resize=1200,676",
       "category": "Enterprise Software & SaaS",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-26T18:59:52+00:00"
     },
@@ -440,7 +500,7 @@
       "summary": "Anthropic\u2019s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that\u2019s making enterprise customers stickier.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2278152325.jpg?w=1024",
+      "image": "",
       "category": "Artificial Intelligence",
       "section": "none",
       "featured": false,
@@ -452,7 +512,7 @@
       "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-2.40.46-PM-e1793033116950.png?resize=1200,911",
+      "image": "",
       "category": "Artificial Intelligence",
       "section": "none",
       "featured": false,
@@ -661,66 +721,6 @@
       "section": "none",
       "featured": false,
       "published": "2026-10-26T14:45:00+00:00"
-    },
-    {
-      "id": "598c2ba23b38",
-      "title": "Google\u2019s latest Nest Learning Thermostat is a steal with new limited-time deal",
-      "summary": "It\u2019s time to upgrade my old Nest Thermostat to the latest 4th-gen model, and the bundle even includes a fancy new Nest Temperature Sensor (2nd gen), all for a new low price of $219! more\u2026",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/26/nest-learning-thermostat-deal-lowest-price-ever/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/08/nest-learning-thermostat-14-3.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-26T14:40:00+00:00"
-    },
-    {
-      "id": "7ca6b100a30f",
-      "title": "Anthropic officially files for its public debut",
-      "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-      "image": "",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-26T14:35:22+00:00"
-    },
-    {
-      "id": "4c1ce39718ad",
-      "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
-      "summary": "The new iPad mini features a thinner and lighter design than its predecessor.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
-      "image": "",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-26T14:25:43+00:00"
-    },
-    {
-      "id": "e2145f432847",
-      "title": "Matiks raises $10M to expand its math and puzzle gaming platform",
-      "summary": "Matiks has introduced a new platform for users to create games using AI.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/",
-      "image": "",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-26T14:08:04+00:00"
-    },
-    {
-      "id": "3576934612fc",
-      "title": "\u26a1 Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
-      "summary": "This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, some flaws are already being used in...",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjztmxBbaYZEAd_HSv1heMQm8UuLym1h7XcN8NrgWjJmaoghOIR2O1rHwQzunUd9jlQn4R_8ft4Y0K9xLQOhs2xM8vVh1eHoEsZIFonHd7K6TA1cd0aIJ6jK-K2RNVBCwMfQwq7WWpuFtB8inWvubRjIEw_9fetsRFllw-fsAAnjCnpMCqFIL28ovMhJwbd/s1600/recap2monday.jpg",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-26T14:06:13+00:00"
     }
   ]
 }

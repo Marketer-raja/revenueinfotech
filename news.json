@@ -1,6 +1,56 @@
 {
-  "updated": "2026-10-26T23:08:55+00:00",
+  "updated": "2026-10-27T02:03:21+00:00",
   "items": [
+    {
+      "id": "62ecc12b68be",
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "source": "TechCrunch",
+      "published": "2026-10-27T02:00:00+00:00",
+      "excerpt": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55593495974_7bfdac6a15_k.jpg?resize=1200,800",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "30095bde7f28",
+      "title": "Google Photos rolls out customizable redesign of your \u2018Collections\u2019 tab",
+      "url": "https://9to5google.com/2026/10/26/google-photos-collections-redesign/",
+      "source": "9to5Google",
+      "published": "2026-10-27T01:18:33+00:00",
+      "excerpt": "Following the floating navigation bar in July, Google Photos for Android is rolling out a big redesign that lets you customize the Collections tab. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/google-photos-1.jpg?quality=82&strip=all&w=1600",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "9af0a1a0b387",
+      "title": "Cohere says Alibaba\u2019s Qwen model tried to send a file to Beijing",
+      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "source": "TechCrunch",
+      "published": "2026-10-27T01:12:21+00:00",
+      "excerpt": "An AI model said it wouldn\u2019t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it\u2019s probably a training quirk and not espionage, the whole thing has people asking how much to trust free...",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/gettyimages-2295204296-2048x2048-1.jpg?resize=1200,800",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "f499fe454164",
+      "title": "iPhone Lockdown Mode: The pros and cons of enabling Apple's security feature",
+      "url": "https://www.engadget.com/2295333/iphone-lockdown-mode-pros-cons/",
+      "source": "Engadget",
+      "published": "2026-10-27T00:30:00+00:00",
+      "excerpt": "Lockdown Mode enables extreme protections for those most at risk, but it's overkill for most people.",
+      "image": "https://www.engadget.com/img/gallery/iphone-lockdown-mode-the-pros-and-cons-of-enabling-apples-security-feature/l-intro-1792766868.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "7a0d430b1627",
+      "title": "The most popular streaming platforms in the US might not be what you think",
+      "url": "https://www.engadget.com/2295216/most-popular-streaming-platforms-united-states-not-what-you-think/",
+      "source": "Engadget",
+      "published": "2026-10-26T23:30:00+00:00",
+      "excerpt": "You might be surprised at the rankings of some streaming services when it comes to what Americans watch on their TVs.",
+      "image": "https://www.engadget.com/img/gallery/the-most-popular-streaming-platforms-in-the-us-might-not-be-what-you-think/l-intro-1792763480.jpg",
+      "category": "Software Development"
+    },
     {
       "id": "c7d736d56dd9",
       "title": "6+ ways you can use your PlayStation 5's USB ports",
@@ -33,13 +83,13 @@
     },
     {
       "id": "72ccc8baf2db",
-      "title": "Databricks co-founder shares his secrets for winning big enterprises customers",
+      "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
       "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
       "source": "TechCrunch",
       "published": "2026-10-26T22:00:00+00:00",
-      "excerpt": "Turns out selling to big companies isn\u2019t about having the shiniest tech: it\u2019s about hitching a ride on a giant\u2019s sales team.",
+      "excerpt": "Turns out selling to big companies isn\u2019t about having the shiniest tech: It\u2019s about hitching a ride on a giant\u2019s sales team.",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Databricks-co-founder-Arsalan-Tavakoli-Shiraji.jpg?resize=1200,901",
-      "category": "Software Development"
+      "category": "Enterprise Software & SaaS"
     },
     {
       "id": "18e98a23e2e3",
@@ -368,7 +418,7 @@
       "source": "TechCrunch",
       "published": "2026-10-26T16:49:42+00:00",
       "excerpt": "Anthropic\u2019s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that\u2019s making enterprise customers stickier.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2278152325.jpg?w=1024",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -378,7 +428,7 @@
       "source": "TechCrunch",
       "published": "2026-10-26T16:46:36+00:00",
       "excerpt": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-2.40.46-PM-e1793033116950.png?resize=1200,911",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -549,56 +599,6 @@
       "published": "2026-10-26T14:45:00+00:00",
       "excerpt": "Apple\u2019s first foldable is running into a problem. iPhone Duo screens are breaking, but is this a case of a flawed design like Samsung\u2019s original Galaxy Fold, user error, or a bit of both? more\u2026",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/iphone-duo-broken-displays.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "598c2ba23b38",
-      "title": "Google\u2019s latest Nest Learning Thermostat is a steal with new limited-time deal",
-      "url": "https://9to5google.com/2026/10/26/nest-learning-thermostat-deal-lowest-price-ever/",
-      "source": "9to5Google",
-      "published": "2026-10-26T14:40:00+00:00",
-      "excerpt": "It\u2019s time to upgrade my old Nest Thermostat to the latest 4th-gen model, and the bundle even includes a fancy new Nest Temperature Sensor (2nd gen), all for a new low price of $219! more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/08/nest-learning-thermostat-14-3.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "7ca6b100a30f",
-      "title": "Anthropic officially files for its public debut",
-      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-      "source": "TechCrunch",
-      "published": "2026-10-26T14:35:22+00:00",
-      "excerpt": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
-      "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "4c1ce39718ad",
-      "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
-      "url": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
-      "source": "TechCrunch",
-      "published": "2026-10-26T14:25:43+00:00",
-      "excerpt": "The new iPad mini features a thinner and lighter design than its predecessor.",
-      "image": "",
-      "category": "Software Development"
-    },
-    {
-      "id": "e2145f432847",
-      "title": "Matiks raises $10M to expand its math and puzzle gaming platform",
-      "url": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/",
-      "source": "TechCrunch",
-      "published": "2026-10-26T14:08:04+00:00",
-      "excerpt": "Matiks has introduced a new platform for users to create games using AI.",
-      "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "3576934612fc",
-      "title": "\u26a1 Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
-      "url": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
-      "source": "The Hacker News",
-      "published": "2026-10-26T14:06:13+00:00",
-      "excerpt": "This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, some flaws are already being used in...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjztmxBbaYZEAd_HSv1heMQm8UuLym1h7XcN8NrgWjJmaoghOIR2O1rHwQzunUd9jlQn4R_8ft4Y0K9xLQOhs2xM8vVh1eHoEsZIFonHd7K6TA1cd0aIJ6jK-K2RNVBCwMfQwq7WWpuFtB8inWvubRjIEw_9fetsRFllw-fsAAnjCnpMCqFIL28ovMhJwbd/s1600/recap2monday.jpg",
       "category": "Software Development"
     }
   ]
