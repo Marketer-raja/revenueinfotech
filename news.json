@@ -1,6 +1,326 @@
 {
-  "updated": "2026-10-28T18:50:16+00:00",
+  "updated": "2026-10-28T23:12:21+00:00",
   "items": [
+    {
+      "id": "09f762edab0d",
+      "title": "Adam Mosseri says negativity around AI is \u2018going to get worse\u2019",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "source": "The Verge",
+      "published": "2026-10-28T23:05:39+00:00",
+      "excerpt": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "96f530445fce",
+      "title": "Apple\u2019s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+      "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+      "source": "TechCrunch",
+      "published": "2026-10-28T22:47:50+00:00",
+      "excerpt": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-lifestyle-travel-261028_big.jpg.large_2x.jpg?w=1200",
+      "category": "Software Development"
+    },
+    {
+      "id": "1134b6a1764a",
+      "title": "Microsoft just shared Azure\u2019s actual revenue in dollars: $33.2 billion",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "source": "TechCrunch",
+      "published": "2026-10-28T21:58:32+00:00",
+      "excerpt": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
+      "category": "Cloud Computing"
+    },
+    {
+      "id": "d7e14d5839c1",
+      "title": "A hacker stole more than 40,000 DHS employee records",
+      "url": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
+      "source": "The Verge",
+      "published": "2026-10-28T21:57:45+00:00",
+      "excerpt": "A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more than 41,000 employees, including those in...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2200388904.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "9b7dd4a7a685",
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "source": "TechCrunch",
+      "published": "2026-10-28T21:48:37+00:00",
+      "excerpt": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "f9d1493b929c",
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "source": "TechCrunch",
+      "published": "2026-10-28T21:34:30+00:00",
+      "excerpt": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2153474575.jpg?resize=1200,800",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "e4867209a9cd",
+      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+      "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+      "source": "The Verge",
+      "published": "2026-10-28T21:34:04+00:00",
+      "excerpt": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai-MPC-Sample-Key.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "0ef91bd8c8c1",
+      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+      "source": "TechCrunch",
+      "published": "2026-10-28T21:25:30+00:00",
+      "excerpt": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Satya-Nadella.jpg?resize=1200,800",
+      "category": "Enterprise Software & SaaS"
+    },
+    {
+      "id": "8fc3389accad",
+      "title": "Readwise is taking on Kindle and Kobo for ebook supremacy",
+      "url": "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store",
+      "source": "The Verge",
+      "published": "2026-10-28T21:16:18+00:00",
+      "excerpt": "For the last several years, Readwise has been building tools for power readers. There's the eponymous product, Readwise, which stores and categorizes your Kindle highlights to help you remember what you've read. There's Readwise Reader, an...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Readwise-Books-2.jpeg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Web Development"
+    },
+    {
+      "id": "140814b55cb3",
+      "title": "The 4 biggest Amazon smart home announcements from today",
+      "url": "https://www.zdnet.com/home-and-office/amazon-echo-smart-home-announcements-october-2026-price-availability/",
+      "source": "ZDNET",
+      "published": "2026-10-28T20:35:05+00:00",
+      "excerpt": "From a new smart alarm clock to an Alexa-powered 3D map of your home, here\u2019s what\u2019s new from Amazon, including prices and release dates.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Alexa-Home-Map-1920x1080-1.png",
+      "category": "Software Development"
+    },
+    {
+      "id": "e164bf48fa23",
+      "title": "Creating AI value with enterprise context",
+      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-28T20:32:02+00:00",
+      "excerpt": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously\u2014for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated...",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MIT_Atlan-Cover-28-26.png?w=840",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "fa0aa15d58ef",
+      "title": "Apple's PROLED XDR Display has a cringy name but incredible specs",
+      "url": "https://www.engadget.com/2300407/apples-proled-xdr-display-has-a-cringy-name-but-incredible-specs/",
+      "source": "Engadget",
+      "published": "2026-10-28T20:31:43+00:00",
+      "excerpt": "With all the fuss about Apple finally releasing a touchscreen MacBook Pro, you may have forgotten about the OLED part.",
+      "image": "https://www.engadget.com/img/gallery/apples-proled-xdr-display-has-a-cringy-name-but-incredible-specs/l-intro-1793218163.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "90cdfe170fd3",
+      "title": "Some Pixel Watch users report a sudden decrease in battery life",
+      "url": "https://9to5google.com/2026/10/28/pixel-watch-users-report-battery-drain/",
+      "source": "9to5Google",
+      "published": "2026-10-28T20:28:44+00:00",
+      "excerpt": "A surge of online reports indicates that some users are experiencing a recent increase in battery drain on their Pixel Watch, by as much as 20% every few hours. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-Watch-5-Steph-Curry-.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "4c4418dd5582",
+      "title": "Google says its investments in AI are driving more searches",
+      "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+      "source": "The Verge",
+      "published": "2026-10-28T20:22:26+00:00",
+      "excerpt": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI investments are driving overall Search query growth, including commercial...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951561/VRG_Illo_STK179_L_Normand_SundarPichai_Neutral.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "3905ca1fc76a",
+      "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
+      "url": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
+      "source": "The Verge",
+      "published": "2026-10-28T20:20:00+00:00",
+      "excerpt": "Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, and net income has increased by 32...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_STOCKS_CVirginia_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Enterprise Software & SaaS"
+    },
+    {
+      "id": "542eb6108e8e",
+      "title": "AMVR\u2019s new head strap is my favorite way to keep cool with a Meta Quest 3 or 3S",
+      "url": "https://9to5google.com/2026/10/28/amvrs-new-head-strap-is-my-favorite-way-to-keep-cool-with-a-meta-quest-3-or-3s/",
+      "source": "9to5Google",
+      "published": "2026-10-28T20:20:00+00:00",
+      "excerpt": "The upgraded AMVR BS1 head strap includes better ergonomics, a built-in fan, magnetic rechargeable batteries, and a new breathable mesh top support for ultimate comfort. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/amvr-bs1-with-quest-3.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "0043d35930ac",
+      "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
+      "url": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced",
+      "source": "The Verge",
+      "published": "2026-10-28T20:12:44+00:00",
+      "excerpt": "With an OLED display and touchscreen capabilities, it's no surprise that the new MacBook Pro Apple announced today is more expensive than the MBP announced earlier this year. But upgrading the base models that start at $2,899 for the...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/mbp2.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "fc7d1d71bde9",
+      "title": "Google launches Gemini 4 Carbon with a \u2018significant leap\u2019 in cybersecurity",
+      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "source": "The Verge",
+      "published": "2026-10-28T20:03:00+00:00",
+      "excerpt": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "92ed55b9c1bd",
+      "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
+      "url": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
+      "source": "TechCrunch",
+      "published": "2026-10-28T20:01:00+00:00",
+      "excerpt": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/dhs-2255143488.jpg?resize=1200,800",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "c4b2f62ee522",
+      "title": "Meta weighs delaying 'alarming' new business terms as backlash grows",
+      "url": "https://www.engadget.com/2300293/meta-weighs-delaying-alarming-new-business-terms-as-backlash-grows/",
+      "source": "Engadget",
+      "published": "2026-10-28T19:42:27+00:00",
+      "excerpt": "The company says it won't make \"policy changes\" until it consults with publishers.",
+      "image": "https://www.engadget.com/img/gallery/meta-weighs-delaying-alarming-new-business-terms-as-backlash-grows/l-intro-1793216507.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "4b9a7ae8ae5b",
+      "title": "Mid-week Android app deals and freebies: Subnautica, Lara Croft GO, Fishfolk, more",
+      "url": "https://9to5toys.com/2026/10/28/todays-highlight-google-play-deals-38/",
+      "source": "9to5Google",
+      "published": "2026-10-28T19:42:03+00:00",
+      "excerpt": "Today\u2019s best Google Play app and game deals are ready, including Subnautica: Below Zero, Lara Croft GO, Fishfolk Voyage, Sauna of the DEAD, Railways \u2013 Train Simulator, Traffix: Traffic Simulator, and more. Just be sure to dive into the...",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-Play-collage-9aba27.webp?w=1600",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "2167f37f3b3a",
+      "title": "The PlayStation 5 just might be Sony's final Blu-Ray player",
+      "url": "https://www.engadget.com/2300289/playstation-5-might-be-sony-final-blu-ray-player/",
+      "source": "Engadget",
+      "published": "2026-10-28T19:39:47+00:00",
+      "excerpt": "Between Sony's plan to end PlayStation disc production and discontinuing its Blu-ray players, the future looks grim for physical media.",
+      "image": "https://www.engadget.com/img/gallery/the-playstation-5-just-might-be-sonys-final-blu-ray-player/l-intro-1793107319.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "0b818dc6c8fd",
+      "title": "Foreign gadget bans: all the news about the FCC\u2019s clampdown on Chinese tech",
+      "url": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream",
+      "source": "The Verge",
+      "published": "2026-10-28T19:37:31+00:00",
+      "excerpt": "What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They\u2019re the first consumer gadgets that are facing de facto import bans because of the US government\u2019s xenophobic...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2261816039.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "ea370fdd96af",
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "source": "TechCrunch",
+      "published": "2026-10-28T19:19:58+00:00",
+      "excerpt": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/claude-enterprise-social-smartreports-five-beats-gray200-animated-1080x608-v032.gif?w=1080",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "a3e130b40d4f",
+      "title": "Hands-on with the new OLED iPad Mini",
+      "url": "https://www.theverge.com/tech/1017932/hands-on-ipad-mini-8th-generation-pro-and-tell",
+      "source": "The Verge",
+      "published": "2026-10-28T19:18:58+00:00",
+      "excerpt": "Apple announced a new iPad Mini with a larger OLED display this week, and we've just gotten to try it out at Apple's \"Pro and tell\" event. It's an iPad for sure, but the new OLED on the Mini looks exceptional, and the optional nano-texture...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_iPad_Mini_OLED_handson_ADiBenedetto_0008.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "d1cf9dba2f88",
+      "title": "OpenAI now lets you text your Dot agent",
+      "url": "https://www.engadget.com/2300235/openai-now-lets-you-text-your-dot-agent/",
+      "source": "Engadget",
+      "published": "2026-10-28T19:15:00+00:00",
+      "excerpt": "The feature works with both iMessage and RCS messaging.",
+      "image": "https://www.engadget.com/img/gallery/openai-now-lets-you-text-your-dot-agent/l-intro-1793214741.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "8500267ec5b4",
+      "title": "Wiz\u2019s CTO on PHP2Shell and the coming \u2018vulnpocalypse\u2019",
+      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+      "source": "TechCrunch",
+      "published": "2026-10-28T19:05:46+00:00",
+      "excerpt": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking...",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/tomer-wiz.jpeg?resize=1200,800",
+      "category": "Software Development"
+    },
+    {
+      "id": "618da2331779",
+      "title": "Engadget is hiring writers!",
+      "url": "https://www.engadget.com/2300216/engadget-is-hiring-writers-october-2026/",
+      "source": "Engadget",
+      "published": "2026-10-28T19:05:46+00:00",
+      "excerpt": "We're looking for freelance journalists who know their way around a tech blog.",
+      "image": "https://www.engadget.com/img/gallery/engadget-is-hiring-writers/l-intro-1792721307.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "20278bf0d245",
+      "title": "The Galaxy Ring got a new update just in time for a $75-off sale",
+      "url": "https://9to5google.com/2026/10/28/the-galaxy-ring-got-a-new-update-just-in-time-for-a-75-off-sale/",
+      "source": "9to5Google",
+      "published": "2026-10-28T19:05:02+00:00",
+      "excerpt": "It\u2019s a 0.68MB Galaxy Ring update and a $75 sale. What\u2019s not to like? more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/samsung-galaxy-ring-october-2026-01.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "d35d427eea39",
+      "title": "Apple\u2019s new touchscreen MacBook Pros may be late, but they have one big advantage",
+      "url": "https://www.zdnet.com/tech/apples-new-touchscreen-macbook-pros-may-be-late-but-they-have-one-big-advantage/",
+      "source": "ZDNET",
+      "published": "2026-10-28T18:58:25+00:00",
+      "excerpt": "Apple finally revealed its new MacBook M5 Pro and Max with a touchscreen OLED display, bringing the best features from the iPhone to its laptops.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/macbook-pro-m5-max.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "c28794616db1",
+      "title": "Your public Discord messages may soon appear in Google search results \u2013 how to opt out",
+      "url": "https://www.zdnet.com/tech/discord-servers-searchable-on-web/",
+      "source": "ZDNET",
+      "published": "2026-10-28T18:56:53+00:00",
+      "excerpt": "Discord announced a new feature that can make your server messages discoverable on Google. Here\u2019s how to opt out.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1244516861.jpg",
+      "category": "Cloud Computing"
+    },
+    {
+      "id": "fb966ef8526d",
+      "title": "Amazon\u2019s new Alexa Photo Frame could have what I\u2019ve been missing \u2013 here\u2019s why",
+      "url": "https://www.zdnet.com/tech/amazon-alexa-photo-frame/",
+      "source": "ZDNET",
+      "published": "2026-10-28T18:46:45+00:00",
+      "excerpt": "You can ask Amazon\u2019s voice assistant to show you your favorite photos.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Amazon-Alexa-Photo-Frame.jpg",
+      "category": "Software Development"
+    },
     {
       "id": "990395f7acb1",
       "title": "Sony's new see-through DualSense controllers let you game like its 1999",
@@ -88,7 +408,7 @@
       "source": "Engadget",
       "published": "2026-10-28T17:35:24+00:00",
       "excerpt": "The touch sensor isn't a separate layer of the screen.",
-      "image": "https://www.engadget.com/img/gallery/heres-how-the-touchscreen-on-the-macbook-pro-with-proled-display-works/l-intro-1793210655.jpg",
+      "image": "https://www.engadget.com/img/gallery/heres-how-the-touchscreen-on-the-macbook-pro-with-proled-display-works/l-intro-1793213611.jpg",
       "category": "Software Development"
     },
     {
@@ -108,7 +428,7 @@
       "source": "TechCrunch",
       "published": "2026-10-28T17:26:10+00:00",
       "excerpt": "Apple's new touchscreen MacBook Pro starts at $2,899.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-QuickTime-261028.jpg?resize=1200,800",
+      "image": "",
       "category": "Software Development"
     },
     {
@@ -208,7 +528,7 @@
       "source": "TechCrunch",
       "published": "2026-10-28T17:00:00+00:00",
       "excerpt": "Xreal Aura will start at $1,279 and will have multiple XR specific apps at launch.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Xreal-Aura.jpg?resize=1200,675",
+      "image": "",
       "category": "Operating Systems"
     },
     {
@@ -218,7 +538,7 @@
       "source": "TechCrunch",
       "published": "2026-10-28T17:00:00+00:00",
       "excerpt": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/ConnectedAppshero.width-2200.format-webp.webp?resize=1200,675",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -228,7 +548,7 @@
       "source": "TechCrunch",
       "published": "2026-10-28T17:00:00+00:00",
       "excerpt": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/autofill-ai-chrome.jpg?resize=1200,643",
+      "image": "",
       "category": "Web Development"
     },
     {
@@ -279,326 +599,6 @@
       "published": "2026-10-28T16:48:15+00:00",
       "excerpt": "Amazon just dropped new smart home gear in response to Apple. Here\u2019s how the Echo Show 16 stacks up.",
       "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Echo-Show-16-Features-Alexa-Home-1920x1080-1.png",
-      "category": "Software Development"
-    },
-    {
-      "id": "fad968e23ebf",
-      "title": "New York governor signs AI chatbot child safety law",
-      "url": "https://www.engadget.com/2299823/new-york-governor-signs-ai-chatbot-child-safety-law/",
-      "source": "Engadget",
-      "published": "2026-10-28T16:33:01+00:00",
-      "excerpt": "A separate law aims to shore up security on connected baby monitors.",
-      "image": "https://www.engadget.com/img/gallery/new-york-governor-signs-ai-chatbot-child-safety-law/l-intro-1793205110.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "bce30872ee07",
-      "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
-      "url": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
-      "source": "The Hacker News",
-      "published": "2026-10-28T16:23:34+00:00",
-      "excerpt": "A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has shown. Orange Tsai of DEVCORE published the full method on...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAGi2cGlEYo6PNV9aaEulhQB9MtbWjCBFhi3MugyJf4kGwtSPjq9F9wxhlptAUKuipSCQ0_NhE5eyEbHzMWnT6hVLsXtqrIQImq0QndxbKoKMz_gzxJonZa2jnvwHGEqjN_J7uyi5BPaqlGmtMn1y9xzJQywFZB_FNgKV-GR7qtBQfVmrLxdoUlyhPTiA/s1600/edge.jpg",
-      "category": "Enterprise Software & SaaS"
-    },
-    {
-      "id": "9ccba33f9afe",
-      "title": "Opera will run AI locally in your browser now \u2013 why that\u2019s a gamechanger and how to try it",
-      "url": "https://www.zdnet.com/innovation/opera-webai-local-ai-browser/",
-      "source": "ZDNET",
-      "published": "2026-10-28T16:10:39+00:00",
-      "excerpt": "Thanks to the newly proposed WebAI web standard, the company will start shipping local AI models with its flagship browser.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/operaaihero.jpg",
-      "category": "Web Development"
-    },
-    {
-      "id": "612696559374",
-      "title": "Amazon\u2019s latest Echo smart displays and speakers reinforce Google Home\u2019s lost lead",
-      "url": "https://9to5google.com/2026/10/28/amazon-echo-new-smart-displays-speakers-google-home/",
-      "source": "9to5Google",
-      "published": "2026-10-28T16:10:00+00:00",
-      "excerpt": "Amazon just launched a new lineup of Echo smart speakers and a new smart display, all while Google Home\u2019s lineup remains pretty quiet. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/amazon-echo-smart-displays-speakers-2026.png?w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "eb73651e36ee",
-      "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
-      "url": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
-      "source": "The Hacker News",
-      "published": "2026-10-28T16:02:45+00:00",
-      "excerpt": "Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2Shell vulnerabilities to breach exposed...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl3PPkqzXf7YyMcnwdBu5XWlOwWtUonf15z0n79qMtIOVTb4LNfKdnl7tUK-45_2boP9r2ZKuHmX6e1BZLmo-LYF-rUwH8gtNrynFuaX4rlNh20UXPvtIfC85BcKcHXK1qei6uOJyImSjTfO537yljJve0Y_zMlfFfhBl0mKPfppWhkfojtGlYgxLjdSO0/s1600/php-united.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "d35be8d817bc",
-      "title": "Reddit is adding a 'for you' feed for recommendations",
-      "url": "https://www.engadget.com/2299618/reddit-is-adding-a-for-you-feed-for-recommendations/",
-      "source": "Engadget",
-      "published": "2026-10-28T16:00:00+00:00",
-      "excerpt": "The app will have a \"following\" tab to surface content from subreddits you've joined.",
-      "image": "https://www.engadget.com/img/gallery/reddit-is-adding-a-for-you-feed-for-recommendations/l-intro-1793201967.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "96a780a05b8e",
-      "title": "Deals: Galaxy S25 Ultra at $799 ($600 under S26), new Echo Show 16 $100 off, 2026 Chromebook M 52% off, more",
-      "url": "https://9to5google.com/2026/10/28/deals-galaxy-s25-ultra-echo-show-16-chromebook-m/",
-      "source": "9to5Google",
-      "published": "2026-10-28T15:54:16+00:00",
-      "excerpt": "Alongside the ongoing deals on $17.50 each. Check it all out below. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/9to5Google-Oct-28-3.webp?w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "516d6345c17a",
-      "title": "AI execs may be too out of touch to build for the general public",
-      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
-      "source": "TechCrunch",
-      "published": "2026-10-28T15:53:52+00:00",
-      "excerpt": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1172241499.jpg?resize=1200,728",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "1af93ecc8fda",
-      "title": "South Korea\u2019s financial industry hit by fresh wave of cyberattacks",
-      "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
-      "source": "TechCrunch",
-      "published": "2026-10-28T15:41:18+00:00",
-      "excerpt": "South Korea\u2019s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/05/south-korea-money-growth.jpg?resize=1200,675",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "6544098808fb",
-      "title": "Audio Technica just released its first set of wireless StreamSet headphones",
-      "url": "https://www.engadget.com/2299600/audio-technica-just-released-its-first-set-of-wireless-streamset-headphones/",
-      "source": "Engadget",
-      "published": "2026-10-28T15:34:06+00:00",
-      "excerpt": "This expands the lineup beyond XLR and USB-connected models.",
-      "image": "https://www.engadget.com/img/gallery/audio-technica-just-released-its-first-set-of-wireless-streamset-headphones/l-intro-1793201478.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "fe46e70d70bc",
-      "title": "Amazon\u2019s new Echo Studio gives Alexa+ an AI camera to see inside your home",
-      "url": "https://www.zdnet.com/home-and-office/amazon-echo-studio-home-camera-2026-privacy-concerns/",
-      "source": "ZDNET",
-      "published": "2026-10-28T15:26:34+00:00",
-      "excerpt": "The Echo Studio with Home Camera essentially equips Alexa+ with eyes to enable \u2018visual intelligence\u2019 features \u2013 but there\u2019s a kill switch.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/EchoStudio.png",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "09676bfbf448",
-      "title": "RAMageddon is ready to rage on through 2030",
-      "url": "https://9to5google.com/2026/10/28/ramageddon-sk-hynix-earnings-call-2030/",
-      "source": "9to5Google",
-      "published": "2026-10-28T15:25:00+00:00",
-      "excerpt": "SK Hynix, one of the major companies behind memory production, says that it\u2019s sold out through 2029, leaving RAMageddon ready to rage on for at least the next three years. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/S26-Ultra-Pixel-11-Pro-and-iPhone-17-Pro-2.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "e136181998a6",
-      "title": "Public Discord messages might start showing up in Google Search, unless users opt out",
-      "url": "https://9to5google.com/2026/10/28/discord-updates-server-web-pages-for-search/",
-      "source": "9to5Google",
-      "published": "2026-10-28T15:10:19+00:00",
-      "excerpt": "Discord announced today that Discoverable Server web pages will begin showing summaries and pulled content, which might show up in search engines. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Discord-public-servers.jpg?quality=82&strip=all&w=1400",
-      "category": "Cloud Computing"
-    },
-    {
-      "id": "b31468ac05b4",
-      "title": "Samsung\u2019s new clip-style Galaxy Buds On have a major advantage over Sony and Bose",
-      "url": "https://www.zdnet.com/tech/samsung-galaxy-buds-on-availability-price/",
-      "source": "ZDNET",
-      "published": "2026-10-28T15:09:12+00:00",
-      "excerpt": "Advanced audio features are great, but ecosystem integration is better. Here\u2019s how Samsung\u2019s newest clip-on Buds compare to its rivals.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/budson.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "d9d311919980",
-      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
-      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
-      "source": "TechCrunch",
-      "published": "2026-10-28T15:00:00+00:00",
-      "excerpt": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it\u2019s a big step for meeting and medical transcription tools while still leaving real-time use to...",
-      "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "831e583051d9",
-      "title": "Motorola\u2019s flagship Signature 27 sounds quite expensive in retail leak",
-      "url": "https://9to5google.com/2026/10/28/motorola-signature-27-price-leak/",
-      "source": "9to5Google",
-      "published": "2026-10-28T14:45:00+00:00",
-      "excerpt": "Motorola\u2019s return to the proper flagship space is coming in the Signature 27, but early leaks suggest this new device, as well as the company\u2019s wide foldable, won\u2019t exactly be cheap. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/motorola-signature-27-1.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "5bb797657bba",
-      "title": "Amazon\u2019s new Echo Dot can turn into a Wi-Fi extender \u2013 how it works",
-      "url": "https://www.zdnet.com/home-and-office/amazon-new-echo-dot-wi-fi-extender-smart-home-hub/",
-      "source": "ZDNET",
-      "published": "2026-10-28T14:41:32+00:00",
-      "excerpt": "Amazon\u2019s new Echo Dot includes a built-in Eero Wi-Fi extender, along with other smart home features.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Echo-Dot-Lifestyle-2000x1126-1.png",
-      "category": "Software Development"
-    },
-    {
-      "id": "8732586230bb",
-      "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
-      "url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
-      "source": "TechCrunch",
-      "published": "2026-10-28T14:34:25+00:00",
-      "excerpt": "Amazon's other new devices include an upgraded Echo Dot, an Echo Studio with visual intelligence features, and the Echo Show 16.",
-      "image": "",
-      "category": "Software Development"
-    },
-    {
-      "id": "2d2cf55b2852",
-      "title": "TikTok expands into restaurant guides with \u2018Must Eat\u2019 feature",
-      "url": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/",
-      "source": "TechCrunch",
-      "published": "2026-10-28T14:26:36+00:00",
-      "excerpt": "The move puts TikTok in more direct competition with platforms like Yelp and Google.",
-      "image": "",
-      "category": "Software Development"
-    },
-    {
-      "id": "12e9abc65de4",
-      "title": "Samsung can\u2019t decide between a larger Galaxy Z Fold 9 or one with worse specs, and neither can I",
-      "url": "https://9to5google.com/2026/10/28/samsung-galaxy-z-fold-9-choice-rumors/",
-      "source": "9to5Google",
-      "published": "2026-10-28T14:20:00+00:00",
-      "excerpt": "Following a smash hit in the smaller and wider Galaxy Z Fold 8, Samsung is obviously weighing its options behind the scenes when it comes to sequels. According to one leaker, the company is currently deciding between adding another Galaxy...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-Fold-8-fully-open-rear.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "e6fc173506fa",
-      "title": "Meta has a new AI pet app called Waddle World",
-      "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
-      "source": "TechCrunch",
-      "published": "2026-10-28T13:53:31+00:00",
-      "excerpt": "Meta launched a new app called Waddle World, which essentially looks like a Tamagotchi clone, but with AI.",
-      "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "2a2b7f059666",
-      "title": "The Samsung Galaxy S25 Ultra is at its lowest price for a while",
-      "url": "https://9to5google.com/2026/10/28/the-samsung-galaxy-s25-ultra-is-at-its-lowest-price-for-a-while/",
-      "source": "9to5Google",
-      "published": "2026-10-28T13:30:28+00:00",
-      "excerpt": "If you\u2019re a patient buyer, you can get a 256GB Galaxy S25 Ultra for a reasonable price, as one of 2025\u2019s best flagship phones is down to just $799 in the latest Amazon discount. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/02/samsung-galaxy-s25-ultra-7.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "ccb111de2c6a",
-      "title": "FCC clears Amazon Leo to acquire mobile-satellite operator Globalstar",
-      "url": "https://www.engadget.com/2299367/fcc-clears-amazon-leo-to-acquire-mobile-satellite-operator-globalstar/",
-      "source": "Engadget",
-      "published": "2026-10-28T13:13:19+00:00",
-      "excerpt": "Amazon Leo's $11.5 billion acquisition of mobile-satellite operator Globalstar has been approved by the FCC.",
-      "image": "https://www.engadget.com/img/gallery/fcc-clears-amazon-leo-to-acquire-mobile-satellite-operator-globalstar/l-intro-1793193078.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "7be23c48f5e7",
-      "title": "Kodiak lands first commercial deal to supply driverless trucks for public highways",
-      "url": "https://techcrunch.com/2026/10/28/kodiak-lands-first-commercial-deal-to-supply-driverless-trucks-for-public-highways/",
-      "source": "TechCrunch",
-      "published": "2026-10-28T13:00:00+00:00",
-      "excerpt": "The deal with DTL Transport puts it on a path to become an an asset-light tech supplier, rather than owner and operator.",
-      "image": "",
-      "category": "Software Development"
-    },
-    {
-      "id": "efca0b654d0c",
-      "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
-      "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
-      "source": "TechCrunch",
-      "published": "2026-10-28T13:00:00+00:00",
-      "excerpt": "In just 7 days, TechCrunch Founder Summit takes over Boston\u2019s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders...",
-      "image": "",
-      "category": "Enterprise Software & SaaS"
-    },
-    {
-      "id": "4e5a6d57bf6f",
-      "title": "Kindle Colorsoft Signature Edition 2026 review: Nice, but doesn't justify the price",
-      "url": "https://www.engadget.com/2299326/kindle-colorsoft-signature-edition-2026-review/",
-      "source": "Engadget",
-      "published": "2026-10-28T13:00:00+00:00",
-      "excerpt": "$320 is a lot to pay for a well-balanced device in an aluminum case with pogo pins.",
-      "image": "https://www.engadget.com/img/gallery/kindle-colorsoft-signature-edition-2026-review-nice-but-doesnt-justify-the-price/l-intro-1793191346.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "001ecf82b7ea",
-      "title": "Kindle Paperwhite Signature Edition (2026) review: Updated in all the right places",
-      "url": "https://www.engadget.com/2299180/kindle-paperwhite-signature-edition-2026-review/",
-      "source": "Engadget",
-      "published": "2026-10-28T13:00:00+00:00",
-      "excerpt": "Amazon's updates to the Paperwhite Signature Edition make it feel even more premium, but the regular version remains a great choice for less money.",
-      "image": "https://www.engadget.com/img/gallery/kindle-paperwhite-signature-edition-2026-review-updated-in-all-the-right-places/l-intro-1793129474.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "29d08fa787d9",
-      "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
-      "url": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
-      "source": "The Hacker News",
-      "published": "2026-10-28T12:48:03+00:00",
-      "excerpt": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) , a...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBB03AGS7veiAqQ7-xPeadzhhaRvDmhOlLgQcDN0y-r1na_us5yomWjBEXCbwbw8OW_o8SSGjjqk4VZFQ4ZxLiWKQPZxlcBkzJ5lv3OlEV0rOETUKyQzWoZ74LGpSjOjrScmk1rVf0OhRmDACHG3jwSDfBnnta75I_3s_nuoWGZmcfg7NZfHBp_PEIl8aj/s1600/oracle-hack.jpg",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "b83f388f75b5",
-      "title": "Apple Pro and Tell event: Live updates as we wait to see a MacBook Pro with a touch screen",
-      "url": "https://www.engadget.com/2299176/apple-pro-and-tell-macbook-event-live-blog/",
-      "source": "Engadget",
-      "published": "2026-10-28T12:30:00+00:00",
-      "excerpt": "Reports indicate that a \"MacBook Ultra\" with a touch-sensitive display is likely on the agenda today.",
-      "image": "https://www.engadget.com/img/gallery/apple-pro-and-tell-macbook-event-live-blog/l-intro-1793207087.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "e82502d7d847",
-      "title": "Almost all of Amazon\u2019s new Echo gear is available now",
-      "url": "https://www.theverge.com/gadgets/1019686/amazon-echo-dot-studio-camera-frame-show-16-buy",
-      "source": "The Verge",
-      "published": "2026-10-28T12:29:52+00:00",
-      "excerpt": "Amazon used to blast out dozens of products onstage at annual hardware events. If this October is any indication, the company has wisely changed its strategy to put more focus on each new product with its own launch. The latest round of...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Echo_Time_JTuohy_0012.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "fe115e640962",
-      "title": "Everything announced at Amazon\u2019s October 2026 hardware launch",
-      "url": "https://www.theverge.com/tech/1020403/everything-announced-at-amazons-october-2026-hardware-launch",
-      "source": "The Verge",
-      "published": "2026-10-28T12:20:40+00:00",
-      "excerpt": "Amazon had plenty of new gadgets to share at its Echo hardware event this year, along with updates to the AI-powered Alexa Plus after it became available to everyone in the US in February. But the big news this year is screens: devices...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Echo_Show_16_JTuohy_0046.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "2acf8c77b306",
-      "title": "Amazon\u2019s new Echo line is here: the 6 biggest updates",
-      "url": "https://www.theverge.com/tech/1020035/amazon-fall-2026-hardware-launch-biggest-announcements",
-      "source": "The Verge",
-      "published": "2026-10-28T12:08:15+00:00",
-      "excerpt": "Amazon has just taken the wraps off a bunch of new devices as part of a string of fall announcements. Today's news focuses largely on new Echo speakers, with a few new smart home gadgets sprinkled in. Here's a roundup of all of the updates...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Echo_studio_camera_JTuohy_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Software Development"
     }
   ]
