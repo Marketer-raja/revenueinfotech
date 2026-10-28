@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-27T23:45:14+00:00",
+  "updated": "2026-10-28T05:37:27+00:00",
   "auto": true,
   "items": [
+    {
+      "id": "ce7b64404e84",
+      "title": "iOS 27.2 brings two new features to Apple's CarPlay",
+      "summary": "iOS 27.2 comes with some changes for Apple CarPlay, too.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2299185/ios-27-2-two-new-features-apple-carplay/",
+      "image": "https://www.engadget.com/img/gallery/ios-27-2-brings-two-new-features-to-apples-carplay/l-intro-1793159234.jpg",
+      "category": "Operating Systems",
+      "section": "hero",
+      "featured": true,
+      "published": "2026-10-28T03:51:54+00:00"
+    },
+    {
+      "id": "1b16f2a2a47a",
+      "title": "VCs will make billions on Anthropic\u2019s IPO, but Amazon is set to make much (much) more",
+      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+      "category": "Artificial Intelligence",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-28T01:15:28+00:00"
+    },
+    {
+      "id": "63dbaa5afce6",
+      "title": "Don't throw away your old Kindle \u2014 repurpose it instead",
+      "summary": "You can probably still read on it, and, with some finessing, you can turn it into a useful display.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2296053/dont-throw-away-your-old-kindle-repurpose-it/",
+      "image": "https://www.engadget.com/img/gallery/dont-throw-away-your-old-kindle-repurpose-it-instead/l-intro-1792793145.jpg",
+      "category": "Software Development",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-28T00:00:00+00:00"
+    },
     {
       "id": "a2f907c053da",
       "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
@@ -10,8 +46,8 @@
       "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
       "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024",
       "category": "Artificial Intelligence",
-      "section": "hero",
-      "featured": true,
+      "section": "brief",
+      "featured": false,
       "published": "2026-10-27T23:34:27+00:00"
     },
     {
@@ -22,7 +58,7 @@
       "url": "https://www.engadget.com/2299126/discord-server-messages-google-searchable-opt-out/",
       "image": "https://www.engadget.com/img/gallery/discord-public-server-messages-may-be-soon-searchable-on-google-but-you-can-opt-out/l-intro-1793141144.jpg",
       "category": "Cloud Computing",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-27T23:04:49+00:00"
     },
@@ -34,7 +70,7 @@
       "url": "https://www.engadget.com/2296047/how-to-change-customize-android-auto-display/",
       "image": "https://www.engadget.com/img/gallery/how-to-change-and-customize-your-android-auto-display/l-intro-1792678996.jpg",
       "category": "Operating Systems",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-27T23:00:00+00:00"
     },
@@ -46,7 +82,7 @@
       "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/55589499263_7ac8a28eb3_k.jpg?resize=1200,800",
       "category": "Cloud Computing",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-27T22:55:41+00:00"
     },
@@ -94,7 +130,7 @@
       "url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Golden-AI-finance-collage.png?resize=1200,600",
       "category": "Artificial Intelligence",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-27T22:26:03+00:00"
     },
@@ -106,7 +142,7 @@
       "url": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/",
       "image": "https://techcrunch.com/wp-content/uploads/2023/01/2024-chevrolet-corvette-e-ray-3lz-010.jpg?resize=1200,899",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-27T21:47:02+00:00"
     },
@@ -118,7 +154,7 @@
       "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
       "category": "Artificial Intelligence",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-27T21:44:34+00:00"
     },
@@ -166,7 +202,7 @@
       "url": "https://www.engadget.com/2299026/chatgpt-can-work-with-your-icloud-mail-and-calendar-thanks-to-new-plugin-support/",
       "image": "https://www.engadget.com/img/gallery/chatgpt-can-work-with-your-icloud-mail-and-calendar-thanks-to-new-plugin-support/l-intro-1793135485.jpg",
       "category": "Artificial Intelligence",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-27T21:13:59+00:00"
     },
@@ -178,7 +214,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_7.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Artificial Intelligence",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-27T20:48:58+00:00"
     },
@@ -190,7 +226,7 @@
       "url": "https://www.zdnet.com/tech/iphone-duo-cracked-screen-hinge-what-to-do-crackgate/",
       "image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC00524.jpeg",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-27T20:33:59+00:00"
     },
@@ -685,42 +721,6 @@
       "section": "none",
       "featured": false,
       "published": "2026-10-27T14:23:09+00:00"
-    },
-    {
-      "id": "1ce94d470ad2",
-      "title": "Anthropic's political problem will get worse before it gets better",
-      "summary": "With the midterms closing in, its IPO paperwork reveal a company rightly worried about its regulatory future.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2298214/anthropics-political-problem-will-get-worse-before-it-gets-better/",
-      "image": "https://www.engadget.com/img/gallery/anthropics-political-problem-will-get-worse-before-it-gets-better/l-intro-1793110492.jpg",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-27T14:16:27+00:00"
-    },
-    {
-      "id": "1b963514a89d",
-      "title": "We\u2019ve had touchscreen laptops for years. Can Apple make them better?",
-      "summary": "A fridge is about to be merged with a toaster. Dogs and cats are soon to be living together. But it's not mass hysteria; Apple is expected to finally announce a touchscreen MacBook tomorrow at its \"Pro and Tell\" event. A laptop with a...",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1019288/apple-event-la-macbook-pro-touchscreen-questions",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24371430/236492_MacBook_Pro_16__2023__AKrales_0090.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-27T14:00:00+00:00"
-    },
-    {
-      "id": "ff08915e80d7",
-      "title": "OnePlus rolling out ColorOS to OnePlus 13, others as Android 17 update expands",
-      "summary": "OnePlus 13 is the latest OnePlus device to ditch OxygenOS for ColorOS as the brand\u2019s Android 17 update rolls out more broadly. more\u2026",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/27/oneplus-13-android-17-coloros-update/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/OnePlus-13-design-1.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-27T14:00:00+00:00"
     }
   ]
 }
