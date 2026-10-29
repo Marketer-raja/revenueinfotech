@@ -1,6 +1,56 @@
 {
-  "updated": "2026-10-29T02:25:28+00:00",
+  "updated": "2026-10-29T09:54:14+00:00",
   "items": [
+    {
+      "id": "5e883185ce08",
+      "title": "Google's Gemini 4 Carbon promises 'significant leap' in AI coding and cybersecurity",
+      "url": "https://www.engadget.com/2300677/google-gemini-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/",
+      "source": "Engadget",
+      "published": "2026-10-29T09:41:58+00:00",
+      "excerpt": "Google's latest Gemini 4 Carbon AI model boasts top benchmark scores in areas like cybersecurity and coding.",
+      "image": "https://www.engadget.com/img/gallery/googles-gemini-4-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/l-intro-1793266804.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "eaee50a9bfc2",
+      "title": "Hackers leaked details of more than 41,000 Homeland Security personnel",
+      "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+      "source": "Engadget",
+      "published": "2026-10-29T08:33:46+00:00",
+      "excerpt": "A hacktivist group stole the information of ICE agents and border police from Homeland Security.",
+      "image": "https://www.engadget.com/img/gallery/hackers-leaked-details-of-more-than-41000-homeland-security-personnel/l-intro-1793262738.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "aabd8e14b270",
+      "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
+      "url": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
+      "source": "The Hacker News",
+      "published": "2026-10-29T08:24:22+00:00",
+      "excerpt": "Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network. The malware, called KeyDrift, is designed to copy the keys that encrypt...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDuVB5nQJHwAnAATDQxAqD8KtWk7IpNvBqXQq6RPkqJ72joLVDp5dUDDdYmRHlrbUhJQpaQQ59p245XjotvW2DNx_fKk7cPp0wJUsK0z5IQY2jXA1oP-YcYKLtSdBXnZJDNECWOzX9tP3-12cKXJm2A1KKoBsu9CEiOYKbgJDVqvQt7YRF8Fzd706YumA/s1600/cisco-sdwan.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "e91f33b06ca8",
+      "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
+      "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
+      "source": "The Hacker News",
+      "published": "2026-10-29T06:22:33+00:00",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that it had been weaponized...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcr5vMvEpNtC6AAPL85NwoZLwafJYuuIYKlofAez4dmACEH-0VI-icaKusP2b9HgxcJC2AMyZkdGNfVOyXQCWqjK-_vIvw1OjptUH_maUL82An7MRxEnZQ62JZqPqwuTp6QQ8TWq4y0SRqUb6KhdXLYRJMyUHg2cQBzez3g-0G8jh2ujIgx-6FqQdWBuFr/s1600/esx-audit.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "f4eff089be53",
+      "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
+      "url": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
+      "source": "The Hacker News",
+      "published": "2026-10-29T05:50:17+00:00",
+      "excerpt": "Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces. \"Active exploitation has been observed targeting the Palo Alto...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9wRucatO6j8IYS9drMJNn_BtgvNwY739pg33a6-50h33cCXnqi4unW5RppMfzO6TLjMdDQ-XICWN6uKTU6ai_SyLBeD8k4SdO7Kx2-QJeMbz0LSEMZkuKZls2dMSNoJmkY5nSc2SOduiSkVpKY9uFjCG0gU73hMvSyyqMANymiqb012-Z_rVUUUJtQQ5C/s1600/php-palo.jpg",
+      "category": "Cybersecurity"
+    },
     {
       "id": "823f1d2d8a8d",
       "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
@@ -549,56 +599,6 @@
       "published": "2026-10-28T17:00:00+00:00",
       "excerpt": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
       "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "5e4098babe95",
-      "title": "Chrome\u2019s AI-powered Autofill can now dig through your Gmail to fill out forms",
-      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
-      "source": "TechCrunch",
-      "published": "2026-10-28T17:00:00+00:00",
-      "excerpt": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
-      "image": "",
-      "category": "Web Development"
-    },
-    {
-      "id": "f09e4beb1f56",
-      "title": "The Xreal Aura smartglasses are now on sale for a discounted launch price",
-      "url": "https://www.engadget.com/2299633/the-xreal-aura-smartglasses-are-now-on-sale-for-a-discounted-launch-price/",
-      "source": "Engadget",
-      "published": "2026-10-28T17:00:00+00:00",
-      "excerpt": "The new wearable is the first of its kind to run on the Android XR platform.",
-      "image": "https://www.engadget.com/img/gallery/the-xreal-aura-smartglasses-are-now-on-sale-for-a-discounted-launch-price/l-intro-1793202369.jpg",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "f2c5c852b167",
-      "title": "Google adding more Connected Apps to Gemini & Search with new dev platform",
-      "url": "https://9to5google.com/2026/10/28/gemini-google-connected-apps-platform/",
-      "source": "9to5Google",
-      "published": "2026-10-28T17:00:00+00:00",
-      "excerpt": "Google today announced the Connected Apps Platform as a \u201cunified way for more app developers to bring their capabilities directly into Gemini and Search.\u201d more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-11-Pro-Gemini-Splashscreen.jpg?quality=82&strip=all&w=1600",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "eae42bf2a839",
-      "title": "XREAL Aura is coming in November with a special $200-off launch discount",
-      "url": "https://9to5google.com/2026/10/28/xreal-aura-is-coming-in-november-with-a-special-200-off-launch-discount/",
-      "source": "9to5Google",
-      "published": "2026-10-28T17:00:00+00:00",
-      "excerpt": "The first Android XR-powered smart glasses are almost here, and early adopters actually get a rare discount on the cutting-edge XREAL Aura hardware. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/xreal-aura-official-render-launch.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "159a5672a75c",
-      "title": "Google Chrome rolling out \u2018Suggested by Gemini\u2019 autofill",
-      "url": "https://9to5google.com/2026/10/28/chrome-autofill-gemini/",
-      "source": "9to5Google",
-      "published": "2026-10-28T17:00:00+00:00",
-      "excerpt": "As previewed in May , Google Chrome can now use Gemini and Personal Intelligence to autofill much more information. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/google-chrome-navigation-gemini-1.jpg?quality=82&strip=all&w=1600",
       "category": "Artificial Intelligence"
     }
   ]

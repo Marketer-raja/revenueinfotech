@@ -1,7 +1,67 @@
 {
-  "updated": "2026-10-29T02:25:28+00:00",
+  "updated": "2026-10-29T09:54:14+00:00",
   "auto": true,
   "items": [
+    {
+      "id": "5e883185ce08",
+      "title": "Google's Gemini 4 Carbon promises 'significant leap' in AI coding and cybersecurity",
+      "summary": "Google's latest Gemini 4 Carbon AI model boasts top benchmark scores in areas like cybersecurity and coding.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2300677/google-gemini-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/",
+      "image": "https://www.engadget.com/img/gallery/googles-gemini-4-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/l-intro-1793266804.jpg",
+      "category": "Artificial Intelligence",
+      "section": "hero",
+      "featured": true,
+      "published": "2026-10-29T09:41:58+00:00"
+    },
+    {
+      "id": "eaee50a9bfc2",
+      "title": "Hackers leaked details of more than 41,000 Homeland Security personnel",
+      "summary": "A hacktivist group stole the information of ICE agents and border police from Homeland Security.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+      "image": "https://www.engadget.com/img/gallery/hackers-leaked-details-of-more-than-41000-homeland-security-personnel/l-intro-1793262738.jpg",
+      "category": "Cybersecurity",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-29T08:33:46+00:00"
+    },
+    {
+      "id": "aabd8e14b270",
+      "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
+      "summary": "Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network. The malware, called KeyDrift, is designed to copy the keys that encrypt...",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDuVB5nQJHwAnAATDQxAqD8KtWk7IpNvBqXQq6RPkqJ72joLVDp5dUDDdYmRHlrbUhJQpaQQ59p245XjotvW2DNx_fKk7cPp0wJUsK0z5IQY2jXA1oP-YcYKLtSdBXnZJDNECWOzX9tP3-12cKXJm2A1KKoBsu9CEiOYKbgJDVqvQt7YRF8Fzd706YumA/s1600/cisco-sdwan.jpg",
+      "category": "Cybersecurity",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-29T08:24:22+00:00"
+    },
+    {
+      "id": "e91f33b06ca8",
+      "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that it had been weaponized...",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcr5vMvEpNtC6AAPL85NwoZLwafJYuuIYKlofAez4dmACEH-0VI-icaKusP2b9HgxcJC2AMyZkdGNfVOyXQCWqjK-_vIvw1OjptUH_maUL82An7MRxEnZQ62JZqPqwuTp6QQ8TWq4y0SRqUb6KhdXLYRJMyUHg2cQBzez3g-0G8jh2ujIgx-6FqQdWBuFr/s1600/esx-audit.jpg",
+      "category": "Cybersecurity",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-29T06:22:33+00:00"
+    },
+    {
+      "id": "f4eff089be53",
+      "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
+      "summary": "Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces. \"Active exploitation has been observed targeting the Palo Alto...",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9wRucatO6j8IYS9drMJNn_BtgvNwY739pg33a6-50h33cCXnqi4unW5RppMfzO6TLjMdDQ-XICWN6uKTU6ai_SyLBeD8k4SdO7Kx2-QJeMbz0LSEMZkuKZls2dMSNoJmkY5nSc2SOduiSkVpKY9uFjCG0gU73hMvSyyqMANymiqb012-Z_rVUUUJtQQ5C/s1600/php-palo.jpg",
+      "category": "Cybersecurity",
+      "section": "latest",
+      "featured": false,
+      "published": "2026-10-29T05:50:17+00:00"
+    },
     {
       "id": "823f1d2d8a8d",
       "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
@@ -10,8 +70,8 @@
       "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
       "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1197780051.jpg?resize=1200,800",
       "category": "Cybersecurity",
-      "section": "hero",
-      "featured": true,
+      "section": "latest",
+      "featured": false,
       "published": "2026-10-28T23:15:00+00:00"
     },
     {
@@ -22,7 +82,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Artificial Intelligence",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-28T23:05:39+00:00"
     },
@@ -34,7 +94,7 @@
       "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-lifestyle-travel-261028_big.jpg.large_2x.jpg?w=1200",
       "category": "Software Development",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-28T22:47:50+00:00"
     },
@@ -46,7 +106,7 @@
       "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
       "category": "Cloud Computing",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-28T21:58:32+00:00"
     },
@@ -70,7 +130,7 @@
       "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800",
       "category": "Artificial Intelligence",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-28T21:48:37+00:00"
     },
@@ -82,7 +142,7 @@
       "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
       "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2153474575.jpg?resize=1200,800",
       "category": "Artificial Intelligence",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-28T21:34:30+00:00"
     },
@@ -94,7 +154,7 @@
       "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai-MPC-Sample-Key.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-28T21:34:04+00:00"
     },
@@ -106,7 +166,7 @@
       "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Satya-Nadella.jpg?resize=1200,800",
       "category": "Enterprise Software & SaaS",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-28T21:25:30+00:00"
     },
@@ -118,7 +178,7 @@
       "url": "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Readwise-Books-2.jpeg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Web Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-28T21:16:18+00:00"
     },
@@ -142,7 +202,7 @@
       "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MIT_Atlan-Cover-28-26.png?w=840",
       "category": "Artificial Intelligence",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-28T20:32:02+00:00"
     },
@@ -154,7 +214,7 @@
       "url": "https://www.engadget.com/2300407/apples-proled-xdr-display-has-a-cringy-name-but-incredible-specs/",
       "image": "https://www.engadget.com/img/gallery/apples-proled-xdr-display-has-a-cringy-name-but-incredible-specs/l-intro-1793218163.jpg",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-28T20:31:43+00:00"
     },
@@ -166,7 +226,7 @@
       "url": "https://9to5google.com/2026/10/28/pixel-watch-users-report-battery-drain/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-Watch-5-Steph-Curry-.jpg?quality=82&strip=all&w=1600",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-28T20:28:44+00:00"
     },
@@ -178,7 +238,7 @@
       "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951561/VRG_Illo_STK179_L_Normand_SundarPichai_Neutral.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Artificial Intelligence",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-28T20:22:26+00:00"
     },
@@ -190,7 +250,7 @@
       "url": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_STOCKS_CVirginia_D.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Enterprise Software & SaaS",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-28T20:20:00+00:00"
     },
@@ -639,54 +699,6 @@
       "published": "2026-10-28T17:05:56+00:00"
     },
     {
-      "id": "f09e4beb1f56",
-      "title": "The Xreal Aura smartglasses are now on sale for a discounted launch price",
-      "summary": "The new wearable is the first of its kind to run on the Android XR platform.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2299633/the-xreal-aura-smartglasses-are-now-on-sale-for-a-discounted-launch-price/",
-      "image": "https://www.engadget.com/img/gallery/the-xreal-aura-smartglasses-are-now-on-sale-for-a-discounted-launch-price/l-intro-1793202369.jpg",
-      "category": "Operating Systems",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-28T17:00:00+00:00"
-    },
-    {
-      "id": "f2c5c852b167",
-      "title": "Google adding more Connected Apps to Gemini & Search with new dev platform",
-      "summary": "Google today announced the Connected Apps Platform as a \u201cunified way for more app developers to bring their capabilities directly into Gemini and Search.\u201d more\u2026",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/28/gemini-google-connected-apps-platform/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-11-Pro-Gemini-Splashscreen.jpg?quality=82&strip=all&w=1600",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-28T17:00:00+00:00"
-    },
-    {
-      "id": "eae42bf2a839",
-      "title": "XREAL Aura is coming in November with a special $200-off launch discount",
-      "summary": "The first Android XR-powered smart glasses are almost here, and early adopters actually get a rare discount on the cutting-edge XREAL Aura hardware. more\u2026",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/28/xreal-aura-is-coming-in-november-with-a-special-200-off-launch-discount/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/xreal-aura-official-render-launch.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-28T17:00:00+00:00"
-    },
-    {
-      "id": "159a5672a75c",
-      "title": "Google Chrome rolling out \u2018Suggested by Gemini\u2019 autofill",
-      "summary": "As previewed in May , Google Chrome can now use Gemini and Personal Intelligence to autofill much more information. more\u2026",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/28/chrome-autofill-gemini/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/google-chrome-navigation-gemini-1.jpg?quality=82&strip=all&w=1600",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-28T17:00:00+00:00"
-    },
-    {
       "id": "17bc57ce5298",
       "title": "Xreal Aura is a new wired headset powered by Android XR",
       "summary": "Xreal Aura will start at $1,279 and will have multiple XR specific apps at launch.",
@@ -706,18 +718,6 @@
       "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
       "image": "",
       "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-28T17:00:00+00:00"
-    },
-    {
-      "id": "5e4098babe95",
-      "title": "Chrome\u2019s AI-powered Autofill can now dig through your Gmail to fill out forms",
-      "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
-      "image": "",
-      "category": "Web Development",
       "section": "none",
       "featured": false,
       "published": "2026-10-28T17:00:00+00:00"
