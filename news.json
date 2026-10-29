@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-28T23:12:21+00:00",
+  "updated": "2026-10-29T02:25:28+00:00",
   "items": [
+    {
+      "id": "823f1d2d8a8d",
+      "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+      "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+      "source": "TechCrunch",
+      "published": "2026-10-28T23:15:00+00:00",
+      "excerpt": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1197780051.jpg?resize=1200,800",
+      "category": "Cybersecurity"
+    },
     {
       "id": "09f762edab0d",
       "title": "Adam Mosseri says negativity around AI is \u2018going to get worse\u2019",
@@ -590,16 +600,6 @@
       "excerpt": "As previewed in May , Google Chrome can now use Gemini and Personal Intelligence to autofill much more information. more\u2026",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/google-chrome-navigation-gemini-1.jpg?quality=82&strip=all&w=1600",
       "category": "Artificial Intelligence"
-    },
-    {
-      "id": "318e03ef47c7",
-      "title": "Amazon\u2019s Echo Show 16 makes Apple\u2019s 7-inch HomeView look puny \u2013 is it worth $100+ extra?",
-      "url": "https://www.zdnet.com/home-and-office/amazon-echo-show-16-announced/",
-      "source": "ZDNET",
-      "published": "2026-10-28T16:48:15+00:00",
-      "excerpt": "Amazon just dropped new smart home gear in response to Apple. Here\u2019s how the Echo Show 16 stacks up.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Echo-Show-16-Features-Alexa-Home-1920x1080-1.png",
-      "category": "Software Development"
     }
   ]
 }

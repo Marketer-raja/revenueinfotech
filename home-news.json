@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-28T23:12:21+00:00",
+  "updated": "2026-10-29T02:25:28+00:00",
   "auto": true,
   "items": [
+    {
+      "id": "823f1d2d8a8d",
+      "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+      "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1197780051.jpg?resize=1200,800",
+      "category": "Cybersecurity",
+      "section": "hero",
+      "featured": true,
+      "published": "2026-10-28T23:15:00+00:00"
+    },
     {
       "id": "09f762edab0d",
       "title": "Adam Mosseri says negativity around AI is \u2018going to get worse\u2019",
@@ -10,8 +22,8 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Artificial Intelligence",
-      "section": "hero",
-      "featured": true,
+      "section": "brief",
+      "featured": false,
       "published": "2026-10-28T23:05:39+00:00"
     },
     {
@@ -46,7 +58,7 @@
       "url": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2200388904.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Cybersecurity",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-28T21:57:45+00:00"
     },
@@ -118,7 +130,7 @@
       "url": "https://www.zdnet.com/home-and-office/amazon-echo-smart-home-announcements-october-2026-price-availability/",
       "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Alexa-Home-Map-1920x1080-1.png",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-28T20:35:05+00:00"
     },
@@ -190,7 +202,7 @@
       "url": "https://9to5google.com/2026/10/28/amvrs-new-head-strap-is-my-favorite-way-to-keep-cool-with-a-meta-quest-3-or-3s/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/amvr-bs1-with-quest-3.jpg?quality=82&strip=all&w=1600",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-28T20:20:00+00:00"
     },
@@ -709,18 +721,6 @@
       "section": "none",
       "featured": false,
       "published": "2026-10-28T17:00:00+00:00"
-    },
-    {
-      "id": "318e03ef47c7",
-      "title": "Amazon\u2019s Echo Show 16 makes Apple\u2019s 7-inch HomeView look puny \u2013 is it worth $100+ extra?",
-      "summary": "Amazon just dropped new smart home gear in response to Apple. Here\u2019s how the Echo Show 16 stacks up.",
-      "source": "ZDNET",
-      "url": "https://www.zdnet.com/home-and-office/amazon-echo-show-16-announced/",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Echo-Show-16-Features-Alexa-Home-1920x1080-1.png",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-28T16:48:15+00:00"
     }
   ]
 }
