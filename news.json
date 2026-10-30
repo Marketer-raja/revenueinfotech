@@ -1,6 +1,266 @@
 {
-  "updated": "2026-10-30T08:36:32+00:00",
+  "updated": "2026-10-30T15:54:30+00:00",
   "items": [
+    {
+      "id": "a5a73403e980",
+      "title": "The Wikimedia Foundation weighs in on the NYT's case against OpenAI",
+      "url": "https://www.engadget.com/2302374/the-wikimedia-foundation-weighs-in-on-the-nyts-case-against-openai/",
+      "source": "Engadget",
+      "published": "2026-10-30T15:47:12+00:00",
+      "excerpt": "The folks behind Wikipedia say that an extreme decision in either direction could threaten the open web.",
+      "image": "https://www.engadget.com/img/gallery/the-wikimedia-foundation-weighs-in-on-the-nyts-case-against-openai/l-intro-1793374984.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "303a9d0d793d",
+      "title": "Deals: Week 1 early Black Friday Doorbusters, Pixel 11 series up to $350 off, Pixel Watch 5 $100 off, more (All-time lows)",
+      "url": "https://9to5google.com/2026/10/30/deals-black-friday-doorbusters-pixel-11-pixel-watch-5/",
+      "source": "9to5Google",
+      "published": "2026-10-30T15:27:39+00:00",
+      "excerpt": "The Week 1 early Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold at up to $350 off . Those deals join $100 off all Pixel Watch 5 models, the latest Google Pixel Buds Pro 2 at over 25% off \u2013 including the new Olive set sitting at its...",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/9to5Google-Oct-30.webp?w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "b2cc912cf9de",
+      "title": "Pixel Watch 5 matches all-time low price on Amazon",
+      "url": "https://9to5google.com/2026/10/30/pixel-watch-5-hit-an-all-time-low-price-on-amazon/",
+      "source": "9to5Google",
+      "published": "2026-10-30T14:52:53+00:00",
+      "excerpt": "Black Friday is still weeks away, but holiday tech discounts are already arriving early. Joining the recent price drops across Google\u2019s flagship hardware lineup, the Google Pixel Watch 5 has once again hit its lowest price ever on Amazon...",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-Watch-5-and-Pixel-11.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "b19c5c60860f",
+      "title": "Google says Android Auto video apps are still \u2018coming soon\u2019 as deadline nears",
+      "url": "https://9to5google.com/2026/10/30/google-android-auto-video-apps-deadline/",
+      "source": "9to5Google",
+      "published": "2026-10-30T14:30:00+00:00",
+      "excerpt": "In a brief update at its latest dev conference, Google says that video and browser apps for Android Auto are still \u201ccoming soon,\u201d with the company\u2019s self-imposed deadline approaching quickly. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/Android-Auto-new-Widgets-3.jpg?quality=82&strip=all&w=1600",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "faea81d36f03",
+      "title": "This electric screwdriver uses a camera and AI to figure out what bit you need",
+      "url": "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter",
+      "source": "The Verge",
+      "published": "2026-10-30T14:23:26+00:00",
+      "excerpt": "Companies like Hoto and Fanttik have elevated the design and functionality of tools like electric screwdrivers, but Arrowmax wants to make them smarter by adding a camera and AI that work together to eliminate the trial and error of...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/arrowspace1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "cd5c6bb30fa1",
+      "title": "Nothing OS 5.0 (Android 17) is now rolling out to Nothing 4a and 3a series phones",
+      "url": "https://9to5google.com/2026/10/30/nothing-os-5-0-android-17-is-now-rolling-out-to-nothing-4a-and-3a-series-phones/",
+      "source": "9to5Google",
+      "published": "2026-10-30T14:20:00+00:00",
+      "excerpt": "Nothing Phone 3a, 3a Pro, 4a, and 4a Pro owners are in for a treat with the Nothing OS 5.0 update, now rolling out to all four phone models globally. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/nothing-phone-4a-pro-october.jpg?quality=82&strip=all&w=1600",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "d5593fe6310d",
+      "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
+      "url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
+      "source": "TechCrunch",
+      "published": "2026-10-30T14:00:25+00:00",
+      "excerpt": "Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/binance-2206279918.jpg?resize=1200,800",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "62373f3f48e1",
+      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+      "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+      "source": "TechCrunch",
+      "published": "2026-10-30T14:00:00+00:00",
+      "excerpt": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings...",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-networking-1.jpg?resize=1200,800",
+      "category": "Software Development"
+    },
+    {
+      "id": "e9e7beb52b83",
+      "title": "DoorDash said it\u2019s only received \u2018several hundred\u2019 orders from AI agents",
+      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "source": "TechCrunch",
+      "published": "2026-10-30T13:54:25+00:00",
+      "excerpt": "DoorDash said that it is open to working with third-party agent makers",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1232015093.jpg?resize=1200,800",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "18a7220d810d",
+      "title": "Motorola is officially launching its Signature 27 flagship next week",
+      "url": "https://9to5google.com/2026/10/30/motorola-signature-27-launch-date-confirmed/",
+      "source": "9to5Google",
+      "published": "2026-10-30T13:45:00+00:00",
+      "excerpt": "Motorola has officially confirmed that it will spill all of the details on its flagship Signature 27 phone next week. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/motorola-signature-27-1.jpeg?quality=82&strip=all&w=1200",
+      "category": "Software Development"
+    },
+    {
+      "id": "c79b2a9a1d0e",
+      "title": "The Pixel 11, 11 Pro, and Fold just hit an all-time low price weeks ahead of Black Friday",
+      "url": "https://9to5google.com/2026/10/30/the-pixel-11-11-pro-and-fold-just-hit-an-all-time-low-price-weeks-ahead-of-black-friday/",
+      "source": "9to5Google",
+      "published": "2026-10-30T13:20:00+00:00",
+      "excerpt": "Google is running a huge Pixel 11 sale across a number of retailers, including the Google Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-11-Pro-Canyon-8.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "3afeb66b9b98",
+      "title": "The HomeView and Echo Show 16 could be the family computers I\u2019ve been asking for",
+      "url": "https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer",
+      "source": "The Verge",
+      "published": "2026-10-30T13:00:00+00:00",
+      "excerpt": "Three years ago, I wrote an obituary for the smart display. The category - smart speakers with touchscreens attached - was stuck with a few underpowered gadgets from Google and Amazon that tried to do too much and did too little well. Back...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268837_HomeView_and_Show_16_smart_display_report_CVirginia2.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "3e4e3eed2bbf",
+      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+      "source": "TechCrunch",
+      "published": "2026-10-30T13:00:00+00:00",
+      "excerpt": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Runware-Factory-.jpg?w=1200",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "56f4b98d9f80",
+      "title": "Android 17 is on 1% of devices after four months, Android 16 on over 25%",
+      "url": "https://9to5google.com/2026/10/30/android-17-is-on-1-of-devices-after-four-months-android-16-on-over-25/",
+      "source": "9to5Google",
+      "published": "2026-10-30T12:45:00+00:00",
+      "excerpt": "Google has updated its Android distribution numbers with the latest update showing that Android 17 is on just 1% of devices, while Android 16 now makes up the biggest slice of the pie. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/03/android-booth-9.jpg?quality=82&strip=all&w=1600",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "5bdaacbfd176",
+      "title": "The Apple Pencil turned the Duo into my new favorite notebook",
+      "url": "https://www.theverge.com/tech/1022894/iphone-duo-apple-pencil-hands-on",
+      "source": "The Verge",
+      "published": "2026-10-30T12:30:00+00:00",
+      "excerpt": "Apple's $2,000 folding phone is a surprisingly good stand-in for a $20 notebook. Believe me; nothing gets me going quite like a new notebook. This one will be different, I think. This time, I really will take it everywhere. Inspiration can...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04364_processed.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "4eafb481bfd9",
+      "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
+      "url": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
+      "source": "The Hacker News",
+      "published": "2026-10-30T12:21:56+00:00",
+      "excerpt": "A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported. Trezor has not yet examined the device. It is telling...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih5QxhFnBw6d40ollOAoolmZedxywTm7DeBQpEqydVG5Pqg0v5iDVFT1hhbsW7Thqg00oI8MACNXC9FX6MCp_qMRkBRiqdxb9D4CDKfTWTZwI5eyY3V2IOa8ODSg24kX7Ni_C968r2X89tUXwPbDnHPV9xX-ydhytwerqMI1ru7tqdIK-cqA0p9oM5Ppxr/s1600/trezor-wallet.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "3969200a6ddb",
+      "title": "The touchscreen MacBook Pro is just a MacBook Pro with a touchscreen",
+      "url": "https://www.theverge.com/tech/1022628/apple-macbook-pro-proled-xdr-touchscreen-oled-impressions-totally-normal",
+      "source": "The Verge",
+      "published": "2026-10-30T12:00:00+00:00",
+      "excerpt": "Apple's long-awaited touchscreen MacBook Pro is finally here. I got to try this MacBook that, according to the last two Apple CEOs, shouldn't exist. The most surprising thing is how normal it is. The MacBook Pro with PROLED XDR Display...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0043.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "38829b6d8fd5",
+      "title": "Lenovo Googlebook 15 review: Your Android phone's new best friend",
+      "url": "https://www.engadget.com/2301498/lenovo-googlebook-15-review/",
+      "source": "Engadget",
+      "published": "2026-10-30T12:00:00+00:00",
+      "excerpt": "Despite Lenovo providing excellent hardware for Google's new laptop platform, Googlebook OS will only impress Android die-hards.",
+      "image": "https://www.engadget.com/img/gallery/lenovo-googlebook-15-review-your-android-phones-new-best-friend/l-intro-1793300409.jpg",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "0e3774900031",
+      "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
+      "url": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
+      "source": "The Hacker News",
+      "published": "2026-10-30T11:58:53+00:00",
+      "excerpt": "The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the change won\u2019t break anything. Their concerns are...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitJWSYL167QzDoyvN2y9DAuXmFFe0en34dEHp-I2sSVLEPIfljdlRfeIthyMQUgSvf9AfwW4p-solbE5zH3cKpfeLKWg-IqPnVdHbKQ99Bw91fDAoqHx3E9mlpNmXYA5i3RnaTYxZYkZcwbeY31O4CljtFQYp2JPLTmJo1BI09Al9Kh-CDtzFubVly7hM/s1600/cp.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "ab2d8c132145",
+      "title": "Binance hackers stole $6.3 billion in record-breaking crypto heist",
+      "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+      "source": "The Verge",
+      "published": "2026-10-30T11:44:53+00:00",
+      "excerpt": "Binance has disclosed that $6.3 billion worth of crypto funds have been stolen from the platform, in what's believed to be the biggest cryptocurrency hack on record. In a series of updates posted to X, the crypto exchange said that user...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK428_CRYPTO_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "9b3dd62924e0",
+      "title": "YouTube for Google TV update gives YouTube Music a distracting red logo I can\u2019t stand",
+      "url": "https://9to5google.com/2026/10/30/youtube-google-tv-music-update-change/",
+      "source": "9to5Google",
+      "published": "2026-10-30T11:30:00+00:00",
+      "excerpt": "YouTube is rolling out, or at least testing, a new update on Google TV that makes YouTube Music stand out like a sore thumb, and I am not a fan. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/10/YouTube-Google-TV-1.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "2fc1d050c21d",
+      "title": "Google rolling out software updates for these Nest Cam and Doorbell models",
+      "url": "https://9to5google.com/2026/10/30/google-nest-cam-doorbell-updates-2026/",
+      "source": "9to5Google",
+      "published": "2026-10-30T11:00:00+00:00",
+      "excerpt": "Alongside updates to several of its other smart home devices, Google is rolling out software updates to several Nest Cam and Doorbell models. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2020/07/google_nest_cam_iq_indoor_2.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "6734aa3aec6c",
+      "title": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
+      "url": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
+      "source": "The Hacker News",
+      "published": "2026-10-30T10:40:45+00:00",
+      "excerpt": "Ahmad Umar Agha, a Syrian Electronic Army hacker known online as \"Th3Pr0,\" has been sentenced by a U.S. federal court to 42 months in prison for his role in a hacking conspiracy that targeted Western news outlets. The conspiracy was...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxhyw9NKYcR8Nkb28O8I-MA0sr3NhXC_Xr7gjpFqZKFd-29F8pGa5TCuIL2GTBPLAPzQ9iW5DsU_2zK-pUWIar_TdJdKiQMsptNjA-XxvVwMACBSQR9tW_qAC8d7I21YdqraYoY5LdWCRE8vKXjrxYCEW8X7ZbPulwCzdTdxODqnMuJbqQUZStRMRiKHc/s1600/tweets.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "58a63764a414",
+      "title": "Waymo and Toyota will soon start testing their robotaxis in Japan",
+      "url": "https://www.engadget.com/2301972/waymo-toyota-soon-start-testing-bz4x-robotaxis-japan/",
+      "source": "Engadget",
+      "published": "2026-10-30T10:23:52+00:00",
+      "excerpt": "Waymo and Toyota will start testing autonomous bZ4X vehicles in Japan next year. (edited)",
+      "image": "https://www.engadget.com/img/gallery/waymo-and-toyota-will-soon-start-testing-their-robotaxis-japan/l-intro-1793355754.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "a973ac401cee",
+      "title": "Wikipedia\u2019s operator says a bad AI copyright ruling could threaten the open web",
+      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "source": "The Verge",
+      "published": "2026-10-30T09:00:00+00:00",
+      "excerpt": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "ad2cc061f552",
+      "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
+      "url": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
+      "source": "The Hacker News",
+      "published": "2026-10-30T08:55:47+00:00",
+      "excerpt": "Cybersecurity researchers have disclosed that a trojanized version of Anthropic's official Claude Code extension was distributed through the Cursor Marketplace as a legitimate update, attempting to install a persistent SSH backdoor on...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMAV00lkxu7R724ItLdgrRsnEYHR_d2eUSdcen_KymGeBY1tCo8SRVz6w_XiNzzYgwpcl0Me3JCJz8DeieRM_0jb8aL4VkHAAIeXrqNf8oQkmzKahqMHOGvhkFK32HOasHZht8BwtI1NxEZ-_nIwmQY_8fxpGbbl3csC6oZKCVnIRk3iYTRhH975dyxsWS/s1600/cursor-vscode.jpg",
+      "category": "Artificial Intelligence"
+    },
     {
       "id": "0cdc5324272a",
       "title": "Binance hacked for an estimated $6.3 billion in record crypto theft",
@@ -9,6 +269,16 @@
       "published": "2026-10-30T08:24:55+00:00",
       "excerpt": "Cryptocurrency exchange Binance has been hit with a record $6.3 billion hack.",
       "image": "https://www.engadget.com/img/gallery/binance-hacked-for-an-estimated-6-3-billion-in-record-crypto-theft/l-intro-1793348577.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "6d2a0802c49f",
+      "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
+      "url": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
+      "source": "The Hacker News",
+      "published": "2026-10-30T07:45:30+00:00",
+      "excerpt": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization affecting Commerce...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitgPkf4uToEgXwcfmDEKipEveRL2l0PEz6WIegAc2uWyf5_khO7Scgu6MpWHRovED7S-4sKJb4o88JsJT8NI8zB8WCBo04Q9TrEVNJa-08EbxP_zdPkaA7wsBEPIjXbApW1StdY8JunSewAi9TNrAcMwYZjqSsVktddqQ0uIi8-rUzXq1LMMLBHBdccapz/s1600/drupal-rce.jpg",
       "category": "Cybersecurity"
     },
     {
@@ -138,7 +408,7 @@
       "source": "TechCrunch",
       "published": "2026-10-29T21:51:29+00:00",
       "excerpt": "Putin said that he and Musk are in \"close contact\" about Rassvet, Russia's Starlink-like satellite connectivity project.",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/07/vladimir-putin-russia-kremlin.jpg?resize=1200,800",
+      "image": "",
       "category": "Software Development"
     },
     {
@@ -168,7 +438,7 @@
       "source": "TechCrunch",
       "published": "2026-10-29T21:20:47+00:00",
       "excerpt": "The biggest ouch of the report was its negative free cash flow of $2.4 billion.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1252468735.jpg?resize=1200,800",
+      "image": "",
       "category": "Cloud Computing"
     },
     {
@@ -198,7 +468,7 @@
       "source": "TechCrunch",
       "published": "2026-10-29T21:01:04+00:00",
       "excerpt": "As part of the settlement, GM must get drivers\u2019 express consent before it collects or shares their driving and location data.",
-      "image": "https://techcrunch.com/wp-content/uploads/2020/11/Chevrolet-OnStar-Santa-01.jpg?resize=1200,800",
+      "image": "",
       "category": "Data & Analytics"
     },
     {
@@ -208,7 +478,7 @@
       "source": "TechCrunch",
       "published": "2026-10-29T20:43:56+00:00",
       "excerpt": "The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked commentary) across social media.",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800",
+      "image": "",
       "category": "Cybersecurity"
     },
     {
@@ -278,7 +548,7 @@
       "source": "TechCrunch",
       "published": "2026-10-29T20:08:31+00:00",
       "excerpt": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/03/reddit-e1708636699632.jpg?resize=1200,800",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -288,7 +558,7 @@
       "source": "TechCrunch",
       "published": "2026-10-29T20:05:47+00:00",
       "excerpt": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/12/rivian-assisant-event.png?resize=1200,672",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -298,7 +568,7 @@
       "source": "TechCrunch",
       "published": "2026-10-29T20:02:03+00:00",
       "excerpt": "Rivian is seeing strong enough sales of the new EV that it improved its guidance to Wall Street for the second time this year.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Rivian-R2-Headlight.jpg?resize=1200,900",
+      "image": "",
       "category": "Software Development"
     },
     {
@@ -308,7 +578,7 @@
       "source": "TechCrunch",
       "published": "2026-10-29T19:56:19+00:00",
       "excerpt": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/ADT-logo.jpg?resize=1200,800",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -328,278 +598,8 @@
       "source": "TechCrunch",
       "published": "2026-10-29T19:17:49+00:00",
       "excerpt": "Airbnb\u2019s nonprofit held its inaugural gala on Wednesday in Los Angeles, and the internet had one reaction \u2014 the *what* gala?",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Getty-Images-for-Airbnb.org_.jpg?resize=1200,800",
-      "category": "Software Development"
-    },
-    {
-      "id": "12ca6b38dfb0",
-      "title": "Google Home update should make Gemini stop saying \u2018Sorry, I didn\u2019t understand\u2019 so much",
-      "url": "https://9to5google.com/2026/10/29/google-home-gemini-update-fixes-understand-phrase-bug/",
-      "source": "9to5Google",
-      "published": "2026-10-29T19:13:49+00:00",
-      "excerpt": "Google\u2019s latest Gemini for Home update targets a few issues, like one where speakers randomly blurt out \u201cI didn\u2019t understand\u201d when no one asks. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2020/03/Google-Nest-Hub-Reminders.jpg?quality=82&strip=all&w=1600",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "7325900e53d9",
-      "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
-      "url": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
-      "source": "The Hacker News",
-      "published": "2026-10-29T19:11:58+00:00",
-      "excerpt": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't. There's a strange mix of clever tricks...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoNTh5CKLvFJeeXzWn1LVT-e9435oFtUz4jT-4TmZaWkRUY_RY8EAtijUWxQztoK3K_tU_csSw54MuVeX8UzeT6ZWNLtTMex5pMS4z4Npz-aYAN9qIfWk2bUsei5nswh3UkzycVlKznVjK7n1I_knJ-p1I59RoX_TECTfr-NPej9LWoDt2UuwvLY4heSip/s1600/t-day.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "5e643f0fda12",
-      "title": "Google stock drops amid AI fears; AI Mode has \u2018lower monetization,\u2019 getting more ads",
-      "url": "https://9to5google.com/2026/10/29/google-stock-drop-ai-mode-ad-expansion/",
-      "source": "9to5Google",
-      "published": "2026-10-29T19:05:00+00:00",
-      "excerpt": "Google is bringing ads to AI Mode globally as it admits that the new take on Search brings \u201clower monetization,\u201d all while $GOOG stock is seeing a fairly major drop. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/01/google-logo-ces-2024-2-1.jpg?quality=82&strip=all&w=1600",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "b6698e83b3f8",
-      "title": "Hacker may have stolen millions in a malware attack against online poker players",
-      "url": "https://www.engadget.com/2301500/hacker-may-have-stolen-millions-in-a-malware-attack-against-online-poker-players/",
-      "source": "Engadget",
-      "published": "2026-10-29T19:03:18+00:00",
-      "excerpt": "Wired has the story of a superuser cheating scandal.",
-      "image": "https://www.engadget.com/img/gallery/hacker-may-have-stolen-millions-in-a-malware-attack-against-online-poker-players/l-intro-1793300458.jpg",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "2a1a8a7c88a0",
-      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
-      "source": "The Verge",
-      "published": "2026-10-29T18:45:31+00:00",
-      "excerpt": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "d5ea19b0b07c",
-      "title": "Netflix is making a live-action PUBG show written and directed by Donald Glover",
-      "url": "https://www.engadget.com/2301458/netflix-is-making-a-live-action-pubg-show-written-and-directed-by-donald-glover/",
-      "source": "Engadget",
-      "published": "2026-10-29T18:45:00+00:00",
-      "excerpt": "The streamer also has an Assassin's Creed series in the works, along with a Gears of War feature film.",
-      "image": "https://www.engadget.com/img/gallery/netflix-is-making-a-live-action-pubg-show-written-and-directed-by-donald-glover/l-intro-1793299226.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "fd8d943017f6",
-      "title": "NVIDIA CEO Jensen Huang may have been the target of a Chinese government spy",
-      "url": "https://www.engadget.com/2301447/nvidia-ceo-jensen-huang-may-have-been-the-target-of-a-chinese-government-spy/",
-      "source": "Engadget",
-      "published": "2026-10-29T18:34:43+00:00",
-      "excerpt": "President Trump reportedly chose to do nothing in response.",
-      "image": "https://www.engadget.com/img/gallery/nvidia-ceo-jensen-huang-may-have-been-the-target-of-a-chinese-government-spy/l-intro-1793298712.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "368df2ae8745",
-      "title": "Google Home and Nest speakers getting seven updates, including for Bluetooth & audio quality",
-      "url": "https://9to5google.com/2026/10/29/google-home-nest-speaker-updates/",
-      "source": "9to5Google",
-      "published": "2026-10-29T18:34:23+00:00",
-      "excerpt": "In addition to Chromecast with Google TV and Nest Wifi Pro updates, Google detailed what new firmware for Nest and Home speakers brings. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2020/01/google_nest_mini_1.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "71b2a13220a9",
-      "title": "Google Home update rolling out with Nest Cam, Matter, energy-saving improvements & fixes",
-      "url": "https://9to5google.com/2026/10/29/google-home-update-nest-cam-matter-updates-fixes/",
-      "source": "9to5Google",
-      "published": "2026-10-29T18:30:00+00:00",
-      "excerpt": "There\u2019s a new Google Home update rolling out that delivers improvements for Nest Cam owners, Matter devices, and more. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/10/nest-cam-usb-c-adapter-3.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "46c183738407",
-      "title": "Meta will now alert parents if teens 'repeatedly' search for self-harm content on Facebook",
-      "url": "https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/",
-      "source": "Engadget",
-      "published": "2026-10-29T18:20:21+00:00",
-      "excerpt": "The company will also notify parents about conversations with Meta AI.",
-      "image": "https://www.engadget.com/img/gallery/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/l-intro-1793297699.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "a57c38004923",
-      "title": "Google details new firmware for Chromecast with Google TV and Nest Wifi Pro",
-      "url": "https://9to5google.com/2026/10/29/nest-wifi-pro-chromecast-update/",
-      "source": "9to5Google",
-      "published": "2026-10-29T18:18:43+00:00",
-      "excerpt": "Today\u2019s ( October 29, 2026 ) Google Home release notes detail what\u2019s new in firmware updates for the Chromecast with Google TV and Nest Wifi Pro. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2022/10/Nest-Wifi-Pro-1.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "4e4cbbf6c07f",
-      "title": "Today\u2019s Android app deals and freebies: Bendy Lone Wolf, The Room Old Sins, more",
-      "url": "https://9to5toys.com/2026/10/29/todays-highlight-google-play-deals-39/",
-      "source": "9to5Google",
-      "published": "2026-10-29T18:00:06+00:00",
-      "excerpt": "Today\u2019s best Google Play app and game deals are ready, including Bendy: Lone Wolf, Bendy and the Ink Machine, The Room: Old Sins, SpongeBob \u2013 The Cosmic Shake, Master Healer Kale, Epic King Heroes: Classic TD, SpellForce: Heroes & Magic...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-Play-collage-f0d80e.webp?w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "066f3bd17c5f",
-      "title": "Granola crunches up a dictation feature to compete with Wispr",
-      "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-      "source": "TechCrunch",
-      "published": "2026-10-29T17:54:38+00:00",
-      "excerpt": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
       "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "58eb3e785135",
-      "title": "Apple\u2019s new laptop supports one of the coolest features for color pros",
-      "url": "https://www.theverge.com/1022347/apple-macbook-supports-new-cmf",
-      "source": "The Verge",
-      "published": "2026-10-29T17:48:09+00:00",
-      "excerpt": "The new MacBook Pro brings with it a bunch of firsts for Apple laptops, the two flashiest being an OLED display and touchscreen functionality. But as an image-accuracy enthusiast, trained calibrator, and resident display expert, what...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0039.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Software Development"
-    },
-    {
-      "id": "69602ad5e048",
-      "title": "Your headphones have hidden LE Audio features you\u2019ll want to know about",
-      "url": "https://www.zdnet.com/tech/bluetooth-headphones-hidden-le-audio-features-jbl-sony-bose/",
-      "source": "ZDNET",
-      "published": "2026-10-29T17:45:05+00:00",
-      "excerpt": "Your JBL, Sony, or Bose Bluetooth headphones got a top-to-bottom wireless makeover \u2014 not just Auracast.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/9e735a6c-10a9-41cb-b9a1-8764ebcc13a3.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "23e63926ccea",
-      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-      "source": "TechCrunch",
-      "published": "2026-10-29T17:00:00+00:00",
-      "excerpt": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
-      "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "0a7bfdbe510f",
-      "title": "Samsung just released a new foldable that you probably wouldn\u2019t buy even if you could",
-      "url": "https://9to5google.com/2026/10/29/samsung-galaxy-w27-foldable/",
-      "source": "9to5Google",
-      "published": "2026-10-29T16:50:00+00:00",
-      "excerpt": "Samsung has big plans for its foldable lineup in 2027, but also one more release for 2026. The Galaxy W27 just went official as the company\u2019s latest foldable, but you probably wouldn\u2019t want to buy this one even if you could. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Galaxy-Z-Fold-8-Ultra-27.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "a9493e03c65c",
-      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
-      "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
-      "source": "TechCrunch",
-      "published": "2026-10-29T16:42:32+00:00",
-      "excerpt": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
-      "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "58c7c1610c23",
-      "title": "Firefox and Chrome patch 200+ security flaws combined \u2013 update both ASAP",
-      "url": "https://www.zdnet.com/tech/firefox-chrome-browsers-patch-200-security-flaws-update-asap/",
-      "source": "ZDNET",
-      "published": "2026-10-29T16:30:28+00:00",
-      "excerpt": "The latest version of Firefox fixes 167 security vulnerabilities, most of which are of high severity, while the newest version of Chrome patches 52 flaws, four of which are critical.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Firefox-159-with-passwords-sidebar-and-website-change-monitoring.jpg",
-      "category": "Web Development"
-    },
-    {
-      "id": "4bea0992c512",
-      "title": "Google Photos update fixes the bug that hid edited pictures",
-      "url": "https://9to5google.com/2026/10/29/google-photos-edited-pictures-bug-fix/",
-      "source": "9to5Google",
-      "published": "2026-10-29T16:25:00+00:00",
-      "excerpt": "A bug in Google Photos has left edited pictures invisible to other Android apps, but Google has now rolled out a fix. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/google-photos-3.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "73f80d4634fc",
-      "title": "Samsung launches a virtual cash back card for Wallet, completely unrelated to the Galaxy Card",
-      "url": "https://9to5google.com/2026/10/29/samsung-wallet-adds-cash-card/",
-      "source": "9to5Google",
-      "published": "2026-10-29T16:23:28+00:00",
-      "excerpt": "Samsung announced a new way to earn and pay in Samsung Wallet using a new \u201cCash Card.\u201d more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Samsung-Cash-Card.jpg?quality=82&strip=all&w=1400",
-      "category": "Software Development"
-    },
-    {
-      "id": "4dcfcc0d1943",
-      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-      "source": "TechCrunch",
-      "published": "2026-10-29T16:21:00+00:00",
-      "excerpt": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
-      "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "d626a55e5125",
-      "title": "SuperMe raises $20M for its network of AI expert profiles",
-      "url": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/",
-      "source": "TechCrunch",
-      "published": "2026-10-29T16:19:43+00:00",
-      "excerpt": "SuperMe is a network of AI profiles built from the knowledge of real-life experts. When you ask a question, the platform determines which experts are best suited to answer and creates a group chat with their AI profiles.",
-      "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "5123884283ce",
-      "title": "This open-source project lets you sync Withings data to other apps without a subscription",
-      "url": "https://www.theverge.com/tech/1022214/yourownweigh-sync-withings-smart-scale-data-wireless-web-app-free",
-      "source": "The Verge",
-      "published": "2026-10-29T16:14:06+00:00",
-      "excerpt": "When it was revealed earlier this month that Withings would require new users to subscribe to a Withings Plus subscription to sync heath data from the company's devices to third-party apps, Tom Anthony, who was already fed up with the...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24856976/236744_Withings_Body_Smart_VSong_0007.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Data & Analytics"
-    },
-    {
-      "id": "45b4ef0b726f",
-      "title": "Microsoft\u2019s AI future has fewer jobs",
-      "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
-      "source": "The Verge",
-      "published": "2026-10-29T16:00:00+00:00",
-      "excerpt": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832912/STK095_MICROSOFT_2_CVirginia_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "28317e9b7970",
-      "title": "Deals: Galaxy S26 Ultra $473 off brand new, Nothing Ear (3a) $79, Lenovo\u2019s new Android tablets $316 off, more",
-      "url": "https://9to5google.com/2026/10/29/deals-galaxy-s26-ultra-ear-3a-lenovo-android-tablets/",
-      "source": "9to5Google",
-      "published": "2026-10-29T15:57:55+00:00",
-      "excerpt": "Joining the ongoing deals on the Moto Tag 2 Android Find Hub trackers at $17.50 each and AMazon\u2019s brand new Echo Show 16 at $100 off , today\u2019s 9to5Toys Lunch Break is headlined by Amazon knocking $473 off Samsung\u2019s 512GB Galaxy S26 Ultra...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/9to5Google-Oct-29-4.webp?w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "649ecf4a57aa",
-      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
-      "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
-      "source": "The Hacker News",
-      "published": "2026-10-29T15:57:05+00:00",
-      "excerpt": "A flaw in the Linux kernel's TCP code, tracked as CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 on the CVSS scale. Anthropic said on October...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfCJ0ttE8v4hkDjJRqbTvxlxFcoNtFJhbYCQ-o8NtaiyFLImEyA8aSO967eeZG9fRebhc8oVA-OloE9X9KVVAxM-H3wKvUlh8XmN6bGlEz2IJwMgcssmA7yIRi7YNOwVQYD6nhQCaWUg6fPy-QXVjfw6rV55LueKlLvZLazjKjTL94KJMMUZ2uZ3R019Km/s1600/linux-flaw.jpg",
-      "category": "Operating Systems"
     }
   ]
 }
