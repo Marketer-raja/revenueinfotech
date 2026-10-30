@@ -1,7 +1,67 @@
 {
-  "updated": "2026-10-30T01:56:55+00:00",
+  "updated": "2026-10-30T08:36:32+00:00",
   "auto": true,
   "items": [
+    {
+      "id": "0cdc5324272a",
+      "title": "Binance hacked for an estimated $6.3 billion in record crypto theft",
+      "summary": "Cryptocurrency exchange Binance has been hit with a record $6.3 billion hack.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2301941/binance-hacked-for-estimated-6-3-billion-in-record-crypto-theft/",
+      "image": "https://www.engadget.com/img/gallery/binance-hacked-for-an-estimated-6-3-billion-in-record-crypto-theft/l-intro-1793348577.jpg",
+      "category": "Cybersecurity",
+      "section": "hero",
+      "featured": true,
+      "published": "2026-10-30T08:24:55+00:00"
+    },
+    {
+      "id": "1338e03168c0",
+      "title": "General Motors agrees to pay $220 million to settle multi-state data privacy lawsuit",
+      "summary": "GM has settled the Smart Driver program lawsuit brought by 35 attorneys general.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2301934/general-motors-220-million-settle-multi-state-data-privacy-lawsuit/",
+      "image": "https://www.engadget.com/img/gallery/general-motors-agrees-to-pay-220-million-to-settle-multi-state-data-privacy-lawsuit/l-intro-1793345961.jpg",
+      "category": "Data & Analytics",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-30T07:44:26+00:00"
+    },
+    {
+      "id": "5100bc6323f0",
+      "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The...",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw1Ms9mKdtALczFoDaNy5Bm0HVMfxu0ps0ykDUXuLn3BeOEqUCDnzUiCP2lU_7xbC2kYuIAGCuOiQCGIlkR6wYBfCfb7g0wRESfIFaMtSltOjWphyswldC4LJxFf0RnCB9FzEVc-euJGtGbUvpJr7FOE0QefC3_rn8xLSFTij_yJn1MNP6bJVu8VgrcLaV/s1600/github-cisco.jpg",
+      "category": "Software Development",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-30T07:27:05+00:00"
+    },
+    {
+      "id": "345cc9797a9d",
+      "title": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
+      "summary": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Waymo_Toyota_bZ4X.jpg?resize=1200,675",
+      "category": "Software Development",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-30T07:01:00+00:00"
+    },
+    {
+      "id": "1dad8889ea72",
+      "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
+      "summary": "Cryptocurrency giant Binance said on Thursday that a \"security incident\" on its platform has impacted about $6.3 billion worth of assets. The world's biggest cryptocurrency exchange said nearly $3 billion of those assets have been frozen...",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmTtJggkBbk2ERH6bhZMSPnb_E1aQ44w4EpzkwAt1tqp45sGvG7jeAg2QvmbWQsBy5hyphenhyphen7ur18XQ1Uax7D9XRg-CZpQpMAByXt37Fn1loBClsu49KlBEsnxRCfy7vSuI-5yrpHB4JLWc1vtw0aITnhbFXDb4CosJzm07My3Lw6p3fOLTfcaxJLBR-Pdi2A6/s1600/Binance.jpg",
+      "category": "Cybersecurity",
+      "section": "latest",
+      "featured": false,
+      "published": "2026-10-30T04:14:59+00:00"
+    },
     {
       "id": "3f421dfac052",
       "title": "You don\u2019t need to believe in a god to get a religious exemption from using AI at work",
@@ -10,8 +70,8 @@
       "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840",
       "category": "Artificial Intelligence",
-      "section": "hero",
-      "featured": true,
+      "section": "latest",
+      "featured": false,
       "published": "2026-10-30T01:20:48+00:00"
     },
     {
@@ -22,31 +82,31 @@
       "url": "https://9to5google.com/2026/10/29/gemini-design-file-generation/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Gemini-Overlay.jpg?quality=82&strip=all&w=1600",
       "category": "Artificial Intelligence",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-30T01:01:47+00:00"
     },
     {
       "id": "20fcd8c5d7b0",
       "title": "Andy Jassy says Prime Video is on track to earn \u2018tens of billions of dollars\u2019",
-      "summary": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
+      "summary": "The success of blockbuster hits like \"Project Hail Mary\" and \"Verity\" is only part of the story, Amazon's CEO says.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
       "image": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1242123707.jpg?resize=1200,767",
       "category": "Software Development",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-29T23:44:56+00:00"
     },
     {
       "id": "720b04b8c5b9",
-      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "title": "AWS will be a $1T business, Jassy says \u2014 but first, it will spend big",
       "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
       "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
       "category": "Cloud Computing",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-29T23:42:22+00:00"
     },
@@ -70,7 +130,7 @@
       "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
       "image": "https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-1258513563.jpg?resize=1200,800",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-29T22:27:23+00:00"
     },
@@ -82,7 +142,7 @@
       "url": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&strip=all&crop=0,0,100,100",
       "category": "Artificial Intelligence",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-29T22:19:32+00:00"
     },
@@ -94,7 +154,7 @@
       "url": "https://www.engadget.com/2301804/meta-is-testing-threads-friends-for-sharing-posts-with-smaller-groups/",
       "image": "https://www.engadget.com/img/gallery/meta-is-testing-threads-friends-for-sharing-posts-with-smaller-groups/l-intro-1793307612.jpg",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-29T22:05:39+00:00"
     },
@@ -106,7 +166,7 @@
       "url": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/",
       "image": "https://techcrunch.com/wp-content/uploads/2024/07/vladimir-putin-russia-kremlin.jpg?resize=1200,800",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-29T21:51:29+00:00"
     },
@@ -118,7 +178,7 @@
       "url": "https://www.engadget.com/2301786/vrchat-says-its-not-adding-ai-labels-despite-user-survey-showing-people-want-that/",
       "image": "https://www.engadget.com/img/gallery/vrchat-says-its-not-adding-ai-labels-despite-user-survey-showing-people-want-that/l-intro-1793310428.jpg",
       "category": "Artificial Intelligence",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-29T21:48:05+00:00"
     },
@@ -142,7 +202,7 @@
       "url": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1252468735.jpg?resize=1200,800",
       "category": "Cloud Computing",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-29T21:20:47+00:00"
     },
@@ -154,7 +214,7 @@
       "url": "https://www.engadget.com/2301753/ao3-fanfiction-website-down-for-weeks/",
       "image": "https://www.engadget.com/img/gallery/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/l-intro-1793308521.jpg",
       "category": "Web Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-29T21:18:22+00:00"
     },
@@ -166,7 +226,7 @@
       "url": "https://9to5google.com/2026/10/29/iqoos-new-mid-range-phone-puts-last-years-flagships-to-shame/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/iqoo-neo-12-official-render-02.jpg?quality=82&strip=all&w=1600",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-29T21:17:35+00:00"
     },
@@ -178,9 +238,21 @@
       "url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
       "image": "https://techcrunch.com/wp-content/uploads/2020/11/Chevrolet-OnStar-Santa-01.jpg?resize=1200,800",
       "category": "Data & Analytics",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-29T21:01:04+00:00"
+    },
+    {
+      "id": "b0491de2895f",
+      "title": "Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident",
+      "summary": "The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked commentary) across social media.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800",
+      "category": "Cybersecurity",
+      "section": "none",
+      "featured": false,
+      "published": "2026-10-29T20:43:56+00:00"
     },
     {
       "id": "e2eaf0b40e5a",
@@ -190,7 +262,7 @@
       "url": "https://9to5google.com/2026/10/29/android-17-qpr3-beta-3-everything-new/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/google-pixel-11-pro-fold-review-2.jpg?quality=82&strip=all&w=1600",
       "category": "Operating Systems",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-29T20:38:07+00:00"
     },
@@ -476,7 +548,7 @@
       "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Granola.jpg?resize=1200,675",
+      "image": "",
       "category": "Artificial Intelligence",
       "section": "none",
       "featured": false,
@@ -649,78 +721,6 @@
       "section": "none",
       "featured": false,
       "published": "2026-10-29T15:57:05+00:00"
-    },
-    {
-      "id": "52504178c10f",
-      "title": "Samsung\u2019s advanced sleep apnea detection is coming to these Galaxy wearables",
-      "summary": "Samsung announced a new, advanced version of its AI-powered sleep apnea detection, and which devices it will appear on in November. more\u2026",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/29/enhanced-sleep-apnea-coming-to-these-galaxy-devices/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-galaxy-watch-ultra-2-watch-9-8.jpg?quality=82&strip=all&w=1600",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-29T15:46:23+00:00"
-    },
-    {
-      "id": "2e58066c0b12",
-      "title": "Stop sharing your passwords with AI agents, Bank of America warns customers",
-      "summary": "The bank\u2019s message follows a trend among financial institutions that are restricting third-party AI agent access.",
-      "source": "ZDNET",
-      "url": "https://www.zdnet.com/innovation/bank-of-america-customers-no-sharing-passwords-ai-agents/",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/boapowerGettyImages-1554399408_667584.jpg",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-29T15:36:26+00:00"
-    },
-    {
-      "id": "b0166173c44f",
-      "title": "Google Maps update now shows you the Fall foliage along your route [Video]",
-      "summary": "Google Maps is rolling out a slightly adorable new update that shows the Fall colors along your navigation route, but not everywhere. more\u2026",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/29/google-maps-fall-foliage-update/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/google-maps-fall-foliage.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-29T15:30:00+00:00"
-    },
-    {
-      "id": "8cc04215eff5",
-      "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
-      "summary": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed Yoba. The activity involves...",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1ij0gwe-L1jDZxdoUPZ6hpSJnJgMHh2bG8bFF2y8y-dJA9nY0Fr2JOU2i4NaCetGqvTZOtvaRXbZONR6d8ajjMR6DNm_X7OwaVCiH7dPycEN9xGI0psNvPYbwDhpGmUQ4Qyhp5x9fqQ_sgzjcReslK-a-gRS3kFr5_JOns1kkuC6UheDHVb2yaV8EAhIF/s1600/claude-hack.jpg",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-29T15:20:29+00:00"
-    },
-    {
-      "id": "e0358af03638",
-      "title": "Samsung teases Galaxy S27 plans, foldable lineup expansion, more",
-      "summary": "In its latest earnings call, Samsung has teased its plans for the Galaxy S27 as well as new foldables and its Android XR glasses. more\u2026",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/29/samsung-teases-galaxy-s27-plans-foldable-lineup-expansion-more/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/S26-Ultra-Z-Fold-8-Ultra-and-Z-Fold-8.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-29T15:10:00+00:00"
-    },
-    {
-      "id": "362605d16625",
-      "title": "FromSoftware delays The Duskbloods until 2027",
-      "summary": "The studio is taking more time to refine the \"rules and balance\" of the Nintendo Switch 2 exclusive.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2300955/fromsoftware-delays-the-duskbloods-until-2027/",
-      "image": "https://www.engadget.com/img/gallery/fromsoftware-delays-the-duskbloods-until-2027/l-intro-1793286117.jpg",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-29T15:02:41+00:00"
     }
   ]
 }
