@@ -1,6 +1,236 @@
 {
-  "updated": "2026-10-30T15:54:30+00:00",
+  "updated": "2026-10-30T20:46:53+00:00",
   "items": [
+    {
+      "id": "25a528e218b1",
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "source": "The Verge",
+      "published": "2026-10-30T20:26:10+00:00",
+      "excerpt": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "0ca5d66837e7",
+      "title": "Meta settles another social media addiction case just before trial",
+      "url": "https://www.engadget.com/2302956/meta-settles-another-social-media-addiction-case-just-before-trial/",
+      "source": "Engadget",
+      "published": "2026-10-30T20:21:28+00:00",
+      "excerpt": "Snap is now the only defendant in the case.",
+      "image": "https://www.engadget.com/img/gallery/meta-settles-another-social-media-addiction-case-just-before-trial/l-intro-1793391515.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "0f90f553dcd8",
+      "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+      "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+      "source": "TechCrunch",
+      "published": "2026-10-30T19:55:13+00:00",
+      "excerpt": "Like a real-life episode of \"Suits,\" the demise of famed white-shoe Wall Street law firm Weil, Gotshal & Manges has been the talk of the legal industry. And now an AI firm has entered the picture.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/06/Crosby-cofounders.jpg?resize=1200,900",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "b0aaba43413d",
+      "title": "The 12th Google Store is opening on November 6",
+      "url": "https://9to5google.com/2026/10/30/google-store-houston/",
+      "source": "9to5Google",
+      "published": "2026-10-30T19:37:58+00:00",
+      "excerpt": "Following San Diego and Tokyo in 2026, the next Google Store is opening in Houston on November 6. This is the company\u2019s 11th retail location in the US and 12th globally. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2023/09/google-store-logo-3.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "386cbd244fcc",
+      "title": "Everything you need to know about Googlebooks",
+      "url": "https://www.engadget.com/2302681/everything-you-need-to-know-about-googlebooks/",
+      "source": "Engadget",
+      "published": "2026-10-30T19:00:00+00:00",
+      "excerpt": "Despite good initial hardware, the Googlebook OS still needs a lot of work.",
+      "image": "https://www.engadget.com/img/gallery/despite-good-initial-hardware-the-googlebook-os-is-holding-the-platform-back/l-intro-1793383802.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "c4dbacf8aa2b",
+      "title": "Google\u2019s satellite AI server transmits its first response to Earth",
+      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "source": "The Verge",
+      "published": "2026-10-30T18:21:38+00:00",
+      "excerpt": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/project-suncatcher-google.png?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "f82029a4ad79",
+      "title": "Android 17 adoption hits a staggering 1% \u2013 why you really should update now",
+      "url": "https://www.zdnet.com/tech/android-17-os-adoption-numbers-october-2026/",
+      "source": "ZDNET",
+      "published": "2026-10-30T18:18:24+00:00",
+      "excerpt": "Only a quarter of Android phones have even made it to Android 16.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/a17hero_14a4bb.jpg",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "c72b5877fcb8",
+      "title": "Satlyt takes another step toward turning satellites into space data centers",
+      "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+      "source": "TechCrunch",
+      "published": "2026-10-30T18:01:24+00:00",
+      "excerpt": "Satlyt ran a successful test this month bringing it closer to turning spacecraft, starting with satellites, into virtual data centers.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Just_Super-Getty.jpg?resize=1200,750",
+      "category": "Data & Analytics"
+    },
+    {
+      "id": "6b8c1db36003",
+      "title": "Friday\u2019s Android app deals and freebies: Thronefall, Demon Castle Story, Pocket Academy 3, Dungeon Village 2, more",
+      "url": "https://9to5toys.com/2026/10/30/todays-highlight-google-play-deals-40/",
+      "source": "9to5Google",
+      "published": "2026-10-30T17:58:04+00:00",
+      "excerpt": "Friday\u2019s best Google Play app and game deals are ready, including Thronefall, Demon Castle Story, Pocket Academy 3, Dungeon Village 2, RPG Silver Nornir, Witchcraft!, Lovecraft\u2019s Untold Stories, Angelo and Deemon (Full), and more. The...",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-Play-collage-af8b04.webp?w=1600",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "a457451f7b0a",
+      "title": "Zest\u2019s new AI agent finds restaurants and books reservations over text",
+      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "source": "TechCrunch",
+      "published": "2026-10-30T17:47:12+00:00",
+      "excerpt": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/zest.jpg?resize=1200,764",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "8cf672a61f5a",
+      "title": "Samsung adds better sleep tracking to Galaxy Watches \u2013 here\u2019s what to expect",
+      "url": "https://www.zdnet.com/health/advanced-sleep-apnea-tracking-galaxy-watches/",
+      "source": "ZDNET",
+      "published": "2026-10-30T17:29:50+00:00",
+      "excerpt": "The FDA-approved sleep apnea tracking feature will first come to the Galaxy Watch Ultra 2, Watch 9, and Ring.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/dsc00152.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "e63a449fe2f8",
+      "title": "Apple Music 7.0 for Android rolls out with Liquid Glass redesign",
+      "url": "https://9to5google.com/2026/10/30/apple-music-7-0-redesign/",
+      "source": "9to5Google",
+      "published": "2026-10-30T17:26:48+00:00",
+      "excerpt": "Following a month of beta testing , Apple Music 7.0 is rolling out with a Liquid Glass redesign for Android, as well as the new icon for the streaming service. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Apple-Music-7-1.jpg?quality=82&strip=all&w=1600",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "314a899c02a7",
+      "title": "The delightfully messy state of Apple gadgets",
+      "url": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets",
+      "source": "The Verge",
+      "published": "2026-10-30T17:25:20+00:00",
+      "excerpt": "The iPhone has more screens! The MacBook has a touchscreen! The HomeView does CarPlay apps! For the first time in a long time, Apple is in a period of unabashed gadget experimentation, and while the final results aren't always perfect...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_1030_SiteB.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "2f75de4ffd7e",
+      "title": "I\u2019m finally ready for a smart calendar \u2013 why the Echo Show 16 stands out",
+      "url": "https://www.zdnet.com/home-and-office/im-finally-ready-for-a-smart-calendar-why-the-echo-show-16-stands-out/",
+      "source": "ZDNET",
+      "published": "2026-10-30T17:23:50+00:00",
+      "excerpt": "I\u2019m finally ready to upgrade to a smart calendar \u2013 and Amazon\u2019s newest Echo device looks like an organizational solution for my family and I.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Echo-Show-16-Features-Alexa-Home-1920x1080-1.png",
+      "category": "Software Development"
+    },
+    {
+      "id": "fc6c72287137",
+      "title": "Google\u2019s first data center satellite is online and writing poetry",
+      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "source": "TechCrunch",
+      "published": "2026-10-30T17:00:00+00:00",
+      "excerpt": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/DSC_0298.jpg?resize=1200,800",
+      "category": "Cloud Computing"
+    },
+    {
+      "id": "46d8d781bead",
+      "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+      "url": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
+      "source": "The Hacker News",
+      "published": "2026-10-30T16:58:44+00:00",
+      "excerpt": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simultaneously. The activity has been...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP1M46Z4Xs0qNHz9xzhTea14XsqTHvNhAfnGb4Ni9goHQR2ypz3BLKRgu-WxWD8VSUNMB3YAP7UhcCAK1AweCc3lC-7VlJ-OqNniD4FvZdE_R-XJkkRadhl2tp3-PqbKPWmQTeJ3a3gvd1kHH_zaW06tCf9cH-7k5feNqHrqbChMAsc5K3hruiX9BDROAe/s1600/CS.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "17c84f5aa1fe",
+      "title": "Your Netgear router may be vulnerable to a security exploit \u2013 how to check and patch it",
+      "url": "https://www.zdnet.com/tech/netgear-routers-vulnerable-security-exploit/",
+      "source": "ZDNET",
+      "published": "2026-10-30T16:58:22+00:00",
+      "excerpt": "A vulnerability in some Netgear routers could allow an attacker with access to your network to run malicious commands on the device.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/wirelessred-GettyImages-865321186.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "73fe99855808",
+      "title": "Deep Google Store discounts on Pixel 11, Pixel Watch 5 start early",
+      "url": "https://9to5google.com/2026/10/30/google-store-pixel-11-early-deals/",
+      "source": "9to5Google",
+      "published": "2026-10-30T16:57:47+00:00",
+      "excerpt": "Like other retailers, the US Google Store is already starting Black Friday-level discounts on the Pixel 11 series and Pixel Watch 5 at the end of October. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Pixel-11-family.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "2a3018076536",
+      "title": "Will Galaxy S27 Ultra and Pixel 12 mark the end of the flagship era of smartphones?",
+      "url": "https://9to5google.com/2026/10/30/galaxy-s27-ultra-pixel-12-end-flagship-era/",
+      "source": "9to5Google",
+      "published": "2026-10-30T16:30:00+00:00",
+      "excerpt": "Like most Android fans, you probably enjoy having the latest and greatest smartphone buried in your pocket. The best camera, the best display, the fastest processor, and of course, as much RAM as any given smartphone OEM will pack in. And...",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/S26-Ultra-Pixel-11-Pro-and-iPhone-17-Pro.jpg?quality=82&strip=all&w=1600",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "f9f920ea17e4",
+      "title": "New tvOS 27.2 features to try for an upgraded Apple TV experience",
+      "url": "https://www.engadget.com/2302449/tvos-27-2-features-try-upgraded-apple-tv-experience/",
+      "source": "Engadget",
+      "published": "2026-10-30T16:22:49+00:00",
+      "excerpt": "Apple's tvOS 27.2 update isn't a particularly transformative one, but it still introduces a handful of new features that are worth checking out.",
+      "image": "https://www.engadget.com/img/gallery/new-tvos-27-2-features-to-try-for-an-upgraded-apple-tv-experience/l-intro-1793349181.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "369af9c4977c",
+      "title": "Google\u2019s latest Home updates just fixed my biggest annoyances with its speakers and cameras",
+      "url": "https://www.zdnet.com/home-and-office/google-home-gemini-updates-42-fixes/",
+      "source": "ZDNET",
+      "published": "2026-10-30T16:14:11+00:00",
+      "excerpt": "Google details 42 fixes to its Home app and the devices compatible with it.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/1_341369.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "fe1196113f3c",
+      "title": "Pixel 6 postmortem: How Google\u2019s flawed reboot defined future hardware [Video]",
+      "url": "https://9to5google.com/2026/10/30/pixel-6-postmortem/",
+      "source": "9to5Google",
+      "published": "2026-10-30T16:05:00+00:00",
+      "excerpt": "I think there are few smartphones in the past decade that have arrived carrying the sheer weight of expectation that greeted the Pixel 6 and Pixel 6 Pro in late 2021. Now on life support , just what did we learn from 2021\u2019s reboot for the...",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2022/11/Google-Pixel-6.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "d906f2ca87fc",
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is \u2018a great opportunity to go deceive people\u2019",
+      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "source": "TechCrunch",
+      "published": "2026-10-30T16:03:45+00:00",
+      "excerpt": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1465332173.jpg?resize=1200,800",
+      "category": "Artificial Intelligence"
+    },
     {
       "id": "a5a73403e980",
       "title": "The Wikimedia Foundation weighs in on the NYT's case against OpenAI",
@@ -19,6 +249,16 @@
       "published": "2026-10-30T15:27:39+00:00",
       "excerpt": "The Week 1 early Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold at up to $350 off . Those deals join $100 off all Pixel Watch 5 models, the latest Google Pixel Buds Pro 2 at over 25% off \u2013 including the new Olive set sitting at its...",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/9to5Google-Oct-30.webp?w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "bfec2004bdb1",
+      "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
+      "url": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
+      "source": "The Hacker News",
+      "published": "2026-10-30T15:17:28+00:00",
+      "excerpt": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes control is the viewer, and the machine...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge-ZayNgwlu4fhpD2BSyGgkMYehkV0atRJINisISPLpiubkgyXopa4NWVnxOZs9gi-DEYTNEQ5G2pu-X5iSHyMp8pguzp-Q6g-1-mGwcy3so4AkeuYFuYoaotOcmF5A-2oVDvnxd0B_FaZ7JJt8W3zrNFot6kBlJp7WffHkb7m92C9bNQnwFLwnNgXpDk/s1600/teamviewer-flaw.jpg",
       "category": "Software Development"
     },
     {
@@ -62,6 +302,16 @@
       "category": "Operating Systems"
     },
     {
+      "id": "6473fc7702e5",
+      "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
+      "url": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
+      "source": "The Hacker News",
+      "published": "2026-10-30T14:08:14+00:00",
+      "excerpt": "Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released. The vulnerability, which does not have a CVE identifier, relates to a case of remote code execution...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf-pzflJO9HQoCdvBvYNtS12gwwEjAbM4dQ30ak7UYaIPzsVPN9MlFwvIDEFkbe9cWg4wQRFPbGfJ0YXjzGcBS6mUTwttwkQ8IR7OoHyTz3owZkVzYQOAObyJUqfjsC-PqMw2pv41_m68hb6ZkwJb56kGx-Ypv7GWZBtDzjyTTQ8L8i9NxA8_MDVoJSEba/s1600/wp-hack.jpg",
+      "category": "Software Development"
+    },
+    {
       "id": "d5593fe6310d",
       "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
       "url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
@@ -87,7 +337,7 @@
       "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
       "source": "TechCrunch",
       "published": "2026-10-30T13:54:25+00:00",
-      "excerpt": "DoorDash said that it is open to working with third-party agent makers",
+      "excerpt": "DoorDash said that it is open to working with third-party agent makers.",
       "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1232015093.jpg?resize=1200,800",
       "category": "Artificial Intelligence"
     },
@@ -303,12 +553,12 @@
     },
     {
       "id": "345cc9797a9d",
-      "title": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
+      "title": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
       "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
       "source": "TechCrunch",
       "published": "2026-10-30T07:01:00+00:00",
       "excerpt": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Waymo_Toyota_bZ4X.jpg?resize=1200,675",
+      "image": "",
       "category": "Software Development"
     },
     {
@@ -328,7 +578,7 @@
       "source": "TechCrunch",
       "published": "2026-10-30T01:20:48+00:00",
       "excerpt": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -348,256 +598,6 @@
       "source": "TechCrunch",
       "published": "2026-10-29T23:44:56+00:00",
       "excerpt": "The success of blockbuster hits like \"Project Hail Mary\" and \"Verity\" is only part of the story, Amazon's CEO says.",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1242123707.jpg?resize=1200,767",
-      "category": "Software Development"
-    },
-    {
-      "id": "720b04b8c5b9",
-      "title": "AWS will be a $1T business, Jassy says \u2014 but first, it will spend big",
-      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "source": "TechCrunch",
-      "published": "2026-10-29T23:42:22+00:00",
-      "excerpt": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
-      "category": "Cloud Computing"
-    },
-    {
-      "id": "825438a55919",
-      "title": "Intel says it\u2019s selling every affordable laptop chip it can make",
-      "url": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
-      "source": "The Verge",
-      "published": "2026-10-29T23:42:21+00:00",
-      "excerpt": "During Intel's latest earnings call, CEO Lip-Bu Tan said that demand for its budget-focused Wildcat Lake chips \"is outstripping supply.\" According to CFO David Zinsner, the chips are now sold out. Zinsner said Intel has \"seen significant...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK094_02.jpeg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "87fbeeb86acf",
-      "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
-      "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
-      "source": "TechCrunch",
-      "published": "2026-10-29T22:27:23+00:00",
-      "excerpt": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-1258513563.jpg?resize=1200,800",
-      "category": "Software Development"
-    },
-    {
-      "id": "fd539153f04e",
-      "title": "Reddit\u2019s CEO says Google\u2019s AI Mode \u2018does not drive traffic\u2019",
-      "url": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
-      "source": "The Verge",
-      "published": "2026-10-29T22:19:32+00:00",
-      "excerpt": "Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic to the platform, echoing problems facing other websites and publishers. As part of its Q3 2026 earnings, Reddit revealed...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "129e6f29c650",
-      "title": "Meta is testing 'Threads Friends' for sharing posts with smaller groups",
-      "url": "https://www.engadget.com/2301804/meta-is-testing-threads-friends-for-sharing-posts-with-smaller-groups/",
-      "source": "Engadget",
-      "published": "2026-10-29T22:05:39+00:00",
-      "excerpt": "Twitter Circle, anyone?",
-      "image": "https://www.engadget.com/img/gallery/meta-is-testing-threads-friends-for-sharing-posts-with-smaller-groups/l-intro-1793307612.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "d973cf3805ce",
-      "title": "Elon Musk is \u2018truly a genius,\u2019 says Vladimir Putin",
-      "url": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/",
-      "source": "TechCrunch",
-      "published": "2026-10-29T21:51:29+00:00",
-      "excerpt": "Putin said that he and Musk are in \"close contact\" about Rassvet, Russia's Starlink-like satellite connectivity project.",
-      "image": "",
-      "category": "Software Development"
-    },
-    {
-      "id": "312d17d54cd4",
-      "title": "VRChat says it's not adding AI labels despite user survey showing people want that",
-      "url": "https://www.engadget.com/2301786/vrchat-says-its-not-adding-ai-labels-despite-user-survey-showing-people-want-that/",
-      "source": "Engadget",
-      "published": "2026-10-29T21:48:05+00:00",
-      "excerpt": "Trying to make everyone happy could make no one happy.",
-      "image": "https://www.engadget.com/img/gallery/vrchat-says-its-not-adding-ai-labels-despite-user-survey-showing-people-want-that/l-intro-1793310428.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "3691454b62c5",
-      "title": "Many of UGREEN\u2019s best NAS units are 10-15% off right now",
-      "url": "https://9to5google.com/2026/10/29/many-of-ugreens-best-nas-units-are-10-15-off-right-now/",
-      "source": "9to5Google",
-      "published": "2026-10-29T21:36:33+00:00",
-      "excerpt": "A NAS is way easier and cheaper than you think, thanks to UGREEN NAS units and a great little Amazon sale. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/ugreen-nas-homeagent-ha100-drives.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "88e0d9f027a1",
-      "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
-      "url": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
-      "source": "TechCrunch",
-      "published": "2026-10-29T21:20:47+00:00",
-      "excerpt": "The biggest ouch of the report was its negative free cash flow of $2.4 billion.",
-      "image": "",
-      "category": "Cloud Computing"
-    },
-    {
-      "id": "c9f67f6a20d3",
-      "title": "Fan fiction website AO3 is down, and it could take weeks to recover",
-      "url": "https://www.engadget.com/2301753/ao3-fanfiction-website-down-for-weeks/",
-      "source": "Engadget",
-      "published": "2026-10-29T21:18:22+00:00",
-      "excerpt": "The site's data is reportedly intact, but the cause of the outage is still unknown.",
-      "image": "https://www.engadget.com/img/gallery/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/l-intro-1793308521.jpg",
-      "category": "Web Development"
-    },
-    {
-      "id": "693c8daaf72b",
-      "title": "IQOO\u2019s new mid-range phone puts last year\u2019s flagships to shame",
-      "url": "https://9to5google.com/2026/10/29/iqoos-new-mid-range-phone-puts-last-years-flagships-to-shame/",
-      "source": "9to5Google",
-      "published": "2026-10-29T21:17:35+00:00",
-      "excerpt": "The IQOO Neo 12 is outfitted with so many premium-level specs that you\u2019d never know this was targeted toward an upper mid-range budget. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/iqoo-neo-12-official-render-02.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "f15868dd4115",
-      "title": "GM reaches $220M settlement over selling drivers\u2019 private data",
-      "url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
-      "source": "TechCrunch",
-      "published": "2026-10-29T21:01:04+00:00",
-      "excerpt": "As part of the settlement, GM must get drivers\u2019 express consent before it collects or shares their driving and location data.",
-      "image": "",
-      "category": "Data & Analytics"
-    },
-    {
-      "id": "b0491de2895f",
-      "title": "Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident",
-      "url": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
-      "source": "TechCrunch",
-      "published": "2026-10-29T20:43:56+00:00",
-      "excerpt": "The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked commentary) across social media.",
-      "image": "",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "e2eaf0b40e5a",
-      "title": "Here\u2019s everything new in Android 17 QPR3 Beta 3 [Gallery]",
-      "url": "https://9to5google.com/2026/10/29/android-17-qpr3-beta-3-everything-new/",
-      "source": "9to5Google",
-      "published": "2026-10-29T20:38:07+00:00",
-      "excerpt": "Google today rolled out a big Android 17 QPR3 Beta 3 with a number of fixes for Pixel devices. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/google-pixel-11-pro-fold-review-2.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "b46b63ebd2e5",
-      "title": "Reddit will soon be a \u2018logged-in-only\u2019 website, forcing you to have an account",
-      "url": "https://9to5google.com/2026/10/29/reddit-will-soon-be-a-logged-in-only-website/",
-      "source": "9to5Google",
-      "published": "2026-10-29T20:35:00+00:00",
-      "excerpt": "Reddit is shifting to a \u201clogged-in-only experience,\u201d the company confirmed during its latest earnings call. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/reddit-logo.jpg?quality=82&strip=all&w=1200",
-      "category": "Web Development"
-    },
-    {
-      "id": "bdf18976e806",
-      "title": "Reddit will force users to log in as AI is killing search traffic",
-      "url": "https://www.engadget.com/2301687/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/",
-      "source": "Engadget",
-      "published": "2026-10-29T20:32:49+00:00",
-      "excerpt": "The company is starting with tests outside of the US.",
-      "image": "https://www.engadget.com/img/gallery/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/l-intro-1793310425.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "c972e3c26fbe",
-      "title": "Google fixes an annoying Photos bug that hid edited images from other apps",
-      "url": "https://www.engadget.com/2301675/google-fixes-an-annoying-photos-bug-that-hid-edited-images-from-other-apps/",
-      "source": "Engadget",
-      "published": "2026-10-29T20:26:24+00:00",
-      "excerpt": "Hey, that's not what Magic Eraser is supposed to do!",
-      "image": "https://www.engadget.com/img/gallery/google-fixes-an-annoying-photos-bug-that-hid-edited-images-from-other-apps/l-intro-1793305492.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "5b524ac74503",
-      "title": "Android 17 QPR3 Beta 3 rolling out with 26 Pixel fixes",
-      "url": "https://9to5google.com/2026/10/29/android-17-qpr3-beta-3-pixel/",
-      "source": "9to5Google",
-      "published": "2026-10-29T20:21:06+00:00",
-      "excerpt": "Following last week\u2019s release, Google is rolling out Android 17 QPR3 Beta 3 to Pixel devices today. It\u2019s another big bug fixer. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Pixel-11-Pro-XL-and-9-Pro-XL-top-down.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "c5573fd740cd",
-      "title": "Google brings AI Mode advertisements to more countries",
-      "url": "https://www.engadget.com/2301660/google-brings-ai-mode-advertisements-to-more-countries/",
-      "source": "Engadget",
-      "published": "2026-10-29T20:18:24+00:00",
-      "excerpt": "Adding sponsored content in more markets could make the feature profitable.",
-      "image": "https://www.engadget.com/img/gallery/google-brings-ai-mode-advertisements-to-more-countries/l-intro-1793305012.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "1e09943a421e",
-      "title": "As search traffic dries up, Reddit announces it\u2019s shifting to a logged-in experience",
-      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-      "source": "TechCrunch",
-      "published": "2026-10-29T20:08:31+00:00",
-      "excerpt": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
-      "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "7587406daf7d",
-      "title": "Rivian expands joint venture with VW to include AI assistant",
-      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-      "source": "TechCrunch",
-      "published": "2026-10-29T20:05:47+00:00",
-      "excerpt": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
-      "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "145d8e85cf93",
-      "title": "The R2 SUV is already Rivian\u2019s best-selling vehicle",
-      "url": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/",
-      "source": "TechCrunch",
-      "published": "2026-10-29T20:02:03+00:00",
-      "excerpt": "Rivian is seeing strong enough sales of the new EV that it improved its guidance to Wall Street for the second time this year.",
-      "image": "",
-      "category": "Software Development"
-    },
-    {
-      "id": "4db20898e948",
-      "title": "OpenAI-backed Thrive Holdings acquires ADT",
-      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-      "source": "TechCrunch",
-      "published": "2026-10-29T19:56:19+00:00",
-      "excerpt": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-      "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "8b0d7d5fb555",
-      "title": "GM to pay $220 million to resolve claims it sold driving habits data",
-      "url": "https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit",
-      "source": "The Verge",
-      "published": "2026-10-29T19:19:28+00:00",
-      "excerpt": "General Motors has agreed to pay $220 million to settle claims that it illegally sold driver and location information to data brokers, as reported earlier by Reuters. The agreement, which resolves a complaint from a coalition of 36 US...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2255455204.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Data & Analytics"
-    },
-    {
-      "id": "ea24d4747758",
-      "title": "Where was my invite to the \u2014 wait, what? Airbnb had a gala?",
-      "url": "https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/",
-      "source": "TechCrunch",
-      "published": "2026-10-29T19:17:49+00:00",
-      "excerpt": "Airbnb\u2019s nonprofit held its inaugural gala on Wednesday in Los Angeles, and the internet had one reaction \u2014 the *what* gala?",
       "image": "",
       "category": "Software Development"
     }
