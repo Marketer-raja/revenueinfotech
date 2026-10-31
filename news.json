@@ -1,6 +1,206 @@
 {
-  "updated": "2026-10-31T13:37:58+00:00",
+  "updated": "2026-10-31T18:31:53+00:00",
   "items": [
+    {
+      "id": "78a2feccaa76",
+      "title": "4 drawbacks you should know before buying a PlayStation 5",
+      "url": "https://www.engadget.com/2300257/drawbacks-you-should-know-before-buying-playstation-5/",
+      "source": "Engadget",
+      "published": "2026-10-31T18:00:00+00:00",
+      "excerpt": "The PS5 isn't as good of a buy today as it was early in its life, so you should be aware of the drawbacks in this awkward console generation.",
+      "image": "https://www.engadget.com/img/gallery/4-drawbacks-you-should-know-before-buying-a-playstation-5/l-intro-1793035591.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "949b7257ea76",
+      "title": "Bolt Graphics powers on its first Zeus GPU",
+      "url": "https://www.engadget.com/2301962/bolt-graphics-powers-on-first-zeus-gpu/",
+      "source": "Engadget",
+      "published": "2026-10-31T17:30:00+00:00",
+      "excerpt": "Bolt Graphics has been working on its simulation-centric Zeus GPU for a while now and has reached a significant milestone: a successful test run.",
+      "image": "https://www.engadget.com/img/gallery/bolt-graphics-powers-on-its-first-zeus-gpu/l-intro-1793343335.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "9932d9d1820c",
+      "title": "These Samsung Galaxy Watches won't be getting the new One UI update",
+      "url": "https://www.engadget.com/2301961/samsung-galaxy-watches-not-getting-one-ui-update/",
+      "source": "Engadget",
+      "published": "2026-10-31T17:15:00+00:00",
+      "excerpt": "Samsung has released the latest version of its wearable OS, One UI 9 Watch, and most of its watch lineup will get the update - except these.",
+      "image": "https://www.engadget.com/img/gallery/these-samsung-galaxy-watches-wont-be-getting-the-new-one-ui-update/l-intro-1793353080.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "dbace05e922a",
+      "title": "How to fix your phone screen when it's unresponsive to touch\u200b",
+      "url": "https://www.engadget.com/2301246/how-to-fix-phone-screen-unresponsive-to-touch/",
+      "source": "Engadget",
+      "published": "2026-10-31T17:00:00+00:00",
+      "excerpt": "Few things are more annoying than an unresponsive touchscreen. Before you give up on your phone, here's what to try to get it working again.",
+      "image": "https://www.engadget.com/img/gallery/how-to-fix-your-phone-screen-when-its-unresponsive-to-touch/l-intro-1793286831.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "306be0709947",
+      "title": "How building a cheap home server could save you money in the long run",
+      "url": "https://www.engadget.com/2301243/how-building-cheap-home-server-save-money/",
+      "source": "Engadget",
+      "published": "2026-10-31T16:45:00+00:00",
+      "excerpt": "Using an old PC to create your own server can save you quite a bit of money through a couple of avenues. Here's what it can do.",
+      "image": "https://www.engadget.com/img/gallery/how-building-a-cheap-home-server-could-save-you-money-in-the-long-run/l-intro-1793284498.jpg",
+      "category": "Cloud Computing"
+    },
+    {
+      "id": "5d2dc8a0670a",
+      "title": "Why your Spotify might be using so much storage",
+      "url": "https://www.engadget.com/2300259/why-spotify-uses-so-much-storage/",
+      "source": "Engadget",
+      "published": "2026-10-31T16:30:00+00:00",
+      "excerpt": "Spotify can be a storage hog if you don't have your device's settings optimized. Here's what you can do if Spotify is taking up too much storage.",
+      "image": "https://www.engadget.com/img/gallery/why-your-spotify-might-be-using-so-much-storage/l-intro-1793029233.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "b4dd56c51163",
+      "title": "How long is too long for a USB cable?",
+      "url": "https://www.engadget.com/2301242/how-long-should-usb-cable-be-maximum-length/",
+      "source": "Engadget",
+      "published": "2026-10-31T16:15:00+00:00",
+      "excerpt": "USB cables, much like their HDMI cousins, have limits on how long they can be. The thing is, those limits are probably much lower than you expected.",
+      "image": "https://www.engadget.com/img/gallery/how-long-is-too-long-for-a-usb-cable/l-intro-1793267592.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "c10fef6ec816",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "source": "TechCrunch",
+      "published": "2026-10-31T16:12:55+00:00",
+      "excerpt": "OpenAI\u2019s latest funding round doesn't seem to be living up to expectations.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "ed0268fa6e32",
+      "title": "I built an AI Tamagotchi before Meta could",
+      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "source": "The Verge",
+      "published": "2026-10-31T16:05:00+00:00",
+      "excerpt": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-sean-hollister-muse-gadget-331A2564-01-3.jpg?quality=90&strip=all&crop=4,0,96,94.899920311255",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "73c197c1e042",
+      "title": "GNSS Vs GPS: What's the difference?",
+      "url": "https://www.engadget.com/2300262/gnss-vs-gps-differences/",
+      "source": "Engadget",
+      "published": "2026-10-31T16:00:00+00:00",
+      "excerpt": "GNSS and GPS are common terms in the world of satellite navigation. They may be similar, but there are some key differences between the two technologies.",
+      "image": "https://www.engadget.com/img/gallery/gnss-vs-gps-whats-the-difference/l-intro-1793018949.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "a226ebdf9884",
+      "title": "Traveling with electronics? These 5 items could raise TSA red flags",
+      "url": "https://www.engadget.com/2301241/tsa-electronics-red-flags/",
+      "source": "Engadget",
+      "published": "2026-10-31T15:45:00+00:00",
+      "excerpt": "Travel is stressful enough. Here's what you should know about TSA rules on traveling with tech.",
+      "image": "https://www.engadget.com/img/gallery/traveling-with-electronics-these-5-items-could-raise-tsa-red-flags/l-intro-1793277794.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "c64befe67ac3",
+      "title": "From restaurant guides to payments, here\u2019s how TikTok is building a super app",
+      "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
+      "source": "TechCrunch",
+      "published": "2026-10-31T15:41:57+00:00",
+      "excerpt": "TikTok may be working to become the app that people use for most of their digital activities.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801",
+      "category": "Software Development"
+    },
+    {
+      "id": "a780f2df4c08",
+      "title": "The Amazon Fire TV Stick setting you should try for better audio",
+      "url": "https://www.engadget.com/2299191/amazon-fire-tv-stick-setting-better-audio/",
+      "source": "Engadget",
+      "published": "2026-10-31T15:30:00+00:00",
+      "excerpt": "Dialogue is an important part of any movie or TV show, but it isn't always as clear as we would like. Amazon's Fire TV Stick has a solution.",
+      "image": "https://www.engadget.com/img/gallery/the-amazon-fire-tv-stick-setting-you-should-try-for-better-audio/l-intro-1793163251.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "7b5ed5dd303b",
+      "title": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
+      "url": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
+      "source": "The Verge",
+      "published": "2026-10-31T15:12:19+00:00",
+      "excerpt": "The latest Windows 11 Insider build adds some powerful new search features and quick settings while in Xbox mode. The Xbox shortcuts let you control things like Bluetooth, WiFi, and power settings without having to exit gaming mode. The...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/10d-outlook-filterresults.png?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "1659e3cce97d",
+      "title": "Sam Altman is upset at you for hoarding RAM in your own computer",
+      "url": "https://www.engadget.com/2303266/sam-altman-says-its-terrible-dram-computer/",
+      "source": "Engadget",
+      "published": "2026-10-31T15:07:10+00:00",
+      "excerpt": "Sam Altman, in an interview, said it's 'terrible' for people to have 'a bunch of the world's limited supply of DRAM' that they barely use.",
+      "image": "https://www.engadget.com/img/gallery/sam-altman-is-upset-at-you-for-hoarding-ram-in-your-own-computer/l-intro-1793458699.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "e40050fcf4c1",
+      "title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
+      "url": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
+      "source": "The Verge",
+      "published": "2026-10-31T15:00:00+00:00",
+      "excerpt": "While the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder across a few major retailers, Best Buy is sweetening the deal by including a $100 gift card. The gift card will be automatically added to your...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0048.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "46396bea9f7a",
+      "title": "5 Samsung One UI features you won't get with other Android phones",
+      "url": "https://www.engadget.com/2299207/one-ui-features-not-on-other-androids/",
+      "source": "Engadget",
+      "published": "2026-10-31T14:30:00+00:00",
+      "excerpt": "Samsung doesn't just make great phone and tablet hardware; its One UI is also a standout, offering many features you just can't get elsewhere.",
+      "image": "https://www.engadget.com/img/gallery/5-samsung-one-ui-features-you-wont-get-with-other-android-phones/l-intro-1793169184.jpg",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "e75b03e47406",
+      "title": "What is a PDF reader and do you really need a dedicated one on your phone?",
+      "url": "https://www.engadget.com/2300318/what-is-pdf-reader-do-you-need-on-phone/",
+      "source": "Engadget",
+      "published": "2026-10-31T14:15:00+00:00",
+      "excerpt": "If you don't know what a PDF reader for your phone is, this is the time to learn about it all. You may be in need of one to make your life easier.",
+      "image": "https://www.engadget.com/img/gallery/what-is-a-pdf-reader-and-do-you-really-need-a-dedicated-one-on-your-phone/l-intro-1792788909.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "8629cb13d327",
+      "title": "I took two iPhones on vacation. The Duo won me over.",
+      "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
+      "source": "TechCrunch",
+      "published": "2026-10-31T14:00:00+00:00",
+      "excerpt": "The iPhone Duo has its frustrations, but it\u2019s also fun and engaging enough that I didn\u2019t want to switch back to my Pro Max.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
+      "category": "Software Development"
+    },
+    {
+      "id": "542a64f56345",
+      "title": "Microsoft really wants you to sell that Xbox you're not using",
+      "url": "https://www.engadget.com/2299867/microsoft-really-wants-you-to-sell-that-xbox-youre-not-using/",
+      "source": "Engadget",
+      "published": "2026-10-31T14:00:00+00:00",
+      "excerpt": "Microsoft wants owners to trade in their unused Xbox Series X and S consoles. Here's what's behind the push, and what to know before you take the deal.",
+      "image": "https://www.engadget.com/img/gallery/microsoft-really-wants-you-to-sell-that-xbox-youre-not-using/l-intro-1793129533.jpg",
+      "category": "Enterprise Software & SaaS"
+    },
     {
       "id": "6348bf857044",
       "title": "Here's how much the iPhone Pro cost in 2019 vs. 2026",
@@ -208,7 +408,7 @@
       "source": "TechCrunch",
       "published": "2026-10-30T21:26:59+00:00",
       "excerpt": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2170662558.jpg?resize=1200,800",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -218,7 +418,7 @@
       "source": "TechCrunch",
       "published": "2026-10-30T21:17:40+00:00",
       "excerpt": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/mick-haupt-7Kv1Elbagcc-unsplash.jpg?resize=1200,800",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -288,7 +488,7 @@
       "source": "TechCrunch",
       "published": "2026-10-30T19:55:13+00:00",
       "excerpt": "Like a real-life episode of \"Suits,\" the demise of famed white-shoe Wall Street law firm Weil, Gotshal & Manges has been the talk of the legal industry. And now an AI firm has entered the picture.",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/06/Crosby-cofounders.jpg?resize=1200,900",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -338,7 +538,7 @@
       "source": "TechCrunch",
       "published": "2026-10-30T18:01:24+00:00",
       "excerpt": "Satlyt ran a successful test this month bringing it closer to turning spacecraft, starting with satellites, into virtual data centers.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Just_Super-Getty.jpg?resize=1200,750",
+      "image": "",
       "category": "Data & Analytics"
     },
     {
@@ -358,7 +558,7 @@
       "source": "TechCrunch",
       "published": "2026-10-30T17:47:12+00:00",
       "excerpt": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/zest.jpg?resize=1200,764",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -400,206 +600,6 @@
       "excerpt": "I\u2019m finally ready to upgrade to a smart calendar \u2013 and Amazon\u2019s newest Echo device looks like an organizational solution for my family and I.",
       "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Echo-Show-16-Features-Alexa-Home-1920x1080-1.png",
       "category": "Software Development"
-    },
-    {
-      "id": "fc6c72287137",
-      "title": "Google\u2019s first data center satellite is online and writing poetry",
-      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-      "source": "TechCrunch",
-      "published": "2026-10-30T17:00:00+00:00",
-      "excerpt": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
-      "image": "",
-      "category": "Cloud Computing"
-    },
-    {
-      "id": "46d8d781bead",
-      "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
-      "url": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
-      "source": "The Hacker News",
-      "published": "2026-10-30T16:58:44+00:00",
-      "excerpt": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simultaneously. The activity has been...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP1M46Z4Xs0qNHz9xzhTea14XsqTHvNhAfnGb4Ni9goHQR2ypz3BLKRgu-WxWD8VSUNMB3YAP7UhcCAK1AweCc3lC-7VlJ-OqNniD4FvZdE_R-XJkkRadhl2tp3-PqbKPWmQTeJ3a3gvd1kHH_zaW06tCf9cH-7k5feNqHrqbChMAsc5K3hruiX9BDROAe/s1600/CS.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "17c84f5aa1fe",
-      "title": "Your Netgear router may be vulnerable to a security exploit \u2013 how to check and patch it",
-      "url": "https://www.zdnet.com/tech/netgear-routers-vulnerable-security-exploit/",
-      "source": "ZDNET",
-      "published": "2026-10-30T16:58:22+00:00",
-      "excerpt": "A vulnerability in some Netgear routers could allow an attacker with access to your network to run malicious commands on the device.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/wirelessred-GettyImages-865321186.jpg",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "73fe99855808",
-      "title": "Deep Google Store discounts on Pixel 11, Pixel Watch 5 start early",
-      "url": "https://9to5google.com/2026/10/30/google-store-pixel-11-early-deals/",
-      "source": "9to5Google",
-      "published": "2026-10-30T16:57:47+00:00",
-      "excerpt": "Like other retailers, the US Google Store is already starting Black Friday-level discounts on the Pixel 11 series and Pixel Watch 5 at the end of October. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Pixel-11-family.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "2a3018076536",
-      "title": "Will Galaxy S27 Ultra and Pixel 12 mark the end of the flagship era of smartphones?",
-      "url": "https://9to5google.com/2026/10/30/galaxy-s27-ultra-pixel-12-end-flagship-era/",
-      "source": "9to5Google",
-      "published": "2026-10-30T16:30:00+00:00",
-      "excerpt": "Like most Android fans, you probably enjoy having the latest and greatest smartphone buried in your pocket. The best camera, the best display, the fastest processor, and of course, as much RAM as any given smartphone OEM will pack in. And...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/S26-Ultra-Pixel-11-Pro-and-iPhone-17-Pro.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "f9f920ea17e4",
-      "title": "New tvOS 27.2 features to try for an upgraded Apple TV experience",
-      "url": "https://www.engadget.com/2302449/tvos-27-2-features-try-upgraded-apple-tv-experience/",
-      "source": "Engadget",
-      "published": "2026-10-30T16:22:49+00:00",
-      "excerpt": "Apple's tvOS 27.2 update isn't a particularly transformative one, but it still introduces a handful of new features that are worth checking out.",
-      "image": "https://www.engadget.com/img/gallery/new-tvos-27-2-features-to-try-for-an-upgraded-apple-tv-experience/l-intro-1793349181.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "369af9c4977c",
-      "title": "Google\u2019s latest Home updates just fixed my biggest annoyances with its speakers and cameras",
-      "url": "https://www.zdnet.com/home-and-office/google-home-gemini-updates-42-fixes/",
-      "source": "ZDNET",
-      "published": "2026-10-30T16:14:11+00:00",
-      "excerpt": "Google details 42 fixes to its Home app and the devices compatible with it.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/1_341369.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "fe1196113f3c",
-      "title": "Pixel 6 postmortem: How Google\u2019s flawed reboot defined future hardware [Video]",
-      "url": "https://9to5google.com/2026/10/30/pixel-6-postmortem/",
-      "source": "9to5Google",
-      "published": "2026-10-30T16:05:00+00:00",
-      "excerpt": "I think there are few smartphones in the past decade that have arrived carrying the sheer weight of expectation that greeted the Pixel 6 and Pixel 6 Pro in late 2021. Now on life support , just what did we learn from 2021\u2019s reboot for the...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2022/11/Google-Pixel-6.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "d906f2ca87fc",
-      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is \u2018a great opportunity to go deceive people\u2019",
-      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-      "source": "TechCrunch",
-      "published": "2026-10-30T16:03:45+00:00",
-      "excerpt": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
-      "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "a5a73403e980",
-      "title": "The Wikimedia Foundation weighs in on the NYT's case against OpenAI",
-      "url": "https://www.engadget.com/2302374/the-wikimedia-foundation-weighs-in-on-the-nyts-case-against-openai/",
-      "source": "Engadget",
-      "published": "2026-10-30T15:47:12+00:00",
-      "excerpt": "The folks behind Wikipedia say that an extreme decision in either direction could threaten the open web.",
-      "image": "https://www.engadget.com/img/gallery/the-wikimedia-foundation-weighs-in-on-the-nyts-case-against-openai/l-intro-1793374984.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "303a9d0d793d",
-      "title": "Deals: Week 1 early Black Friday Doorbusters, Pixel 11 series up to $350 off, Pixel Watch 5 $100 off, more (All-time lows)",
-      "url": "https://9to5google.com/2026/10/30/deals-black-friday-doorbusters-pixel-11-pixel-watch-5/",
-      "source": "9to5Google",
-      "published": "2026-10-30T15:27:39+00:00",
-      "excerpt": "The Week 1 early Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold at up to $350 off . Those deals join $100 off all Pixel Watch 5 models, the latest Google Pixel Buds Pro 2 at over 25% off \u2013 including the new Olive set sitting at its...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/9to5Google-Oct-30.webp?w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "bfec2004bdb1",
-      "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
-      "url": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
-      "source": "The Hacker News",
-      "published": "2026-10-30T15:17:28+00:00",
-      "excerpt": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes control is the viewer, and the machine...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge-ZayNgwlu4fhpD2BSyGgkMYehkV0atRJINisISPLpiubkgyXopa4NWVnxOZs9gi-DEYTNEQ5G2pu-X5iSHyMp8pguzp-Q6g-1-mGwcy3so4AkeuYFuYoaotOcmF5A-2oVDvnxd0B_FaZ7JJt8W3zrNFot6kBlJp7WffHkb7m92C9bNQnwFLwnNgXpDk/s1600/teamviewer-flaw.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "b2cc912cf9de",
-      "title": "Pixel Watch 5 matches all-time low price on Amazon",
-      "url": "https://9to5google.com/2026/10/30/pixel-watch-5-hit-an-all-time-low-price-on-amazon/",
-      "source": "9to5Google",
-      "published": "2026-10-30T14:52:53+00:00",
-      "excerpt": "Black Friday is still weeks away, but holiday tech discounts are already arriving early. Joining the recent price drops across Google\u2019s flagship hardware lineup, the Google Pixel Watch 5 has once again hit its lowest price ever on Amazon...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-Watch-5-and-Pixel-11.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "b19c5c60860f",
-      "title": "Google says Android Auto video apps are still \u2018coming soon\u2019 as deadline nears",
-      "url": "https://9to5google.com/2026/10/30/google-android-auto-video-apps-deadline/",
-      "source": "9to5Google",
-      "published": "2026-10-30T14:30:00+00:00",
-      "excerpt": "In a brief update at its latest dev conference, Google says that video and browser apps for Android Auto are still \u201ccoming soon,\u201d with the company\u2019s self-imposed deadline approaching quickly. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/Android-Auto-new-Widgets-3.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "faea81d36f03",
-      "title": "This electric screwdriver uses a camera and AI to figure out what bit you need",
-      "url": "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter",
-      "source": "The Verge",
-      "published": "2026-10-30T14:23:26+00:00",
-      "excerpt": "Companies like Hoto and Fanttik have elevated the design and functionality of tools like electric screwdrivers, but Arrowmax wants to make them smarter by adding a camera and AI that work together to eliminate the trial and error of...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/arrowspace1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "cd5c6bb30fa1",
-      "title": "Nothing OS 5.0 (Android 17) is now rolling out to Nothing 4a and 3a series phones",
-      "url": "https://9to5google.com/2026/10/30/nothing-os-5-0-android-17-is-now-rolling-out-to-nothing-4a-and-3a-series-phones/",
-      "source": "9to5Google",
-      "published": "2026-10-30T14:20:00+00:00",
-      "excerpt": "Nothing Phone 3a, 3a Pro, 4a, and 4a Pro owners are in for a treat with the Nothing OS 5.0 update, now rolling out to all four phone models globally. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/nothing-phone-4a-pro-october.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "6473fc7702e5",
-      "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
-      "url": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
-      "source": "The Hacker News",
-      "published": "2026-10-30T14:08:14+00:00",
-      "excerpt": "Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released. The vulnerability, which does not have a CVE identifier, relates to a case of remote code execution...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf-pzflJO9HQoCdvBvYNtS12gwwEjAbM4dQ30ak7UYaIPzsVPN9MlFwvIDEFkbe9cWg4wQRFPbGfJ0YXjzGcBS6mUTwttwkQ8IR7OoHyTz3owZkVzYQOAObyJUqfjsC-PqMw2pv41_m68hb6ZkwJb56kGx-Ypv7GWZBtDzjyTTQ8L8i9NxA8_MDVoJSEba/s1600/wp-hack.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "d5593fe6310d",
-      "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
-      "url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
-      "source": "TechCrunch",
-      "published": "2026-10-30T14:00:25+00:00",
-      "excerpt": "Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto.",
-      "image": "",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "62373f3f48e1",
-      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-      "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-      "source": "TechCrunch",
-      "published": "2026-10-30T14:00:00+00:00",
-      "excerpt": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings...",
-      "image": "",
-      "category": "Software Development"
-    },
-    {
-      "id": "e9e7beb52b83",
-      "title": "DoorDash said it\u2019s only received \u2018several hundred\u2019 orders from AI agents",
-      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-      "source": "TechCrunch",
-      "published": "2026-10-30T13:54:25+00:00",
-      "excerpt": "DoorDash said that it is open to working with third-party agent makers.",
-      "image": "",
-      "category": "Artificial Intelligence"
     }
   ]
 }
