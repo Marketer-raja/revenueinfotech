@@ -1,6 +1,46 @@
 {
-  "updated": "2026-10-31T00:46:20+00:00",
+  "updated": "2026-10-31T06:58:56+00:00",
   "items": [
+    {
+      "id": "e8eb82345a00",
+      "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
+      "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
+      "source": "The Hacker News",
+      "published": "2026-10-31T05:33:41+00:00",
+      "excerpt": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at the security firm Parameter showed. The researchers reported...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEplEzMjNIg5IBNIX4uz_WyVhtJqqbKICvvpW5LbwPEsQVd4ypSQC1ISnXoR0pMLlQEF4erNUIf-5-ELvBXIE8VH2Iv7dCPCuaZAFVeS9VIITs_5e_77DwtIvo3ExUcfJC_aT4x3FDD3AmTKeQFKnOrufXorlbiHOJNO-pUhwzBNwL98r-2JSW2CWiTBs/s1600/chatgpt.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "21ad2182a136",
+      "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
+      "url": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
+      "source": "The Hacker News",
+      "published": "2026-10-31T04:56:12+00:00",
+      "excerpt": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company said it autonomously mitigated 18.2 million...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9-PGmRcZy9OvjKNOWHrGVMpF2DhnvIrHU6mOwyroU7CeoEKMkrjCt8HxCKBzAOia6ZpDEvTuQcF2Xg_50vE_W8DdjmLJjxMXPUUm5Ryfym8GBhm74Z6jwZCeXSKgxuK6A57rVsM-Z1G8nfEF3Mn8QgoD77Nbqxakkj_ZxbBNDtp0ljvTKrXydLYm1BFZR/s1600/cf.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "c6b2d3ea7917",
+      "title": "Nvidia weighs playing the cosigner for Nscale\u2019s AI data center in West Virginia",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "source": "TechCrunch",
+      "published": "2026-10-31T01:20:05+00:00",
+      "excerpt": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "824106f63d96",
+      "title": "Samsung mercilessly mocks iPhone Duo \u2018crackgate\u2019 in Galaxy Z Fold 8 ads [Video]",
+      "url": "https://9to5google.com/2026/10/30/samsung-mocks-iphone-duo-crackgate-galaxy-z-fold-8/",
+      "source": "9to5Google",
+      "published": "2026-10-31T01:20:00+00:00",
+      "excerpt": "Samsung isn\u2019t holding back when it comes to the iPhone Duo\u2019s messy start. In new ads, the company mocks iPhone Duo\u2019s \u201ccrackgate\u201d with a push for customers to buy the Galaxy Z Fold 8 instead, and there\u2019s not an ounce of subtlety here. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/galaxy-z-fold-8-iphone-duo-crackgate.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
     {
       "id": "08a6fc069d4a",
       "title": "Salesforce\u2019s M&A spree continues with a reported $375M deal for defense tech startup Rune",
@@ -559,46 +599,6 @@
       "published": "2026-10-30T11:58:53+00:00",
       "excerpt": "The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the change won\u2019t break anything. Their concerns are...",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitJWSYL167QzDoyvN2y9DAuXmFFe0en34dEHp-I2sSVLEPIfljdlRfeIthyMQUgSvf9AfwW4p-solbE5zH3cKpfeLKWg-IqPnVdHbKQ99Bw91fDAoqHx3E9mlpNmXYA5i3RnaTYxZYkZcwbeY31O4CljtFQYp2JPLTmJo1BI09Al9Kh-CDtzFubVly7hM/s1600/cp.jpg",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "ab2d8c132145",
-      "title": "Binance hackers stole $6.3 billion in record-breaking crypto heist",
-      "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
-      "source": "The Verge",
-      "published": "2026-10-30T11:44:53+00:00",
-      "excerpt": "Binance has disclosed that $6.3 billion worth of crypto funds have been stolen from the platform, in what's believed to be the biggest cryptocurrency hack on record. In a series of updates posted to X, the crypto exchange said that user...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK428_CRYPTO_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "9b3dd62924e0",
-      "title": "YouTube for Google TV update gives YouTube Music a distracting red logo I can\u2019t stand",
-      "url": "https://9to5google.com/2026/10/30/youtube-google-tv-music-update-change/",
-      "source": "9to5Google",
-      "published": "2026-10-30T11:30:00+00:00",
-      "excerpt": "YouTube is rolling out, or at least testing, a new update on Google TV that makes YouTube Music stand out like a sore thumb, and I am not a fan. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/10/YouTube-Google-TV-1.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "2fc1d050c21d",
-      "title": "Google rolling out software updates for these Nest Cam and Doorbell models",
-      "url": "https://9to5google.com/2026/10/30/google-nest-cam-doorbell-updates-2026/",
-      "source": "9to5Google",
-      "published": "2026-10-30T11:00:00+00:00",
-      "excerpt": "Alongside updates to several of its other smart home devices, Google is rolling out software updates to several Nest Cam and Doorbell models. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2020/07/google_nest_cam_iq_indoor_2.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "6734aa3aec6c",
-      "title": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
-      "url": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
-      "source": "The Hacker News",
-      "published": "2026-10-30T10:40:45+00:00",
-      "excerpt": "Ahmad Umar Agha, a Syrian Electronic Army hacker known online as \"Th3Pr0,\" has been sentenced by a U.S. federal court to 42 months in prison for his role in a hacking conspiracy that targeted Western news outlets. The conspiracy was...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxhyw9NKYcR8Nkb28O8I-MA0sr3NhXC_Xr7gjpFqZKFd-29F8pGa5TCuIL2GTBPLAPzQ9iW5DsU_2zK-pUWIar_TdJdKiQMsptNjA-XxvVwMACBSQR9tW_qAC8d7I21YdqraYoY5LdWCRE8vKXjrxYCEW8X7ZbPulwCzdTdxODqnMuJbqQUZStRMRiKHc/s1600/tweets.jpg",
       "category": "Cybersecurity"
     }
   ]
