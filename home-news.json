@@ -1,7 +1,67 @@
 {
-  "updated": "2026-10-31T22:27:33+00:00",
+  "updated": "2026-11-01T02:12:22+00:00",
   "auto": true,
   "items": [
+    {
+      "id": "14adf4af5d99",
+      "title": "Amazon made the AUX input on older Alexa devices less useful",
+      "summary": "Amazon has made a quiet change to older Echo speakers that will leave owners rethinking how they use their devices and manage their home audio setups.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2300219/amazon-made-alexa-devices-aux-port-less-useful/",
+      "image": "https://www.engadget.com/img/gallery/amazon-made-the-aux-input-on-older-alexa-devices-less-useful/l-intro-1793052674.jpg",
+      "category": "Software Development",
+      "section": "hero",
+      "featured": true,
+      "published": "2026-11-01T00:00:00+00:00"
+    },
+    {
+      "id": "e3437f62d888",
+      "title": "How big and powerful is SpaceX's Starship rocket?",
+      "summary": "SpaceX's Starship has a big role to play in NASA's plans to land astronauts on the Moon. Here's how big this rocket is and how its two stages work together.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2300227/how-big-powerful-spacex-starship-rocket/",
+      "image": "https://www.engadget.com/img/gallery/how-big-and-powerful-is-spacexs-starship-rocket/l-intro-1793113657.jpg",
+      "category": "Software Development",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-31T23:45:00+00:00"
+    },
+    {
+      "id": "0d92a529dc5b",
+      "title": "Why your Apple AirPods' battery drains so fast and how to make it last longer",
+      "summary": "It's annoying when your Apple AirPods run out of juice, but the culprit might not be what you think. Here's what's going on and what you can do about it.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2300231/why-airpods-battery-drains-fast-how-to-fix/",
+      "image": "https://www.engadget.com/img/gallery/why-your-apple-airpods-battery-drains-so-fast-and-how-to-make-it-last-longer/l-intro-1793108793.jpg",
+      "category": "Software Development",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-31T23:30:00+00:00"
+    },
+    {
+      "id": "c5be327e34e7",
+      "title": "The Slate vs Ford Fathom debate might be settled by this one key tech feature",
+      "summary": "Slate and Ford are both building affordable electric pickups, and that means compromises. But the two automakers are taking very different paths to get there.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2300238/slate-vs-ford-fathom-android-auto-carplay-support/",
+      "image": "https://www.engadget.com/img/gallery/the-slate-vs-ford-fathom-debate-might-be-settled-by-this-one-key-tech-feature/l-intro-1793026890.jpg",
+      "category": "Software Development",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-10-31T23:00:00+00:00"
+    },
+    {
+      "id": "80aba8eef7b8",
+      "title": "4 important features you should know if you use Microsoft Teams",
+      "summary": "A wealth of not-so-well-known features on Microsoft Teams make the experience easier and more stress-free than you may have previously thought.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2300242/important-features-should-know-microsoft-teams/",
+      "image": "https://www.engadget.com/img/gallery/4-important-features-you-should-know-if-you-use-microsoft-teams/l-intro-1792773541.jpg",
+      "category": "Enterprise Software & SaaS",
+      "section": "latest",
+      "featured": false,
+      "published": "2026-10-31T22:45:00+00:00"
+    },
     {
       "id": "76291720e125",
       "title": "5 Netflix tips we all wish we knew sooner",
@@ -10,8 +70,8 @@
       "url": "https://www.engadget.com/2300249/netflix-download-speeds-offline-tricks-wish-knew-sooner/",
       "image": "https://www.engadget.com/img/gallery/5-netflix-tips-we-all-wish-we-knew-sooner/l-intro-1792783972.jpg",
       "category": "Software Development",
-      "section": "hero",
-      "featured": true,
+      "section": "latest",
+      "featured": false,
       "published": "2026-10-31T22:00:00+00:00"
     },
     {
@@ -22,7 +82,7 @@
       "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
       "category": "Artificial Intelligence",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-31T21:41:00+00:00"
     },
@@ -34,7 +94,7 @@
       "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
       "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800",
       "category": "Enterprise Software & SaaS",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-31T21:36:07+00:00"
     },
@@ -46,7 +106,7 @@
       "url": "https://www.engadget.com/2302450/why-apple-airpods-wont-connect-to-iphone-fixes/",
       "image": "https://www.engadget.com/img/gallery/why-your-apple-airpods-wont-connect-to-your-iphone-and-how-can-you-fix-it/l-intro-1793293868.jpg",
       "category": "Software Development",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-31T21:00:00+00:00"
     },
@@ -70,7 +130,7 @@
       "url": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268834_Keyboards_of_the_Verge_CVirginia4.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-31T19:30:00+00:00"
     },
@@ -82,7 +142,7 @@
       "url": "https://www.engadget.com/2302428/best-roku-streaming-stick-depends-on-picture-quality-needs/",
       "image": "https://www.engadget.com/img/gallery/the-best-roku-streaming-stick-depends-on-your-picture-quality-needs/l-intro-1793294370.jpg",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-31T19:00:00+00:00"
     },
@@ -94,7 +154,7 @@
       "url": "https://www.engadget.com/2298547/why-mac-keeps-disconnecting-airpods/",
       "image": "https://www.engadget.com/img/gallery/why-your-airpods-keep-disconnecting-without-warning-these-settings-can-fix-it/l-intro-1793121072.jpg",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-31T18:45:00+00:00"
     },
@@ -106,7 +166,7 @@
       "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK428_CRYPTO_3_D.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-31T18:40:32+00:00"
     },
@@ -118,7 +178,7 @@
       "url": "https://www.engadget.com/2300253/how-to-use-claude-duet/",
       "image": "https://www.engadget.com/img/gallery/how-to-use-claude-duet-when-it-rolls-out-to-you/l-intro-1792786501.jpg",
       "category": "Artificial Intelligence",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-31T18:30:00+00:00"
     },
@@ -142,7 +202,7 @@
       "url": "https://www.engadget.com/2301962/bolt-graphics-powers-on-first-zeus-gpu/",
       "image": "https://www.engadget.com/img/gallery/bolt-graphics-powers-on-its-first-zeus-gpu/l-intro-1793343335.jpg",
       "category": "Artificial Intelligence",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-31T17:30:00+00:00"
     },
@@ -154,7 +214,7 @@
       "url": "https://www.engadget.com/2301961/samsung-galaxy-watches-not-getting-one-ui-update/",
       "image": "https://www.engadget.com/img/gallery/these-samsung-galaxy-watches-wont-be-getting-the-new-one-ui-update/l-intro-1793353080.jpg",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-31T17:15:00+00:00"
     },
@@ -166,7 +226,7 @@
       "url": "https://www.engadget.com/2301246/how-to-fix-phone-screen-unresponsive-to-touch/",
       "image": "https://www.engadget.com/img/gallery/how-to-fix-your-phone-screen-when-its-unresponsive-to-touch/l-intro-1793286831.jpg",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-31T17:00:00+00:00"
     },
@@ -178,7 +238,7 @@
       "url": "https://www.engadget.com/2301243/how-building-cheap-home-server-save-money/",
       "image": "https://www.engadget.com/img/gallery/how-building-a-cheap-home-server-could-save-you-money-in-the-long-run/l-intro-1793284498.jpg",
       "category": "Cloud Computing",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-31T16:45:00+00:00"
     },
@@ -190,7 +250,7 @@
       "url": "https://www.engadget.com/2300259/why-spotify-uses-so-much-storage/",
       "image": "https://www.engadget.com/img/gallery/why-your-spotify-might-be-using-so-much-storage/l-intro-1793029233.jpg",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-31T16:30:00+00:00"
     },
@@ -661,66 +721,6 @@
       "section": "none",
       "featured": false,
       "published": "2026-10-30T21:00:00+00:00"
-    },
-    {
-      "id": "e6a83342c0c5",
-      "title": "Sam Altman says it\u2019s better for RAM to be in a data center than on your desk",
-      "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where...",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Data & Analytics",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-30T20:48:43+00:00"
-    },
-    {
-      "id": "25a528e218b1",
-      "title": "The biggest names in AI are backing a new way to opt out of scraping",
-      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI...",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-30T20:26:10+00:00"
-    },
-    {
-      "id": "0ca5d66837e7",
-      "title": "Meta settles another social media addiction case just before trial",
-      "summary": "Snap is now the only defendant in the case.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2302956/meta-settles-another-social-media-addiction-case-just-before-trial/",
-      "image": "https://www.engadget.com/img/gallery/meta-settles-another-social-media-addiction-case-just-before-trial/l-intro-1793391515.jpg",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-30T20:21:28+00:00"
-    },
-    {
-      "id": "0f90f553dcd8",
-      "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
-      "summary": "Like a real-life episode of \"Suits,\" the demise of famed white-shoe Wall Street law firm Weil, Gotshal & Manges has been the talk of the legal industry. And now an AI firm has entered the picture.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
-      "image": "",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-30T19:55:13+00:00"
-    },
-    {
-      "id": "b0aaba43413d",
-      "title": "The 12th Google Store is opening on November 6",
-      "summary": "Following San Diego and Tokyo in 2026, the next Google Store is opening in Houston on November 6. This is the company\u2019s 11th retail location in the US and 12th globally. more\u2026",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/30/google-store-houston/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2023/09/google-store-logo-3.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-30T19:37:58+00:00"
     }
   ]
 }

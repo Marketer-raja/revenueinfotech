@@ -1,6 +1,56 @@
 {
-  "updated": "2026-10-31T22:27:33+00:00",
+  "updated": "2026-11-01T02:12:22+00:00",
   "items": [
+    {
+      "id": "14adf4af5d99",
+      "title": "Amazon made the AUX input on older Alexa devices less useful",
+      "url": "https://www.engadget.com/2300219/amazon-made-alexa-devices-aux-port-less-useful/",
+      "source": "Engadget",
+      "published": "2026-11-01T00:00:00+00:00",
+      "excerpt": "Amazon has made a quiet change to older Echo speakers that will leave owners rethinking how they use their devices and manage their home audio setups.",
+      "image": "https://www.engadget.com/img/gallery/amazon-made-the-aux-input-on-older-alexa-devices-less-useful/l-intro-1793052674.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "e3437f62d888",
+      "title": "How big and powerful is SpaceX's Starship rocket?",
+      "url": "https://www.engadget.com/2300227/how-big-powerful-spacex-starship-rocket/",
+      "source": "Engadget",
+      "published": "2026-10-31T23:45:00+00:00",
+      "excerpt": "SpaceX's Starship has a big role to play in NASA's plans to land astronauts on the Moon. Here's how big this rocket is and how its two stages work together.",
+      "image": "https://www.engadget.com/img/gallery/how-big-and-powerful-is-spacexs-starship-rocket/l-intro-1793113657.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "0d92a529dc5b",
+      "title": "Why your Apple AirPods' battery drains so fast and how to make it last longer",
+      "url": "https://www.engadget.com/2300231/why-airpods-battery-drains-fast-how-to-fix/",
+      "source": "Engadget",
+      "published": "2026-10-31T23:30:00+00:00",
+      "excerpt": "It's annoying when your Apple AirPods run out of juice, but the culprit might not be what you think. Here's what's going on and what you can do about it.",
+      "image": "https://www.engadget.com/img/gallery/why-your-apple-airpods-battery-drains-so-fast-and-how-to-make-it-last-longer/l-intro-1793108793.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "c5be327e34e7",
+      "title": "The Slate vs Ford Fathom debate might be settled by this one key tech feature",
+      "url": "https://www.engadget.com/2300238/slate-vs-ford-fathom-android-auto-carplay-support/",
+      "source": "Engadget",
+      "published": "2026-10-31T23:00:00+00:00",
+      "excerpt": "Slate and Ford are both building affordable electric pickups, and that means compromises. But the two automakers are taking very different paths to get there.",
+      "image": "https://www.engadget.com/img/gallery/the-slate-vs-ford-fathom-debate-might-be-settled-by-this-one-key-tech-feature/l-intro-1793026890.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "80aba8eef7b8",
+      "title": "4 important features you should know if you use Microsoft Teams",
+      "url": "https://www.engadget.com/2300242/important-features-should-know-microsoft-teams/",
+      "source": "Engadget",
+      "published": "2026-10-31T22:45:00+00:00",
+      "excerpt": "A wealth of not-so-well-known features on Microsoft Teams make the experience easier and more stress-free than you may have previously thought.",
+      "image": "https://www.engadget.com/img/gallery/4-important-features-you-should-know-if-you-use-microsoft-teams/l-intro-1792773541.jpg",
+      "category": "Enterprise Software & SaaS"
+    },
     {
       "id": "76291720e125",
       "title": "5 Netflix tips we all wish we knew sooner",
@@ -550,56 +600,6 @@
       "excerpt": "Welcome to Pixelated episode 123. This week, Damien and Abner share their earliest impressions of the Fitbit Edge, Google\u2019s latest fitness tracker that promises to split the difference between the Fitbit Air and the Pixel Watch 5. After...",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&strip=all&w=1600",
       "category": "Data & Analytics"
-    },
-    {
-      "id": "e6a83342c0c5",
-      "title": "Sam Altman says it\u2019s better for RAM to be in a data center than on your desk",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-      "source": "The Verge",
-      "published": "2026-10-30T20:48:43+00:00",
-      "excerpt": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Data & Analytics"
-    },
-    {
-      "id": "25a528e218b1",
-      "title": "The biggest names in AI are backing a new way to opt out of scraping",
-      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-      "source": "The Verge",
-      "published": "2026-10-30T20:26:10+00:00",
-      "excerpt": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "0ca5d66837e7",
-      "title": "Meta settles another social media addiction case just before trial",
-      "url": "https://www.engadget.com/2302956/meta-settles-another-social-media-addiction-case-just-before-trial/",
-      "source": "Engadget",
-      "published": "2026-10-30T20:21:28+00:00",
-      "excerpt": "Snap is now the only defendant in the case.",
-      "image": "https://www.engadget.com/img/gallery/meta-settles-another-social-media-addiction-case-just-before-trial/l-intro-1793391515.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "0f90f553dcd8",
-      "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
-      "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
-      "source": "TechCrunch",
-      "published": "2026-10-30T19:55:13+00:00",
-      "excerpt": "Like a real-life episode of \"Suits,\" the demise of famed white-shoe Wall Street law firm Weil, Gotshal & Manges has been the talk of the legal industry. And now an AI firm has entered the picture.",
-      "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "b0aaba43413d",
-      "title": "The 12th Google Store is opening on November 6",
-      "url": "https://9to5google.com/2026/10/30/google-store-houston/",
-      "source": "9to5Google",
-      "published": "2026-10-30T19:37:58+00:00",
-      "excerpt": "Following San Diego and Tokyo in 2026, the next Google Store is opening in Houston on November 6. This is the company\u2019s 11th retail location in the US and 12th globally. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2023/09/google-store-logo-3.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
     }
   ]
 }
