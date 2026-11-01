@@ -1,7 +1,55 @@
 {
-  "updated": "2026-11-01T02:12:22+00:00",
+  "updated": "2026-11-01T09:13:12+00:00",
   "auto": true,
   "items": [
+    {
+      "id": "2a3e4a8e199c",
+      "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
+      "summary": "Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded from an outside...",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe0B28qLAtUMfqN29_phxZJVJORICkj_98MZFwDiXAxFTABw8G9qbsVyD98pg7T_Rvgv83NXyR5tNGYH4dRwlxs3QFTUZxDPHQs2BgFsnmGcOuVW1HkFVCfiCR3Y05kPQrfFx4S7A8DiFXXAAgdc5SiEKx0-0xrW5rNlNSyN3jZJcyXasdpCr5AG7KM3s/s1600/Polymarket.jpg",
+      "category": "Software Development",
+      "section": "hero",
+      "featured": true,
+      "published": "2026-11-01T07:25:40+00:00"
+    },
+    {
+      "id": "be08e34bf976",
+      "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
+      "summary": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia. The activity, detailed by Kaspersky this week, targeted a custom Windows 10...",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy0oLNj9TVg8ifLKdJSg4HH1EhN3m_OBldd7wEIeVoQSHtFXSmsiPdmf-njsPD-CbVHY8NckeW2N9rN8-CTnp81zaeFq-ISj04O7ihoj5HgnvJT_zY_0fdC8vCcd5LXL8Mx9ym1fPI5GMrEtjxZoEiernCr_CZwLocgtrJsKZzixEnYUe2WmkehWLNR2hx/s1600/windows-hacker.jpg",
+      "category": "Operating Systems",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-11-01T07:02:58+00:00"
+    },
+    {
+      "id": "6e20a9798345",
+      "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima...",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmb1j0HC3RkKxZ4bBQPaOa5GaLqC2EBtxXHOMnebPlgHGDJG7ryIuSBIR-9YBQuUm6HwD15-OJQgBvIkhbLIApM8XoU0DptSEF6DNhEpinxPA-06wQZhLhRiKmFGO5cVjONcaouGC3lqybhkeEsZj-xebX6u6hSR19mS7sVqOrpR02qNOlpHZJEUjf1HtB/s1600/binance-hack.png",
+      "category": "Software Development",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-11-01T06:44:27+00:00"
+    },
+    {
+      "id": "8a042d77f1d6",
+      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member\u2019s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Newsreel-Midterm-Madness-22.jpg?resize=1200,800",
+      "category": "Data & Analytics",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-11-01T02:22:10+00:00"
+    },
     {
       "id": "14adf4af5d99",
       "title": "Amazon made the AUX input on older Alexa devices less useful",
@@ -10,8 +58,8 @@
       "url": "https://www.engadget.com/2300219/amazon-made-alexa-devices-aux-port-less-useful/",
       "image": "https://www.engadget.com/img/gallery/amazon-made-the-aux-input-on-older-alexa-devices-less-useful/l-intro-1793052674.jpg",
       "category": "Software Development",
-      "section": "hero",
-      "featured": true,
+      "section": "latest",
+      "featured": false,
       "published": "2026-11-01T00:00:00+00:00"
     },
     {
@@ -22,7 +70,7 @@
       "url": "https://www.engadget.com/2300227/how-big-powerful-spacex-starship-rocket/",
       "image": "https://www.engadget.com/img/gallery/how-big-and-powerful-is-spacexs-starship-rocket/l-intro-1793113657.jpg",
       "category": "Software Development",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-31T23:45:00+00:00"
     },
@@ -34,7 +82,7 @@
       "url": "https://www.engadget.com/2300231/why-airpods-battery-drains-fast-how-to-fix/",
       "image": "https://www.engadget.com/img/gallery/why-your-apple-airpods-battery-drains-so-fast-and-how-to-make-it-last-longer/l-intro-1793108793.jpg",
       "category": "Software Development",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-31T23:30:00+00:00"
     },
@@ -46,7 +94,7 @@
       "url": "https://www.engadget.com/2300238/slate-vs-ford-fathom-android-auto-carplay-support/",
       "image": "https://www.engadget.com/img/gallery/the-slate-vs-ford-fathom-debate-might-be-settled-by-this-one-key-tech-feature/l-intro-1793026890.jpg",
       "category": "Software Development",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-10-31T23:00:00+00:00"
     },
@@ -82,7 +130,7 @@
       "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
       "category": "Artificial Intelligence",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-31T21:41:00+00:00"
     },
@@ -94,7 +142,7 @@
       "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
       "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800",
       "category": "Enterprise Software & SaaS",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-31T21:36:07+00:00"
     },
@@ -106,7 +154,7 @@
       "url": "https://www.engadget.com/2302450/why-apple-airpods-wont-connect-to-iphone-fixes/",
       "image": "https://www.engadget.com/img/gallery/why-your-apple-airpods-wont-connect-to-your-iphone-and-how-can-you-fix-it/l-intro-1793293868.jpg",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-31T21:00:00+00:00"
     },
@@ -118,7 +166,7 @@
       "url": "https://www.engadget.com/2302431/brandon-stirrup-xbox-manager-says-ai-used-game-development/",
       "image": "https://www.engadget.com/img/gallery/xbox-manager-says-ai-is-already-being-used-in-game-development/l-intro-1793296757.jpg",
       "category": "Artificial Intelligence",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-10-31T20:00:00+00:00"
     },
@@ -154,7 +202,7 @@
       "url": "https://www.engadget.com/2298547/why-mac-keeps-disconnecting-airpods/",
       "image": "https://www.engadget.com/img/gallery/why-your-airpods-keep-disconnecting-without-warning-these-settings-can-fix-it/l-intro-1793121072.jpg",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-31T18:45:00+00:00"
     },
@@ -166,7 +214,7 @@
       "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK428_CRYPTO_3_D.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-31T18:40:32+00:00"
     },
@@ -178,7 +226,7 @@
       "url": "https://www.engadget.com/2300253/how-to-use-claude-duet/",
       "image": "https://www.engadget.com/img/gallery/how-to-use-claude-duet-when-it-rolls-out-to-you/l-intro-1792786501.jpg",
       "category": "Artificial Intelligence",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-31T18:30:00+00:00"
     },
@@ -190,7 +238,7 @@
       "url": "https://www.engadget.com/2300257/drawbacks-you-should-know-before-buying-playstation-5/",
       "image": "https://www.engadget.com/img/gallery/4-drawbacks-you-should-know-before-buying-a-playstation-5/l-intro-1793035591.jpg",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-10-31T18:00:00+00:00"
     },
@@ -673,54 +721,6 @@
       "section": "none",
       "featured": false,
       "published": "2026-10-30T21:26:59+00:00"
-    },
-    {
-      "id": "07912041c313",
-      "title": "Cracks are emerging in the AI spending boom",
-      "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-      "image": "",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-30T21:17:40+00:00"
-    },
-    {
-      "id": "93351cbb4cc4",
-      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-      "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-30T21:09:54+00:00"
-    },
-    {
-      "id": "d756b882783b",
-      "title": "Exclusive details about Akai\u2019s MPC Sample Key",
-      "summary": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device will launch or how...",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai_Sample_Key_DSC01934_WEB.jpeg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-30T21:01:32+00:00"
-    },
-    {
-      "id": "2cd72f14a7e3",
-      "title": "Pixelated 123: The primary value is the clock",
-      "summary": "Welcome to Pixelated episode 123. This week, Damien and Abner share their earliest impressions of the Fitbit Edge, Google\u2019s latest fitness tracker that promises to split the difference between the Fitbit Air and the Pixel Watch 5. After...",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/30/pixelated-123-the-primary-value-is-the-clock/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&strip=all&w=1600",
-      "category": "Data & Analytics",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-30T21:00:00+00:00"
     }
   ]
 }
