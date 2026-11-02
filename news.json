@@ -1,6 +1,116 @@
 {
-  "updated": "2026-11-01T20:29:13+00:00",
+  "updated": "2026-11-02T00:41:25+00:00",
   "items": [
+    {
+      "id": "5a0948a7d6a5",
+      "title": "Android Auto could upset your work-life balance with its next update",
+      "url": "https://www.engadget.com/2300324/android-auto-next-update-could-upset-work-life-balance/",
+      "source": "Engadget",
+      "published": "2026-11-02T00:30:00+00:00",
+      "excerpt": "A hidden toggle buried in the Android Auto app's code isn't functional yet. Here's what it could do, what it might not, and what Google hasn't said so far.",
+      "image": "https://www.engadget.com/img/gallery/android-auto-could-upset-your-work-life-balance-with-its-next-update/l-intro-1793021238.jpg",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "e4fc725ffc69",
+      "title": "10 iPad widgets you probably didn't realize existed",
+      "url": "https://www.engadget.com/2299525/ipad-widgets-didnt-realize-existed/",
+      "source": "Engadget",
+      "published": "2026-11-02T00:15:00+00:00",
+      "excerpt": "Widgets take advantage of your iPad's large screen, and some of the best ones are often overlooked.",
+      "image": "https://www.engadget.com/img/gallery/10-ipad-widgets-you-probably-didnt-realize-existed/l-intro-1793198901.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "8523ecb8f1ce",
+      "title": "AI glasses can replace your prescription glasses, but should they?",
+      "url": "https://www.engadget.com/2300320/ai-glasses-replace-prescription-should-they/",
+      "source": "Engadget",
+      "published": "2026-11-02T00:00:00+00:00",
+      "excerpt": "You can easily get AI glasses with prescription if you need them, but before making the investment, it's recommended to learn the pros and cons of them.",
+      "image": "https://www.engadget.com/img/gallery/ai-glasses-can-replace-your-prescription-glasses-but-should-they/l-intro-1792784878.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "195ce0e165a4",
+      "title": "How using one earbud more than the other can cause uneven wear and tear",
+      "url": "https://www.engadget.com/2301054/using-one-earbud-more-than-other-cause-uneven-wear-and-tear/",
+      "source": "Engadget",
+      "published": "2026-11-01T23:45:00+00:00",
+      "excerpt": "Using one earbud may feel like the natural choice at times, but the reality is that it can chip away at their lifespan if you don't kick the habit.",
+      "image": "https://www.engadget.com/img/gallery/how-using-one-earbud-more-than-the-other-can-cause-uneven-wear-and-tear/l-intro-1792776566.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "21c7eac82582",
+      "title": "How to clean your PlayStation 5 without damaging it",
+      "url": "https://www.engadget.com/2300309/how-to-clean-playstation-5-without-damaging/",
+      "source": "Engadget",
+      "published": "2026-11-01T23:00:00+00:00",
+      "excerpt": "Your PS5 requires occasional maintenance to run at its best, but it only needs a light touch.",
+      "image": "https://www.engadget.com/img/gallery/how-to-clean-your-playstation-5-without-damaging-it/l-intro-1793029905.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "80f95ef454b3",
+      "title": "Which Samsung S Pens can be located using SmartThings Find?",
+      "url": "https://www.engadget.com/2300395/which-samsung-s-pens-located-with-smartthings-find/",
+      "source": "Engadget",
+      "published": "2026-11-01T22:00:00+00:00",
+      "excerpt": "Not all of Samsung's S Pens are made the same. Only one of them can be found through the SmartThings Find network.",
+      "image": "https://www.engadget.com/img/gallery/which-samsung-s-pens-can-be-located-using-smartthings-find/l-intro-1793021774.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "0dbf0226aa90",
+      "title": "OpenAI might rebrand its data centers as \u2018AI compute campuses\u2019",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "source": "TechCrunch",
+      "published": "2026-11-01T21:55:23+00:00",
+      "excerpt": "Data centers are deeply unpopular. But what if we called them something else?",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "63607bf62bc0",
+      "title": "Anthropic updates Claude to stop it from recreating existing video games",
+      "url": "https://www.engadget.com/2303469/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/",
+      "source": "Engadget",
+      "published": "2026-11-01T21:08:32+00:00",
+      "excerpt": "Users can still lean on Claude to help with designing original or genre games.",
+      "image": "https://www.engadget.com/img/gallery/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/l-intro-1793566610.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "950d270a5385",
+      "title": "Ceramic vs Titanium Apple Watch: Which material is better for overall durability?",
+      "url": "https://www.engadget.com/2300397/apple-watch-ceramic-vs-titanium-which-is-better-material-overall-durability/",
+      "source": "Engadget",
+      "published": "2026-11-01T21:00:00+00:00",
+      "excerpt": "An Apple Watch is a handy accessory for your iPhone, but choosing the most durable material can be challenging. This one is better suited to your needs.",
+      "image": "https://www.engadget.com/img/gallery/ceramic-vs-titanium-apple-watch-which-material-is-better-for-overall-durability/l-intro-1793034841.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "bb2642061f37",
+      "title": "AI can make tech CEOs\u2019 lives easier. What about everyone else?",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "source": "TechCrunch",
+      "published": "2026-11-01T20:57:58+00:00",
+      "excerpt": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1481617564.jpg?resize=1200,680",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "81609543a843",
+      "title": "Wear OS adding \u2018system status bar\u2019 to apps, Wear OS 7.1 coming",
+      "url": "https://9to5google.com/2026/11/01/wear-os-status-bar/",
+      "source": "9to5Google",
+      "published": "2026-11-01T20:44:36+00:00",
+      "excerpt": "Earlier this week, Google revealed that a \u201clater platform release of Wear OS\u201d is adding a \u201csystem status bar.\u201d more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Wear-OS-7-cover.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
     {
       "id": "fe4ea74167ad",
       "title": "Google says Googlebook \u2018detachables\u2019 are coming soon",
@@ -10,6 +120,16 @@
       "excerpt": "At the Android Dev Summit 2026 earlier this week, Google said that Googlebook detachables will be the next form factor after clamshells and convertibles. more\u2026",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Googlebook-family-cover.webp?w=1600",
       "category": "Operating Systems"
+    },
+    {
+      "id": "dad1dcd91d6a",
+      "title": "How to know if a USB-C cable is waterproof",
+      "url": "https://www.engadget.com/2300388/how-to-know-usb-c-cable-waterproof/",
+      "source": "Engadget",
+      "published": "2026-11-01T20:00:00+00:00",
+      "excerpt": "If you need extra protection for your USB cables, knowing how to tell if they're waterproof beforehand is important. Here's how to check a cable's rating.",
+      "image": "https://www.engadget.com/img/gallery/how-to-know-if-a-usb-c-cable-is-waterproof-or-not/l-intro-1793116949.jpg",
+      "category": "Software Development"
     },
     {
       "id": "bd0e40510775",
@@ -378,7 +498,7 @@
       "source": "TechCrunch",
       "published": "2026-11-01T02:22:10+00:00",
       "excerpt": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member\u2019s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Newsreel-Midterm-Madness-22.jpg?resize=1200,800",
+      "image": "",
       "category": "Data & Analytics"
     },
     {
@@ -480,126 +600,6 @@
       "excerpt": "Brandon Stirrup deleted his comments from X a day after saying that AI usage is widespread in the gaming industry.",
       "image": "https://www.engadget.com/img/gallery/xbox-manager-says-ai-is-already-being-used-in-game-development/l-intro-1793296757.jpg",
       "category": "Artificial Intelligence"
-    },
-    {
-      "id": "8853d414a301",
-      "title": "Keyboards of The Verge",
-      "url": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
-      "source": "The Verge",
-      "published": "2026-10-31T19:30:00+00:00",
-      "excerpt": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268834_Keyboards_of_the_Verge_CVirginia4.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "22b1fbb180c8",
-      "title": "The best Roku Streaming Stick depends on your picture quality needs",
-      "url": "https://www.engadget.com/2302428/best-roku-streaming-stick-depends-on-picture-quality-needs/",
-      "source": "Engadget",
-      "published": "2026-10-31T19:00:00+00:00",
-      "excerpt": "Roku only sells one streaming device that doesn't support 4K output.",
-      "image": "https://www.engadget.com/img/gallery/the-best-roku-streaming-stick-depends-on-your-picture-quality-needs/l-intro-1793294370.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "6dee8821813f",
-      "title": "Why your AirPods keep disconnecting without warning: These settings can fix it",
-      "url": "https://www.engadget.com/2298547/why-mac-keeps-disconnecting-airpods/",
-      "source": "Engadget",
-      "published": "2026-10-31T18:45:00+00:00",
-      "excerpt": "Handy features of your AirPods can be overzealous, leading to disconnections and unwanted device swapping.",
-      "image": "https://www.engadget.com/img/gallery/why-your-airpods-keep-disconnecting-without-warning-these-settings-can-fix-it/l-intro-1793121072.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "7d968577e0ca",
-      "title": "Binance CEO says 90 percent of stolen assets have been \u2018replenished\u2019",
-      "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-      "source": "The Verge",
-      "published": "2026-10-31T18:40:32+00:00",
-      "excerpt": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent as well...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK428_CRYPTO_3_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "719d0ff5ec90",
-      "title": "How to use Claude Duet when it rolls out to you",
-      "url": "https://www.engadget.com/2300253/how-to-use-claude-duet/",
-      "source": "Engadget",
-      "published": "2026-10-31T18:30:00+00:00",
-      "excerpt": "For now, you'll need to first join a waitlist.",
-      "image": "https://www.engadget.com/img/gallery/how-to-use-claude-duet-when-it-rolls-out-to-you/l-intro-1792786501.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "78a2feccaa76",
-      "title": "4 drawbacks you should know before buying a PlayStation 5",
-      "url": "https://www.engadget.com/2300257/drawbacks-you-should-know-before-buying-playstation-5/",
-      "source": "Engadget",
-      "published": "2026-10-31T18:00:00+00:00",
-      "excerpt": "The PS5 isn't as good of a buy today as it was early in its life, so you should be aware of the drawbacks in this awkward console generation.",
-      "image": "https://www.engadget.com/img/gallery/4-drawbacks-you-should-know-before-buying-a-playstation-5/l-intro-1793035591.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "949b7257ea76",
-      "title": "Bolt Graphics powers on its first Zeus GPU",
-      "url": "https://www.engadget.com/2301962/bolt-graphics-powers-on-first-zeus-gpu/",
-      "source": "Engadget",
-      "published": "2026-10-31T17:30:00+00:00",
-      "excerpt": "Bolt Graphics has been working on its simulation-centric Zeus GPU for a while now and has reached a significant milestone: a successful test run.",
-      "image": "https://www.engadget.com/img/gallery/bolt-graphics-powers-on-its-first-zeus-gpu/l-intro-1793343335.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "9932d9d1820c",
-      "title": "These Samsung Galaxy Watches won't be getting the new One UI update",
-      "url": "https://www.engadget.com/2301961/samsung-galaxy-watches-not-getting-one-ui-update/",
-      "source": "Engadget",
-      "published": "2026-10-31T17:15:00+00:00",
-      "excerpt": "Samsung has released the latest version of its wearable OS, One UI 9 Watch, and most of its watch lineup will get the update - except these.",
-      "image": "https://www.engadget.com/img/gallery/these-samsung-galaxy-watches-wont-be-getting-the-new-one-ui-update/l-intro-1793353080.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "dbace05e922a",
-      "title": "How to fix your phone screen when it's unresponsive to touch\u200b",
-      "url": "https://www.engadget.com/2301246/how-to-fix-phone-screen-unresponsive-to-touch/",
-      "source": "Engadget",
-      "published": "2026-10-31T17:00:00+00:00",
-      "excerpt": "Few things are more annoying than an unresponsive touchscreen. Before you give up on your phone, here's what to try to get it working again.",
-      "image": "https://www.engadget.com/img/gallery/how-to-fix-your-phone-screen-when-its-unresponsive-to-touch/l-intro-1793286831.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "306be0709947",
-      "title": "How building a cheap home server could save you money in the long run",
-      "url": "https://www.engadget.com/2301243/how-building-cheap-home-server-save-money/",
-      "source": "Engadget",
-      "published": "2026-10-31T16:45:00+00:00",
-      "excerpt": "Using an old PC to create your own server can save you quite a bit of money through a couple of avenues. Here's what it can do.",
-      "image": "https://www.engadget.com/img/gallery/how-building-a-cheap-home-server-could-save-you-money-in-the-long-run/l-intro-1793284498.jpg",
-      "category": "Cloud Computing"
-    },
-    {
-      "id": "5d2dc8a0670a",
-      "title": "Why your Spotify might be using so much storage",
-      "url": "https://www.engadget.com/2300259/why-spotify-uses-so-much-storage/",
-      "source": "Engadget",
-      "published": "2026-10-31T16:30:00+00:00",
-      "excerpt": "Spotify can be a storage hog if you don't have your device's settings optimized. Here's what you can do if Spotify is taking up too much storage.",
-      "image": "https://www.engadget.com/img/gallery/why-your-spotify-might-be-using-so-much-storage/l-intro-1793029233.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "b4dd56c51163",
-      "title": "How long is too long for a USB cable?",
-      "url": "https://www.engadget.com/2301242/how-long-should-usb-cable-be-maximum-length/",
-      "source": "Engadget",
-      "published": "2026-10-31T16:15:00+00:00",
-      "excerpt": "USB cables, much like their HDMI cousins, have limits on how long they can be. The thing is, those limits are probably much lower than you expected.",
-      "image": "https://www.engadget.com/img/gallery/how-long-is-too-long-for-a-usb-cable/l-intro-1793267592.jpg",
-      "category": "Software Development"
     }
   ]
 }
