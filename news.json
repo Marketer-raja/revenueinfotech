@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-02T00:41:25+00:00",
+  "updated": "2026-11-02T07:39:28+00:00",
   "items": [
+    {
+      "id": "9068a344a035",
+      "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
+      "url": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
+      "source": "The Hacker News",
+      "published": "2026-11-02T05:51:07+00:00",
+      "excerpt": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value. Like other typical...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd5V8QVweKn56_SnTCKZkhmOip6paz9noBrJn7znyZqUtFbOEaLuALQUNlmjcSAb7RIUW8GDETB6J0kFpQQe6vq7wAjk3ogxKUeQ0-2rKeO6TveLdqHNs9KnTN6zC6rwPzWE2IBWMokqQOUzAA0XPM2BWHTUTE7_U7XDfUGKTDIC1PYttxHGnAq_Kr_hMq/s1600/hacker-ai.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "c0bd10bdb78c",
+      "title": "How long is a new Apple TV actually supposed to last?",
+      "url": "https://www.engadget.com/2300332/how-long-new-apple-tv-last-lifespan/",
+      "source": "Engadget",
+      "published": "2026-11-02T01:30:00+00:00",
+      "excerpt": "Past Apple TV models have seen excellent support from Apple compared to some other product lines, but it's not a guarantee.",
+      "image": "https://www.engadget.com/img/gallery/how-long-is-a-new-apple-tv-actually-supposed-to-last/l-intro-1793037978.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "67101a45dabc",
+      "title": "6 Google Maps features that work better on Android Auto vs. CarPlay",
+      "url": "https://www.engadget.com/2300327/google-maps-features-work-better-android-auto-vs-carplay/",
+      "source": "Engadget",
+      "published": "2026-11-02T01:00:00+00:00",
+      "excerpt": "You would think that Maps would be the same regardless of your phone's brand, but there are some differences between the Android Auto and CarPlay experiences.",
+      "image": "https://www.engadget.com/img/gallery/6-google-maps-features-that-work-better-on-android-auto-vs-carplay/l-intro-1793216852.jpg",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "7d40910514be",
+      "title": "How to add and rearrange apps on your Samsung smart TV",
+      "url": "https://www.engadget.com/2300335/how-to-add-rearrange-apps-samsung-smart-tv/",
+      "source": "Engadget",
+      "published": "2026-11-02T00:45:00+00:00",
+      "excerpt": "Though your Samsung smart TV comes pre-loaded with the most popular streaming apps, you may want to add others and do some reorganizing while you're at it.",
+      "image": "https://www.engadget.com/img/gallery/how-to-add-and-rearrange-apps-on-your-samsung-smart-tv/l-intro-1792793521.jpg",
+      "category": "Software Development"
+    },
     {
       "id": "5a0948a7d6a5",
       "title": "Android Auto could upset your work-life balance with its next update",
@@ -398,7 +438,7 @@
       "source": "TechCrunch",
       "published": "2026-11-01T14:00:00+00:00",
       "excerpt": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_6045.jpeg?resize=1200,900",
+      "image": "",
       "category": "Enterprise Software & SaaS"
     },
     {
@@ -477,7 +517,7 @@
       "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
       "source": "The Hacker News",
       "published": "2026-11-01T07:03:00+00:00",
-      "excerpt": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima...",
+      "excerpt": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets from Binance to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure...",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmb1j0HC3RkKxZ4bBQPaOa5GaLqC2EBtxXHOMnebPlgHGDJG7ryIuSBIR-9YBQuUm6HwD15-OJQgBvIkhbLIApM8XoU0DptSEF6DNhEpinxPA-06wQZhLhRiKmFGO5cVjONcaouGC3lqybhkeEsZj-xebX6u6hSR19mS7sVqOrpR02qNOlpHZJEUjf1HtB/s1600/binance-hack.png",
       "category": "Software Development"
     },
@@ -560,46 +600,6 @@
       "excerpt": "If there are aspects of Netflix streaming that aren't to your liking, there are several changes you can make to optimize your viewing experience.",
       "image": "https://www.engadget.com/img/gallery/5-netflix-tips-we-all-wish-we-knew-sooner/l-intro-1792783972.jpg",
       "category": "Software Development"
-    },
-    {
-      "id": "9f56e268b05e",
-      "title": "Apple CEO says the company doesn\u2019t \u2018want to ship AI for AI\u2019s sake\u2019",
-      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "source": "TechCrunch",
-      "published": "2026-10-31T21:41:00+00:00",
-      "excerpt": "Apple's new CEO defended the company's current position in the AI landscape.",
-      "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "5a4bff0c2db2",
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-      "source": "TechCrunch",
-      "published": "2026-10-31T21:36:07+00:00",
-      "excerpt": "On November 4 at Boston\u2019s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all...",
-      "image": "",
-      "category": "Enterprise Software & SaaS"
-    },
-    {
-      "id": "fc639d931431",
-      "title": "Why your Apple AirPods won't connect to your iPhone and how can you fix it",
-      "url": "https://www.engadget.com/2302450/why-apple-airpods-wont-connect-to-iphone-fixes/",
-      "source": "Engadget",
-      "published": "2026-10-31T21:00:00+00:00",
-      "excerpt": "When your AirPods refuse to show up on your iPhone, the cause is usually simpler than you'd think. Here's where to look first and what to try next.",
-      "image": "https://www.engadget.com/img/gallery/why-your-apple-airpods-wont-connect-to-your-iphone-and-how-can-you-fix-it/l-intro-1793293868.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "bbb4a589c238",
-      "title": "Xbox manager says AI is already being used in game development",
-      "url": "https://www.engadget.com/2302431/brandon-stirrup-xbox-manager-says-ai-used-game-development/",
-      "source": "Engadget",
-      "published": "2026-10-31T20:00:00+00:00",
-      "excerpt": "Brandon Stirrup deleted his comments from X a day after saying that AI usage is widespread in the gaming industry.",
-      "image": "https://www.engadget.com/img/gallery/xbox-manager-says-ai-is-already-being-used-in-game-development/l-intro-1793296757.jpg",
-      "category": "Artificial Intelligence"
     }
   ]
 }

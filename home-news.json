@@ -1,7 +1,55 @@
 {
-  "updated": "2026-11-02T00:41:25+00:00",
+  "updated": "2026-11-02T07:39:28+00:00",
   "auto": true,
   "items": [
+    {
+      "id": "9068a344a035",
+      "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
+      "summary": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value. Like other typical...",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd5V8QVweKn56_SnTCKZkhmOip6paz9noBrJn7znyZqUtFbOEaLuALQUNlmjcSAb7RIUW8GDETB6J0kFpQQe6vq7wAjk3ogxKUeQ0-2rKeO6TveLdqHNs9KnTN6zC6rwPzWE2IBWMokqQOUzAA0XPM2BWHTUTE7_U7XDfUGKTDIC1PYttxHGnAq_Kr_hMq/s1600/hacker-ai.jpg",
+      "category": "Artificial Intelligence",
+      "section": "hero",
+      "featured": true,
+      "published": "2026-11-02T05:51:07+00:00"
+    },
+    {
+      "id": "c0bd10bdb78c",
+      "title": "How long is a new Apple TV actually supposed to last?",
+      "summary": "Past Apple TV models have seen excellent support from Apple compared to some other product lines, but it's not a guarantee.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2300332/how-long-new-apple-tv-last-lifespan/",
+      "image": "https://www.engadget.com/img/gallery/how-long-is-a-new-apple-tv-actually-supposed-to-last/l-intro-1793037978.jpg",
+      "category": "Software Development",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-11-02T01:30:00+00:00"
+    },
+    {
+      "id": "67101a45dabc",
+      "title": "6 Google Maps features that work better on Android Auto vs. CarPlay",
+      "summary": "You would think that Maps would be the same regardless of your phone's brand, but there are some differences between the Android Auto and CarPlay experiences.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2300327/google-maps-features-work-better-android-auto-vs-carplay/",
+      "image": "https://www.engadget.com/img/gallery/6-google-maps-features-that-work-better-on-android-auto-vs-carplay/l-intro-1793216852.jpg",
+      "category": "Operating Systems",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-11-02T01:00:00+00:00"
+    },
+    {
+      "id": "7d40910514be",
+      "title": "How to add and rearrange apps on your Samsung smart TV",
+      "summary": "Though your Samsung smart TV comes pre-loaded with the most popular streaming apps, you may want to add others and do some reorganizing while you're at it.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2300335/how-to-add-rearrange-apps-samsung-smart-tv/",
+      "image": "https://www.engadget.com/img/gallery/how-to-add-and-rearrange-apps-on-your-samsung-smart-tv/l-intro-1792793521.jpg",
+      "category": "Software Development",
+      "section": "brief",
+      "featured": false,
+      "published": "2026-11-02T00:45:00+00:00"
+    },
     {
       "id": "5a0948a7d6a5",
       "title": "Android Auto could upset your work-life balance with its next update",
@@ -10,8 +58,8 @@
       "url": "https://www.engadget.com/2300324/android-auto-next-update-could-upset-work-life-balance/",
       "image": "https://www.engadget.com/img/gallery/android-auto-could-upset-your-work-life-balance-with-its-next-update/l-intro-1793021238.jpg",
       "category": "Operating Systems",
-      "section": "hero",
-      "featured": true,
+      "section": "latest",
+      "featured": false,
       "published": "2026-11-02T00:30:00+00:00"
     },
     {
@@ -22,7 +70,7 @@
       "url": "https://www.engadget.com/2299525/ipad-widgets-didnt-realize-existed/",
       "image": "https://www.engadget.com/img/gallery/10-ipad-widgets-you-probably-didnt-realize-existed/l-intro-1793198901.jpg",
       "category": "Software Development",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-11-02T00:15:00+00:00"
     },
@@ -34,7 +82,7 @@
       "url": "https://www.engadget.com/2300320/ai-glasses-replace-prescription-should-they/",
       "image": "https://www.engadget.com/img/gallery/ai-glasses-can-replace-your-prescription-glasses-but-should-they/l-intro-1792784878.jpg",
       "category": "Artificial Intelligence",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-11-02T00:00:00+00:00"
     },
@@ -46,7 +94,7 @@
       "url": "https://www.engadget.com/2301054/using-one-earbud-more-than-other-cause-uneven-wear-and-tear/",
       "image": "https://www.engadget.com/img/gallery/how-using-one-earbud-more-than-the-other-can-cause-uneven-wear-and-tear/l-intro-1792776566.jpg",
       "category": "Software Development",
-      "section": "brief",
+      "section": "latest",
       "featured": false,
       "published": "2026-11-01T23:45:00+00:00"
     },
@@ -82,7 +130,7 @@
       "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
       "category": "Artificial Intelligence",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-11-01T21:55:23+00:00"
     },
@@ -94,7 +142,7 @@
       "url": "https://www.engadget.com/2303469/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/",
       "image": "https://www.engadget.com/img/gallery/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/l-intro-1793566610.jpg",
       "category": "Artificial Intelligence",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-11-01T21:08:32+00:00"
     },
@@ -106,7 +154,7 @@
       "url": "https://www.engadget.com/2300397/apple-watch-ceramic-vs-titanium-which-is-better-material-overall-durability/",
       "image": "https://www.engadget.com/img/gallery/ceramic-vs-titanium-apple-watch-which-material-is-better-for-overall-durability/l-intro-1793034841.jpg",
       "category": "Software Development",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-11-01T21:00:00+00:00"
     },
@@ -118,7 +166,7 @@
       "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1481617564.jpg?resize=1200,680",
       "category": "Artificial Intelligence",
-      "section": "latest",
+      "section": "featured",
       "featured": false,
       "published": "2026-11-01T20:57:58+00:00"
     },
@@ -154,7 +202,7 @@
       "url": "https://www.engadget.com/2300388/how-to-know-usb-c-cable-waterproof/",
       "image": "https://www.engadget.com/img/gallery/how-to-know-if-a-usb-c-cable-is-waterproof-or-not/l-intro-1793116949.jpg",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-11-01T20:00:00+00:00"
     },
@@ -166,7 +214,7 @@
       "url": "https://www.engadget.com/2301057/ways-get-amazon-prime-free-cheaper/",
       "image": "https://www.engadget.com/img/gallery/5-ways-to-get-amazon-prime-for-free-or-way-cheaper/l-intro-1793243550.jpg",
       "category": "Software Development",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-11-01T19:45:00+00:00"
     },
@@ -178,7 +226,7 @@
       "url": "https://www.engadget.com/2300305/how-to-turn-on-andoird-phone-flashlight-without-unlocking/",
       "image": "https://www.engadget.com/img/gallery/how-to-turn-on-the-flashlight-on-your-android-phone-without-unlocking-it/l-intro-1792959825.jpg",
       "category": "Operating Systems",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-11-01T19:30:00+00:00"
     },
@@ -190,7 +238,7 @@
       "url": "https://www.engadget.com/2303462/judge-says-xai-must-face-naacp-lawsuit-on-data-center-pollution/",
       "image": "https://www.engadget.com/img/gallery/judge-says-xai-must-face-naacp-lawsuit-on-data-center-pollution/l-intro-1793560530.jpg",
       "category": "Cloud Computing",
-      "section": "featured",
+      "section": "none",
       "featured": false,
       "published": "2026-11-01T19:19:22+00:00"
     },
@@ -471,18 +519,6 @@
       "published": "2026-11-01T14:00:00+00:00"
     },
     {
-      "id": "a4e7190fff4b",
-      "title": "Here\u2019s what \u2018renoa\u2019 \u2014 the first new fiber in 25 years \u2014 feels like",
-      "summary": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_6045.jpeg?resize=1200,900",
-      "category": "Enterprise Software & SaaS",
-      "section": "none",
-      "featured": false,
-      "published": "2026-11-01T14:00:00+00:00"
-    },
-    {
       "id": "c32c2d057f1e",
       "title": "Change these PlayStation 5 settings before GTA 6 comes out",
       "summary": "For the best experience playing the new Grand Theft Auto 6, you're going to want to make some adjustments.",
@@ -502,6 +538,18 @@
       "url": "https://9to5google.com/2026/11/01/motorola-oneplus-gap/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/motorola-signature-27-1_942c71.jpg?quality=82&strip=all&w=1600",
       "category": "Web Development",
+      "section": "none",
+      "featured": false,
+      "published": "2026-11-01T14:00:00+00:00"
+    },
+    {
+      "id": "a4e7190fff4b",
+      "title": "Here\u2019s what \u2018renoa\u2019 \u2014 the first new fiber in 25 years \u2014 feels like",
+      "summary": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
+      "image": "",
+      "category": "Enterprise Software & SaaS",
       "section": "none",
       "featured": false,
       "published": "2026-11-01T14:00:00+00:00"
@@ -569,7 +617,7 @@
     {
       "id": "6e20a9798345",
       "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima...",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets from Binance to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure...",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmb1j0HC3RkKxZ4bBQPaOa5GaLqC2EBtxXHOMnebPlgHGDJG7ryIuSBIR-9YBQuUm6HwD15-OJQgBvIkhbLIApM8XoU0DptSEF6DNhEpinxPA-06wQZhLhRiKmFGO5cVjONcaouGC3lqybhkeEsZj-xebX6u6hSR19mS7sVqOrpR02qNOlpHZJEUjf1HtB/s1600/binance-hack.png",
@@ -673,54 +721,6 @@
       "section": "none",
       "featured": false,
       "published": "2026-10-31T22:00:00+00:00"
-    },
-    {
-      "id": "9f56e268b05e",
-      "title": "Apple CEO says the company doesn\u2019t \u2018want to ship AI for AI\u2019s sake\u2019",
-      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "image": "",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-31T21:41:00+00:00"
-    },
-    {
-      "id": "5a4bff0c2db2",
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "summary": "On November 4 at Boston\u2019s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all...",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-      "image": "",
-      "category": "Enterprise Software & SaaS",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-31T21:36:07+00:00"
-    },
-    {
-      "id": "fc639d931431",
-      "title": "Why your Apple AirPods won't connect to your iPhone and how can you fix it",
-      "summary": "When your AirPods refuse to show up on your iPhone, the cause is usually simpler than you'd think. Here's where to look first and what to try next.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2302450/why-apple-airpods-wont-connect-to-iphone-fixes/",
-      "image": "https://www.engadget.com/img/gallery/why-your-apple-airpods-wont-connect-to-your-iphone-and-how-can-you-fix-it/l-intro-1793293868.jpg",
-      "category": "Software Development",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-31T21:00:00+00:00"
-    },
-    {
-      "id": "bbb4a589c238",
-      "title": "Xbox manager says AI is already being used in game development",
-      "summary": "Brandon Stirrup deleted his comments from X a day after saying that AI usage is widespread in the gaming industry.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2302431/brandon-stirrup-xbox-manager-says-ai-used-game-development/",
-      "image": "https://www.engadget.com/img/gallery/xbox-manager-says-ai-is-already-being-used-in-game-development/l-intro-1793296757.jpg",
-      "category": "Artificial Intelligence",
-      "section": "none",
-      "featured": false,
-      "published": "2026-10-31T20:00:00+00:00"
     }
   ]
 }
