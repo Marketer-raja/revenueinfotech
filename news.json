@@ -1,6 +1,546 @@
 {
-  "updated": "2026-11-02T07:39:28+00:00",
+  "updated": "2026-11-02T18:19:08+00:00",
   "items": [
+    {
+      "id": "c646bc6fee99",
+      "title": "SpaceX is reportedly looking at buying Boost Mobile or using its cell network",
+      "url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/",
+      "source": "Engadget",
+      "published": "2026-11-02T18:05:52+00:00",
+      "excerpt": "A potential deal with Boost Mobile could serve as a shortcut to establishing SpaceX as a mobile carrier.",
+      "image": "https://www.engadget.com/img/gallery/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/l-intro-1793642642.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "7f1190f16a02",
+      "title": "OpenAI will merge ChatGPT\u2019s chat and work tabs \u2013 here\u2019s when, and what to expect",
+      "url": "https://www.zdnet.com/innovation/openai-merge-chatgpt-chat-work-tabs/",
+      "source": "ZDNET",
+      "published": "2026-11-02T18:01:55+00:00",
+      "excerpt": "On the heels of Anthropic\u2019s similar move, the change will be tested among select users before being rolled out.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/gpt-4-1-makes-chatgpt-smarter-faster-and-more-useful-for-paying-users-especially-coders_50f228.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "48d997914930",
+      "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
+      "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
+      "source": "TechCrunch",
+      "published": "2026-11-02T17:54:11+00:00",
+      "excerpt": "Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they both have the same strategic investor: Nvidia.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "506cb9c6a148",
+      "title": "Google will let Android & iOS apps directly integrate Quick Share next year",
+      "url": "https://9to5google.com/2026/11/02/quick-share-sdk-apps/",
+      "source": "9to5Google",
+      "published": "2026-11-02T17:51:35+00:00",
+      "excerpt": "At Android Dev Summit 2026, Google announced a Quick Share SDK that will let Android and iOS apps directly integrate the peer-to-peer file sharing capability. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Quick-Share-SDK.jpg?quality=82&strip=all&w=1600",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "dc6c7ef2ed74",
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "source": "The Verge",
+      "published": "2026-11-02T17:51:19+00:00",
+      "excerpt": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Web Development"
+    },
+    {
+      "id": "1d6be4080224",
+      "title": "Readwise takes on Amazon\u2019s Kindle and Goodreads with its new app for book lovers",
+      "url": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
+      "source": "TechCrunch",
+      "published": "2026-11-02T17:49:41+00:00",
+      "excerpt": "Readwise Books combines an ebook store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/image-6.png?resize=1200,675",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "a5611f45085e",
+      "title": "This Samsung Galaxy problem sadly still exists in 2026, but you can easily fix it",
+      "url": "https://www.engadget.com/2300355/samsung-galaxy-phones-bloatware-problem-easy-fix/",
+      "source": "Engadget",
+      "published": "2026-11-02T17:45:00+00:00",
+      "excerpt": "Your premium Samsung Galaxy phone likely has a bunch of preinstalled software you don't want that just takes up space.",
+      "image": "https://www.engadget.com/img/gallery/this-samsung-galaxy-problem-sadly-still-exists-in-2026-but-you-can-easily-fix-it/l-intro-1792419029.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "0aa1ad52cab2",
+      "title": "Athenahealth patients can ask Claude about their medical records now",
+      "url": "https://www.zdnet.com/health/athenahealth-claude-ai-medical-partnership/",
+      "source": "ZDNET",
+      "published": "2026-11-02T17:30:47+00:00",
+      "excerpt": "The partnership could provide one of the nation\u2019s largest AI companies with a bevy of personal medical data.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-484453787.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "cec830b10851",
+      "title": "Firefox\u2019s new Mini Window is every multitasker\u2019s dream \u2013 Chrome can\u2019t do this",
+      "url": "https://www.zdnet.com/home-and-office/firefox-mini-window-browser-feature/",
+      "source": "ZDNET",
+      "published": "2026-11-02T17:15:17+00:00",
+      "excerpt": "The open-source browser\u2019s newest feature lets you pop out a page \u2013 or part of a page \u2013 into its own mini window. See why this is incredibly cool.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/miniwinhero.jpg",
+      "category": "Web Development"
+    },
+    {
+      "id": "164217a82b30",
+      "title": "Gemini could be poking through your emails - here's how to stop it",
+      "url": "https://www.engadget.com/2300353/google-gemini-poking-through-email-how-to-stop/",
+      "source": "Engadget",
+      "published": "2026-11-02T17:15:00+00:00",
+      "excerpt": "Gemini can read your emails, summarize them and draft replies. If you'd rather it didn't, here's what Google actually does with your data and how to opt out.",
+      "image": "https://www.engadget.com/img/gallery/gemini-could-be-poking-through-your-emails-heres-how-to-stop-it/l-intro-1793097394.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "4f3dbe7a3f5a",
+      "title": "Google rolling out gradient icon redesigns for Contacts, Messages, and Phone",
+      "url": "https://9to5google.com/2026/11/02/google-messages-phone-icon-gradient-redesign/",
+      "source": "9to5Google",
+      "published": "2026-11-02T17:07:06+00:00",
+      "excerpt": "Following the Workspace and Pixel app redesigns earlier this year, Google is overhauling the Contacts, Messages, and Phone icons. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Messages-Phone-Contacts-icon-gradient-redesign.webp?w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "9233f8bfd339",
+      "title": "Apple\u2019s \u2018Ultra\u2019 smart home robot might have to wait until 2028",
+      "url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
+      "source": "The Verge",
+      "published": "2026-11-02T17:06:10+00:00",
+      "excerpt": "Apple has reportedly delayed the launch of its rumored smart home robot until next year at the earliest or possibly even 2028, according to The Information. It says the robot's hardware \"has been finished for around two years,\" but that...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK071_APPLE_H.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "5477a3653e73",
+      "title": "Some Samsung Galaxy phones are having Android Auto issues with One UI 9",
+      "url": "https://9to5google.com/2026/11/02/some-samsung-galaxy-phones-are-having-android-auto-issues-with-one-ui-9/",
+      "source": "9to5Google",
+      "published": "2026-11-02T17:05:00+00:00",
+      "excerpt": "Samsung\u2019s Android 17-based One UI 9 update is rolling out more widely and, with it, some apparent issues with Android Auto on some Galaxy phones. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/06/Galaxy-S25-Ultra-camera-system-4.jpg?quality=82&strip=all&w=1600",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "1126d665d260",
+      "title": "Raising the quality of insights in agentic analytics",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-02T17:00:00+00:00",
+      "excerpt": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking...",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Snowflake-cover-2026.png",
+      "category": "Data & Analytics"
+    },
+    {
+      "id": "92e546c60eea",
+      "title": "Samsung\u2019s Privacy Display may be coming to more Galaxy phones \u2013 what we know",
+      "url": "https://www.zdnet.com/tech/samsung-privacy-display-galaxy-s27-pro-ultra/",
+      "source": "ZDNET",
+      "published": "2026-11-02T16:52:54+00:00",
+      "excerpt": "Privacy Display on the Galaxy S26 Ultra was a big hit in our hands-on. Now, we may see it roll out to more Galaxy phones.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/3941ba91-eae9-4bcd-845b-782384759cd2.jpg",
+      "category": "Data & Analytics"
+    },
+    {
+      "id": "2d1a7e8ef61f",
+      "title": "Squarespace is laying off 19 percent of employees",
+      "url": "https://www.theverge.com/tech/1024447/squarespace-layoffs-19-percent",
+      "source": "The Verge",
+      "published": "2026-11-02T16:50:47+00:00",
+      "excerpt": "The website-building platform Squarespace is laying off 19 percent of its employees as it works to \"simplify\" its operations, Squarespace spokesperson Jeff Seedman says in a statement to The Verge. The job cuts will affect around 300 of...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-1247870734.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Web Development"
+    },
+    {
+      "id": "0f2c3241d01a",
+      "title": "One annoying problem with the iPhone Messages app has an easy fix",
+      "url": "https://www.engadget.com/2300351/one-problem-iphone-messages-additional-options-easy-fix/",
+      "source": "Engadget",
+      "published": "2026-11-02T16:45:00+00:00",
+      "excerpt": "Apple's iMessage app offers a lot of useful features and several default apps included in its latest update. However, they may be in an order you dislike.",
+      "image": "https://www.engadget.com/img/gallery/one-annoying-problem-with-the-iphone-messages-app-has-an-easy-fix/l-intro-1793114293.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "ca8d5855f5a0",
+      "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
+      "url": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/",
+      "source": "TechCrunch",
+      "published": "2026-11-02T16:44:48+00:00",
+      "excerpt": "SpaceX has been looking for new ways to use its Starlink network, and a tie-up with cellular operator Boost Mobile could give it the terrestrial access it needs.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/starlink-direct-to-cell.jpg?resize=1200,601",
+      "category": "Software Development"
+    },
+    {
+      "id": "86093d9a7922",
+      "title": "Privacy Display on Galaxy S27 Pro and S27 Ultra looks more promising in latest leak",
+      "url": "https://9to5google.com/2026/11/02/galaxy-s27-privacy-display-improved-brightness/",
+      "source": "9to5Google",
+      "published": "2026-11-02T16:44:14+00:00",
+      "excerpt": "A new leak strengthens a previous rumor that the Galaxy S27 Pro and Galaxy S27 Ultra will get an improved version of Samsung\u2019s Privacy Display, used on this year\u2019s flagship. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-ultra-privacy-display-17.jpg?quality=82&strip=all&w=1600",
+      "category": "Data & Analytics"
+    },
+    {
+      "id": "c73e2ebb4596",
+      "title": "Apple\u2019s HomeView may double as security camera \u2013 watch out Ring, Nest, and Wyze",
+      "url": "https://www.zdnet.com/home-and-office/apple-homeview-indoor-security-camera/",
+      "source": "ZDNET",
+      "published": "2026-11-02T16:35:32+00:00",
+      "excerpt": "HomeView settings reveal potential video recording and streaming options alongside privacy features.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/FF53FBAF-41CE-4124-AAC5-A2D3B7740A9E_1_105_c.jpeg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "133799eedc2b",
+      "title": "42AI comes out of stealth with $62.5M and a world model that can \u2018predict human behavior\u2019",
+      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "source": "TechCrunch",
+      "published": "2026-11-02T16:30:00+00:00",
+      "excerpt": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3572.jpeg?resize=1200,895",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "bfb09c28111a",
+      "title": "50 AI agents tried to build a thriving Minecraft civilization \u2013 it didn\u2019t end well",
+      "url": "https://www.zdnet.com/innovation/y-combinator-ai-agents-minecraft-experiment-behavior/",
+      "source": "ZDNET",
+      "published": "2026-11-02T16:30:00+00:00",
+      "excerpt": "It turns out even bots can\u2019t escape bureaucracy.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Screenshot-2026-11-02-at-10.12.30-AM.png",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "54cd408e921e",
+      "title": "Deals: Rare all-time low hits Google Home Speaker, Galaxy Z Fold 8 up to $624 off, Amazon Alexa Android Tablet, more",
+      "url": "https://9to5google.com/2026/11/02/deals-google-home-speaker-galaxy-z-fold-8/",
+      "source": "9to5Google",
+      "published": "2026-11-02T16:30:00+00:00",
+      "excerpt": "Today\u2019s 9to5Toys Lunch Break is headlined by a Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold , as well as $100 off all Pixel Watch 5 models, the first discount on the brand new Amazon Alexa Android Tablet at $199.99 and a new...",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/9to5Google-Nov-2.webp?w=1600",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "ded25e29039c",
+      "title": "What to do if your smart home devices keep disconnecting from Wi-Fi",
+      "url": "https://www.engadget.com/2300349/smart-home-devices-disconnecting-wifi/",
+      "source": "Engadget",
+      "published": "2026-11-02T16:15:00+00:00",
+      "excerpt": "Smart home devices usually won't work properly when they lose Wi-Fi signal, so it's frustrating when they keep disconnecting. Here's why it might be happening.",
+      "image": "https://www.engadget.com/img/gallery/what-to-do-if-your-smart-home-devices-keep-disconnecting-from-wi-fi/l-intro-1793217315.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "049f6b9210f4",
+      "title": "This is your rare chance to get a Garmin smartwatch for under $170",
+      "url": "https://9to5google.com/2026/11/02/this-is-your-rare-chance-to-get-a-garmin-smartwatch-for-under-170/",
+      "source": "9to5Google",
+      "published": "2026-11-02T16:06:27+00:00",
+      "excerpt": "The Garmin Vivoactive 5 is down to its lowest price of all time in all four colors for a limited time, making this the least expensive Garmin you can buy today. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/garmin-vivoactive-5-render.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "0adae2bf5ad8",
+      "title": "Why Peacock is making a huge bet on YouTube",
+      "url": "https://www.theverge.com/podcast/1024228/matt-strauss-nbc-univerisal-versant-comcast-peacock-streaming-tv",
+      "source": "The Verge",
+      "published": "2026-11-02T16:00:00+00:00",
+      "excerpt": "Today, I\u2019m talking with Matt Strauss, who is now chairman of the NBCUniversal Media Group. This is Matt\u2019s second time joining me on the show, and there\u2019s been a whole lot of organizational and structural change at NBCU since the last time...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD_Matt_Strauss.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "55c2e6bae2bf",
+      "title": "The Galaxy Z Fold 8 is $300 off at Amazon right now",
+      "url": "https://9to5google.com/2026/11/02/the-galaxy-z-fold-8-is-300-off-on-amazon-right-now/",
+      "source": "9to5Google",
+      "published": "2026-11-02T15:52:44+00:00",
+      "excerpt": "While we await potentially more discounts on our tech in the coming weeks, the Galaxy Z Fold 8 is now down to $1,599 on Amazon, knocking a sizeable chunk off the MSRP. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-Fold-8-lavender-2.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "fd68f1f2a355",
+      "title": "Google's Ocarina of Time Easter egg is a link to a past when Search wasn't horrible",
+      "url": "https://www.engadget.com/2303943/googles-ocarina-of-time-easter-egg-is-a-link-to-a-past-when-search-wasnt-horrible/",
+      "source": "Engadget",
+      "published": "2026-11-02T15:51:36+00:00",
+      "excerpt": "Turn the clock back to 1998, when the internet was a little more functional.",
+      "image": "https://www.engadget.com/img/gallery/googles-ocarina-of-time-easter-egg-is-a-link-to-a-past-when-search-wasnt-horrible/l-intro-1793634639.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "948be6f589a7",
+      "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
+      "url": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
+      "source": "The Hacker News",
+      "published": "2026-11-02T15:50:26+00:00",
+      "excerpt": "A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google. Google says it is highly confident that device maker Videostrong intentionally put a...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkbU6vLZjF0nlz7vqN6UVf3kN1IcdUfIpAmVWlh2II4gGbMMmSuiE1S8HLzP4JV-ImeCa64hU-cEaa-yGXWqUO_XHOurKtEw61DFvjGOJhM7gHpRPpegBcCFYrXkd59wGX-PoV6zm7z7uq6PpXjc4GLhDRzcinR5IIjcOVZEVl8FMQ0v0Dt3CV9sRxZNk/s1600/android-tv-botnet.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "e3fe5d446ad8",
+      "title": "Gemini 4 Carbon lags just behind Claude in benchmark, but wins in value",
+      "url": "https://9to5google.com/2026/11/02/gemini-4-carbon-benchmark/",
+      "source": "9to5Google",
+      "published": "2026-11-02T15:30:00+00:00",
+      "excerpt": "Google\u2019s new frontier model, Gemini 4 Carbon, brings some welcome improvements and while it doesn\u2019t top the charts in a new benchmark, it does provide much more bang for your buck. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/gemini-new-logo-2.jpg?quality=82&strip=all&w=1600",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "67db5437e139",
+      "title": "Samsung\u2019s Android XR \u2018Intelligent Eyewear\u2019 reportedly launches in December",
+      "url": "https://9to5google.com/2026/11/02/samsungs-android-xr-intelligent-eyewear-reportedly-launches-in-december/",
+      "source": "9to5Google",
+      "published": "2026-11-02T15:16:52+00:00",
+      "excerpt": "Samsung smart glasses in Gentle Monster and Warby Parker styles may finally launch in South Korea and the US before Christmas. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-android-xr-glasses-warby-parker-12.jpg?quality=82&strip=all&w=1600",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "92245d9b1fd5",
+      "title": "Vivo\u2019s first Pro Max phone proves its Ultra is still in a league of its own",
+      "url": "https://www.theverge.com/tech/1023131/vivo-x500-pro-max-review-cameras-specs-price",
+      "source": "The Verge",
+      "published": "2026-11-02T15:15:00+00:00",
+      "excerpt": "When I declared this spring that Vivo's X300 Ultra had the best cameras in any phone, two things made it stand out in my mind: its excellent main camera with a narrow 35mm focal length and what remains the most capable ultrawide in any...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/vivo-x500-pro-max-03.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "7ffb9fb9f527",
+      "title": "Could data center backlash flip Florida?",
+      "url": "https://www.theverge.com/policy/1024357/florida-governors-race-donalds-jolly-data-centers",
+      "source": "The Verge",
+      "published": "2026-11-02T15:05:00+00:00",
+      "excerpt": "Patti Zirhut, a lifelong Republican, has been studying her ballot for weeks. Zirhut eagerly voted for President Donald Trump in 2016, 2020, and 2024, but she isn't toeing the party line this year. \"My ballot is all mixed up,\" she says...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_FLORIDA_DATA_CENTERS_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Cloud Computing"
+    },
+    {
+      "id": "b706826d4003",
+      "title": "YouTuber Druski is going to make exclusive content for Netflix",
+      "url": "https://www.theverge.com/streaming/1023777/youtube-druski-netflix-deal",
+      "source": "The Verge",
+      "published": "2026-11-02T15:00:00+00:00",
+      "excerpt": "Netflix today announced a multiyear deal with the YouTuber, comedian, and influencer Druski, and he'll create original content \"exclusively\" for the streaming service. The announcement is the latest in Netflix's efforts to bring creators...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2285961938.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "31255b2b57a8",
+      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "source": "TechCrunch",
+      "published": "2026-11-02T15:00:00+00:00",
+      "excerpt": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/DSCF1932.jpg?resize=1200,800",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "39749d757eb1",
+      "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
+      "url": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
+      "source": "The Hacker News",
+      "published": "2026-11-02T14:46:05+00:00",
+      "excerpt": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026. According to a report published by...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7nIwDn7LIoF8OUZdj0NRjq4ZMu-xjzcOPQJDwouwkwqwVe618e77am9iyAIez63Q8jVqZi7OtU43gJlhbZT-_4l_4pUq3tYpDUe4ErouPlkNi8YTNZiPQ6KmX2Ci028oT24DRcPtCdKv_zZ33_ZHOodARrbmcwxYWCAx4r45Qc0qVOQNmCCoWZmAWJnzt/s1600/shelby-hacker.png",
+      "category": "Cloud Computing"
+    },
+    {
+      "id": "95a11fe3575c",
+      "title": "Why it's important to use a microSD Express card with your Nintendo Switch 2",
+      "url": "https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/",
+      "source": "Engadget",
+      "published": "2026-11-02T14:45:00+00:00",
+      "excerpt": "The Switch 2 has expandable storage that you should take advantage of. But you can't use the same cards that worked with your original Switch.",
+      "image": "https://www.engadget.com/img/gallery/why-its-important-to-use-a-microsd-card-with-your-nintendo-switch-2/l-intro-1791815329.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "7f72fef9bf63",
+      "title": "Ninja\u2019s first-ever microwave just replaced two of my kitchen appliances at once",
+      "url": "https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/",
+      "source": "TechCrunch",
+      "published": "2026-11-02T14:42:38+00:00",
+      "excerpt": "The Ninja Crispi Microwave stands out for its FusionCrisp technology, which combines the speed of a microwave with the crispy results you'd expect from an air fryer.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/NinjaCrispi.png?w=800",
+      "category": "Software Development"
+    },
+    {
+      "id": "96dc080103e0",
+      "title": "Why software updates may have an unexpected effect on your phone",
+      "url": "https://www.engadget.com/2300344/phone-software-updates-unexpected-slow-down-effect/",
+      "source": "Engadget",
+      "published": "2026-11-02T14:15:00+00:00",
+      "excerpt": "Installing an update can make your phone run worse for a while, but this should be temporary in most cases.",
+      "image": "https://www.engadget.com/img/gallery/why-software-updates-may-have-an-unexpected-effect-on-your-phone/l-intro-1792415252.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "9abb81eaf70e",
+      "title": "The 16GB Raspberry Pi 5 got another \u2018unavoidable\u2019 RAM price hike",
+      "url": "https://www.theverge.com/tech/1024342/raspberry-pi-5-16gb-price-hike-ram",
+      "source": "The Verge",
+      "published": "2026-11-02T14:07:22+00:00",
+      "excerpt": "The Raspberry Pi 5 with 16GB of RAM now costs $385 after an $80 price hike, the latest in a string of increases driven by the ongoing RAM shortage. This configuration launched at $120 and now costs more than triple that price. The 16GB...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824338/raspberrypi5_16GB.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "909cb1cec82b",
+      "title": "SpaceX could buy Boost Mobile as part of its big mobile carrier plans",
+      "url": "https://www.theverge.com/science/1024330/spacex-boost-mobile-deal-report",
+      "source": "The Verge",
+      "published": "2026-11-02T14:05:34+00:00",
+      "excerpt": "SpaceX has discussed a deal with Boost Mobile to launch its own service through the budget-friendly carrier, according to a report from The Washington Post. The deal, which comes as SpaceX aims to make Starlink a \"major\" mobile carrier...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "7ec47cc3fe98",
+      "title": "Affinity\u2019s creative studio is now available on iPad for free",
+      "url": "https://www.theverge.com/1024283/canva-affinity-for-ipad-design-app-availability",
+      "source": "The Verge",
+      "published": "2026-11-02T14:00:00+00:00",
+      "excerpt": "Canva is giving digital creatives a new way to design, illustrate, and edit photos on their iPads, and it doesn't have to cost them a thing. After relaunching the Affinity creative suite as an all-in-one desktop app last year, Canva has...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Canva-Affinity-for-iPad-hero.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "1ab8989706ea",
+      "title": "OpenAI is finally merging ChatGPT\u2019s Chat and Work tabs",
+      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "source": "TechCrunch",
+      "published": "2026-11-02T13:57:53+00:00",
+      "excerpt": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+      "image": "",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "b5e0de85b79f",
+      "title": "Here's how much RAM cost in 2020 vs. 2026",
+      "url": "https://www.engadget.com/2300341/how-much-ram-cost-2020-vs-2026/",
+      "source": "Engadget",
+      "published": "2026-11-02T13:45:00+00:00",
+      "excerpt": "We all know RAM has gotten crazy expensive, but some number put it in even better perspective.",
+      "image": "https://www.engadget.com/img/gallery/heres-how-much-ram-cost-in-2020-vs-2026/l-intro-1792417103.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "91d07db2a713",
+      "title": "Google Messages update rolling out new app icon with gradient design",
+      "url": "https://9to5google.com/2026/11/02/google-messages-gradient-icon-beta/",
+      "source": "9to5Google",
+      "published": "2026-11-02T13:35:00+00:00",
+      "excerpt": "Google Messages is getting on board with the gradient icon design, with a new app icon showing up in the latest update. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-messages-gradient-icon_e18c7d.jpg?quality=82&strip=all&w=1200",
+      "category": "Software Development"
+    },
+    {
+      "id": "f054e35351ae",
+      "title": "Stop counting tokens, start counting what ships",
+      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-02T13:10:32+00:00",
+      "excerpt": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat...",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/iStock-2297734847.jpg?w=840",
+      "category": "Software Development"
+    },
+    {
+      "id": "c38aa310a00a",
+      "title": "Dell XPS Googlebook review: Beautiful hardware for a useless platform",
+      "url": "https://www.engadget.com/2302835/dell-xps-googlebook-review/",
+      "source": "Engadget",
+      "published": "2026-11-02T12:30:00+00:00",
+      "excerpt": "Googlebook OS still needs a ton of work.",
+      "image": "https://www.engadget.com/img/gallery/dell-xps-googlebook-review-beautiful-hardware-for-a-useless-platform/l-intro-1793629252.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "ad2df65419af",
+      "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
+      "url": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
+      "source": "The Hacker News",
+      "published": "2026-11-02T11:50:00+00:00",
+      "excerpt": "Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code, IBM said last week. Langflow is an open-source tool for building AI agents and workflows, and its vulnerability reports...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_FF2_yXQrxnB1ymo-GsohY6t0INslV7mps2DVMnYa_dD_RpZu7uz9HwNrux1gxieMF4hnc_84KMpOyhroj0EDx0Vwv0QljdhTehvJINIsr-Sjyw4CaMiLO3fFWGl-8LhLWgOtC4DRU2X5e46s3Rxghu3KLUMsyHfpxFyKogIs34Q2fm2RYpAMI_Jt_9A/s1600/langflow-rce.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "c477f1812588",
+      "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
+      "url": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
+      "source": "The Hacker News",
+      "published": "2026-11-02T11:30:00+00:00",
+      "excerpt": "Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey of more than 250 CISOs, SOC leaders and...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZbG_0dst_8ctvKrGx37rAninLXS6SIcKT4YjziNbu7bPmTPAsYvWo-Jkwj0UqT493VwmYVtvkthnEGLqTusFvJFo9fPth_VWjI2XNev9SKY-sePLY12rM5yWoQOzrvEXG0DWOWBb7N8GcdHNPqv6skeqGx2r2zGVlDeWkPnt5drMe_R2yh8TB8-kOCug/s1600/pro.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "4d31eab3188f",
+      "title": "Apple is reportedly launching three new iPads early next year",
+      "url": "https://www.engadget.com/2303590/apple-is-reportedly-launching-three-new-ipads-early-next-year/",
+      "source": "Engadget",
+      "published": "2026-11-02T11:12:11+00:00",
+      "excerpt": "Follow its iPad mini launch last week, Apple may unveil three new iPad models early next year.",
+      "image": "https://www.engadget.com/img/gallery/apple-is-reportedly-launching-three-new-ipads-early-next-year/l-intro-1793617622.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "d596e3f2bace",
+      "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
+      "url": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
+      "source": "The Hacker News",
+      "published": "2026-11-02T11:08:45+00:00",
+      "excerpt": "Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to obtain login certificates for privileged...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLv88EM1ZSjaeI7bH9DVpg2mGdkwXWUuir0S_p9IfiWG49_TgRalFdK4oQ6e7UE_JYOnNH70Z6wcftnjhcYHRY-Xc0o8GYp9r1uNzxdC_1bnXZgvon74cXkWgKpHZtwJg3IKLsqGC2HS2tcMfQS8BZu7kfrW1vAaaIA316LRzgCOn8zeGZ1WvALgJmyM4/s1600/ms-ad.jpg",
+      "category": "Enterprise Software & SaaS"
+    },
+    {
+      "id": "056025057989",
+      "title": "Ford launches a \u2018privacy promise\u2019 and explains how and why it uses customer data",
+      "url": "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/",
+      "source": "TechCrunch",
+      "published": "2026-11-02T11:00:00+00:00",
+      "excerpt": "Ford said it's making an \"explicit commitment\" to its customers that \"their vehicle data is safe\" with the company.",
+      "image": "",
+      "category": "Data & Analytics"
+    },
+    {
+      "id": "87a25e1b557b",
+      "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
+      "url": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
+      "source": "The Hacker News",
+      "published": "2026-11-02T10:49:59+00:00",
+      "excerpt": "Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure. The activity, observed by Palo Alto...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYHKbP_7yOsvpwAldBMCL3QkCJ9SbUVrJz1Tr_RB6m3O99Gj73H0fX20hIbzKujRWB-1qkBCWv1UEJEbrTe1NFYpPkTm0OoNqJe7OdJoZa1HcZDT2On3mUT0igQeCOsMnWw_ZfT-HsLx6B8R84XYHHg4mUI2hPzM15ggddQCFAAmzChzC5Of90LInW8RB8/s1600/artex.jpg",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "09bdd94f057e",
+      "title": "The agentic web is here",
+      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-02T09:35:19+00:00",
+      "excerpt": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the \u201cSemantic...",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/spot1.jpg",
+      "category": "Web Development"
+    },
     {
       "id": "9068a344a035",
       "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
@@ -59,546 +599,6 @@
       "published": "2026-11-02T00:15:00+00:00",
       "excerpt": "Widgets take advantage of your iPad's large screen, and some of the best ones are often overlooked.",
       "image": "https://www.engadget.com/img/gallery/10-ipad-widgets-you-probably-didnt-realize-existed/l-intro-1793198901.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "8523ecb8f1ce",
-      "title": "AI glasses can replace your prescription glasses, but should they?",
-      "url": "https://www.engadget.com/2300320/ai-glasses-replace-prescription-should-they/",
-      "source": "Engadget",
-      "published": "2026-11-02T00:00:00+00:00",
-      "excerpt": "You can easily get AI glasses with prescription if you need them, but before making the investment, it's recommended to learn the pros and cons of them.",
-      "image": "https://www.engadget.com/img/gallery/ai-glasses-can-replace-your-prescription-glasses-but-should-they/l-intro-1792784878.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "195ce0e165a4",
-      "title": "How using one earbud more than the other can cause uneven wear and tear",
-      "url": "https://www.engadget.com/2301054/using-one-earbud-more-than-other-cause-uneven-wear-and-tear/",
-      "source": "Engadget",
-      "published": "2026-11-01T23:45:00+00:00",
-      "excerpt": "Using one earbud may feel like the natural choice at times, but the reality is that it can chip away at their lifespan if you don't kick the habit.",
-      "image": "https://www.engadget.com/img/gallery/how-using-one-earbud-more-than-the-other-can-cause-uneven-wear-and-tear/l-intro-1792776566.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "21c7eac82582",
-      "title": "How to clean your PlayStation 5 without damaging it",
-      "url": "https://www.engadget.com/2300309/how-to-clean-playstation-5-without-damaging/",
-      "source": "Engadget",
-      "published": "2026-11-01T23:00:00+00:00",
-      "excerpt": "Your PS5 requires occasional maintenance to run at its best, but it only needs a light touch.",
-      "image": "https://www.engadget.com/img/gallery/how-to-clean-your-playstation-5-without-damaging-it/l-intro-1793029905.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "80f95ef454b3",
-      "title": "Which Samsung S Pens can be located using SmartThings Find?",
-      "url": "https://www.engadget.com/2300395/which-samsung-s-pens-located-with-smartthings-find/",
-      "source": "Engadget",
-      "published": "2026-11-01T22:00:00+00:00",
-      "excerpt": "Not all of Samsung's S Pens are made the same. Only one of them can be found through the SmartThings Find network.",
-      "image": "https://www.engadget.com/img/gallery/which-samsung-s-pens-can-be-located-using-smartthings-find/l-intro-1793021774.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "0dbf0226aa90",
-      "title": "OpenAI might rebrand its data centers as \u2018AI compute campuses\u2019",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "source": "TechCrunch",
-      "published": "2026-11-01T21:55:23+00:00",
-      "excerpt": "Data centers are deeply unpopular. But what if we called them something else?",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "63607bf62bc0",
-      "title": "Anthropic updates Claude to stop it from recreating existing video games",
-      "url": "https://www.engadget.com/2303469/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/",
-      "source": "Engadget",
-      "published": "2026-11-01T21:08:32+00:00",
-      "excerpt": "Users can still lean on Claude to help with designing original or genre games.",
-      "image": "https://www.engadget.com/img/gallery/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/l-intro-1793566610.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "950d270a5385",
-      "title": "Ceramic vs Titanium Apple Watch: Which material is better for overall durability?",
-      "url": "https://www.engadget.com/2300397/apple-watch-ceramic-vs-titanium-which-is-better-material-overall-durability/",
-      "source": "Engadget",
-      "published": "2026-11-01T21:00:00+00:00",
-      "excerpt": "An Apple Watch is a handy accessory for your iPhone, but choosing the most durable material can be challenging. This one is better suited to your needs.",
-      "image": "https://www.engadget.com/img/gallery/ceramic-vs-titanium-apple-watch-which-material-is-better-for-overall-durability/l-intro-1793034841.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "bb2642061f37",
-      "title": "AI can make tech CEOs\u2019 lives easier. What about everyone else?",
-      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-      "source": "TechCrunch",
-      "published": "2026-11-01T20:57:58+00:00",
-      "excerpt": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1481617564.jpg?resize=1200,680",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "81609543a843",
-      "title": "Wear OS adding \u2018system status bar\u2019 to apps, Wear OS 7.1 coming",
-      "url": "https://9to5google.com/2026/11/01/wear-os-status-bar/",
-      "source": "9to5Google",
-      "published": "2026-11-01T20:44:36+00:00",
-      "excerpt": "Earlier this week, Google revealed that a \u201clater platform release of Wear OS\u201d is adding a \u201csystem status bar.\u201d more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Wear-OS-7-cover.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "fe4ea74167ad",
-      "title": "Google says Googlebook \u2018detachables\u2019 are coming soon",
-      "url": "https://9to5google.com/2026/11/01/googlebook-detachables/",
-      "source": "9to5Google",
-      "published": "2026-11-01T20:07:31+00:00",
-      "excerpt": "At the Android Dev Summit 2026 earlier this week, Google said that Googlebook detachables will be the next form factor after clamshells and convertibles. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Googlebook-family-cover.webp?w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "dad1dcd91d6a",
-      "title": "How to know if a USB-C cable is waterproof",
-      "url": "https://www.engadget.com/2300388/how-to-know-usb-c-cable-waterproof/",
-      "source": "Engadget",
-      "published": "2026-11-01T20:00:00+00:00",
-      "excerpt": "If you need extra protection for your USB cables, knowing how to tell if they're waterproof beforehand is important. Here's how to check a cable's rating.",
-      "image": "https://www.engadget.com/img/gallery/how-to-know-if-a-usb-c-cable-is-waterproof-or-not/l-intro-1793116949.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "bd0e40510775",
-      "title": "5 ways to get Amazon Prime for free (or way cheaper)",
-      "url": "https://www.engadget.com/2301057/ways-get-amazon-prime-free-cheaper/",
-      "source": "Engadget",
-      "published": "2026-11-01T19:45:00+00:00",
-      "excerpt": "Don't pay full price; you might already qualify for cheaper Prime or have another benefit that covers the membership fee",
-      "image": "https://www.engadget.com/img/gallery/5-ways-to-get-amazon-prime-for-free-or-way-cheaper/l-intro-1793243550.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "126662de4d30",
-      "title": "How to turn on the flashlight on your Android phone without unlocking it",
-      "url": "https://www.engadget.com/2300305/how-to-turn-on-andoird-phone-flashlight-without-unlocking/",
-      "source": "Engadget",
-      "published": "2026-11-01T19:30:00+00:00",
-      "excerpt": "You can easily access your flashlight on Samsung Galaxy and Google Pixel devices - here's how.",
-      "image": "https://www.engadget.com/img/gallery/how-to-turn-on-the-flashlight-on-your-android-phone-without-unlocking-it/l-intro-1792959825.jpg",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "13cb8a05e27c",
-      "title": "Judge says xAI must face NAACP lawsuit on data center pollution",
-      "url": "https://www.engadget.com/2303462/judge-says-xai-must-face-naacp-lawsuit-on-data-center-pollution/",
-      "source": "Engadget",
-      "published": "2026-11-01T19:19:22+00:00",
-      "excerpt": "The legal battle revolves around the AI company's operations in southern Memphis.",
-      "image": "https://www.engadget.com/img/gallery/judge-says-xai-must-face-naacp-lawsuit-on-data-center-pollution/l-intro-1793560530.jpg",
-      "category": "Cloud Computing"
-    },
-    {
-      "id": "fdad6bdb549c",
-      "title": "This hidden Windows 11 menu can save you valuable time when troubleshooting",
-      "url": "https://www.engadget.com/2300300/hidden-windows-11-menu-saves-time-troubleshooting/",
-      "source": "Engadget",
-      "published": "2026-11-01T19:00:00+00:00",
-      "excerpt": "Windows 11 has a sneaky menu that connects you with Settings, Task Manager, Event Viewer, and more in one place.",
-      "image": "https://www.engadget.com/img/gallery/this-hidden-windows-11-menu-can-save-you-valuable-time-when-troubleshooting/l-intro-1792876075.jpg",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "9abb3bf633bc",
-      "title": "The biggest problem with trying to directly power EVs with solar roofs",
-      "url": "https://www.engadget.com/2300413/biggest-problem-directly-powering-evs-with-solar-roofs/",
-      "source": "Engadget",
-      "published": "2026-11-01T18:30:00+00:00",
-      "excerpt": "Solar roofs promise a future where EVs rarely need plugging in, but turning that vision into reality presents some surprisingly difficult challenges.",
-      "image": "https://www.engadget.com/img/gallery/the-biggest-problem-with-trying-to-directly-power-evs-with-solar-roofs/l-intro-1793119475.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "cd8520dd6b8f",
-      "title": "How much would it cost to build a PC similar to the Xbox Series S?",
-      "url": "https://www.engadget.com/2300614/xbox-series-s-pc-similar-how-much-to-build/",
-      "source": "Engadget",
-      "published": "2026-11-01T18:15:00+00:00",
-      "excerpt": "The Xbox Series S offers a solid entry-level experience for those interested in console gaming. Here's what an equivalent gaming PC would cost you.",
-      "image": "https://www.engadget.com/img/gallery/xbox-series-s-pc-similar-how-much-to-build/l-intro-1793244150.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "ebb53f0d480e",
-      "title": "5 safety practices to know before vibe coding",
-      "url": "https://www.engadget.com/2302658/vibe-coding-safety-practices/",
-      "source": "Engadget",
-      "published": "2026-11-01T18:00:00+00:00",
-      "excerpt": "Here's what beginners need to know to vibe code securely.",
-      "image": "https://www.engadget.com/img/gallery/vibe-coding-safety-practices/l-intro-1793383938.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "a9330320c8a2",
-      "title": "The reason why your Xbox controller still uses AA batteries",
-      "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
-      "source": "Engadget",
-      "published": "2026-11-01T17:45:00+00:00",
-      "excerpt": "Xbox controllers use AA batteries, which may seem like an outdated way of powering a device, but there are reasons for this intentional choice.",
-      "image": "https://www.engadget.com/img/gallery/the-reason-why-your-xbox-controller-still-uses-aa-batteries/l-intro-1793022945.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "ac39279627ed",
-      "title": "5 nifty ways you can reuse your old laptop",
-      "url": "https://www.engadget.com/2300621/nifty-ways-reuse-old-laptop/",
-      "source": "Engadget",
-      "published": "2026-11-01T17:30:00+00:00",
-      "excerpt": "You can do so much more with an old laptop than just throwing it away or leaving it to rot in a drawer. Here are some clever ways to reuse one.",
-      "image": "https://www.engadget.com/img/gallery/5-nifty-ways-you-can-reuse-your-old-laptop/l-intro-1793246677.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "44d59cb29e30",
-      "title": "Meta reportedly built a humanoid robot prototype that can do household chores",
-      "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
-      "source": "Engadget",
-      "published": "2026-11-01T17:17:42+00:00",
-      "excerpt": "A report said the company is already working on the second version that's codenamed Max 2.",
-      "image": "https://www.engadget.com/img/gallery/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/l-intro-1793552988.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "08a98f93893b",
-      "title": "Apple\u2019s HomeView could add security camera features",
-      "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
-      "source": "The Verge",
-      "published": "2026-11-01T17:16:07+00:00",
-      "excerpt": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, and recording...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6101.jpeg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "3b74f98666cf",
-      "title": "TechCrunch Mobility: A new, bigger AV boom is here",
-      "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
-      "source": "TechCrunch",
-      "published": "2026-11-01T17:04:00+00:00",
-      "excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/robotaxi-illustration.jpg?resize=1200,1058",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "b538ece0b1f1",
-      "title": "How to tell if your smart TV has a camera (and how to disable it)",
-      "url": "https://www.engadget.com/2302466/how-to-tell-if-smart-tv-has-camera/",
-      "source": "Engadget",
-      "published": "2026-11-01T16:30:00+00:00",
-      "excerpt": "If you're concerned about privacy, then you'll want to make sure that your smart TV doesn't have a camera - and that you disable it if it does.",
-      "image": "https://www.engadget.com/img/gallery/how-to-tell-if-your-smart-tv-has-a-camera-and-how-to-disable-it/l-intro-1793346234.jpg",
-      "category": "Data & Analytics"
-    },
-    {
-      "id": "419b7664b216",
-      "title": "Binance resumes withdrawals following $6.3 billion breach",
-      "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
-      "source": "TechCrunch",
-      "published": "2026-11-01T16:20:10+00:00",
-      "excerpt": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/binance-2206279918.jpg?resize=1200,800",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "e65a363a842d",
-      "title": "You might be neglecting the one thing that keeps your PC healthy",
-      "url": "https://www.engadget.com/2300290/desktop-pc-neglecting-cleaning-computer-health/",
-      "source": "Engadget",
-      "published": "2026-11-01T16:15:00+00:00",
-      "excerpt": "While Windows has some built-in tools to help you keep your PC running smoothly, there's a better option.",
-      "image": "https://www.engadget.com/img/gallery/you-might-be-neglecting-the-one-thing-that-keeps-your-pc-healthy/l-intro-1793116336.jpg",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "fa449a61c1d4",
-      "title": "OpenAI adds stricter limits for teens asking about firearms",
-      "url": "https://www.engadget.com/2303421/openai-adds-stricter-limits-for-teens-asking-about-firearms/",
-      "source": "Engadget",
-      "published": "2026-11-01T16:03:12+00:00",
-      "excerpt": "The company said these tighter restrictions apply even if the question asked \"appears harmless.\"",
-      "image": "https://www.engadget.com/img/gallery/openai-adds-stricter-limits-for-teens-asking-about-firearms/l-intro-1793548561.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "cfa0ae1d46a3",
-      "title": "What is AssistiveTouch on your Apple Watch and when should you use it?",
-      "url": "https://www.engadget.com/2302464/what-is-assistivetouch-apple-watch-when-use-it/",
-      "source": "Engadget",
-      "published": "2026-11-01T16:00:00+00:00",
-      "excerpt": "Your Apple Watch can respond to simple hand and finger gestures with AssistiveTouch. Learn how to set it up, toggle it off and when it's actually helps.",
-      "image": "https://www.engadget.com/img/gallery/what-is-assistivetouch-on-your-apple-watch-and-when-should-you-use-it/l-intro-1793294003.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "027763ba7464",
-      "title": "Your old iPod could get Spotify and USB-C support \u2014 here's how",
-      "url": "https://www.engadget.com/2300286/how-old-ipod-get-spotify-usb-c-upgrade-sprout-mod/",
-      "source": "Engadget",
-      "published": "2026-11-01T15:45:00+00:00",
-      "excerpt": "The iPod hasn't been sold for some time, but dedicated fans are keeping it alive with mods and complete refreshes.",
-      "image": "https://www.engadget.com/img/gallery/your-old-ipod-could-get-spotify-and-usb-c-support-heres-how/l-intro-1793116115.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "e3a080801321",
-      "title": "AI software clones are coming for big-name companies like Adobe",
-      "url": "https://www.engadget.com/2302459/ai-software-clones-coming-for-big-name-companies-adobe/",
-      "source": "Engadget",
-      "published": "2026-11-01T15:30:00+00:00",
-      "excerpt": "Vibe-coded clones of Adobe software are shaking things up.",
-      "image": "https://www.engadget.com/img/gallery/ai-software-clones-are-coming-for-big-name-companies-like-adobe/l-intro-1793354854.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "7956f66bfc9b",
-      "title": "The simple reason hardware accelerated GPU scheduling isn't the best fit for cheap GPUs",
-      "url": "https://www.engadget.com/2300281/hardware-accelerated-gpu-scheduling-not-best-fit-cheap-gpu-reason/",
-      "source": "Engadget",
-      "published": "2026-11-01T15:15:00+00:00",
-      "excerpt": "Hardware accelerated GPU scheduling is one of those features many of us don't really think about, but it could cause problems for your old GPU.",
-      "image": "https://www.engadget.com/img/gallery/the-simple-reason-hardware-accelerated-gpu-scheduling-isnt-the-best-fit-for-cheap-gpus/l-intro-1793082690.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "1bc5500a3dd3",
-      "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
-      "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
-      "source": "TechCrunch",
-      "published": "2026-11-01T15:00:00+00:00",
-      "excerpt": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Pixel-11-fold-feat.jpg?resize=1200,675",
-      "category": "Software Development"
-    },
-    {
-      "id": "c8c2ace6015d",
-      "title": "Which Android is the closest counterpart to the iPhone 18 Pro Max?",
-      "url": "https://www.engadget.com/2300277/which-android-closest-to-iphone-18-pro-max/",
-      "source": "Engadget",
-      "published": "2026-11-01T14:45:00+00:00",
-      "excerpt": "The iPhone 18 Pro Max is a brilliant phone, but not everyone wants to live in Apple's walled garden. This is the closest competitor Android can offer.",
-      "image": "https://www.engadget.com/img/gallery/which-android-is-the-closest-counterpart-to-the-iphone-18-pro-max/l-intro-1793079780.jpg",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "d47dca67557a",
-      "title": "North Korea linked to massive Binance crypto heist",
-      "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
-      "source": "The Verge",
-      "published": "2026-11-01T14:33:11+00:00",
-      "excerpt": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack converting the tokens to...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK428_CRYPTO_2_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "ca77b01a0a05",
-      "title": "How to check if your upcoming flight has Starlink Wi-Fi",
-      "url": "https://www.engadget.com/2300275/starlink-wifi-how-to-check-upcoming-flight/",
-      "source": "Engadget",
-      "published": "2026-11-01T14:30:00+00:00",
-      "excerpt": "Starlink is coming to many airlines, but the rollouts are all in different stages of completion.",
-      "image": "https://www.engadget.com/img/gallery/how-to-check-if-your-upcoming-flight-has-starlink-wi-fi/l-intro-1793040764.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "8ec617b2aa9a",
-      "title": "MacBook Pro battery life in 2011 vs 2026: how much has it really improved in 15 years?",
-      "url": "https://www.engadget.com/2300274/macbook-pro-battery-life-comparison-2011-vs-2026/",
-      "source": "Engadget",
-      "published": "2026-11-01T14:15:00+00:00",
-      "excerpt": "Apple's 2026 MacBook Pro is light-years ahead of its 2011 model in terms of performance. But is longer battery life one of those improvements?",
-      "image": "https://www.engadget.com/img/gallery/macbook-pro-battery-life-in-2011-vs-2026-how-much-has-it-really-improved-in-15-years/l-intro-1793038213.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "9bf5871ddb73",
-      "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
-      "url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
-      "source": "The Verge",
-      "published": "2026-11-01T14:00:00+00:00",
-      "excerpt": "When I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple launched its entry-level smart speaker, and all it got in the second gen was a chip bump...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268839_HomePod_mini_2_JTuohy_0009.jpg?quality=90&strip=all&crop=0,6.1688463882248,80.59453125,89.629916092439",
-      "category": "Software Development"
-    },
-    {
-      "id": "a4e7190fff4b",
-      "title": "Here\u2019s what \u2018renoa\u2019 \u2014 the first new fiber in 25 years \u2014 feels like",
-      "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
-      "source": "TechCrunch",
-      "published": "2026-11-01T14:00:00+00:00",
-      "excerpt": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
-      "image": "",
-      "category": "Enterprise Software & SaaS"
-    },
-    {
-      "id": "c32c2d057f1e",
-      "title": "Change these PlayStation 5 settings before GTA 6 comes out",
-      "url": "https://www.engadget.com/2302290/playstation-5-settings-change-before-gta-6/",
-      "source": "Engadget",
-      "published": "2026-11-01T14:00:00+00:00",
-      "excerpt": "For the best experience playing the new Grand Theft Auto 6, you're going to want to make some adjustments.",
-      "image": "https://www.engadget.com/img/gallery/change-these-playstation-5-settings-before-gta-6-comes-out/l-intro-1793371727.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "e4faf3088089",
-      "title": "Motorola is filling the gap OnePlus left behind, mostly",
-      "url": "https://9to5google.com/2026/11/01/motorola-oneplus-gap/",
-      "source": "9to5Google",
-      "published": "2026-11-01T14:00:00+00:00",
-      "excerpt": "As we near the launch of Motorola\u2019s return to the flagship space, it\u2019s becoming clear that the company is ready to fill a gap left by the departure of OnePlus, though there\u2019s one very obvious difference between the two. 9to5Google...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/motorola-signature-27-1_942c71.jpg?quality=82&strip=all&w=1600",
-      "category": "Web Development"
-    },
-    {
-      "id": "dcfd041afebb",
-      "title": "Here's how to know if your TV is too big for any room",
-      "url": "https://www.engadget.com/2300272/how-to-know-tv-too-big-for-any-room/",
-      "source": "Engadget",
-      "published": "2026-11-01T13:45:00+00:00",
-      "excerpt": "When purchasing a television, this first instinct is to go big. But before choosing a model, make sure it won't overpower the room.",
-      "image": "https://www.engadget.com/img/gallery/heres-how-to-know-if-your-tv-is-too-big-for-any-room/l-intro-1793028876.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "f6a41a72e8fe",
-      "title": "Tesla is ditching its solar roof tiles for a good reason",
-      "url": "https://www.engadget.com/2301053/tesla-ditching-solar-roof-tiles-discontinued-good-reason/",
-      "source": "Engadget",
-      "published": "2026-11-01T13:30:00+00:00",
-      "excerpt": "Tesla was making solar roof panels that were designed to look like typical roof shingles if you saw them from the street, but they were transparent from above.",
-      "image": "https://www.engadget.com/img/gallery/tesla-is-ditching-its-solar-roof-tiles-for-a-good-reason/l-intro-1792787873.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "ea568abb77bb",
-      "title": "How to clear the cache on your Android device",
-      "url": "https://www.engadget.com/2300269/how-to-clear-cache-android/",
-      "source": "Engadget",
-      "published": "2026-11-01T13:15:00+00:00",
-      "excerpt": "Your apps and browsers may be overdue for some tidying up.",
-      "image": "https://www.engadget.com/img/gallery/how-to-clear-the-cache-on-your-android-device/l-intro-1792951353.jpg",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "c1c20131973a",
-      "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
-      "url": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
-      "source": "The Hacker News",
-      "published": "2026-11-01T08:51:31+00:00",
-      "excerpt": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the trusted client's...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4Vibbj3miGalyf0avn_Z2WlLhFh5cC5ImXGFlOL0cisgxikHCcLzHjOVM3qO5B47V3uw62rWH6m6fP1svsH3TCG6i9sS19BIXn1CsDjKK3gnG6VQxkFwghemdeBlV4_AM5Ah-_TJ3T_5Gv-D5Pygrm-B5yzQnDqvIXmI2FyAeuzk57_l6esdhNrTMBj0/s1600/linux-vm.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "2a3e4a8e199c",
-      "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
-      "url": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
-      "source": "The Hacker News",
-      "published": "2026-11-01T07:25:40+00:00",
-      "excerpt": "Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded from an outside...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe0B28qLAtUMfqN29_phxZJVJORICkj_98MZFwDiXAxFTABw8G9qbsVyD98pg7T_Rvgv83NXyR5tNGYH4dRwlxs3QFTUZxDPHQs2BgFsnmGcOuVW1HkFVCfiCR3Y05kPQrfFx4S7A8DiFXXAAgdc5SiEKx0-0xrW5rNlNSyN3jZJcyXasdpCr5AG7KM3s/s1600/Polymarket.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "6e20a9798345",
-      "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
-      "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
-      "source": "The Hacker News",
-      "published": "2026-11-01T07:03:00+00:00",
-      "excerpt": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets from Binance to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmb1j0HC3RkKxZ4bBQPaOa5GaLqC2EBtxXHOMnebPlgHGDJG7ryIuSBIR-9YBQuUm6HwD15-OJQgBvIkhbLIApM8XoU0DptSEF6DNhEpinxPA-06wQZhLhRiKmFGO5cVjONcaouGC3lqybhkeEsZj-xebX6u6hSR19mS7sVqOrpR02qNOlpHZJEUjf1HtB/s1600/binance-hack.png",
-      "category": "Software Development"
-    },
-    {
-      "id": "be08e34bf976",
-      "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
-      "url": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
-      "source": "The Hacker News",
-      "published": "2026-11-01T07:02:58+00:00",
-      "excerpt": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia. The activity, detailed by Kaspersky this week, targeted a custom Windows 10...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy0oLNj9TVg8ifLKdJSg4HH1EhN3m_OBldd7wEIeVoQSHtFXSmsiPdmf-njsPD-CbVHY8NckeW2N9rN8-CTnp81zaeFq-ISj04O7ihoj5HgnvJT_zY_0fdC8vCcd5LXL8Mx9ym1fPI5GMrEtjxZoEiernCr_CZwLocgtrJsKZzixEnYUe2WmkehWLNR2hx/s1600/windows-hacker.jpg",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "8a042d77f1d6",
-      "title": "Data centers are now a midterm issue, even in Brooklyn",
-      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
-      "source": "TechCrunch",
-      "published": "2026-11-01T02:22:10+00:00",
-      "excerpt": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member\u2019s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
-      "image": "",
-      "category": "Data & Analytics"
-    },
-    {
-      "id": "14adf4af5d99",
-      "title": "Amazon made the AUX input on older Alexa devices less useful",
-      "url": "https://www.engadget.com/2300219/amazon-made-alexa-devices-aux-port-less-useful/",
-      "source": "Engadget",
-      "published": "2026-11-01T00:00:00+00:00",
-      "excerpt": "Amazon has made a quiet change to older Echo speakers that will leave owners rethinking how they use their devices and manage their home audio setups.",
-      "image": "https://www.engadget.com/img/gallery/amazon-made-the-aux-input-on-older-alexa-devices-less-useful/l-intro-1793052674.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "e3437f62d888",
-      "title": "How big and powerful is SpaceX's Starship rocket?",
-      "url": "https://www.engadget.com/2300227/how-big-powerful-spacex-starship-rocket/",
-      "source": "Engadget",
-      "published": "2026-10-31T23:45:00+00:00",
-      "excerpt": "SpaceX's Starship has a big role to play in NASA's plans to land astronauts on the Moon. Here's how big this rocket is and how its two stages work together.",
-      "image": "https://www.engadget.com/img/gallery/how-big-and-powerful-is-spacexs-starship-rocket/l-intro-1793113657.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "0d92a529dc5b",
-      "title": "Why your Apple AirPods' battery drains so fast and how to make it last longer",
-      "url": "https://www.engadget.com/2300231/why-airpods-battery-drains-fast-how-to-fix/",
-      "source": "Engadget",
-      "published": "2026-10-31T23:30:00+00:00",
-      "excerpt": "It's annoying when your Apple AirPods run out of juice, but the culprit might not be what you think. Here's what's going on and what you can do about it.",
-      "image": "https://www.engadget.com/img/gallery/why-your-apple-airpods-battery-drains-so-fast-and-how-to-make-it-last-longer/l-intro-1793108793.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "c5be327e34e7",
-      "title": "The Slate vs Ford Fathom debate might be settled by this one key tech feature",
-      "url": "https://www.engadget.com/2300238/slate-vs-ford-fathom-android-auto-carplay-support/",
-      "source": "Engadget",
-      "published": "2026-10-31T23:00:00+00:00",
-      "excerpt": "Slate and Ford are both building affordable electric pickups, and that means compromises. But the two automakers are taking very different paths to get there.",
-      "image": "https://www.engadget.com/img/gallery/the-slate-vs-ford-fathom-debate-might-be-settled-by-this-one-key-tech-feature/l-intro-1793026890.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "80aba8eef7b8",
-      "title": "4 important features you should know if you use Microsoft Teams",
-      "url": "https://www.engadget.com/2300242/important-features-should-know-microsoft-teams/",
-      "source": "Engadget",
-      "published": "2026-10-31T22:45:00+00:00",
-      "excerpt": "A wealth of not-so-well-known features on Microsoft Teams make the experience easier and more stress-free than you may have previously thought.",
-      "image": "https://www.engadget.com/img/gallery/4-important-features-you-should-know-if-you-use-microsoft-teams/l-intro-1792773541.jpg",
-      "category": "Enterprise Software & SaaS"
-    },
-    {
-      "id": "76291720e125",
-      "title": "5 Netflix tips we all wish we knew sooner",
-      "url": "https://www.engadget.com/2300249/netflix-download-speeds-offline-tricks-wish-knew-sooner/",
-      "source": "Engadget",
-      "published": "2026-10-31T22:00:00+00:00",
-      "excerpt": "If there are aspects of Netflix streaming that aren't to your liking, there are several changes you can make to optimize your viewing experience.",
-      "image": "https://www.engadget.com/img/gallery/5-netflix-tips-we-all-wish-we-knew-sooner/l-intro-1792783972.jpg",
       "category": "Software Development"
     }
   ]
