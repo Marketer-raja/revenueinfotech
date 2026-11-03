@@ -1,6 +1,106 @@
 {
-  "updated": "2026-11-03T01:34:01+00:00",
+  "updated": "2026-11-03T09:29:21+00:00",
   "items": [
+    {
+      "id": "60d76b2c3058",
+      "title": "Apple's latest watchOS 27 beta enables Siri Recap and Live Rewind audio features",
+      "url": "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/",
+      "source": "Engadget",
+      "published": "2026-11-03T09:21:36+00:00",
+      "excerpt": "First revealed at the company's event in September, Apple's AI-powered Apple Watch features are finally landing in beta.",
+      "image": "https://www.engadget.com/img/gallery/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/l-intro-1793697908.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "07d9937fab38",
+      "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
+      "source": "The Hacker News",
+      "published": "2026-11-03T08:31:48+00:00",
+      "excerpt": "BTCPay Server, a self-hosted, open-source cryptocurrency payment processor, has urged users to install the latest version of its software in response to reports of Bitcoin and Litecoin being stolen from hot wallets on instances running...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrr1rJlr2nztz8jEunAWtVXHyOHkJY2_KdeweNWBqwF18rmhPiFItEQ-yCex1vVsps856ArIDl7unaWJNiribZ9DgkmQ3o4pLa1BKQrjKEeFR63z4csXnBHah5wIp7H5xuUB7b1UIp06nk6BzLuxFW5aWh2g-PoLoZ74RjMOEUX7XdrDsHM1yFbjGHBzK8/s1600/btcpay.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "3c0296acb11a",
+      "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe\u2019s startup scene",
+      "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+      "source": "TechCrunch",
+      "published": "2026-11-03T08:01:00+00:00",
+      "excerpt": "Evertrue Capital announces $17M debut fund to back early stage AI and fintech.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Yvonne.jpg?resize=1171,1200",
+      "category": "Enterprise Software & SaaS"
+    },
+    {
+      "id": "d108c8cad61e",
+      "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
+      "url": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
+      "source": "The Hacker News",
+      "published": "2026-11-03T07:43:07+00:00",
+      "excerpt": "Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks. The Taiwanese vendor said it observed threat actors exploiting a vulnerability...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg18lSM19IJpBCuAofy8CZNsJ-05CtvqxdL8BcHUS65fn_Oph-FAXqpdDE9c11G78nq7I1pVtt4XAotc_hszgea-QpNDTt-RzstD3k7yfXHP3JUnBViplsRzL_4q_LM-jujcv6NbMUUYBMWtJKSdKcBYlbSkm7Mx9LaTbVRW88uFh723nDOGYYDxiwkfYFr/s1600/synology-ransomware.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "0947affcb4cc",
+      "title": "Apple Watch\u2019s AI features for rewinding and recapping conversations begin beta testing",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "source": "TechCrunch",
+      "published": "2026-11-03T07:20:00+00:00",
+      "excerpt": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/live-rewind-restaurant.jpg?resize=1200,669",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "3e6bc640da57",
+      "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
+      "url": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
+      "source": "The Hacker News",
+      "published": "2026-11-03T05:34:41+00:00",
+      "excerpt": "A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed. The vulnerability, tracked as CVE-2026-58115 (CVSS score: 10.0), is a case of missing...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLg0QvfH0SD_sz2pFnyrG6Zcs-ltrKaf42ZY7PYKTsA26Nu4alNeqarZZ9HGEjO0UJFr5Wfsb7WBSDYoRnGi6X1jXZ8_4xx1VJtYshtPXYX9DVJYu4lln_IqEhf-NQJC7MKWI1JVzzR5heu6O_OnWezfKsj3AnBs5NKVp5dOVgR-7XuKMIAiyiKflPlT9E/s1600/siemens-hack.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "d4042f8de11d",
+      "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
+      "url": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
+      "source": "The Hacker News",
+      "published": "2026-11-03T05:34:37+00:00",
+      "excerpt": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability in question is CVE-2026-81648, which...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1tflB6yfzJv3UijqJlfCikzOQx0NHz9AVTh13vDvWu-LfAfFfBDjGbKI79Cb3dd2Ca_ck2KNP46WwYKcuweVD9Wc1srFpRkBimsG-EQS567tR92Yyg1DKPWqhhZHc1sP71qHWQoUxndY2VzDlqVsd2gx2GPcMx7pjVG8ws13bfMKXDtqz5q7EiJ22Mmr_/s1600/wp.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "c596328ed24a",
+      "title": "Android gaming is having a renaissance",
+      "url": "https://9to5google.com/2026/11/02/android-gaming-is-having-a-renaissance/",
+      "source": "9to5Google",
+      "published": "2026-11-03T03:33:40+00:00",
+      "excerpt": "Good morning! Today I\u2019m mourning the loss of Patrick Stewart by rewatching First Contact , my favorite Trek movie; beginning a marathon listen of at least one great Star Trek podcast ; and replaying Elite Force and Armada , both wonderful...",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/razer-prio-controller-3.jpg?quality=82&strip=all&w=1200",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "4ed35bdfdb65",
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "source": "TechCrunch",
+      "published": "2026-11-03T03:30:00+00:00",
+      "excerpt": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/google-dreambeans.jpg?resize=1200,800",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "968f14d53faf",
+      "title": "Apple may try to increase revenue by doing\u2026something with third-party AI apps",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "source": "TechCrunch",
+      "published": "2026-11-03T01:49:52+00:00",
+      "excerpt": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
+      "category": "Artificial Intelligence"
+    },
     {
       "id": "eebdfcdc6a19",
       "title": "This Chinese Android phone brand has launched a Harry Potter collab",
@@ -338,7 +438,7 @@
       "source": "TechCrunch",
       "published": "2026-11-02T17:54:11+00:00",
       "excerpt": "Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they both have the same strategic investor: Nvidia.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -368,7 +468,7 @@
       "source": "TechCrunch",
       "published": "2026-11-02T17:49:41+00:00",
       "excerpt": "Readwise Books combines an e-book store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/image-6.png?resize=1200,675",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -499,106 +599,6 @@
       "published": "2026-11-02T16:44:48+00:00",
       "excerpt": "SpaceX has been looking for new ways to use its Starlink network, and a tie-up with cellular operator Boost Mobile could give it the terrestrial access it needs.",
       "image": "",
-      "category": "Software Development"
-    },
-    {
-      "id": "86093d9a7922",
-      "title": "Privacy Display on Galaxy S27 Pro and S27 Ultra looks more promising in latest leak",
-      "url": "https://9to5google.com/2026/11/02/galaxy-s27-privacy-display-improved-brightness/",
-      "source": "9to5Google",
-      "published": "2026-11-02T16:44:14+00:00",
-      "excerpt": "A new leak strengthens a previous rumor that the Galaxy S27 Pro and Galaxy S27 Ultra will get an improved version of Samsung\u2019s Privacy Display, used on this year\u2019s flagship. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-ultra-privacy-display-17.jpg?quality=82&strip=all&w=1600",
-      "category": "Data & Analytics"
-    },
-    {
-      "id": "c73e2ebb4596",
-      "title": "Apple\u2019s HomeView may double as security camera \u2013 watch out Ring, Nest, and Wyze",
-      "url": "https://www.zdnet.com/home-and-office/apple-homeview-indoor-security-camera/",
-      "source": "ZDNET",
-      "published": "2026-11-02T16:35:32+00:00",
-      "excerpt": "HomeView settings reveal potential video recording and streaming options alongside privacy features.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/FF53FBAF-41CE-4124-AAC5-A2D3B7740A9E_1_105_c.jpeg",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "133799eedc2b",
-      "title": "42AI comes out of stealth with $62.5M and a world model that can \u2018predict human behavior\u2019",
-      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-      "source": "TechCrunch",
-      "published": "2026-11-02T16:30:00+00:00",
-      "excerpt": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
-      "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "bfb09c28111a",
-      "title": "50 AI agents tried to build a thriving Minecraft civilization \u2013 it didn\u2019t end well",
-      "url": "https://www.zdnet.com/innovation/y-combinator-ai-agents-minecraft-experiment-behavior/",
-      "source": "ZDNET",
-      "published": "2026-11-02T16:30:00+00:00",
-      "excerpt": "It turns out even bots can\u2019t escape bureaucracy.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Minecraft-AI-agents-test.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "54cd408e921e",
-      "title": "Deals: Rare all-time low hits Google Home Speaker, Galaxy Z Fold 8 up to $624 off, Amazon Alexa Android Tablet, more",
-      "url": "https://9to5google.com/2026/11/02/deals-google-home-speaker-galaxy-z-fold-8/",
-      "source": "9to5Google",
-      "published": "2026-11-02T16:30:00+00:00",
-      "excerpt": "Today\u2019s 9to5Toys Lunch Break is headlined by a Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold , as well as $100 off all Pixel Watch 5 models, the first discount on the brand new Amazon Alexa Android Tablet at $199.99 and a new...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/9to5Google-Nov-2.webp?w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "ded25e29039c",
-      "title": "What to do if your smart home devices keep disconnecting from Wi-Fi",
-      "url": "https://www.engadget.com/2300349/smart-home-devices-disconnecting-wifi/",
-      "source": "Engadget",
-      "published": "2026-11-02T16:15:00+00:00",
-      "excerpt": "Smart home devices usually won't work properly when they lose Wi-Fi signal, so it's frustrating when they keep disconnecting. Here's why it might be happening.",
-      "image": "https://www.engadget.com/img/gallery/what-to-do-if-your-smart-home-devices-keep-disconnecting-from-wi-fi/l-intro-1793217315.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "049f6b9210f4",
-      "title": "This is your rare chance to get a Garmin smartwatch for under $170",
-      "url": "https://9to5google.com/2026/11/02/this-is-your-rare-chance-to-get-a-garmin-smartwatch-for-under-170/",
-      "source": "9to5Google",
-      "published": "2026-11-02T16:06:27+00:00",
-      "excerpt": "The Garmin Vivoactive 5 is down to its lowest price of all time in all four colors for a limited time, making this the least expensive Garmin you can buy today. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/garmin-vivoactive-5-render.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "0adae2bf5ad8",
-      "title": "Why Peacock is making a huge bet on YouTube",
-      "url": "https://www.theverge.com/podcast/1024228/matt-strauss-nbc-univerisal-versant-comcast-peacock-streaming-tv",
-      "source": "The Verge",
-      "published": "2026-11-02T16:00:00+00:00",
-      "excerpt": "Today, I\u2019m talking with Matt Strauss, who is now chairman of the NBCUniversal Media Group. This is Matt\u2019s second time joining me on the show, and there\u2019s been a whole lot of organizational and structural change at NBCU since the last time...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD_Matt_Strauss.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "55c2e6bae2bf",
-      "title": "The Galaxy Z Fold 8 is $300 off at Amazon right now",
-      "url": "https://9to5google.com/2026/11/02/the-galaxy-z-fold-8-is-300-off-on-amazon-right-now/",
-      "source": "9to5Google",
-      "published": "2026-11-02T15:52:44+00:00",
-      "excerpt": "While we await potentially more discounts on our tech in the coming weeks, the Galaxy Z Fold 8 is now down to $1,599 on Amazon, knocking a sizeable chunk off the MSRP. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-Fold-8-lavender-2.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "fd68f1f2a355",
-      "title": "Google's Ocarina of Time Easter egg is a link to a past when Search wasn't horrible",
-      "url": "https://www.engadget.com/2303943/googles-ocarina-of-time-easter-egg-is-a-link-to-a-past-when-search-wasnt-horrible/",
-      "source": "Engadget",
-      "published": "2026-11-02T15:51:36+00:00",
-      "excerpt": "Turn the clock back to 1998, when the internet was a little more functional.",
-      "image": "https://www.engadget.com/img/gallery/googles-ocarina-of-time-easter-egg-is-a-link-to-a-past-when-search-wasnt-horrible/l-intro-1793634639.jpg",
       "category": "Software Development"
     }
   ]
