@@ -1,37 +1,22 @@
-# RevenueInfoTech news starter
+# RevenueInfoTech – technology news publication
 
-## 1. Fix the redirect loop (do this first)
-Replace your `_redirects` file with the one here. It removes the two rules
-(`/contact -> /contact.html`, `/privacy-policy -> /privacy-policy.html`) that
-fight your host's automatic ".html" removal and cause "too many redirects".
-Then redeploy. Both /contact and /contact.html will work.
+## Publishing model: hybrid automation + human approval
 
-## 2. Add automatic news
-Copy these into the ROOT of your GitHub repo (same level as index.html):
-  feeds.json
-  scripts/fetch_news.py
-  .github/workflows/update-news.yml
+1. GitHub Actions runs `scripts/fetch_news.py` every three hours and refreshes `news.json` with RSS candidates.
+2. Candidate collection does **not** publish to the homepage and does not overwrite `home-news.json`.
+3. Open `/newsdesk/`, connect the repository with a fine-grained GitHub token, load candidate headlines, open and verify the original source, and rewrite the summary in original language with useful context.
+4. Add the reviewed item to the homepage list and press **Publish to site**. This commits `home-news.json`; your hosting provider should redeploy it.
+5. Check the live homepage and correct/remove errors promptly.
 
-Then on GitHub: Actions tab -> "Update news" -> Run workflow.
-It will create news.json, news/index.html and sitemap.xml, commit them, and
-your host (Cloudflare Pages / Netlify) redeploys automatically. After that it
-runs every hour by itself. Your page will be live at /news/.
+## Important
+- `/news/` is a noindex source directory for feed excerpts, not an original-news archive.
+- Do not copy publisher feed summaries into your own editorial copy. Follow each publisher's feed, image and attribution terms.
+- Only claim original testing, interviews, credentials, author biographies or expert review when they are genuine and documented.
+- The current repository contains a compiled React bundle but no original React source files or package manifest. For future maintainable UI changes, restore and commit the original application source project.
+- This workflow improves editorial control but does not guarantee AdSense approval. The actual AdSense rejection reason and a live-site review are still needed.
 
-## 3. Choosing feeds
-Edit feeds.json. Before adding a feed, read that publisher's terms of use
-and confirm their feed URL still works. Prefer official company newsrooms
-and press-release feeds. Keep excerpts short and always link to the source.
+## Run the feed collector locally
 
-## 4. Test locally
-  python3 scripts/fetch_news.py
-
-## 5. Fully automatic tech-only home page (new)
-Every hour the "Update news" GitHub Action now:
-- reads the tech feeds in feeds.json,
-- drops anything that is not technology news (keyword filter in scripts/fetch_news.py:
-  CATEGORIES / EXTRA_TECH keep tech, NON_TECH removes off-topic stories),
-- picks a picture for each story (from the feed, or the article's preview image),
-- writes home-news.json so the home page hero, briefs, latest list and featured
-  cards update by themselves - no Newsdesk publishing needed.
-Make sure GitHub -> Settings -> Actions -> General -> "Workflow permissions" is set to
-"Read and write permissions", then run the workflow once from the Actions tab.
+```bash
+python3 scripts/fetch_news.py
+```
