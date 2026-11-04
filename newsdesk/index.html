@@ -3,7 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="robots" content="noindex, nofollow">
+<meta name="robots" content="noindex, nofollow, noarchive">
+<meta http-equiv="Cache-Control" content="no-store">
 <title>Newsdesk Admin | RevenueInfoTech</title>
 <style>
   :root{--ink:#111827;--mute:#6b7280;--line:#e5e7eb;--bg:#f8fafc;--card:#fff;--blue:#2563eb;--red:#dc2626;--green:#059669}
@@ -47,7 +48,7 @@
 </style>
 </head>
 <body>
-<div style="background:#FEF3C7;color:#92400E;padding:10px 16px;font:14px system-ui;text-align:center">The home page now fills itself with the latest tech news every hour. Changes made here will be replaced at the next automatic update.</div>
+<div style="background:#FEF3C7;color:#92400E;padding:10px 16px;font:14px system-ui;text-align:center">RSS feeds are collected as unpublished candidates. Only stories you edit and publish here are added to the homepage. Scheduled feed collection will not overwrite your approved homepage selections.</div>
 
 <header>
   <h1>RevenueInfoTech · Newsdesk</h1>
@@ -79,7 +80,7 @@
       <h2 id="formTitle">Add a news item</h2>
       <input type="hidden" id="editId">
       <label for="title">Headline *</label><input id="title" maxlength="160">
-      <label for="summary">Summary * <span style="font-weight:400;color:var(--mute)">(short, in your own words)</span></label>
+      <label for="summary">Summary * <span style="font-weight:400;color:var(--mute)">(original summary in your own words; do not copy the feed excerpt)</span></label>
       <textarea id="summary" rows="3" maxlength="600"></textarea>
       <div class="grid">
         <div><label for="source">Source name *</label><input id="source" placeholder="e.g. The Verge"></div>
@@ -96,7 +97,7 @@
       <select id="section">
         <option value="brief">Editor's Choice Briefs: top-right sidebar (3 slots)</option>
         <option value="hero">Hero: the big banner at the very top (only the first hero item shows)</option>
-        <option value="latest">Latest Technical Tutorials &amp; Reports: main list (5+ slots)</option>
+        <option value="latest">Latest News &amp; Editorial Picks: main list (5+ slots)</option>
         <option value="featured">Featured Articles &amp; In-Depth Reports: card grid</option>
         <option value="none">Not on the home page (only on the News page and in search)</option>
       </select>
@@ -111,7 +112,7 @@
     <section class="card">
       <details id="feedBox">
         <summary>Pick from the automatic news feed</summary>
-        <p class="hint">Headlines gathered hourly into <code>news.json</code> by your update-news workflow. Click “Add to home” to review and publish one.</p>
+        <p class="hint">Unpublished RSS candidates in <code>news.json</code>. Open the source, verify the facts and dates, rewrite the summary in your own words, then add it to the homepage list and publish.</p>
         <div class="row"><button id="loadFeed">Load latest headlines</button></div>
         <div id="feedList" style="margin-top:12px"></div>
       </details>
@@ -119,7 +120,7 @@
 
     <section class="card">
       <h2>Home page news <span id="count" class="hint"></span></h2>
-      <p class="hint" style="margin-top:0">Top of the list appears first on the site. Changes go live only after you press <b>Publish to site</b>.</p>
+      <p class="hint" style="margin-top:0">Top of the list appears first on the site. Only reviewed items go live after you press <b>Publish to site</b>.</p>
       <div id="list"></div>
     </section>
   </div>
@@ -135,7 +136,7 @@
 (function(){
   "use strict";
   var FILE = "home-news.json";
-  var SECTIONS = {brief:"Editor's Choice Briefs",hero:"Hero banner",latest:"Latest Tutorials & Reports",featured:"Featured Articles",none:"News page only"};
+  var SECTIONS = {brief:"Editor's Choice Briefs",hero:"Hero banner",latest:"Latest News & Editorial Picks",featured:"Featured Articles",none:"News page only"};
   function secOf(it){return it.section||(it.featured?"hero":"brief")}
   var $ = function(id){return document.getElementById(id)};
   var S = {owner:"",repo:"",branch:"main",token:"",sha:null,items:[],dirty:false};
@@ -253,10 +254,10 @@
       var r=await fetch("/news.json",{cache:"no-store"});if(!r.ok)throw new Error("news.json not found yet. Run the “Update news” GitHub Action first.");
       var j=await r.json();box.textContent="";
       (j.items||[]).slice(0,30).forEach(function(it){
-        var b=el("button",{text:"Add to home"});
+        var b=el("button",{text:"Review candidate"});
         b.addEventListener("click",function(){
           resetForm();$("title").value=it.title||"";$("summary").value=it.excerpt||"";$("source").value=it.source||"";$("url").value=it.url||"";
-          window.scrollTo({top:0,behavior:"smooth"});say($("formMsg"),"Loaded into the form. Rewrite the summary in your own words, then click Add to list.","ok");
+          window.scrollTo({top:0,behavior:"smooth"});say($("formMsg"),"Candidate loaded. Open and verify the original source, then write an original summary with context before adding it to the homepage.","ok");
         });
         box.appendChild(el("div",{class:"item"},[el("div",{class:"t",text:it.title}),el("div",{class:"m",text:(it.source||"")+" · "+(it.published||"").slice(0,10)}),b]));
       });
