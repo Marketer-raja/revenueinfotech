@@ -1,6 +1,106 @@
 {
-  "updated": "2026-11-04T06:13:01+00:00",
+  "updated": "2026-11-04T14:29:17+00:00",
   "items": [
+    {
+      "id": "b71b7365d7a0",
+      "title": "Securing the agentic enterprise with data lineage",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-04T13:00:00+00:00",
+      "excerpt": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second...",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR_Cyberhaven_V4_Cover.png?w=840",
+      "category": "Data & Analytics"
+    },
+    {
+      "id": "d013e25bf406",
+      "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
+      "url": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
+      "source": "The Hacker News",
+      "published": "2026-11-04T12:07:04+00:00",
+      "excerpt": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed the flaw in an...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaJWnScdkMx0R5_Zt00NtYVNjNavBR7IMrLzJM_tZGMTpZtAvV7uNWt6BQbBrlUzH-aBoj_ZmMEOG__aTA8VmfTeiHUR9gfqNe2eYf9fSM-sYQkmCOg10qZ3ZaKyM_RS1QUQhm8s5NMw-xnYaWMDgDakmFyp9tbJgQ4hOZTf0cxe9E6x7uWt3JeN6bS3k/s1600/ruby-rails.jpg",
+      "category": "Cloud Computing"
+    },
+    {
+      "id": "de8bbdd0e39a",
+      "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
+      "url": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
+      "source": "The Hacker News",
+      "published": "2026-11-04T11:46:27+00:00",
+      "excerpt": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default, has full permissions and manages the others. Patches...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAVPXiuTBfhBnpwaZHMfSDWymKJrXbS88kOEO1Xuh5t11qAnwSKeFTHGQy6ZG9Sr2N-wRYrJg58x3lKFbybvU9p1a85lxaCHfBa61vO1DfjEhUi5Yzf6bQS1eN7Mu-s_sUwkE-JGc-UznJ1p0qfmwMDusXFzWawXKXMt6jj-vENxyQG12uAUDUe0p0gtg/s1600/xen.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "ecf2013fdfbb",
+      "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
+      "url": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
+      "source": "The Hacker News",
+      "published": "2026-11-04T11:34:20+00:00",
+      "excerpt": "Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway the enterprise owns. Most agents never...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQqFIm3V3DsL6rHtjhkN8qVT2sU-caHUEuPgeepdZ6lLsIJ-09GFg_HVVBgeHP36W0abqUeCuaNuAOIheSGYB9hxmHbQGcgREBBxStEFLijgx-Cd8C8Z8wLuxgFFu75O8hAAOcdjAxgCZ-iYoBvYS09AcITdqMnmLZOn2JdGaEp04SPrgYkgQ14dl1S0JS/s1600/reco.gif",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "8384c224e801",
+      "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
+      "url": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
+      "source": "The Hacker News",
+      "published": "2026-11-04T11:24:31+00:00",
+      "excerpt": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method as part of a surveillance campaign...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMawvNNOvRYRm-k7ii9yDdw214v4kwQ7h5fAfOaUVkvMetNwArral8qumlObtaftjOcBsibL9vkqM1UT0-9l9jYPjj3M3C9NcPfg5pdIuENUfdKlK7lyseCS30AVhgLLs6a-2fdXlSDymSVeyIziO7IC13HFCaOf1v4sjbgmkeKfewWNsbTJCJ0WR2zLBZ/s1600/key.jpg",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "d37e4027ef21",
+      "title": "Apple Music's upcoming feature will let you record yourself doing karaoke",
+      "url": "https://www.engadget.com/2306269/apple-music-selfie-sing-karaoke-video/",
+      "source": "Engadget",
+      "published": "2026-11-04T11:02:04+00:00",
+      "excerpt": "Apple Music will launch 'Selfie Sing' with iOS 27.3.",
+      "image": "https://www.engadget.com/img/gallery/apple-musics-upcoming-feature-will-let-you-record-yourself-doing-karaoke/l-intro-1793789894.jpg",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "67a4afa36b4c",
+      "title": "Binance attackers used fake job interviews to pull off $6.3 billion crypto heist",
+      "url": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+      "source": "Engadget",
+      "published": "2026-11-04T08:50:36+00:00",
+      "excerpt": "Binance has revealed more details about the cyber attack that resulted in the loss of $6.34 billion in digital assets.",
+      "image": "https://www.engadget.com/img/gallery/binance-reveals-how-attackers-used-fake-job-interviews-to-launch-6-3-billion-crypto-heist/l-intro-1793781948.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "6117f43da73e",
+      "title": "Valve just changed its Steam release rules amid a flood of AI games",
+      "url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
+      "source": "Engadget",
+      "published": "2026-11-04T08:28:09+00:00",
+      "excerpt": "Valve is updating its game release rules to try to unclog a backlog of approvals due to a recent flood of new game titles, many created with AI.",
+      "image": "https://www.engadget.com/img/gallery/valve-just-changed-its-steam-release-rules-amid-a-flood-of-ai-games/l-intro-1793780767.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "32c90d2f0958",
+      "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
+      "url": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
+      "source": "The Hacker News",
+      "published": "2026-11-04T07:46:15+00:00",
+      "excerpt": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its November security bulletin. The flaw, CVE-2026-58868, affects Android 14 through 17. Phones get the fix with...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm9fDI_lHL64S1r-eoB5-99WagZJBIjKDF-bEJ9egJw_EiLUomXSakGnV0vdq9Fqu2j6KVWM4upLmOwweDCKQ32f21W8CTsQHnoGMhFm-ISPNQEg1Jq5WbDujqLHVkGSEsox0Xd3Yc5Dd-v4-6rdzU4akd97y7cBhRYFO2ofmxpf3HYspJ6MkJs2RtfC4/s1600/android-patch.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "349817163ae5",
+      "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
+      "url": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
+      "source": "The Hacker News",
+      "published": "2026-11-04T05:43:11+00:00",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The high-severity vulnerability...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9IgE0BWDAvYzjY8wFSMADIRn69AMLYxUa-oPoOISNBOpPbxwBNoWrbXWzI6P0deiU6WDqitiIZx1gFXSAlR8xX9rj56BuU48veMEPJAGSsmQTbVPirFOCuyMc_KQxtbPfc841GZGZ-3HSYYHCGbHnzrihtwQUaMlXrT3leLzI2USh00hc9OBw4k1SCJt4/s1600/wp-exploit.jpg",
+      "category": "Software Development"
+    },
     {
       "id": "1965c7f85c2d",
       "title": "AMD rides data center riches to \u2018largest and most profitable\u2019 quarter in history",
@@ -338,7 +438,7 @@
       "source": "TechCrunch",
       "published": "2026-11-03T19:24:37+00:00",
       "excerpt": "The new ad placements could help Reddit squeeze more revenue from existing users as Google's AI search changes how people discover its content.",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1048288996.jpg?resize=1200,675",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -348,7 +448,7 @@
       "source": "TechCrunch",
       "published": "2026-11-03T19:04:52+00:00",
       "excerpt": "Hillary Clinton's 2016 political gaffe has become an irony-shrouded rallying cry for jaded young voters who still dare to hope for change.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/pokemon-go-to-the-polls.jpg?resize=1200,800",
+      "image": "",
       "category": "Software Development"
     },
     {
@@ -378,7 +478,7 @@
       "source": "TechCrunch",
       "published": "2026-11-03T18:51:33+00:00",
       "excerpt": "The Luce, Ferrari's first electric car and one of its most polarizing models, is \"fully allocated\" through 2027, according to CEO Benedetto Vigna.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/ferrari-luce-getty.jpg?resize=1200,799",
+      "image": "",
       "category": "Software Development"
     },
     {
@@ -398,7 +498,7 @@
       "source": "TechCrunch",
       "published": "2026-11-03T18:42:16+00:00",
       "excerpt": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2235383828.jpg?resize=1200,800",
+      "image": "",
       "category": "Artificial Intelligence"
     },
     {
@@ -500,106 +600,6 @@
       "excerpt": "The HomeView Ultra is expected to feature a robotic arm and 9-inch display. Shades of Amazon\u2019s discontinued Echo Show 10?",
       "image": "https://www.zdnet.com/wp-content/uploads/sites/3/0B7F1C4A-9EC9-4A98-B338-76A186CAB5FF_1_105_c.jpeg",
       "category": "Software Development"
-    },
-    {
-      "id": "f7a94afd0271",
-      "title": "Nvidia RTX 50 GPUs hit with more price hikes \u2013 up to $500",
-      "url": "https://www.zdnet.com/tech/nvidia-rtx-50-cards-gpus-more-price-increases/",
-      "source": "ZDNET",
-      "published": "2026-11-03T17:30:50+00:00",
-      "excerpt": "Some GPUs will see bigger increases than others, while Intel and AMD remain mum on their pricing plans",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/727c351e-7609-441d-8ee9-669c970864c8.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "8019526a2a02",
-      "title": "Moft\u2019s new origami case adds a kickstand and grip to the iPhone Duo",
-      "url": "https://www.theverge.com/tech/1025364/moft-dynamic-folio-case-stand-grip-apple-iphone-duo",
-      "source": "The Verge",
-      "published": "2026-11-03T17:27:52+00:00",
-      "excerpt": "Originally released in early 2025 as an accessory for the iPad, Moft has redesigned its Dynamic Folio as a case for the iPhone Duo that does more than just protect Apple's folding phone. You can use it to prop the Duo up at several...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/moft1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "eb17e7904a4f",
-      "title": "I tried Sonos\u2019 latest app features \u2013 these 2 small upgrades fix big annoyances",
-      "url": "https://www.zdnet.com/home-and-office/sonos-app-update-hands-on-11-3-2026/",
-      "source": "ZDNET",
-      "published": "2026-11-03T17:26:01+00:00",
-      "excerpt": "New Sonos software and firmware updates are rolling out. Here\u2019s what you can expect.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/play-1.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "78fcf610dd3a",
-      "title": "The Xbox Nano has a hidden cloud secret",
-      "url": "https://www.theverge.com/games/1025430/xbox-nano-controller-direct-cloud-wifi-connectivity",
-      "source": "The Verge",
-      "published": "2026-11-03T17:16:04+00:00",
-      "excerpt": "Microsoft is about to launch its new Xbox Nano controller tomorrow, and the tiny device has a little secret. The Nano can connect directly to Xbox Cloud Gaming over Wi-Fi to improve latency. It's a feature Microsoft hasn't officially...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/nanowifi.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Cloud Computing"
-    },
-    {
-      "id": "3e61b0c49f9d",
-      "title": "How to choose the right gaming monitor for you",
-      "url": "https://www.engadget.com/2300429/how-to-choose-the-right-gaming-monitor-for-you/",
-      "source": "Engadget",
-      "published": "2026-11-03T17:15:00+00:00",
-      "excerpt": "If you're looking for a gaming monitor upgrade (or even your first), here's what you should consider.",
-      "image": "https://www.engadget.com/img/gallery/how-to-choose-the-right-gaming-monitor-for-you/l-intro-1792664437.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "106764301171",
-      "title": "Google says students in schools that ban AI won't have access to Search",
-      "url": "https://www.engadget.com/2305432/google-says-that-students-in-schools-that-ban-ai-wont-have-access-to-search/",
-      "source": "Engadget",
-      "published": "2026-11-03T17:10:43+00:00",
-      "excerpt": "This is another example of how closely Google Search is tied to the company's AI products.",
-      "image": "https://www.engadget.com/img/gallery/google-says-students-in-schools-that-ban-ai-wont-have-access-to-search/l-intro-1793725671.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "fd40e56fac37",
-      "title": "Android Auto 18.1 update rolling out with additional prep for light mode and redesign",
-      "url": "https://9to5google.com/2026/11/03/android-auto-18-1-update-rollout-teardown/",
-      "source": "9to5Google",
-      "published": "2026-11-03T17:10:00+00:00",
-      "excerpt": "Google is rolling out Android Auto 18.1 to the masses and, while there are no major changes, the update continues to work on upcoming changes. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/Android-Auto-Immerisve-View-1.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "a4abd1e2a1c1",
-      "title": "Anthropic is still grappling with the economics of compute",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-      "source": "TechCrunch",
-      "published": "2026-11-03T17:07:01+00:00",
-      "excerpt": "At a moment when Anthropic's compute margins should be getting better, they\u2019re getting worse.",
-      "image": "",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "43ae5f1b714f",
-      "title": "Microsoft has listed some concrete ways that Windows 11 is getting better with 8GB of RAM",
-      "url": "https://www.engadget.com/2305420/microsoft-has-listed-some-concrete-ways-that-windows-11-is-getting-better-with-8gb-of-ram/",
-      "source": "Engadget",
-      "published": "2026-11-03T17:02:49+00:00",
-      "excerpt": "Windows 11 users with 8GB of RAM should start noticing improved performance in a wide range of apps.",
-      "image": "https://www.engadget.com/img/gallery/microsoft-has-listed-some-concrete-ways-that-windows-11-is-getting-better-with-8gb-of-ram/l-intro-1793725227.jpg",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "0eaf3e3a7544",
-      "title": "Google is entirely disabling Search in schools that don\u2019t want AI",
-      "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
-      "source": "The Verge",
-      "published": "2026-11-03T17:00:04+00:00",
-      "excerpt": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_GOOGLE_A-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
     }
   ]
 }
