@@ -1,11 +1,9 @@
 #!/usr/bin/env python3
-"""Aggregate TECH-ONLY headlines from RSS/Atom feeds, fully automatically.
+"""Collect technology-news candidates from RSS/Atom feeds for human review.
 
-Writes:  news.json, home-news.json (home page, with images), news/index.html,
-         sitemap.xml
-Non-technology stories are filtered out by keyword scoring.
-Stores only: title, source, link, date and a SHORT excerpt taken from the feed.
-It never copies full article text. Every item links back to the original.
+Writes news.json (the unpublished editorial review queue) and a noindex /news/
+source directory. It never writes home-news.json: the homepage is changed only
+when an editor reviews and publishes selected items through /newsdesk/.
 """
 import hashlib, html, json, re, sys
 from datetime import datetime, timezone
@@ -17,7 +15,7 @@ import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parent.parent
 SITE = "https://revenueinfotech.com"
-MAX_ITEMS, MAX_PER_FEED, EXCERPT_CHARS = 60, 20, 240
+MAX_ITEMS, MAX_PER_FEED, EXCERPT_CHARS = 40, 12, 240
 MEDIA = "{http://search.yahoo.com/mrss/}"
 CONTENT = "{http://purl.org/rss/1.0/modules/content/}"
 # Home page slots: hero (1), Editor's briefs (3), latest list (6), featured cards (6)
@@ -197,14 +195,15 @@ def render_html(items):
     return f"""<!DOCTYPE html>
 <html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Latest Technology News | RevenueInfoTech</title>
-<meta name="description" content="Headlines and short summaries from leading technology publications and company newsrooms, updated hourly. Every item links to its original source.">
+<meta name="description" content="A source directory of technology-news leads reviewed by RevenueInfoTech editors.">
+<meta name="robots" content="noindex,follow">
 <link rel="canonical" href="{SITE}/news/">
 <style>body{{font-family:Inter,system-ui,sans-serif;max-width:760px;margin:0 auto;padding:24px;color:#111827;line-height:1.55}}
 a{{color:#2563EB}}article{{border-bottom:1px solid #e5e7eb;padding:14px 0}}h2{{font-size:1.1rem;margin:.2rem 0}}
 article img{{width:100%;max-height:320px;object-fit:cover;border-radius:6px}}.meta{{color:#6b7280;font-size:.8rem;margin:0}}header a{{font-weight:700;text-decoration:none}}</style></head>
 <body><header><a href="/">&larr; RevenueInfoTech</a></header>
 <h1>Latest Technology News</h1>
-<p class="meta">Updated {now}. Summaries are brief excerpts supplied by each publisher's feed; click through to read the full story at the source.</p>
+<p class="meta">Editorial research queue · Updated {now}. These publisher-supplied feed excerpts are leads for editorial review, not original RevenueInfoTech reporting. For full reporting, visit the linked publisher.</p>
 {chr(10).join(rows)}
 <p class="meta"><a href="/contact.html">Contact</a> &middot; <a href="/privacy-policy.html">Privacy Policy</a></p>
 </body></html>"""
@@ -212,11 +211,11 @@ article img{{width:100%;max-height:320px;object-fit:cover;border-radius:6px}}.me
 
 def render_sitemap():
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    # (path, lastmod, changefreq, priority) - /newsdesk/ is noindex and excluded on purpose.
+    # Public editorial and policy pages only. /news/ and /newsdesk/ are excluded because they are not original articles/admin pages.
     # Update the static lastmod dates below when you edit those pages.
     urls = [
         ("/",                        today,        "daily",   "1.0"),
-        ("/news/",                   today,        "hourly",  "0.9"),
+        ("/about.html",              today,        "yearly",  "0.5"),
         ("/editorial-ethics.html",   "2026-10-18", "yearly",  "0.5"),
         ("/peer-review-process.html","2026-10-18", "yearly",  "0.5"),
         ("/sponsorship-disclosure.html","2026-10-18","yearly","0.4"),
@@ -282,12 +281,10 @@ def main():
         if not i.get("image"):
             i["image"] = og_image(i["url"])
     now_iso = datetime.now(timezone.utc).isoformat(timespec="seconds")
-    (ROOT / "home-news.json").write_text(json.dumps({"updated": now_iso, "auto": True, "items": build_home(items)}, indent=2) + "\n")
     jp.write_text(json.dumps({"updated": datetime.now(timezone.utc).isoformat(timespec="seconds"), "items": items}, indent=2))
     (ROOT / "news").mkdir(exist_ok=True)
     (ROOT / "news" / "index.html").write_text(render_html(items))
-    (ROOT / "sitemap.xml").write_text(render_sitemap())
-    print(f"wrote {len(items)} items")
+    print(f"wrote {len(items)} candidate items to news.json; homepage content was left unchanged for manual approval")
 
 
 if __name__ == "__main__":
