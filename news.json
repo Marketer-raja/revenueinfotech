@@ -1,6 +1,336 @@
 {
-  "updated": "2026-11-05T17:24:43+00:00",
+  "updated": "2026-11-05T23:38:07+00:00",
   "items": [
+    {
+      "id": "c798aeedd56d",
+      "title": "T-Mobile owner on Elon Musk launching a wireless carrier: \u2018Welcome to the party\u2019",
+      "url": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
+      "source": "The Verge",
+      "published": "2026-11-05T23:17:10+00:00",
+      "excerpt": "The head of T-Mobile's parent company is casting doubt on SpaceX's plans to make Starlink Mobile a \"major\" carrier in the US. During an earnings call on Thursday, Deutsche Telekom CEO Tim H\u00f6ttges says he takes the Elon Musk-owned company...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2259379374.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "1eac7fe42e87",
+      "title": "Airbnb says it\u2019s launching an AI travel agent in the first half of 2027",
+      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "source": "TechCrunch",
+      "published": "2026-11-05T22:40:55+00:00",
+      "excerpt": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/Airbnb-Summer-feat.jpg?resize=1200,675",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "d3137c5031e9",
+      "title": "Salon is shutting down after 31 years",
+      "url": "https://www.theverge.com/news/1028281/salon-dot-com-shuts-down",
+      "source": "The Verge",
+      "published": "2026-11-05T22:08:14+00:00",
+      "excerpt": "Salon launched 31 years ago as one of the first online-only news magazine outlets, and it announced today in an unsigned post that it's ceasing publication. The company said that the \"business realities of independent digital journalism...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-05-at-1.59.05-PM.png?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "b80280c43fc6",
+      "title": "Bose recalls S1 Pro battery packs due to fire and overheating risks",
+      "url": "https://www.engadget.com/2308609/bose-recalls-s1-pro-battery-packs-due-to-fire-and-overheating-risks/",
+      "source": "Engadget",
+      "published": "2026-11-05T21:39:22+00:00",
+      "excerpt": "Over 670,000 units are being recalled in the US and Canada.",
+      "image": "https://www.engadget.com/img/gallery/bose-recalls-s1-pro-battery-packs-due-to-fire-and-overheating-risks/l-intro-1793914388.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "e017e0e5b6c6",
+      "title": "Serve Robotics launches new business to become the AWS for robots",
+      "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+      "source": "TechCrunch",
+      "published": "2026-11-05T21:15:00+00:00",
+      "excerpt": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/Serve_robot_05.jpg?resize=1200,800",
+      "category": "Cloud Computing"
+    },
+    {
+      "id": "ce1ccdb1e8a8",
+      "title": "Google is ditching Firebase Studio soon, and it wants you to use its newer AI tools instead",
+      "url": "https://www.engadget.com/2308541/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead/",
+      "source": "Engadget",
+      "published": "2026-11-05T21:01:28+00:00",
+      "excerpt": "The company is going all-in on Antigravity and Google AI Studio and hopes developers will do the same.",
+      "image": "https://www.engadget.com/img/gallery/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead/l-intro-1793825592.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "132e30491acc",
+      "title": "Payday Aces High review: This year\u2019s must-play multiplayer VR game",
+      "url": "https://9to5google.com/2026/11/05/payday-aces-high-review-meta-quest/",
+      "source": "9to5Google",
+      "published": "2026-11-05T21:00:00+00:00",
+      "excerpt": "Join up with three other heisters and get revenge on the billionaire who sent you to jail in the first place in Payday Aces High, now available on Meta Quest, SteamVR, and Steam Frame. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/payday-aces-high-heist-screenshot.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "dac42890b178",
+      "title": "Samsung brings back free doubled storage discount on Galaxy Z Fold 8",
+      "url": "https://9to5google.com/2026/11/05/samsung-galaxy-z-fold-8-doubled-storage-discount/",
+      "source": "9to5Google",
+      "published": "2026-11-05T20:30:00+00:00",
+      "excerpt": "Samsung is running its much-loved \u201cdouble the storage\u201d promo on its Galaxy Z Fold 8 right now. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-Fold-8-lavender-3.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "9d424d7fe39d",
+      "title": "TikTok just released a standalone Shop app, but it's not in America just yet",
+      "url": "https://www.engadget.com/2308419/tiktok-just-released-a-standalone-shop-app-but-its-not-in-america-just-yet/",
+      "source": "Engadget",
+      "published": "2026-11-05T19:58:23+00:00",
+      "excerpt": "It offers exclusive deals and other goodies.",
+      "image": "https://www.engadget.com/img/gallery/tiktok-just-released-a-standalone-shop-app-but-its-not-in-america-just-yet/l-intro-1793908543.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "e678e03227e4",
+      "title": "The Xbox PC app is getting a speed boost",
+      "url": "https://www.engadget.com/2308407/the-xbox-pc-app-is-getting-a-speed-boost/",
+      "source": "Engadget",
+      "published": "2026-11-05T19:52:39+00:00",
+      "excerpt": "The updated app, rolling out to Xbox Insiders first, launches up to 60 percent faster.",
+      "image": "https://www.engadget.com/img/gallery/the-xbox-pc-app-is-getting-a-speed-boost/l-intro-1793908196.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "3c0e84566a0e",
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "source": "TechCrunch",
+      "published": "2026-11-05T19:48:28+00:00",
+      "excerpt": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "5aec999510de",
+      "title": "Warby Parker seemingly spilled the beans on Google's Android XR smart glasses launch",
+      "url": "https://www.engadget.com/2308376/warby-parker-seemingly-spilled-the-beans-on-googles-android-xr-smart-glasses-launch/",
+      "source": "Engadget",
+      "published": "2026-11-05T19:39:01+00:00",
+      "excerpt": "\"Intelligent Eyewear\" is apparently only a week away.",
+      "image": "https://www.engadget.com/img/gallery/warby-parker-seemingly-spilled-the-beans-on-googles-android-xr-smart-glasses-launch/l-intro-1793907386.jpg",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "ec73671ce52f",
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "source": "TechCrunch",
+      "published": "2026-11-05T19:06:12+00:00",
+      "excerpt": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/openai-daybreak.jpg?resize=1200,798",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "4585dfd26b1c",
+      "title": "Pixel 11 and Pixel 10 at up to $350 off are great phone deals that will only be harder to find in RAMageddon",
+      "url": "https://9to5google.com/2026/11/05/google-pixel-11-10-deals-ramageddon/",
+      "source": "9to5Google",
+      "published": "2026-11-05T19:05:00+00:00",
+      "excerpt": "As RAMageddon\u2019s impact squeezes smartphones more and more, great deals on a new smartphone are going to get harder to find. Right now, Google\u2019s Pixel 11 series and the Pixel 10 are $200 off, and that\u2019s absolutely worth a look. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-vs-pixel-10-4.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "76129244151e",
+      "title": "Phone by Google 246 beta brings gradient icon redesign on Android",
+      "url": "https://9to5google.com/2026/11/05/phone-by-google-246-new-icon/",
+      "source": "9to5Google",
+      "published": "2026-11-05T19:04:24+00:00",
+      "excerpt": "Following the Messages update earlier this week , Phone by Google has received its redesigned gradient icon in the beta channel. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Messages-Phone-Contacts-icon-gradient-redesign.webp?w=1600",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "c6134d61030c",
+      "title": "Muse has a voice mode now",
+      "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+      "source": "The Verge",
+      "published": "2026-11-05T19:03:04+00:00",
+      "excerpt": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "2b4c477d45d5",
+      "title": "Razer is getting back into wired earbuds with USB-C; yes, they have RGB",
+      "url": "https://9to5google.com/2026/11/05/razer-releases-usb-c-earbuds-with-rgb/",
+      "source": "9to5Google",
+      "published": "2026-11-05T19:00:27+00:00",
+      "excerpt": "Razer just announced a pair of ANC earbuds with a cool take on USB-C, aimed directly at mobile gamers. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/razer-hammerhead-v3-chroma.jpg?quality=82&strip=all&w=1400",
+      "category": "Software Development"
+    },
+    {
+      "id": "4879e654c00e",
+      "title": "Google, Meta and TikTok are all suing California to block social media law intended to help kids",
+      "url": "https://www.engadget.com/2308280/google-meta-and-tiktok-are-all-suing-california-to-block-social-media-law-intended-to-help-kids/",
+      "source": "Engadget",
+      "published": "2026-11-05T18:58:07+00:00",
+      "excerpt": "Assembly Bill 1709 demands that platforms remove \"psychologically exploitative features.\"",
+      "image": "https://www.engadget.com/img/gallery/google-meta-and-tiktok-are-all-suing-california-to-block-social-media-law-intended-to-help-kids/l-intro-1793904752.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "953bd109ac0d",
+      "title": "US government warns of \u2018ongoing cyber threat\u2019 amid mass hacks of industrial retail and military freezers",
+      "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
+      "source": "TechCrunch",
+      "published": "2026-11-05T18:48:34+00:00",
+      "excerpt": "A joint U.S. government statement says the hacks are affecting the food, transportation, and healthcare industries after reports of global mass hacks.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/freezer-hacks-2299339780.jpg?resize=1200,800",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "420c1200437a",
+      "title": "HR thinks you can learn AI skills \u2013 so why is your company hiring elsewhere?",
+      "url": "https://www.zdnet.com/innovation/ai-hiring-vs-reskilling-careerminds-research/",
+      "source": "ZDNET",
+      "published": "2026-11-05T18:44:47+00:00",
+      "excerpt": "Over 90% of HR professionals say they believe employees can learn AI roles \u2013 but half of companies still hire outside for those positions, according to a new report.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/purplepeople-GettyImages-2227030316-1.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "32dd2fc4f910",
+      "title": "First Android XR \u2018Intelligent Eyewear\u2019 glasses go on pre-order next week",
+      "url": "https://9to5google.com/2026/11/05/android-xr-glasses-pre-order/",
+      "source": "9to5Google",
+      "published": "2026-11-05T18:30:26+00:00",
+      "excerpt": "Warby Parker announced today that the first Android XR audio glasses will be available for pre-order on November 12. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-android-xr-glasses-warby-parker-13.jpg?quality=82&strip=all&w=1600",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "7d1cbc4cc316",
+      "title": "6 default Pixel 11 settings I changed that made a big difference \u2013 and why",
+      "url": "https://www.zdnet.com/tech/pixel-11-settings-to-change/",
+      "source": "ZDNET",
+      "published": "2026-11-05T18:18:16+00:00",
+      "excerpt": "If you\u2019re a new Pixel 11 user, here are six things I recommend changing right away to get the most from your phone.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/PXL_20261105_154231218.PORTRAIT.ORIGINAL.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "cfd1704d56b5",
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "source": "TechCrunch",
+      "published": "2026-11-05T18:02:27+00:00",
+      "excerpt": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/10/Greg-Brockman-OpenAIDSC02862.jpg?resize=1200,800",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "e492e309bbbc",
+      "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
+      "url": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+      "source": "TechCrunch",
+      "published": "2026-11-05T18:00:00+00:00",
+      "excerpt": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Stephen_Ward_horiztonal.jpeg?resize=1200,1077",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "7b187a5bdc28",
+      "title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "source": "TechCrunch",
+      "published": "2026-11-05T18:00:00+00:00",
+      "excerpt": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Claude-Personal-Finance-2.png?resize=1200,675",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "460dbe0729c1",
+      "title": "Now Claude can help with your finances too",
+      "url": "https://www.engadget.com/2307936/now-claude-can-help-with-your-finances-too/",
+      "source": "Engadget",
+      "published": "2026-11-05T18:00:00+00:00",
+      "excerpt": "But just like with ChatGPT, should you?",
+      "image": "https://www.engadget.com/img/gallery/now-claude-can-help-with-your-finances-too/l-intro-1793895674.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "413c31956d44",
+      "title": "Claude\u2019s new Personal Finance tool aims to help analyze your spending \u2013 read-only, of course",
+      "url": "https://www.zdnet.com/innovation/personal-finance-claude-anthropic/",
+      "source": "ZDNET",
+      "published": "2026-11-05T18:00:00+00:00",
+      "excerpt": "Anthropic has released what appears to be its answer to ChatGPT Finances.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1451754709.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "91d26a577f8a",
+      "title": "iPhone Duo just got a new accessibility feature in iOS 27.3 beta",
+      "url": "https://www.engadget.com/2308154/iphone-duo-new-accessibility-feature-ios-27-3-beta-reachability/",
+      "source": "Engadget",
+      "published": "2026-11-05T17:59:50+00:00",
+      "excerpt": "Reachability helps make it easier to use the foldable with one hand.",
+      "image": "https://www.engadget.com/img/gallery/iphone-duo-just-got-a-new-accessibility-feature-in-ios-27-3-beta/l-intro-1793901496.jpg",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "f3a0f74ded4b",
+      "title": "Harbinger raises $240M after expanding into defense",
+      "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
+      "source": "TechCrunch",
+      "published": "2026-11-05T17:52:44+00:00",
+      "excerpt": "The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the military.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Harbinger-Newsroom-Thumbnail-260610.jpeg?resize=1200,800",
+      "category": "Enterprise Software & SaaS"
+    },
+    {
+      "id": "5c59b845e543",
+      "title": "3 ways Bluetooth 7 upgrades your devices beyond lossless audio",
+      "url": "https://www.zdnet.com/tech/bluetooth-7-features-headphones-smart-home-lossless-audio/",
+      "source": "ZDNET",
+      "published": "2026-11-05T17:46:35+00:00",
+      "excerpt": "Bluetooth 7 could make your smart home devices easier to set up, for one. Here\u2019s what we know about the new core specification.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/blu.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "4024dd001f58",
+      "title": "TikTok launched a dedicated TikTok Shop app",
+      "url": "https://www.theverge.com/tech/1027772/tiktok-shop-app",
+      "source": "The Verge",
+      "published": "2026-11-05T17:27:36+00:00",
+      "excerpt": "TikTok has released a standalone app for TikTok Shop in a few countries, as spotted by social media consultant Matt Navarra. According to its App Store listing, the TikTok Shop app offers: - Personalized picks inspired by your interests -...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/unnamed-4.png?quality=90&strip=all&crop=0,21.560786106033,100,38.439126001969",
+      "category": "Software Development"
+    },
+    {
+      "id": "56561248c6bf",
+      "title": "Nintendo says it\u2019s not planning another Switch 2 price hike",
+      "url": "https://www.theverge.com/games/1027757/nintendo-switch-2-price-hike-plans-ram",
+      "source": "The Verge",
+      "published": "2026-11-05T17:24:39+00:00",
+      "excerpt": "Nintendo president Shuntaro Furukawa said during the company's latest earnings call that it's \"not considering additional changes\" to the Switch 2's price, Reuters reports. The Switch 2 got a $50 price hike earlier this year, bringing its...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0175.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "08272adaf9ff",
+      "title": "DroidDeck review: This could change how you game on your phone [Video]",
+      "url": "https://9to5google.com/2026/11/05/droiddeck/",
+      "source": "9to5Google",
+      "published": "2026-11-05T17:15:00+00:00",
+      "excerpt": "The gaming landscape has changed drastically over the past year to the point where you\u2019re able to effectively turn a capable phone into a fully fledged Steam Deck with projects like DroidDeck. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/DroidDeck-launchscreen.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
     {
       "id": "07053351408c",
       "title": "The Android 17 ColorOS 17 update is coming to 6 more OnePlus devices this month",
@@ -32,6 +362,26 @@
       "category": "Artificial Intelligence"
     },
     {
+      "id": "3072ee2cf0ef",
+      "title": "Xbox overhauls its PC, web, and cloud apps with a faster design",
+      "url": "https://www.theverge.com/news/1027353/microsoft-new-xbox-pc-app-redesign",
+      "source": "The Verge",
+      "published": "2026-11-05T17:00:00+00:00",
+      "excerpt": "Microsoft is unveiling a new Xbox PC app that launches \"up to 60 percent faster\" than before, with an overhauled design to match new updates to Xbox Cloud Gaming on the web and smart TVs. Xbox Insiders will be able to start testing the...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283724/STK048_XBOX_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Cloud Computing"
+    },
+    {
+      "id": "c097ab566310",
+      "title": "Where is Windows 12?",
+      "url": "https://www.theverge.com/tech/1027621/where-is-windows-12-notepad",
+      "source": "The Verge",
+      "published": "2026-11-05T17:00:00+00:00",
+      "excerpt": "While I wasn't expecting Microsoft to announce Windows 12 during its RTX Spark launch event last month, more than a few people were hoping to see something truly new. Between the growing frustration with Windows 11 and the muted response...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Windows-FY27-CONS-C2-Wallpaper-EverydayProductivity.png?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Operating Systems"
+    },
+    {
       "id": "faa72f5271a4",
       "title": "Deals: Latest Nest Learning Thermostat up to $120 off, Pixelsnap cases, Hue Bridge Pro bundle, Galaxy Book $750 off, more",
       "url": "https://9to5google.com/2026/11/05/deals-nest-thermostat-pixelsnap-hue-bridge-pro-galaxy-book/",
@@ -42,363 +392,13 @@
       "category": "Software Development"
     },
     {
-      "id": "1e35ca623e80",
-      "title": "Samsung\u2019s next cheap phone will have a much bigger battery than the Galaxy S26 Ultra",
-      "url": "https://9to5google.com/2026/11/05/samsungs-next-cheap-phone-will-have-a-much-bigger-battery-than-the-galaxy-s26-ultra/",
-      "source": "9to5Google",
-      "published": "2026-11-05T16:30:00+00:00",
-      "excerpt": "According to a new report, Samsung\u2019s upcoming mid-range smartphone is getting a big battery upgrade that outdoes that company\u2019s current $1,400 flagship. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/galaxy-s26-ultra-review-15.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "2846e03446f4",
-      "title": "Axiom Math wants to keep AI slop out of mathematics",
-      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-      "source": "TechCrunch",
-      "published": "2026-11-05T16:16:45+00:00",
-      "excerpt": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup\u2019s AI agents just formally verified the Stacks Project, one of the field\u2019s biggest libraries.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Axiom-Team-2.jpg?resize=1200,800",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "55489392c667",
-      "title": "The Siri AI waitlist is gone in iOS 27: How to try the beta today",
-      "url": "https://www.zdnet.com/business/siri-ai-beta-waitlist-ends-ios-27/",
-      "source": "ZDNET",
-      "published": "2026-11-05T16:08:49+00:00",
-      "excerpt": "The wait is over for trying Siri AI on iOS 27. Here\u2019s what you need to know to get started.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/1_9958c8.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "495fa0169c94",
-      "title": "AAWireless expands beyond Android Auto adapters with new cooled Qi2 car charger",
-      "url": "https://9to5google.com/2026/11/05/aawireless-charge-qi2/",
-      "source": "9to5Google",
-      "published": "2026-11-05T16:05:54+00:00",
-      "excerpt": "AAWireless is known for helping you convert a wired Android Auto connection into a wireless one, but the company is now launching a new product \u2013 an active-cooled Qi2 car charger. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/aawireless-charge-1.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "9e3de3e7d3e5",
-      "title": "Sony's MDR-3R wired headphones are steeped in retro aesthetics",
-      "url": "https://www.engadget.com/2304149/sony-mdr-3r-wired-headphones-are-steeped-in-retro-aesthetics/",
-      "source": "Engadget",
-      "published": "2026-11-05T16:00:00+00:00",
-      "excerpt": "Sony has refreshed a headphone design that dates back to 1979.",
-      "image": "https://www.engadget.com/img/gallery/sonys-mdr-3r-wired-headphones-are-soaked-in-retro-aesthetics/l-intro-1793639704.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "bceeee076fcf",
-      "title": "Instagram's Edits is now on desktop as a Mac app",
-      "url": "https://www.engadget.com/2307169/instagrams-edits-is-now-on-desktop-as-a-mac-app/",
-      "source": "Engadget",
-      "published": "2026-11-05T16:00:00+00:00",
-      "excerpt": "Meta's CapCut competitor already has more than 50 million users.",
-      "image": "https://www.engadget.com/img/gallery/instagrams-edits-is-now-on-desktop-as-a-mac-app/l-intro-1793825322.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "32876a2cc066",
-      "title": "Sony revives the Walkman\u2019s iconic MDR-3 headphones with USB-C for $60",
-      "url": "https://9to5google.com/2026/11/05/sony-walkman-mdr-3-headphones-usb-c/",
-      "source": "9to5Google",
-      "published": "2026-11-05T16:00:00+00:00",
-      "excerpt": "Sony is bringing back its iconic Walkman MDR-3 headphones for the modern era with a USB-C connection and a price tag of $60. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/sony-mdr-3r-1_c24aeb.jpg?quality=82&strip=all&w=1440",
-      "category": "Software Development"
-    },
-    {
-      "id": "c0298e22e943",
-      "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
-      "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
-      "source": "TechCrunch",
-      "published": "2026-11-05T15:40:34+00:00",
-      "excerpt": "Zipline raised $1.5 billion and ramped up its partnership with Walmart.",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/09/Zipline-Package-Drop.jpg?resize=1200,675",
-      "category": "Software Development"
-    },
-    {
-      "id": "85e8f421aa62",
-      "title": "YouTube rolling out app redesign without Subscriptions tab, and everyone hates it",
-      "url": "https://9to5google.com/2026/11/05/youtube-app-redesign-subscriptions-tab/",
-      "source": "9to5Google",
-      "published": "2026-11-05T15:35:00+00:00",
-      "excerpt": "After the change was announced last month, YouTube is now rolling out its mobile app redesign with a new navigation bar and no dedicated Subscriptions tab and initial reactions tell a pretty clear story \u2013 everyone hates it. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/youtube-app-redesign-subs.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "eb8dbf293d80",
-      "title": "TikTok quietly launches a stand-alone TikTok Shop app",
-      "url": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
-      "source": "TechCrunch",
-      "published": "2026-11-05T15:33:58+00:00",
-      "excerpt": "The app will offer personalized product recommendations, shopping through livestreams and short-form videos, app-exclusive deals, in-app checkout, order tracking, and customer support.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/tiktok-shop-app.png?resize=1200,819",
-      "category": "Software Development"
-    },
-    {
-      "id": "aecc9a23fd3c",
-      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-      "source": "TechCrunch",
-      "published": "2026-11-05T15:19:05+00:00",
-      "excerpt": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1211180751.jpg?w=1024",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "56c190950731",
-      "title": "The hidden supply chain costs of the AI boom",
-      "url": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
-      "source": "The Verge",
-      "published": "2026-11-05T15:00:00+00:00",
-      "excerpt": "Today, I\u2019m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Economics Behind Global Supply Chains. Willy...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24792604/The_Verge_Decoder_Tileart.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "08aa0853fb18",
-      "title": "WhatsApp will let you invite friends to events who aren\u2019t on the app",
-      "url": "https://www.theverge.com/tech/1027412/whatsapp-events-invite-outside-app",
-      "source": "The Verge",
-      "published": "2026-11-05T15:00:00+00:00",
-      "excerpt": "WhatsApp is rolling out a new feature that allows you to invite friends and family members to events in the app - even if they don't have the messenger installed. When you create an event in WhatsApp, you can share a link with a friend or...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/whatsapp-events.png?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "49dbbd04a6b4",
-      "title": "You can edit your videos with AI on Instagram\u2019s new desktop Edits app",
-      "url": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp",
-      "source": "The Verge",
-      "published": "2026-11-05T15:00:00+00:00",
-      "excerpt": "Instagram's standalone video editing app is now available on macOS, where you can plug in your AI agent of choice to assemble your videos. Instagram's Matthew Simari, head of product management for Edits, said in an interview with The...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-edits-desktop-timeline-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "532356e28c0a",
-      "title": "Instagram brings Edits to desktop to take on CapCut",
-      "url": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/",
-      "source": "TechCrunch",
-      "published": "2026-11-05T15:00:00+00:00",
-      "excerpt": "The move puts Edits in more direct competition with ByteDance's CapCut, the video-editing app Meta sought to challenge when it launched Edits last year.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Introducing-Edits-on-desktop_.png?resize=1200,726",
-      "category": "Software Development"
-    },
-    {
-      "id": "f0a2f97a0ff0",
-      "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
-      "url": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
-      "source": "TechCrunch",
-      "published": "2026-11-05T15:00:00+00:00",
-      "excerpt": "ElevenLabs said more than 25 million tracks have been generated using its music models.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?resize=1200,675",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "c9efcd5ee343",
-      "title": "Aina\u2019s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
-      "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-      "source": "TechCrunch",
-      "published": "2026-11-05T14:42:00+00:00",
-      "excerpt": "Aina's ring can also take calls and help you dictate notes on your Mac.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Aina-Ring-Hands.jpeg?resize=1200,805",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "59043a855535",
-      "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
-      "url": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
+      "id": "3fe484f436f5",
+      "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
+      "url": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
       "source": "The Hacker News",
-      "published": "2026-11-05T14:41:10+00:00",
-      "excerpt": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shouldn't. And...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj37A8QMI4tUKrluDLCSgawVjQQeZ6c6NrfWLMLUjrI6vRhpt8Tlw4PNnfF49ZlOTtW28Cfb035jo-j22auCrWauuE-JpHfKMFSVfIQtUZjn1eETLFhQEev0FFafFlGz8W6r-96FPmTWlFGTR3RhV869PbcYkO4YPi5nD-zQVGHSZ8d39OmhecF693dj4-x/s1600/tds.jpg",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "9ec4400439f9",
-      "title": "Tech is about to get hammered in Congress",
-      "url": "https://www.theverge.com/policy/1027430/democratic-control-congress-tech-policy",
-      "source": "The Verge",
-      "published": "2026-11-05T14:11:27+00:00",
-      "excerpt": "Tech CEO hearings. Tougher AI and data center guardrails. Investigations of Elon Musk's DOGE cuts. The gates are open for Democrats once they regain control of committee gavels come January after a historic win of majorities in both the...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "ba5d4e4457d0",
-      "title": "The touchscreen MacBook Pro is a winner",
-      "url": "https://www.theverge.com/tech/1026570/apple-macbook-pro-proled-xdr-display-review",
-      "source": "The Verge",
-      "published": "2026-11-05T14:00:00+00:00",
-      "excerpt": "I keep forgetting the MacBook Pro with PROLED XDR Display has a touchscreen. I've been testing this new laptop, one of the most impressive Apple has ever created, for the better part of a week. I can't stop noticing some of its other...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/MON09105-edit.jpeg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "dcc26fe9b0c4",
-      "title": "The new iMac is a good desktop computer that needs a redesign",
-      "url": "https://www.theverge.com/tech/1027177/2026-imac-m6-review",
-      "source": "The Verge",
-      "published": "2026-11-05T14:00:00+00:00",
-      "excerpt": "I'm a simple guy. I usually work from my MacBook Neo wherever I end up sitting in my house. And while I have monitors, mice, and keyboards to plug it into, I often end up leaning over the MacBook and doing none of that. I rarely even sit...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/MON09145-Edit.png?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "d0b34b4603b0",
-      "title": "The M6 MacBook Pro is probably the last of its kind",
-      "url": "https://www.theverge.com/tech/1027250/m6-macbook-pro-review",
-      "source": "The Verge",
-      "published": "2026-11-05T14:00:00+00:00",
-      "excerpt": "On November 6th, Apple will release an all-new MacBook Pro. It's thinner and lighter and has a beautiful OLED touchscreen. It is very likely what every new MacBook Pro will look like in a couple of years. The M6 MacBook Pro, which is also...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/M6_MBP_hero2.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "098ad9d67fe7",
-      "title": "RadianX promises solar-powered devices that never need charging",
-      "url": "https://techcrunch.com/2026/11/05/radianx-promises-solar-powered-devices-that-never-need-charging/",
-      "source": "TechCrunch",
-      "published": "2026-11-05T14:00:00+00:00",
-      "excerpt": "Today\u2019s portable devices are too hungry to run on traditional solar panels, but RadianX says its perovskite cells promise to make charging obsolete in some cases.",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/02/iphone-usb-lighting-charging-cable.jpg?resize=1200,800",
-      "category": "Software Development"
-    },
-    {
-      "id": "5ea6f104b1e8",
-      "title": "Box taps Nvidia\u2019s Nemotron for new agent-first content retrieval system",
-      "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
-      "source": "TechCrunch",
-      "published": "2026-11-05T14:00:00+00:00",
-      "excerpt": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1178603809.jpg?w=1024",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "21a4bf2ed38f",
-      "title": "Apple iMac M6 review: Faster, more expensive and deeply in need of a refresh",
-      "url": "https://www.engadget.com/2307246/apple-imac-m6-review/",
-      "source": "Engadget",
-      "published": "2026-11-05T14:00:00+00:00",
-      "excerpt": "Most buyers would be better off with a Mac mini and a bigger external display.",
-      "image": "https://www.engadget.com/img/gallery/apple-imac-m6-review-faster-more-expensive-and-deeply-in-need-of-a-refresh/l-intro-1793827192.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "dea46215a291",
-      "title": "MacBook Pro with PROLED XDR Display review: Lighter, brighter, but the touchscreen doesn't add much",
-      "url": "https://www.engadget.com/2307215/apple-macbook-pro-with-proled-xdr-display-review/",
-      "source": "Engadget",
-      "published": "2026-11-05T14:00:00+00:00",
-      "excerpt": "Apple's touchscreen laptop is a notable evolution of the MacBook Pro at a much higher price.",
-      "image": "https://www.engadget.com/img/gallery/macbook-pro-with-proled-xdr-review-lighter-brighter-but-the-touchscreen-doesnt-add-much/l-intro-1793826205.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "06e02c3e3189",
-      "title": "Motorola Signature 27 gets Pixel\u2019s Gemini Intelligence features with Rambler, Create My Widget",
-      "url": "https://9to5google.com/2026/11/05/motorola-signature-27-gemini-intelligence-features/",
-      "source": "9to5Google",
-      "published": "2026-11-05T13:15:00+00:00",
-      "excerpt": "Motorola is adopting Google\u2019s Gemini Intelligence features in the first major expansion beyond Pixel, with Gboard\u2019s Rambler and more supported. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-lifestyle-2-copy.jpg?quality=82&strip=all&w=1600",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "41c9a3f1f1ab",
-      "title": "Motorola is going ultra premium with its $1,600 \u2018Signature\u2019 phone",
-      "url": "https://www.theverge.com/gadgets/1026643/motorola-signature-27-price-specs-availability",
-      "source": "The Verge",
-      "published": "2026-11-05T13:00:00+00:00",
-      "excerpt": "Motorola is trying something it hasn't attempted in the modern smartphone era: to make an all-out flagship slab-style phone. Previous high-end Edge devices never quite hit the mark, and lacked features that would put it in the highest...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/signature27_lifestyle12.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "fd04855a6f41",
-      "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
-      "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-      "source": "TechCrunch",
-      "published": "2026-11-05T13:00:00+00:00",
-      "excerpt": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/discoverd-materials.jpg?resize=1200,800",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "96cacc8212dd",
-      "title": "Spotify is coming to United's seatback screens",
-      "url": "https://www.engadget.com/2307393/spotify-is-coming-to-uniteds-seatback-screens/",
-      "source": "Engadget",
-      "published": "2026-11-05T13:00:00+00:00",
-      "excerpt": "The streaming service's entire library of content will be available in the air.",
-      "image": "https://www.engadget.com/img/gallery/spotify-is-coming-to-uniteds-seatback-screens/l-intro-1793835172.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "387f487281cd",
-      "title": "Motorola Signature 27 goes official with true flagship specs and a $1,599 price tag",
-      "url": "https://9to5google.com/2026/11/05/motorola-signature-27-specs-price-release-date/",
-      "source": "9to5Google",
-      "published": "2026-11-05T13:00:00+00:00",
-      "excerpt": "Motorola is officially back in the flagship space, with its new Signature 27 phone available for pre-order starting today, but it\u2019ll cost a pretty penny. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-1-copy.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "092a55e034ff",
-      "title": "OpenAI says it will protect local resources and report on the impact of its data centers",
-      "url": "https://www.engadget.com/2307590/openai-says-it-will-protect-local-resources-and-report-on-the-impact-of-its-data-centers/",
-      "source": "Engadget",
-      "published": "2026-11-05T12:37:38+00:00",
-      "excerpt": "OpenAI claims its new pledges were in the works before Americans voted strongly against the data center boom.",
-      "image": "https://www.engadget.com/img/gallery/openai-says-it-will-protect-local-resources-and-report-on-the-impact-of-its-data-centers/l-intro-1793882053.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "5d4d03269391",
-      "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
-      "url": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
-      "source": "The Hacker News",
-      "published": "2026-11-05T12:25:00+00:00",
-      "excerpt": "A critical finding can move through several security tools and still leave the organization exposed. The vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on information the finding may lack: who...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTqhUSejDKMWiBuqakycpFyce33qmRAlEPU4FbfKnzSRZmIlOQia8YXyU8bdvYFN6ldGMqz2vxPZn-s9524oTPZithSzMiO5ejngh_UMdp8jEbSG8znPLj-0husv1pxRF0dW2qES9dz4oR56dk67YJ8zePlgnVFSbHSIKHAU_7VqK0-pwSVeYEsOYM7u8/s1600/exposure.png",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "25c3eda20cfe",
-      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
-      "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
-      "source": "The Hacker News",
-      "published": "2026-11-05T12:08:54+00:00",
-      "excerpt": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje4ZiJMrWCzkoOXuOcWQkB02TmQLM81NWPvzQ8yw9iComqPyLIP0_TAzy8AHMkNfzyXw2Fw-8kBhWIohuXc_dGl39AI4Kw_n4Tll0DImNrRfcPrk1eZNQCP9QtOich_dhNW-ly5DIuZSzmWspWsWXU9QiGwnS5W7qzVDiIBVc4oggC__f6tsL1AOIP8opc/s1600/linux-lpe.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "b255fe6c46d9",
-      "title": "Google\u2019s AI search fumbles leave schools in the lurch",
-      "url": "https://9to5google.com/2026/11/05/googles-ai-search-fumbles-leave-schools-in-the-lurch/",
-      "source": "9to5Google",
-      "published": "2026-11-05T12:00:00+00:00",
-      "excerpt": "Good morning, and happy Ocarina of Time day to all who celebrate. Oh, and speaking of celebrating: congratulations to the real winners of the midterms, YouTube and Twitch streamers . Inbox is the tech newsletter that goes beyond the news...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/12/Lenovo-Chromebook-Duet-11.webp?w=1500",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "d60ee459231d",
-      "title": "Discord is ditching Electron and its new app uses less RAM",
-      "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
-      "source": "The Verge",
-      "published": "2026-11-05T11:39:42+00:00",
-      "excerpt": "Discord is finally giving up on Electron, the cross-platform framework that lets developers build desktop apps using web technologies. Electron web apps are notoriously heavy on system resources, and Discord is now moving its desktop app...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK062_01.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-11-05T16:42:46+00:00",
+      "excerpt": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name, and a password...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieaHvS5baW_XG1eAsBsoSp9qRzV179f0WwXoj9k6rUeX4Qa4sxpi3hvpGkgkYNMPzZQH0mvvVAoTooEAgl1G3SyFksmhqNEbDEIEWM83RH47u8qvNyIYclA7z7GUdPJGx8WfJd556iCvvtvsitAYp9M-T46OvuwkaSWwnyhlynEpYax2qyTCACsPbtQLw/s1600/ssh-linux.jpg",
       "category": "Software Development"
     }
   ]
