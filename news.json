@@ -1,6 +1,66 @@
 {
-  "updated": "2026-11-04T23:40:00+00:00",
+  "updated": "2026-11-05T06:45:03+00:00",
   "items": [
+    {
+      "id": "2a5b7d5a686a",
+      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+      "source": "The Hacker News",
+      "published": "2026-11-05T05:17:04+00:00",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkv0B0acGnMDLnCJQYXNCkpzSeKKr_1m4-a10Q2Iy6DZOorGLb35YDD9vw3iQQA9fZTi7QGIZYlSsvTSmxc8w0UbgN_Xtl-QPyTngA9qhOuoryee3Z8X8CZRnHiUAY3wuIXG_UIO1DyDnjnfS5cOilt3WPzRnYYqFDZ1NHbXS0OVAsrVYHSeFuc7zglZw5/s1600/apple-0day.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "25c3eda20cfe",
+      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+      "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+      "source": "The Hacker News",
+      "published": "2026-11-05T04:31:16+00:00",
+      "excerpt": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje4ZiJMrWCzkoOXuOcWQkB02TmQLM81NWPvzQ8yw9iComqPyLIP0_TAzy8AHMkNfzyXw2Fw-8kBhWIohuXc_dGl39AI4Kw_n4Tll0DImNrRfcPrk1eZNQCP9QtOich_dhNW-ly5DIuZSzmWspWsWXU9QiGwnS5W7qzVDiIBVc4oggC__f6tsL1AOIP8opc/s1600/linux-lpe.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "71042f0ae158",
+      "title": "Linux Mint 27 arrives next month, and I like it already: New features and other upgrades to expect",
+      "url": "https://www.zdnet.com/tech/linux-mint-27-release-date/",
+      "source": "ZDNET",
+      "published": "2026-11-05T02:35:58+00:00",
+      "excerpt": "It starts with a surprise version number: Linux Mint 27 instead of 24. But the next release brings far more changes than that.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Linux-Mint-27-Nemo.jpg",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "aa3b92b87c68",
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "source": "TechCrunch",
+      "published": "2026-11-05T01:26:22+00:00",
+      "excerpt": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "d93ef6b85a78",
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "source": "TechCrunch",
+      "published": "2026-11-05T01:02:14+00:00",
+      "excerpt": "Data center opposition crossed party lines in Tuesday\u2019s midterms.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/11/us-congress-at-night.jpg?resize=1200,677",
+      "category": "Data & Analytics"
+    },
+    {
+      "id": "182ee85c676e",
+      "title": "X says its updated web app is way faster",
+      "url": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
+      "source": "The Verge",
+      "published": "2026-11-05T00:25:12+00:00",
+      "excerpt": "X is introducing a new version of its web app that it says is much faster than before, and it's now rolling out the updated app \"one country at a time\" for signed-in users. \"Open a profile on X.com over a slow connection,\" principal...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER_2__A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Web Development"
+    },
     {
       "id": "961019ddea0b",
       "title": "Snap has more than 30 million paid subscribers across Snapchat+ and other plans",
@@ -340,66 +400,6 @@
       "excerpt": "New developer beta release notes point to deeper Siri AI integration and more Safari customization.",
       "image": "https://www.zdnet.com/wp-content/uploads/sites/3/dsc09863_f6afcb.jpg",
       "category": "Web Development"
-    },
-    {
-      "id": "70b2740fb268",
-      "title": "Can Netflix\u2019s new AI tool stop your TV-streaming doomscrolling? How to try it",
-      "url": "https://www.zdnet.com/home-and-office/netflix-ai-tool-discover-feature/",
-      "source": "ZDNET",
-      "published": "2026-11-04T17:05:06+00:00",
-      "excerpt": "Netflix is adding a new Discover feature, which recommends tailored streaming selections. Here\u2019s how it works.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/1_ef67d6.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "3632eace057e",
-      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
-      "url": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
-      "source": "The Hacker News",
-      "published": "2026-11-04T17:00:46+00:00",
-      "excerpt": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according to advisories that Debian, Ubuntu, and...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUPaNgRQEg3TU6-9BBgKse77CGVpbBFbn48cBnN1aanKvaMzk_mT74RxyWZA3_NbcrYe0UnRAQlELRYKGiGNrLUDcBMSKXFgRNxaND7RoaVFOs1Q7rkFFtlpoAzYQ7C8i6RAY4bNNTarEMUI-iFR4A_IfjIkFE9vpyQjG-0QFngy5cRE8f2GhGfTltkaI/s1600/linux-apt.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "1b9b96d402ef",
-      "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
-      "url": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
-      "source": "The Hacker News",
-      "published": "2026-11-04T17:00:38+00:00",
-      "excerpt": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below -...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgME1T4MkjI8UEzzSmlLgbPG6a__VNQNoKkhuxiaW5zF5fnHLPmsTdkGoIL06JTeER1jcOMH-WLuNYyva_sSW_8DnZojbMC8ikgNME3ZPUAdkij-9nVm8joHHdaZRoLNbVgcSVLNSc6Tt7UJ3YPhQmea3OtQwg-H2UzUPIgWq7nFwoEQcMsGCKf-0fImEvd/s1600/sonic.jpg",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "7dfaec810605",
-      "title": "Deals: Pixel Watch 5 up to $200 off, Galaxy Z Fold 8 $300 off + $200 store credit, Moto Tag 2, Anker, more",
-      "url": "https://9to5google.com/2026/11/04/deals-pixel-watch-5-galaxy-z-fold-8-moto-tag-2-anker/",
-      "source": "9to5Google",
-      "published": "2026-11-04T16:43:56+00:00",
-      "excerpt": "Joining the best cash discount to date on the new Pixel 11 Pro, Pixel 11 Pro XL, and $17.50 each and a seriously notable Galaxy Z Fold 8 deals \u2013 you can land one at $300 off and score a $200 store credit today. Head below for more...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/9to5Google-Nov-4.webp?w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "69a7aa674288",
-      "title": "Nothing teases screen-less product launching next month, \u2018couldn\u2019t have been an app\u2019",
-      "url": "https://9to5google.com/2026/11/04/nothing-teaser-new-ai-screen-less-product-launch/",
-      "source": "9to5Google",
-      "published": "2026-11-04T16:25:00+00:00",
-      "excerpt": "Nothing has confirmed it will launch a new \u201cAI-native\u201d product in December, something that \u201ccouldn\u2019t have been an app.\u201d more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/nothing-phone-4a-pro-review-14.jpg?quality=82&strip=all&w=1600",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "383916f24b45",
-      "title": "The first Snapdragon phone with Android Linux Terminal support is here",
-      "url": "https://9to5google.com/2026/11/04/the-first-snapdragon-phone-with-android-linux-terminal-support-is-here/",
-      "source": "9to5Google",
-      "published": "2026-11-04T16:15:00+00:00",
-      "excerpt": "The Redmagic 12 Pro is the first Snapdragon-based Android phone to support the Linux Terminal introduced in Android 16 for Pixel phones. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/redmagic-12-pro-android-linux-terminal.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems"
     }
   ]
 }
