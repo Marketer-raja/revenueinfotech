@@ -1,6 +1,56 @@
 {
-  "updated": "2026-11-05T23:38:07+00:00",
+  "updated": "2026-11-06T06:43:02+00:00",
   "items": [
+    {
+      "id": "904574e3ce24",
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "source": "TechCrunch",
+      "published": "2026-11-06T06:28:32+00:00",
+      "excerpt": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2215666246.jpg?resize=1200,800",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "cc48f8093c5b",
+      "title": "Airbnb is working on an AI travel agent",
+      "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+      "source": "The Verge",
+      "published": "2026-11-06T00:06:12+00:00",
+      "excerpt": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "929afe06232d",
+      "title": "Meta, Google, and TikTok sue California AG over teen social media law",
+      "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+      "source": "TechCrunch",
+      "published": "2026-11-06T00:01:38+00:00",
+      "excerpt": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268918823.jpg?resize=1200,800",
+      "category": "Software Development"
+    },
+    {
+      "id": "fae8746a9f7c",
+      "title": "The New York Times is in talks to buy Letterboxd for around $330 million",
+      "url": "https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report",
+      "source": "The Verge",
+      "published": "2026-11-05T23:45:10+00:00",
+      "excerpt": "The New York Times Company is in talks\"exclusive negotations\" to acquire Letterboxd, the social network for film lovers, for around $330 million, The New York Times reports. The Times Company, Sony Pictures Entertainment, and A24 were all...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-05-at-3.41.44-PM.png?quality=90&strip=all&crop=0,0,100,92.583676239766",
+      "category": "Software Development"
+    },
+    {
+      "id": "5e2ec67fb5b1",
+      "title": "Big Googlebook November update rolling out with 31 fixes, improvements",
+      "url": "https://9to5google.com/2026/11/05/googlebook-november-update/",
+      "source": "9to5Google",
+      "published": "2026-11-05T23:41:44+00:00",
+      "excerpt": "Just over a month after the launch, Google is rolling out the \u201cGooglebook November update\u201d with \u201cmany bug fixes, stability improvements, and firmware updates.\u201d more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-logo-1.jpg?quality=82&strip=all&w=1600",
+      "category": "Operating Systems"
+    },
     {
       "id": "c798aeedd56d",
       "title": "T-Mobile owner on Elon Musk launching a wireless carrier: \u2018Welcome to the party\u2019",
@@ -10,6 +60,16 @@
       "excerpt": "The head of T-Mobile's parent company is casting doubt on SpaceX's plans to make Starlink Mobile a \"major\" carrier in the US. During an earnings call on Thursday, Deutsche Telekom CEO Tim H\u00f6ttges says he takes the Elon Musk-owned company...",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2259379374.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Software Development"
+    },
+    {
+      "id": "8424b8cbc8e8",
+      "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+      "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+      "source": "Ars Technica",
+      "published": "2026-11-05T23:09:36+00:00",
+      "excerpt": "Certain configurations of Alpine are affected. Other distros may be as well.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/getty-hacking-1152x648.jpg",
+      "category": "Cybersecurity"
     },
     {
       "id": "1eac7fe42e87",
@@ -40,6 +100,16 @@
       "excerpt": "Over 670,000 units are being recalled in the US and Canada.",
       "image": "https://www.engadget.com/img/gallery/bose-recalls-s1-pro-battery-packs-due-to-fire-and-overheating-risks/l-intro-1793914388.jpg",
       "category": "Software Development"
+    },
+    {
+      "id": "25b36663bff5",
+      "title": "Google Find Hub rolls out \u2018Notify when left behind\u2019 tracker alerts on Android",
+      "url": "https://9to5google.com/2026/11/05/google-find-hub-tracker-alerts/",
+      "source": "9to5Google",
+      "published": "2026-11-05T21:30:00+00:00",
+      "excerpt": "As previewed in October , Google has added \u201cNotify when left behind\u201d alerts for Find Hub tags and trackers on Android. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/find-hub-bluetooth.jpg?quality=82&strip=all&w=1600",
+      "category": "Operating Systems"
     },
     {
       "id": "e017e0e5b6c6",
@@ -329,76 +399,6 @@
       "published": "2026-11-05T17:15:00+00:00",
       "excerpt": "The gaming landscape has changed drastically over the past year to the point where you\u2019re able to effectively turn a capable phone into a fully fledged Steam Deck with projects like DroidDeck. more\u2026",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/DroidDeck-launchscreen.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "07053351408c",
-      "title": "The Android 17 ColorOS 17 update is coming to 6 more OnePlus devices this month",
-      "url": "https://9to5google.com/2026/11/05/the-android-17-coloros-17-update-november-2026-device-list/",
-      "source": "9to5Google",
-      "published": "2026-11-05T17:14:11+00:00",
-      "excerpt": "All of OnePlus\u2019s latest devices are getting ColorOS 17, including the much-beloved OnePlus Open foldable. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/07/OnePlus-12-v11.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "b3dde555b22f",
-      "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
-      "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
-      "source": "TechCrunch",
-      "published": "2026-11-05T17:11:48+00:00",
-      "excerpt": "Following years of fundraising, acquisitions, and expansion, food delivery startup Wonder is moving closer to becoming a publicly traded company.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/wonder.jpg?resize=1200,800",
-      "category": "Enterprise Software & SaaS"
-    },
-    {
-      "id": "b88c86befe62",
-      "title": "Android Auto\u2019s latest Gemini failing keeps asking \u2018who do you want to call\u2019",
-      "url": "https://9to5google.com/2026/11/05/android-auto-gemini-call-text-voice-command-bug/",
-      "source": "9to5Google",
-      "published": "2026-11-05T17:05:00+00:00",
-      "excerpt": "The switch to Gemini on Android Auto has resulted in some good functionality add-ons, but also some very noticeable slip-ups. The latest in the bunch is a problem where Gemini won\u2019t recognize names when you\u2019re trying to make a call or send...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-Personal-Intelligence-Android-Auto.jpg?quality=82&strip=all&w=1600",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "3072ee2cf0ef",
-      "title": "Xbox overhauls its PC, web, and cloud apps with a faster design",
-      "url": "https://www.theverge.com/news/1027353/microsoft-new-xbox-pc-app-redesign",
-      "source": "The Verge",
-      "published": "2026-11-05T17:00:00+00:00",
-      "excerpt": "Microsoft is unveiling a new Xbox PC app that launches \"up to 60 percent faster\" than before, with an overhauled design to match new updates to Xbox Cloud Gaming on the web and smart TVs. Xbox Insiders will be able to start testing the...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283724/STK048_XBOX_C.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Cloud Computing"
-    },
-    {
-      "id": "c097ab566310",
-      "title": "Where is Windows 12?",
-      "url": "https://www.theverge.com/tech/1027621/where-is-windows-12-notepad",
-      "source": "The Verge",
-      "published": "2026-11-05T17:00:00+00:00",
-      "excerpt": "While I wasn't expecting Microsoft to announce Windows 12 during its RTX Spark launch event last month, more than a few people were hoping to see something truly new. Between the growing frustration with Windows 11 and the muted response...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Windows-FY27-CONS-C2-Wallpaper-EverydayProductivity.png?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "faa72f5271a4",
-      "title": "Deals: Latest Nest Learning Thermostat up to $120 off, Pixelsnap cases, Hue Bridge Pro bundle, Galaxy Book $750 off, more",
-      "url": "https://9to5google.com/2026/11/05/deals-nest-thermostat-pixelsnap-hue-bridge-pro-galaxy-book/",
-      "source": "9to5Google",
-      "published": "2026-11-05T16:56:00+00:00",
-      "excerpt": "All-time low pricing is still live on the 2026 Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold , as well as Pixel Watch 5 models at $100 off . However, we also spotted a chance to score Google Nest Learning Thermostat (4th gen) at up...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/9to5Google-Nov-5.webp?w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "3fe484f436f5",
-      "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
-      "url": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
-      "source": "The Hacker News",
-      "published": "2026-11-05T16:42:46+00:00",
-      "excerpt": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name, and a password...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieaHvS5baW_XG1eAsBsoSp9qRzV179f0WwXoj9k6rUeX4Qa4sxpi3hvpGkgkYNMPzZQH0mvvVAoTooEAgl1G3SyFksmhqNEbDEIEWM83RH47u8qvNyIYclA7z7GUdPJGx8WfJd556iCvvtvsitAYp9M-T46OvuwkaSWwnyhlynEpYax2qyTCACsPbtQLw/s1600/ssh-linux.jpg",
       "category": "Software Development"
     }
   ]
