@@ -1,6 +1,276 @@
 {
-  "updated": "2026-11-06T06:43:02+00:00",
+  "updated": "2026-11-06T16:45:26+00:00",
   "items": [
+    {
+      "id": "7edb583b558e",
+      "title": "Apple will monitor your public iCloud links now, starting with iOS 27.3",
+      "url": "https://www.zdnet.com/innovation/apple-monitor-public-icloud-links-27-3-harmful-content/",
+      "source": "ZDNET",
+      "published": "2026-11-06T16:21:55+00:00",
+      "excerpt": "Under Apple\u2019s new policy, the company will scan publicly shared iCloud links for harmful content \u2013 and possibly ban violators.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/74839d13-54c0-4925-a6e5-e35574caccbc.jpg",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "18fb43cd0655",
+      "title": "Eufy's clever outdoor security camera that lives inside is now available to buy",
+      "url": "https://www.engadget.com/2309176/eufys-clever-outdoor-security-camera-that-lives-inside-is-now-available-to-buy/",
+      "source": "Engadget",
+      "published": "2026-11-06T16:16:20+00:00",
+      "excerpt": "The $80 Window Camera E10 sticks to your window, pointed outwards.",
+      "image": "https://www.engadget.com/img/gallery/eufys-clever-outdoor-security-camera-that-lives-inside-is-now-available-to-buy/l-intro-1793981717.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "f959e1653374",
+      "title": "Fox completes its $22B acquisition of Roku",
+      "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
+      "source": "TechCrunch",
+      "published": "2026-11-06T16:05:36+00:00",
+      "excerpt": "A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/03/roku-glitch.jpg?resize=1200,778",
+      "category": "Software Development"
+    },
+    {
+      "id": "7c70b636a2cf",
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "source": "TechCrunch",
+      "published": "2026-11-06T15:54:47+00:00",
+      "excerpt": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/ara-stripe-5.png?resize=1200,779",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "14d8a6f631d1",
+      "title": "Galaxy SmartTag 3 hits Samsung online store as single tracker or four-pack",
+      "url": "https://9to5google.com/2026/11/06/galaxy-smarttag-3-available-from-samsung/",
+      "source": "9to5Google",
+      "published": "2026-11-06T15:38:29+00:00",
+      "excerpt": "Samsung\u2019s latest generation of item trackers for Galaxy devices is available online in two colors, starting at $29 . more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Smarttag-3-2.jpg?quality=82&strip=all&w=1400",
+      "category": "Software Development"
+    },
+    {
+      "id": "4f1cbf89d79c",
+      "title": "This see-through camera lets photographers maintain eye contact with their subjects",
+      "url": "https://www.theverge.com/tech/1028632/lutra-humans-of-authenticity-hoa-a1-transparent-digital-camera",
+      "source": "The Verge",
+      "published": "2026-11-06T15:33:03+00:00",
+      "excerpt": "Lutra, a South Korean startup, has debuted a new brand called Humans of Authenticity (HOA) that's launching another screen-free digital camera that incorporates a large open viewfinder into its design, as spotted by PetaPixel. The camera...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/camera1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Enterprise Software & SaaS"
+    },
+    {
+      "id": "52c78c57a830",
+      "title": "A Stranger Things prequel series is coming to Netflix in 2028",
+      "url": "https://www.engadget.com/2309062/a-stranger-things-prequel-series-is-coming-to-netflix-in-2028/",
+      "source": "Engadget",
+      "published": "2026-11-06T15:09:52+00:00",
+      "excerpt": "Other Worlds: A Stranger Things Adventure takes place in Nevada in the 1950s.",
+      "image": "https://www.engadget.com/img/gallery/a-stranger-things-prequel-series-is-coming-to-netflix-in-2028/l-intro-1793977602.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "7db85ecbf5e9",
+      "title": "Big Google Antigravity update brings Remote Agents, Voice Mode, and redesign",
+      "url": "https://9to5google.com/2026/11/06/google-antigravity-remote-agents-voice-mode/",
+      "source": "9to5Google",
+      "published": "2026-11-06T15:01:00+00:00",
+      "excerpt": "Google is rolling out a big update to Antigravity this week that features a new design, Voice Mode, and Remote Agents. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Antigravity-redesign-cover.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "198caa8fe725",
+      "title": "Anker Soundcore Space 2 Pro review: Big bang for less bucks",
+      "url": "https://www.engadget.com/2309011/anker-soundcore-space-2-pro-review/",
+      "source": "Engadget",
+      "published": "2026-11-06T15:00:00+00:00",
+      "excerpt": "The Space 2 Pro is a set of slightly above average headphones with exceptional voice clarity.",
+      "image": "https://www.engadget.com/img/gallery/anker-soundcore-space-2-pro-review-big-bang-for-less-bucks/l-intro-1793975820.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "8c4c03a5916e",
+      "title": "I bought the knock-off Pixel Watch and Fitbit Air bands, and it\u2019s crazy how good they are [Gallery]",
+      "url": "https://9to5google.com/2026/11/06/google-pixel-watch-fitbit-air-bands-knock-off/",
+      "source": "9to5Google",
+      "published": "2026-11-06T14:30:00+00:00",
+      "excerpt": "I love swapping out the bands on my Pixel Watch 5 and Fitbit Air, but Google\u2019s official options are not cheap. It doesn\u2019t take long to find a plethora of knock-off Pixel Watch and Fitbit Air bands around the web and, as it turns out...",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/pixel-watch-band-dupes-1.jpg?quality=82&strip=all&w=1600",
+      "category": "Web Development"
+    },
+    {
+      "id": "4a6109d50595",
+      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "source": "TechCrunch",
+      "published": "2026-11-06T14:10:00+00:00",
+      "excerpt": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Alexa-Shopping-Text-Hero.jpeg?resize=1200,725",
+      "category": "Software Development"
+    },
+    {
+      "id": "35ab47bbc76c",
+      "title": "Amazon will let you text Alexa your shopping list",
+      "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+      "source": "The Verge",
+      "published": "2026-11-06T14:00:00+00:00",
+      "excerpt": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Amazon-Alexa-for-Shopping-text-order.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "468eab2a9a8d",
+      "title": "Google's Find Hub can finally notify you if you've left a tracker behind",
+      "url": "https://www.engadget.com/2308903/googles-find-hub-can-finally-notify-you-if-youve-left-a-tracker-behind/",
+      "source": "Engadget",
+      "published": "2026-11-06T13:05:16+00:00",
+      "excerpt": "Google has rolled out 'Notify when left behind' separation alerts for your tracking devices.",
+      "image": "https://www.engadget.com/img/gallery/googles-find-hub-can-finally-notify-you-if-youve-left-a-tracker-behind/l-intro-1793970258.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "1f3694f5e3c9",
+      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "source": "TechCrunch",
+      "published": "2026-11-06T13:00:00+00:00",
+      "excerpt": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/physicl-studio-hero-kitchen-16x9-1.jpg?resize=1200,675",
+      "category": "Software Development"
+    },
+    {
+      "id": "5583374acc0a",
+      "title": "Samsung Galaxy Watch Ultra 2 review: The new standard for smartwatch battery life",
+      "url": "https://www.engadget.com/2306413/samsung-galaxy-watch-ultra-2-review-2026/",
+      "source": "Engadget",
+      "published": "2026-11-06T13:00:00+00:00",
+      "excerpt": "With its bright display and battery life, the Galaxy Watch Ultra 2 hits the sweet spot for smartwatch hardware.",
+      "image": "https://www.engadget.com/img/gallery/samsung-galaxy-watch-ultra-2-review-the-new-standard-for-smartwatch-battery-life/l-intro-1793802591.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "3280af2f2958",
+      "title": "I\u2019ve reviewed almost every Android foldable this year \u2014 here\u2019s how the iPhone Duo compares",
+      "url": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
+      "source": "The Verge",
+      "published": "2026-11-06T12:30:00+00:00",
+      "excerpt": "When I first read Allison and Nilay's Verge review of the iPhone Duo, I was immediately struck by one of their complaints: that the cover display is too small. That's not how the Samsung Galaxy Z Fold 8 feels, I thought. Had they got it...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/iphone-duo-android-foldables-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "649e0d8b078e",
+      "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
+      "url": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
+      "source": "The Hacker News",
+      "published": "2026-11-06T12:06:43+00:00",
+      "excerpt": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates. The fixed build, 11.2609.401.0, was the newest Paint...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFEFFUv1MUNRoFx03Jcw0k5NZCU0EOf5qEpbvAEQoTSTzoxHWPk1rc7XgQeG1USPP9vVB0ePI_lzQLqBU5bHdQ7-YrwEXFo8gJwayqwCvCtcDrw1JYMxKYxieV3bcQeCRAJAxt8CRfifzMzL22_ab0Z0OxwWrNckC36gPEOnubZnzagv6DkV7iY4AQJfA/s1600/paint-rce.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "cea41b0360f6",
+      "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
+      "url": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
+      "source": "The Hacker News",
+      "published": "2026-11-06T12:06:35+00:00",
+      "excerpt": "A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test. The attack needs Dispatch, a Claude feature...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil2RWGFxPYdzFDr1Tl0G6604dLCacXJDMaR-i0nSdrR7vBGgK-lUkZbE5eZYMbWO0Geqw_rDbN2qUkWpEadukl6gccv-xuUWJfEOx2_FWFiZxjVs4uNPiRK3JYOBo0QI1Lx08xd9Iz3-8TFN_kf-njbCQ-AFDcLNNRy6JcwsZyoM12qLt99OzNQNhmaGs/s1600/claude-dispatch.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "e4e3ec8fd0f8",
+      "title": "The Enough Phone is made by and for people fed up with big screens",
+      "url": "https://www.theverge.com/tech/1028160/enough-small-phone-kickstarter-sleke",
+      "source": "The Verge",
+      "published": "2026-11-06T12:00:00+00:00",
+      "excerpt": "It's a bad time and maybe also a great time to make a new smartphone. Brennan Jordan and Austin Boer are two-thirds of the trio behind the Enough Phone, a small phone that will run your choice of stock Android or the minimalist OdysseyOS...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-05-at-2.38.03-PM.png?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "44766e97c429",
+      "title": "Protesters break into Microsoft data center site in Amsterdam",
+      "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+      "source": "The Verge",
+      "published": "2026-11-06T11:55:19+00:00",
+      "excerpt": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2303323844.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Cloud Computing"
+    },
+    {
+      "id": "b840037bb54a",
+      "title": "Tesla will stop making the Cybertruck in 2027",
+      "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+      "source": "TechCrunch",
+      "published": "2026-11-06T11:50:10+00:00",
+      "excerpt": "Elon Musk said the company will use the factory space to make more Cybercabs.",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/04/Cybertruck_78-resized.jpeg?resize=1200,800",
+      "category": "Software Development"
+    },
+    {
+      "id": "33eb0f08cae7",
+      "title": "Tesla is 'winding down' Cybertruck production at its Texas Gigafactory",
+      "url": "https://www.engadget.com/2308875/tesla-is-winding-down-cybertruck-production-at-its-texas-gigafactory/",
+      "source": "Engadget",
+      "published": "2026-11-06T11:40:53+00:00",
+      "excerpt": "Tesla Cybertruck production will wind down in the middle of 2027 to make room for the Cybercab robotaxi.",
+      "image": "https://www.engadget.com/img/gallery/tesla-is-winding-down-cybertruck-production-at-its-texas-gigafactory/l-intro-1793979105.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "65aba2a0ffbc",
+      "title": "Perplexity's 'teammates' are the company's AI agents for daily work tasks",
+      "url": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
+      "source": "Engadget",
+      "published": "2026-11-06T11:18:59+00:00",
+      "excerpt": "Perplexity launches personal AI agents that can act as your 'teammates.'",
+      "image": "https://www.engadget.com/img/gallery/perplexitys-teammates-are-its-ai-agents-for-ongoing-work/l-intro-1793962197.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "93fc4c1ba090",
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-06T10:00:00+00:00",
+      "excerpt": "I\u2019m not the sort of person who typically pays for a house cleaner. I\u2019m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning...",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.jpg?resize=1200,600",
+      "category": "Software Development"
+    },
+    {
+      "id": "6facdf5f94df",
+      "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
+      "url": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
+      "source": "The Hacker News",
+      "published": "2026-11-06T08:04:49+00:00",
+      "excerpt": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users. \"While we investigated, we...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoSpb8lu1ytakNne4rJ58nWfLFrYtdR7MCyZ2prSaLKiAb2Bt_upvfAHl-slDTt_3h7zxFdhbPcLwzAkcHDjnvu2TNcVp6JsgJU6GI5GMvZrrmzZTUZDyeOhS0GnFV-YtazzzcgMFnUvkqKmpSr9FBrCXQhlyPZM9E8c7LPSxACwPhfJ4nFzIANqdaVXUd/s1600/chain-breach.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "2f7c64ed3dbb",
+      "title": "Airbnb is threatening to launch an AI travel agent next year",
+      "url": "https://www.engadget.com/2308832/airbnb-ai-travel-agent-2027-launch/",
+      "source": "Engadget",
+      "published": "2026-11-06T07:51:42+00:00",
+      "excerpt": "Airbnb is developing an AI travel agent that it says will eventually be able to help plan your whole trip.",
+      "image": "https://www.engadget.com/img/gallery/airbnb-is-threatening-to-launch-an-ai-travel-agent-next-year/l-intro-1793951259.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "63b9ee79b7ef",
+      "title": "At least 10 local governments have moved to drop Flock\u2019s surveillance cameras since summer",
+      "url": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
+      "source": "TechCrunch",
+      "published": "2026-11-06T07:18:44+00:00",
+      "excerpt": "The concerns range from privacy to how data is shared (and with whom) to procurement concerns.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1463816688.jpg?resize=973,1200",
+      "category": "Data & Analytics"
+    },
     {
       "id": "904574e3ce24",
       "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
@@ -10,6 +280,26 @@
       "excerpt": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
       "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2215666246.jpg?resize=1200,800",
       "category": "Artificial Intelligence"
+    },
+    {
+      "id": "ed60ea7fa412",
+      "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
+      "url": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
+      "source": "The Hacker News",
+      "published": "2026-11-06T05:58:54+00:00",
+      "excerpt": "A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week. The backdoored web server executes commands that attackers...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsAMxBevh2cmz1buKWukyP6JgUHrIPcr9zrJjAs1OwDoP1wMjn_s_WKHeUAdSwVzTImUsDE0C3SLGEpciaLk9H8CGvqiYugQWASsflB1a5zA9Wyr4RbroT3Z3JlOeak1AEinAy7Brf9N0BRDuGFWdZC23nCrOq4VuSMQQuDFYBYC6YCEm2ncPhHOv3KXs/s1600/cwp.jpg",
+      "category": "Cloud Computing"
+    },
+    {
+      "id": "a382c3d13c65",
+      "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
+      "url": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
+      "source": "The Hacker News",
+      "published": "2026-11-06T05:39:10+00:00",
+      "excerpt": "Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required. The company released patches on Monday, and the security firm...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh59LXthjD6N50867w2v7T4JyVUCOlVAmz1MJcZHKBFFaSnKDabB0FmdedrbvWRkp9XONe9Pz2RV1MQ-9QpJ8d85XE3w54EmMLKgaf1ygKD2e0y2X9mA7VsfyyB-8l1KFi-F5Gj9Q2vdsusmAl2khvXHNyOzWB_l7bj6NkOHkUgDYW-vENOowt0L8qM4kM/s1600/bar.jpg",
+      "category": "Cybersecurity"
     },
     {
       "id": "cc48f8093c5b",
@@ -110,296 +400,6 @@
       "excerpt": "As previewed in October , Google has added \u201cNotify when left behind\u201d alerts for Find Hub tags and trackers on Android. more\u2026",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/find-hub-bluetooth.jpg?quality=82&strip=all&w=1600",
       "category": "Operating Systems"
-    },
-    {
-      "id": "e017e0e5b6c6",
-      "title": "Serve Robotics launches new business to become the AWS for robots",
-      "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
-      "source": "TechCrunch",
-      "published": "2026-11-05T21:15:00+00:00",
-      "excerpt": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/08/Serve_robot_05.jpg?resize=1200,800",
-      "category": "Cloud Computing"
-    },
-    {
-      "id": "ce1ccdb1e8a8",
-      "title": "Google is ditching Firebase Studio soon, and it wants you to use its newer AI tools instead",
-      "url": "https://www.engadget.com/2308541/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead/",
-      "source": "Engadget",
-      "published": "2026-11-05T21:01:28+00:00",
-      "excerpt": "The company is going all-in on Antigravity and Google AI Studio and hopes developers will do the same.",
-      "image": "https://www.engadget.com/img/gallery/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead/l-intro-1793825592.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "132e30491acc",
-      "title": "Payday Aces High review: This year\u2019s must-play multiplayer VR game",
-      "url": "https://9to5google.com/2026/11/05/payday-aces-high-review-meta-quest/",
-      "source": "9to5Google",
-      "published": "2026-11-05T21:00:00+00:00",
-      "excerpt": "Join up with three other heisters and get revenge on the billionaire who sent you to jail in the first place in Payday Aces High, now available on Meta Quest, SteamVR, and Steam Frame. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/payday-aces-high-heist-screenshot.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "dac42890b178",
-      "title": "Samsung brings back free doubled storage discount on Galaxy Z Fold 8",
-      "url": "https://9to5google.com/2026/11/05/samsung-galaxy-z-fold-8-doubled-storage-discount/",
-      "source": "9to5Google",
-      "published": "2026-11-05T20:30:00+00:00",
-      "excerpt": "Samsung is running its much-loved \u201cdouble the storage\u201d promo on its Galaxy Z Fold 8 right now. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-Fold-8-lavender-3.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "9d424d7fe39d",
-      "title": "TikTok just released a standalone Shop app, but it's not in America just yet",
-      "url": "https://www.engadget.com/2308419/tiktok-just-released-a-standalone-shop-app-but-its-not-in-america-just-yet/",
-      "source": "Engadget",
-      "published": "2026-11-05T19:58:23+00:00",
-      "excerpt": "It offers exclusive deals and other goodies.",
-      "image": "https://www.engadget.com/img/gallery/tiktok-just-released-a-standalone-shop-app-but-its-not-in-america-just-yet/l-intro-1793908543.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "e678e03227e4",
-      "title": "The Xbox PC app is getting a speed boost",
-      "url": "https://www.engadget.com/2308407/the-xbox-pc-app-is-getting-a-speed-boost/",
-      "source": "Engadget",
-      "published": "2026-11-05T19:52:39+00:00",
-      "excerpt": "The updated app, rolling out to Xbox Insiders first, launches up to 60 percent faster.",
-      "image": "https://www.engadget.com/img/gallery/the-xbox-pc-app-is-getting-a-speed-boost/l-intro-1793908196.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "3c0e84566a0e",
-      "title": "Meta says US users can now video chat with their Muse AI avatar",
-      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-      "source": "TechCrunch",
-      "published": "2026-11-05T19:48:28+00:00",
-      "excerpt": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "5aec999510de",
-      "title": "Warby Parker seemingly spilled the beans on Google's Android XR smart glasses launch",
-      "url": "https://www.engadget.com/2308376/warby-parker-seemingly-spilled-the-beans-on-googles-android-xr-smart-glasses-launch/",
-      "source": "Engadget",
-      "published": "2026-11-05T19:39:01+00:00",
-      "excerpt": "\"Intelligent Eyewear\" is apparently only a week away.",
-      "image": "https://www.engadget.com/img/gallery/warby-parker-seemingly-spilled-the-beans-on-googles-android-xr-smart-glasses-launch/l-intro-1793907386.jpg",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "ec73671ce52f",
-      "title": "OpenAI released a new cybersecurity model. Is that enough?",
-      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-      "source": "TechCrunch",
-      "published": "2026-11-05T19:06:12+00:00",
-      "excerpt": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/openai-daybreak.jpg?resize=1200,798",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "4585dfd26b1c",
-      "title": "Pixel 11 and Pixel 10 at up to $350 off are great phone deals that will only be harder to find in RAMageddon",
-      "url": "https://9to5google.com/2026/11/05/google-pixel-11-10-deals-ramageddon/",
-      "source": "9to5Google",
-      "published": "2026-11-05T19:05:00+00:00",
-      "excerpt": "As RAMageddon\u2019s impact squeezes smartphones more and more, great deals on a new smartphone are going to get harder to find. Right now, Google\u2019s Pixel 11 series and the Pixel 10 are $200 off, and that\u2019s absolutely worth a look. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-vs-pixel-10-4.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "76129244151e",
-      "title": "Phone by Google 246 beta brings gradient icon redesign on Android",
-      "url": "https://9to5google.com/2026/11/05/phone-by-google-246-new-icon/",
-      "source": "9to5Google",
-      "published": "2026-11-05T19:04:24+00:00",
-      "excerpt": "Following the Messages update earlier this week , Phone by Google has received its redesigned gradient icon in the beta channel. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Messages-Phone-Contacts-icon-gradient-redesign.webp?w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "c6134d61030c",
-      "title": "Muse has a voice mode now",
-      "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
-      "source": "The Verge",
-      "published": "2026-11-05T19:03:04+00:00",
-      "excerpt": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "2b4c477d45d5",
-      "title": "Razer is getting back into wired earbuds with USB-C; yes, they have RGB",
-      "url": "https://9to5google.com/2026/11/05/razer-releases-usb-c-earbuds-with-rgb/",
-      "source": "9to5Google",
-      "published": "2026-11-05T19:00:27+00:00",
-      "excerpt": "Razer just announced a pair of ANC earbuds with a cool take on USB-C, aimed directly at mobile gamers. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/razer-hammerhead-v3-chroma.jpg?quality=82&strip=all&w=1400",
-      "category": "Software Development"
-    },
-    {
-      "id": "4879e654c00e",
-      "title": "Google, Meta and TikTok are all suing California to block social media law intended to help kids",
-      "url": "https://www.engadget.com/2308280/google-meta-and-tiktok-are-all-suing-california-to-block-social-media-law-intended-to-help-kids/",
-      "source": "Engadget",
-      "published": "2026-11-05T18:58:07+00:00",
-      "excerpt": "Assembly Bill 1709 demands that platforms remove \"psychologically exploitative features.\"",
-      "image": "https://www.engadget.com/img/gallery/google-meta-and-tiktok-are-all-suing-california-to-block-social-media-law-intended-to-help-kids/l-intro-1793904752.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "953bd109ac0d",
-      "title": "US government warns of \u2018ongoing cyber threat\u2019 amid mass hacks of industrial retail and military freezers",
-      "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
-      "source": "TechCrunch",
-      "published": "2026-11-05T18:48:34+00:00",
-      "excerpt": "A joint U.S. government statement says the hacks are affecting the food, transportation, and healthcare industries after reports of global mass hacks.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/freezer-hacks-2299339780.jpg?resize=1200,800",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "420c1200437a",
-      "title": "HR thinks you can learn AI skills \u2013 so why is your company hiring elsewhere?",
-      "url": "https://www.zdnet.com/innovation/ai-hiring-vs-reskilling-careerminds-research/",
-      "source": "ZDNET",
-      "published": "2026-11-05T18:44:47+00:00",
-      "excerpt": "Over 90% of HR professionals say they believe employees can learn AI roles \u2013 but half of companies still hire outside for those positions, according to a new report.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/purplepeople-GettyImages-2227030316-1.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "32dd2fc4f910",
-      "title": "First Android XR \u2018Intelligent Eyewear\u2019 glasses go on pre-order next week",
-      "url": "https://9to5google.com/2026/11/05/android-xr-glasses-pre-order/",
-      "source": "9to5Google",
-      "published": "2026-11-05T18:30:26+00:00",
-      "excerpt": "Warby Parker announced today that the first Android XR audio glasses will be available for pre-order on November 12. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-android-xr-glasses-warby-parker-13.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "7d1cbc4cc316",
-      "title": "6 default Pixel 11 settings I changed that made a big difference \u2013 and why",
-      "url": "https://www.zdnet.com/tech/pixel-11-settings-to-change/",
-      "source": "ZDNET",
-      "published": "2026-11-05T18:18:16+00:00",
-      "excerpt": "If you\u2019re a new Pixel 11 user, here are six things I recommend changing right away to get the most from your phone.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/PXL_20261105_154231218.PORTRAIT.ORIGINAL.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "cfd1704d56b5",
-      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-      "source": "TechCrunch",
-      "published": "2026-11-05T18:02:27+00:00",
-      "excerpt": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/10/Greg-Brockman-OpenAIDSC02862.jpg?resize=1200,800",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "e492e309bbbc",
-      "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
-      "url": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
-      "source": "TechCrunch",
-      "published": "2026-11-05T18:00:00+00:00",
-      "excerpt": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Stephen_Ward_horiztonal.jpeg?resize=1200,1077",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "7b187a5bdc28",
-      "title": "Claude can now analyze your spending with its new Personal Finance tool",
-      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "source": "TechCrunch",
-      "published": "2026-11-05T18:00:00+00:00",
-      "excerpt": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Claude-Personal-Finance-2.png?resize=1200,675",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "460dbe0729c1",
-      "title": "Now Claude can help with your finances too",
-      "url": "https://www.engadget.com/2307936/now-claude-can-help-with-your-finances-too/",
-      "source": "Engadget",
-      "published": "2026-11-05T18:00:00+00:00",
-      "excerpt": "But just like with ChatGPT, should you?",
-      "image": "https://www.engadget.com/img/gallery/now-claude-can-help-with-your-finances-too/l-intro-1793895674.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "413c31956d44",
-      "title": "Claude\u2019s new Personal Finance tool aims to help analyze your spending \u2013 read-only, of course",
-      "url": "https://www.zdnet.com/innovation/personal-finance-claude-anthropic/",
-      "source": "ZDNET",
-      "published": "2026-11-05T18:00:00+00:00",
-      "excerpt": "Anthropic has released what appears to be its answer to ChatGPT Finances.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1451754709.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "91d26a577f8a",
-      "title": "iPhone Duo just got a new accessibility feature in iOS 27.3 beta",
-      "url": "https://www.engadget.com/2308154/iphone-duo-new-accessibility-feature-ios-27-3-beta-reachability/",
-      "source": "Engadget",
-      "published": "2026-11-05T17:59:50+00:00",
-      "excerpt": "Reachability helps make it easier to use the foldable with one hand.",
-      "image": "https://www.engadget.com/img/gallery/iphone-duo-just-got-a-new-accessibility-feature-in-ios-27-3-beta/l-intro-1793901496.jpg",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "f3a0f74ded4b",
-      "title": "Harbinger raises $240M after expanding into defense",
-      "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
-      "source": "TechCrunch",
-      "published": "2026-11-05T17:52:44+00:00",
-      "excerpt": "The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the military.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Harbinger-Newsroom-Thumbnail-260610.jpeg?resize=1200,800",
-      "category": "Enterprise Software & SaaS"
-    },
-    {
-      "id": "5c59b845e543",
-      "title": "3 ways Bluetooth 7 upgrades your devices beyond lossless audio",
-      "url": "https://www.zdnet.com/tech/bluetooth-7-features-headphones-smart-home-lossless-audio/",
-      "source": "ZDNET",
-      "published": "2026-11-05T17:46:35+00:00",
-      "excerpt": "Bluetooth 7 could make your smart home devices easier to set up, for one. Here\u2019s what we know about the new core specification.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/blu.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "4024dd001f58",
-      "title": "TikTok launched a dedicated TikTok Shop app",
-      "url": "https://www.theverge.com/tech/1027772/tiktok-shop-app",
-      "source": "The Verge",
-      "published": "2026-11-05T17:27:36+00:00",
-      "excerpt": "TikTok has released a standalone app for TikTok Shop in a few countries, as spotted by social media consultant Matt Navarra. According to its App Store listing, the TikTok Shop app offers: - Personalized picks inspired by your interests -...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/unnamed-4.png?quality=90&strip=all&crop=0,21.560786106033,100,38.439126001969",
-      "category": "Software Development"
-    },
-    {
-      "id": "56561248c6bf",
-      "title": "Nintendo says it\u2019s not planning another Switch 2 price hike",
-      "url": "https://www.theverge.com/games/1027757/nintendo-switch-2-price-hike-plans-ram",
-      "source": "The Verge",
-      "published": "2026-11-05T17:24:39+00:00",
-      "excerpt": "Nintendo president Shuntaro Furukawa said during the company's latest earnings call that it's \"not considering additional changes\" to the Switch 2's price, Reuters reports. The Switch 2 got a $50 price hike earlier this year, bringing its...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0175.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "08272adaf9ff",
-      "title": "DroidDeck review: This could change how you game on your phone [Video]",
-      "url": "https://9to5google.com/2026/11/05/droiddeck/",
-      "source": "9to5Google",
-      "published": "2026-11-05T17:15:00+00:00",
-      "excerpt": "The gaming landscape has changed drastically over the past year to the point where you\u2019re able to effectively turn a capable phone into a fully fledged Steam Deck with projects like DroidDeck. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/DroidDeck-launchscreen.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
     }
   ]
 }
