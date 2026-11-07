@@ -1,6 +1,56 @@
 {
-  "updated": "2026-11-06T23:07:45+00:00",
+  "updated": "2026-11-07T05:57:29+00:00",
   "items": [
+    {
+      "id": "0819cd72b72e",
+      "title": "From the front row to the hot seat \u2014 what the midterms mean for Big Tech",
+      "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+      "source": "TechCrunch",
+      "published": "2026-11-07T04:16:43+00:00",
+      "excerpt": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the...",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/SHAWN-THEW-Contributor-Getty.jpg?w=1024",
+      "category": "Software Development"
+    },
+    {
+      "id": "c2107a5a7cf6",
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "source": "TechCrunch",
+      "published": "2026-11-07T01:40:28+00:00",
+      "excerpt": "The deal highlights the challenges of developing massive AI data centers.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800",
+      "category": "Data & Analytics"
+    },
+    {
+      "id": "6dd855772eb1",
+      "title": "Alpine Linux and OpenSSH patch flaw that\u2019s as bad as it can get",
+      "url": "https://www.zdnet.com/tech/alpine-linux-openssh-patch-flaw/",
+      "source": "ZDNET",
+      "published": "2026-11-07T00:00:45+00:00",
+      "excerpt": "This dangerous Linux security hole must be patched as soon as possible.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-879472452.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "4a41deae6854",
+      "title": "Google\u2019s original Nest Doorbell is broken for many right now",
+      "url": "https://9to5google.com/2026/11/06/google-nest-doorbell-live-view-broken-reports/",
+      "source": "9to5Google",
+      "published": "2026-11-06T23:15:00+00:00",
+      "excerpt": "An issue with Google\u2019s original Nest Doorbell has left live view of the video feed broken for many owners, and there\u2019s no word on a fix just yet. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2020/07/google_nest_hello_doorbell_1.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "1bc7ba2a28c4",
+      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+      "source": "The Verge",
+      "published": "2026-11-06T23:00:44+00:00",
+      "excerpt": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Artificial Intelligence"
+    },
     {
       "id": "118369de89f0",
       "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
@@ -10,6 +60,26 @@
       "excerpt": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
       "category": "Artificial Intelligence"
+    },
+    {
+      "id": "38d6d7fd2887",
+      "title": "Starlink Mobile: All the news on SpaceX\u2019s major mobile carrier ambitions",
+      "url": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
+      "source": "The Verge",
+      "published": "2026-11-06T22:45:43+00:00",
+      "excerpt": "SpaceX has declared that it\u2019s going to make Starlink Mobile a \u201cmajor\u201d mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building out its 5G network here...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "de49600012cb",
+      "title": "Android XR glasses officially get a December release date [Video]",
+      "url": "https://9to5google.com/2026/11/06/android-xr-glasses-release-date-window-confirmed/",
+      "source": "9to5Google",
+      "published": "2026-11-06T22:40:00+00:00",
+      "excerpt": "Following a pre-order date announcement earlier this week, Google\u2019s other Android XR launch partner has now confirmed a December release date for this first batch of glasses. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-android-xr-glasses-gentle-monster-7.jpg?quality=82&strip=all&w=1600",
+      "category": "Operating Systems"
     },
     {
       "id": "aa6cc9e6019a",
@@ -27,7 +97,7 @@
       "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
       "source": "TechCrunch",
       "published": "2026-11-06T21:38:05+00:00",
-      "excerpt": "There are now 100K Duo-optimized apps, says Apple, and thousands more arrive daily.",
+      "excerpt": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
       "category": "Software Development"
     },
@@ -48,7 +118,7 @@
       "source": "Ars Technica",
       "published": "2026-11-06T20:56:41+00:00",
       "excerpt": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/chainalysis-1152x648.png",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-blockchain-1152x648.jpg",
       "category": "Artificial Intelligence"
     },
     {
@@ -329,76 +399,6 @@
       "published": "2026-11-06T15:00:00+00:00",
       "excerpt": "The Space 2 Pro is a set of slightly above average headphones with exceptional voice clarity.",
       "image": "https://www.engadget.com/img/gallery/anker-soundcore-space-2-pro-review-big-bang-for-less-bucks/l-intro-1793975820.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "17e04fbcf2b3",
-      "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
-      "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
-      "source": "The Hacker News",
-      "published": "2026-11-06T14:58:32+00:00",
-      "excerpt": "OpenAI on Thursday unveiled GPT\u20116 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment. The new model is \"more...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXR9F1Fu-E50zYby7QnTXAX324GHruNgN0_-95ygoUQV94WlkKSNHt1n8Af8HANmBe6GYgt_1-jGJzGNdg6NnoWY_Jrfbxjyv8mSQzOCa_t7e-e5S8DEB32YavCpthT2pB3jQsFRNJ69bgOgph9qyCBppvb93YSsYSzBM1P9CdeO_rhMcF4LgCj-kQvY2C/s1600/gpt-cyber.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "8c4c03a5916e",
-      "title": "I bought the knock-off Pixel Watch and Fitbit Air bands, and it\u2019s crazy how good they are [Gallery]",
-      "url": "https://9to5google.com/2026/11/06/google-pixel-watch-fitbit-air-bands-knock-off/",
-      "source": "9to5Google",
-      "published": "2026-11-06T14:30:00+00:00",
-      "excerpt": "I love swapping out the bands on my Pixel Watch 5 and Fitbit Air, but Google\u2019s official options are not cheap. It doesn\u2019t take long to find a plethora of knock-off Pixel Watch and Fitbit Air bands around the web and, as it turns out...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/pixel-watch-band-dupes-1.jpg?quality=82&strip=all&w=1600",
-      "category": "Web Development"
-    },
-    {
-      "id": "4a6109d50595",
-      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-      "source": "TechCrunch",
-      "published": "2026-11-06T14:10:00+00:00",
-      "excerpt": "Amazon said that the feature will roll out to millions of users in coming weeks.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Alexa-Shopping-Text-Hero.jpeg?resize=1200,725",
-      "category": "Software Development"
-    },
-    {
-      "id": "35ab47bbc76c",
-      "title": "Amazon will let you text Alexa your shopping list",
-      "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
-      "source": "The Verge",
-      "published": "2026-11-06T14:00:00+00:00",
-      "excerpt": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Amazon-Alexa-for-Shopping-text-order.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "468eab2a9a8d",
-      "title": "Google's Find Hub can finally notify you if you've left a tracker behind",
-      "url": "https://www.engadget.com/2308903/googles-find-hub-can-finally-notify-you-if-youve-left-a-tracker-behind/",
-      "source": "Engadget",
-      "published": "2026-11-06T13:05:16+00:00",
-      "excerpt": "Google has rolled out 'Notify when left behind' separation alerts for your tracking devices.",
-      "image": "https://www.engadget.com/img/gallery/googles-find-hub-can-finally-notify-you-if-youve-left-a-tracker-behind/l-intro-1793970258.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "1f3694f5e3c9",
-      "title": "Physicl raises $10M to make the digital world real enough for robots",
-      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-      "source": "TechCrunch",
-      "published": "2026-11-06T13:00:00+00:00",
-      "excerpt": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/physicl-studio-hero-kitchen-16x9-1.jpg?resize=1200,675",
-      "category": "Software Development"
-    },
-    {
-      "id": "5583374acc0a",
-      "title": "Samsung Galaxy Watch Ultra 2 review: The new standard for smartwatch battery life",
-      "url": "https://www.engadget.com/2306413/samsung-galaxy-watch-ultra-2-review-2026/",
-      "source": "Engadget",
-      "published": "2026-11-06T13:00:00+00:00",
-      "excerpt": "With its bright display and battery life, the Galaxy Watch Ultra 2 hits the sweet spot for smartwatch hardware.",
-      "image": "https://www.engadget.com/img/gallery/samsung-galaxy-watch-ultra-2-review-the-new-standard-for-smartwatch-battery-life/l-intro-1793802591.jpg",
       "category": "Software Development"
     }
   ]
