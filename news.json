@@ -1,6 +1,176 @@
 {
-  "updated": "2026-11-07T12:59:11+00:00",
+  "updated": "2026-11-07T19:25:22+00:00",
   "items": [
+    {
+      "id": "f45d6873082d",
+      "title": "How to set up SpaceXAI's Grok in Google Workspace (and what it can do)",
+      "url": "https://www.engadget.com/2309543/how-to-set-up-use-spacexai-grok-in-google-workspace/",
+      "source": "Engadget",
+      "published": "2026-11-07T19:15:00+00:00",
+      "excerpt": "Inserting Grok into your Google Workspace is easy, but you'll want to consider a few things before rolling out the welcome mat.",
+      "image": "https://www.engadget.com/img/gallery/how-to-set-up-spacexais-grok-in-google-workspace-and-what-it-can-do/l-intro-1793988095.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "c281d974fc73",
+      "title": "How a bottleneck calculator for your GPU and CPU works",
+      "url": "https://www.engadget.com/2306571/how-bottleneck-calculator-works-gpu-cpu/",
+      "source": "Engadget",
+      "published": "2026-11-07T19:00:00+00:00",
+      "excerpt": "They're a quick way to help you check component compatibility before you build or upgrade a system.",
+      "image": "https://www.engadget.com/img/gallery/how-a-bottleneck-calculator-for-your-gpu-and-cpu-works/l-intro-1793806824.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "c4282a22bbf0",
+      "title": "5 things you didn't know Steam's overlay could do",
+      "url": "https://www.engadget.com/2309539/things-you-didnt-know-steam-overlay-could-do/",
+      "source": "Engadget",
+      "published": "2026-11-07T18:45:00+00:00",
+      "excerpt": "Steam's overlay hides several useful tools beyond its familiar chat window, including features that can help you play, stay organized, and connect with friends.",
+      "image": "https://www.engadget.com/img/gallery/5-things-you-didnt-know-steams-overlay-could-do/l-intro-1793988811.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "36447cd34d59",
+      "title": "How to watch videos on Apple CarPlay while parked",
+      "url": "https://www.engadget.com/2306196/apple-carplay-how-to-watch-videos/",
+      "source": "Engadget",
+      "published": "2026-11-07T18:30:00+00:00",
+      "excerpt": "iOS 27 introduced support for native video playback on CarPlay, with certain restrictions and requirements. Here's how to use the new feature.",
+      "image": "https://www.engadget.com/img/gallery/how-to-watch-videos-on-apple-carplay-while-parked/l-intro-1793770742.jpg",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "6afb6bfb2dcd",
+      "title": "The reason your phone keeps dimming even with auto-brightness off",
+      "url": "https://www.engadget.com/2306646/reason-phone-keeps-dimming-auto-brightness-off/",
+      "source": "Engadget",
+      "published": "2026-11-07T18:15:00+00:00",
+      "excerpt": "If your iPhone or Android phone's screen keeps darkening when you don't want it to, there are several possible explanations.",
+      "image": "https://www.engadget.com/img/gallery/the-reason-your-phone-keeps-dimming-even-with-auto-brightness-off/l-intro-1793800884.jpg",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "44e957f26d8f",
+      "title": "5 iPhone security settings you should change to protect your data",
+      "url": "https://www.engadget.com/2306607/iphone-security-settings-data-protection/",
+      "source": "Engadget",
+      "published": "2026-11-07T18:00:00+00:00",
+      "excerpt": "Your iPhone has great security features, but some of them need configuration to work their best.",
+      "image": "https://www.engadget.com/img/gallery/5-iphone-security-settings-you-should-change-to-protect-your-data/l-intro-1793807702.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "c62a1bcdc3cd",
+      "title": "What is System Data on an iPhone's storage, and how much is normal?",
+      "url": "https://www.engadget.com/2306455/what-is-iphone-storage-system-data/",
+      "source": "Engadget",
+      "published": "2026-11-07T17:45:00+00:00",
+      "excerpt": "Your iPhone's storage breaks down into many categories; System Data is often large but doesn't have a clear explanation.",
+      "image": "https://www.engadget.com/img/gallery/what-is-system-data-on-an-iphones-storage-and-how-much-is-normal/l-intro-1793803853.jpg",
+      "category": "Data & Analytics"
+    },
+    {
+      "id": "e80a762fe0e0",
+      "title": "5 Google Messages settings you might want to disable",
+      "url": "https://www.engadget.com/2306181/google-messages-settings-might-want-to-disable/",
+      "source": "Engadget",
+      "published": "2026-11-07T17:30:00+00:00",
+      "excerpt": "Google Messages is easily one of the best messaging apps available on Android, but that doesn't mean it's configured perfectly out of the box.",
+      "image": "https://www.engadget.com/img/gallery/5-google-messages-settings-you-might-want-to-disable/l-intro-1793762765.jpg",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "f777d8aa2bf4",
+      "title": "Binance CFO is leaving to \u2018pursue a new venture\u2019 after $6.3 billion hack",
+      "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+      "source": "TechCrunch",
+      "published": "2026-11-07T17:24:07+00:00",
+      "excerpt": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/binance-2206279918.jpg?resize=1200,800",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "de8f61359cd8",
+      "title": "Amazon\u2019s new basic Kindle proves you don\u2019t need all the bells and whistles",
+      "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
+      "source": "TechCrunch",
+      "published": "2026-11-07T17:18:00+00:00",
+      "excerpt": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3861.jpeg?resize=1200,900",
+      "category": "Software Development"
+    },
+    {
+      "id": "7fbeb8ae46fe",
+      "title": "How to legally download free movies to your computer",
+      "url": "https://www.engadget.com/2306356/how-to-legally-download-free-movies/",
+      "source": "Engadget",
+      "published": "2026-11-07T17:15:00+00:00",
+      "excerpt": "There are services that will allow you to download movies from the public domain, and several streaming services let you download shows for offline viewing.",
+      "image": "https://www.engadget.com/img/gallery/how-to-legally-download-free-movies-to-your-computer/l-intro-1793799706.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "d994b5ab0b16",
+      "title": "Apple also made its classical music app's logo black and white",
+      "url": "https://www.engadget.com/2310114/apple-also-made-its-classical-music-apps-logo-black-and-white/",
+      "source": "Engadget",
+      "published": "2026-11-07T17:06:13+00:00",
+      "excerpt": "Apple Music Classical now has a black-and-white logo, as well.",
+      "image": "https://www.engadget.com/img/gallery/apple-also-made-its-classical-music-apps-logo-black-and-white/l-intro-1794070514.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "8eea48456f05",
+      "title": "Discogs\u2019 Kevin Lewandowski can\u2019t live without his AeroPress",
+      "url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
+      "source": "The Verge",
+      "published": "2026-11-07T16:00:00+00:00",
+      "excerpt": "Twenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but it's also become so...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/2023-12-7-Discogs-Kevin-1-Warm.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Data & Analytics"
+    },
+    {
+      "id": "fa06ff8fdc83",
+      "title": "NYT Cooking\u2019s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "source": "The Verge",
+      "published": "2026-11-07T15:50:00+00:00",
+      "excerpt": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268844_NY_Times_Cooking_App_JTuohy_0006.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "73be1ddc7ff2",
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "source": "The Verge",
+      "published": "2026-11-07T15:43:45+00:00",
+      "excerpt": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "055e03fe8fc4",
+      "title": "AI broke the cybersecurity world. What\u2019s next?",
+      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "source": "The Verge",
+      "published": "2026-11-07T15:00:00+00:00",
+      "excerpt": "Today, I\u2019m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I\u2019ve always...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "9aabf39f7414",
+      "title": "Good riddance, Cybertruck!",
+      "url": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
+      "source": "The Verge",
+      "published": "2026-11-07T14:40:06+00:00",
+      "excerpt": "I'm calling it: time of death, November 6th, 1:30 AM, by tweet. Elon Musk's declaration Friday that Tesla would be \"winding down\" production of the Cybertruck next year to make room for the Cybercab was fascinating for a number of reasons...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/yI0AMBlStYQ-HD.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
     {
       "id": "1e46ca798adf",
       "title": "Oppo reportedly cancels Find X10 Ultra thanks to RAMageddon",
@@ -230,176 +400,6 @@
       "excerpt": "Someone at the White House appears to be running software that could enable outsiders to rent access on the presidential network for just \"a few dollars,\" as reported by Krebs on Security and The Register. That's according to findings from...",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318430/akrales_220309_4977_0038.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Cybersecurity"
-    },
-    {
-      "id": "8946424f7de0",
-      "title": "Kobo will soon let you upload and sync your own ebooks across devices, for a price",
-      "url": "https://www.theverge.com/tech/1028715/kobo-stack-cloud-sync-ebooks-epub-pdf-email-files",
-      "source": "The Verge",
-      "published": "2026-11-06T17:32:16+00:00",
-      "excerpt": "Kobo is launching a new monthly subscription service called Stack that lets you upload your own ebooks and documents to the company's servers where they'll be synced across multiple devices and apps, including your reading progress...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/kobo1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "a557d847aa6f",
-      "title": "The iPhone Duo has more than 100,000 optimized apps, Apple says",
-      "url": "https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps",
-      "source": "The Verge",
-      "published": "2026-11-06T17:24:36+00:00",
-      "excerpt": "Apple's iPhone Duo has been officially on sale for two weeks, and the company said today that the App Store now has over 100,000 apps that are built for the foldable. \"It's been wonderful to see how quickly developers have embraced iPhone...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1188.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "ef57b5d47585",
-      "title": "After the midterms, is the AI industry in for a rough two years?",
-      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-      "source": "TechCrunch",
-      "published": "2026-11-06T17:23:52+00:00",
-      "excerpt": "Democrats\u2019 historic victories in this week\u2019s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday \u2014 in all but one, the majority voted to impose more...",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2236543888.jpg?resize=1200,800",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "3a133cb27c17",
-      "title": "You'll soon be able to text Alexa to shop on Amazon",
-      "url": "https://www.engadget.com/2309285/youll-soon-be-able-to-text-alexa-to-shop-on-amazon/",
-      "source": "Engadget",
-      "published": "2026-11-06T17:11:10+00:00",
-      "excerpt": "The latest Alexa for shopping feature is initially available by invite in the US.",
-      "image": "https://www.engadget.com/img/gallery/youll-soon-be-able-to-text-alexa-to-shop-on-amazon/l-intro-1793985022.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "04d9f48a9e24",
-      "title": "Thinking Machines\u2019 new model takes the lead in western open-weight AI",
-      "url": "https://www.zdnet.com/innovation/thinking-machines-inkling-2-small-open-weight/",
-      "source": "ZDNET",
-      "published": "2026-11-06T17:08:33+00:00",
-      "excerpt": "Another competitive model developed outside of China could change the open-weight landscape.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/redonblueGettyImages-2270299267.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "5c61eeae20da",
-      "title": "DOJ just launched something called the Super Intelligence Task Force",
-      "url": "https://www.engadget.com/2309257/doj-just-launched-something-called-the-super-intelligence-task-force/",
-      "source": "Engadget",
-      "published": "2026-11-06T16:56:52+00:00",
-      "excerpt": "The unit is tasked with ensuring that the technology is not \"manipulated by bad actors at home or abroad.\"",
-      "image": "https://www.engadget.com/img/gallery/doj-just-launched-something-called-the-super-intelligence-task-force/l-intro-1793984119.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "81e4cffc9954",
-      "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
-      "url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
-      "source": "TechCrunch",
-      "published": "2026-11-06T16:50:01+00:00",
-      "excerpt": "The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2157883094.jpeg?resize=1200,742",
-      "category": "Enterprise Software & SaaS"
-    },
-    {
-      "id": "245228d44da4",
-      "title": "Deals: Best Buy early Black Friday now live, Galaxy S26 Ultra $450 off, Galaxy SmartTag 3 arrives, more",
-      "url": "https://9to5google.com/2026/11/06/deals-best-buy-early-black-friday-galaxy-s26-smarttag-3/",
-      "source": "9to5Google",
-      "published": "2026-11-06T16:48:13+00:00",
-      "excerpt": "The giant Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold , Samsung users will find a giant $450 off 2026 Galaxy S26 Ultra in brand new condition joined by today\u2019s launch of the new Samsung Galaxy SmartTag 3 (one for $30 or four for...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/9to5Google-Nov-6-2.webp?w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "7edb583b558e",
-      "title": "Apple will monitor your public iCloud links now, starting with iOS 27.3",
-      "url": "https://www.zdnet.com/innovation/apple-monitor-public-icloud-links-27-3-harmful-content/",
-      "source": "ZDNET",
-      "published": "2026-11-06T16:21:55+00:00",
-      "excerpt": "Under Apple\u2019s new policy, the company will scan publicly shared iCloud links for harmful content \u2013 and possibly ban violators.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/74839d13-54c0-4925-a6e5-e35574caccbc.jpg",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "18fb43cd0655",
-      "title": "Eufy's clever outdoor security camera that lives inside is now available to buy",
-      "url": "https://www.engadget.com/2309176/eufys-clever-outdoor-security-camera-that-lives-inside-is-now-available-to-buy/",
-      "source": "Engadget",
-      "published": "2026-11-06T16:16:20+00:00",
-      "excerpt": "The $80 Window Camera E10 sticks to your window, pointed outwards.",
-      "image": "https://www.engadget.com/img/gallery/eufys-clever-outdoor-security-camera-that-lives-inside-is-now-available-to-buy/l-intro-1793981717.jpg",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "9fe769e3c933",
-      "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
-      "url": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
-      "source": "The Hacker News",
-      "published": "2026-11-06T16:08:38+00:00",
-      "excerpt": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it. The update that installs the fix still unpacks its files using the...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4gwg9bgmxLj_anXtQvOZdeKYWN-aAZxZqlOrI7wXwZ_qW_lUZrzwYufexnbDLcC20eXBkh7TgA-dAQHm6EEmEc80i9A6GOBGkiOb8NhcR1d1CFLKDLc7VJzyC4Bv-5Ye2AEE_ApPcKmAWqJJFfbQ2AOGffKhCPNznyYyz5s0Jro-mxcTxfxPoqRe-ZoY/s1600/wp-update.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "f959e1653374",
-      "title": "Fox completes its $22B acquisition of Roku",
-      "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
-      "source": "TechCrunch",
-      "published": "2026-11-06T16:05:36+00:00",
-      "excerpt": "A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/03/roku-glitch.jpg?resize=1200,778",
-      "category": "Software Development"
-    },
-    {
-      "id": "7c70b636a2cf",
-      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-      "source": "TechCrunch",
-      "published": "2026-11-06T15:54:47+00:00",
-      "excerpt": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/ara-stripe-5.png?resize=1200,779",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "14d8a6f631d1",
-      "title": "Galaxy SmartTag 3 hits Samsung online store as single tracker or four-pack",
-      "url": "https://9to5google.com/2026/11/06/galaxy-smarttag-3-available-from-samsung/",
-      "source": "9to5Google",
-      "published": "2026-11-06T15:38:29+00:00",
-      "excerpt": "Samsung\u2019s latest generation of item trackers for Galaxy devices is available online in two colors, starting at $29 . more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Smarttag-3-2.jpg?quality=82&strip=all&w=1400",
-      "category": "Software Development"
-    },
-    {
-      "id": "4f1cbf89d79c",
-      "title": "This see-through camera lets photographers maintain eye contact with their subjects",
-      "url": "https://www.theverge.com/tech/1028632/lutra-humans-of-authenticity-hoa-a1-transparent-digital-camera",
-      "source": "The Verge",
-      "published": "2026-11-06T15:33:03+00:00",
-      "excerpt": "Lutra, a South Korean startup, has debuted a new brand called Humans of Authenticity (HOA) that's launching another screen-free digital camera that incorporates a large open viewfinder into its design, as spotted by PetaPixel. The camera...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/camera1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Enterprise Software & SaaS"
-    },
-    {
-      "id": "a40dff3d749a",
-      "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
-      "url": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
-      "source": "The Hacker News",
-      "published": "2026-11-06T15:21:49+00:00",
-      "excerpt": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The vulnerability, tracked as CVE-2026-123158 (CVSS score...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHbl1TAGj_ZHZDF3oQ8AfebRDiovg_d8Wk4huY5VJkSa0csE45G7k5jwdG1De-W-7l2RjnyH_ZvT3vcioykVeOooifwvViM8RiuTu0gSt2t-XgOefyYKyM5_zbsI5WFNubkIT0hOUr4inPIQMvXs6GDTLa6j7XWL3etRJYvOcDLJxa3IDXv-KtuCma5JsG/s1600/ssh.jpg",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "52c78c57a830",
-      "title": "A Stranger Things prequel series is coming to Netflix in 2028",
-      "url": "https://www.engadget.com/2309062/a-stranger-things-prequel-series-is-coming-to-netflix-in-2028/",
-      "source": "Engadget",
-      "published": "2026-11-06T15:09:52+00:00",
-      "excerpt": "Other Worlds: A Stranger Things Adventure takes place in Nevada in the 1950s.",
-      "image": "https://www.engadget.com/img/gallery/a-stranger-things-prequel-series-is-coming-to-netflix-in-2028/l-intro-1793977602.jpg",
-      "category": "Software Development"
     }
   ]
 }
