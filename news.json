@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-07T05:57:29+00:00",
+  "updated": "2026-11-07T12:59:11+00:00",
   "items": [
+    {
+      "id": "1e46ca798adf",
+      "title": "Oppo reportedly cancels Find X10 Ultra thanks to RAMageddon",
+      "url": "https://9to5google.com/2026/11/07/oppo-reportedly-cancels-find-x10-ultra-thanks-to-ramageddon/",
+      "source": "9to5Google",
+      "published": "2026-11-07T12:30:00+00:00",
+      "excerpt": "The Oppo Find X9 Ultra was my favorite new phone of 2026 but, thanks to RAMageddon, the company is apparently canceling its sequel. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/oppo-find-x9-ultra-review-17.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "804a43c3361e",
+      "title": "Claude Code's \u201cDon't Ask Again\u201d File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+      "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+      "source": "The Hacker News",
+      "published": "2026-11-07T06:44:17+00:00",
+      "excerpt": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZH3vYLZb9lP7mDLqy2h-upzdComeWIfjDX5siFUO3FM2HlUs03OTwirA1R2uzOZq_clptIVBsoaJNXIuf8LlTbXHFvzBJLRl1l3mqGVesHjgdmD86S_c-k2JY_t56xZqI0bnN6jXRDr92KlMw6X5BHzm5hqogpWflsERi9zrsMHSS_abAcvZMcUGovd8/s1600/claude-code.jpg",
+      "category": "Software Development"
+    },
     {
       "id": "0819cd72b72e",
       "title": "From the front row to the hot seat \u2014 what the midterms mean for Big Tech",
@@ -379,26 +399,6 @@
       "published": "2026-11-06T15:09:52+00:00",
       "excerpt": "Other Worlds: A Stranger Things Adventure takes place in Nevada in the 1950s.",
       "image": "https://www.engadget.com/img/gallery/a-stranger-things-prequel-series-is-coming-to-netflix-in-2028/l-intro-1793977602.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "7db85ecbf5e9",
-      "title": "Big Google Antigravity update brings Remote Agents, Voice Mode, and redesign",
-      "url": "https://9to5google.com/2026/11/06/google-antigravity-remote-agents-voice-mode/",
-      "source": "9to5Google",
-      "published": "2026-11-06T15:01:00+00:00",
-      "excerpt": "Google is rolling out a big update to Antigravity this week that features a new design, Voice Mode, and Remote Agents. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Antigravity-redesign-cover.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "198caa8fe725",
-      "title": "Anker Soundcore Space 2 Pro review: Big bang for fewer bucks",
-      "url": "https://www.engadget.com/2309011/anker-soundcore-space-2-pro-review/",
-      "source": "Engadget",
-      "published": "2026-11-06T15:00:00+00:00",
-      "excerpt": "The Space 2 Pro is a set of slightly above average headphones with exceptional voice clarity.",
-      "image": "https://www.engadget.com/img/gallery/anker-soundcore-space-2-pro-review-big-bang-for-less-bucks/l-intro-1793975820.jpg",
       "category": "Software Development"
     }
   ]
