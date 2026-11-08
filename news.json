@@ -1,6 +1,146 @@
 {
-  "updated": "2026-11-08T10:20:56+00:00",
+  "updated": "2026-11-08T17:55:53+00:00",
   "items": [
+    {
+      "id": "7cde76d7165c",
+      "title": "The pros and cons of using your laptop with the lid closed",
+      "url": "https://www.engadget.com/2308391/using-laptop-lid-closed-pros-and-cons/",
+      "source": "Engadget",
+      "published": "2026-11-08T17:45:00+00:00",
+      "excerpt": "Connecting your laptop to an external display and running it with the lid closed has some benefits and drawbacks.",
+      "image": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-your-laptop-with-the-lid-closed/l-intro-1793907582.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "d42d09f1aa1d",
+      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he\u2019s a cybersecurity VC.",
+      "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+      "source": "TechCrunch",
+      "published": "2026-11-08T17:30:00+00:00",
+      "excerpt": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Stephen_Ward_horiztonal.jpeg?resize=1200,1077",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "995c7bcda854",
+      "title": "How much Netflix cost in 2007 vs. 2026",
+      "url": "https://www.engadget.com/2308948/how-much-netflix-cost-2007-vs-2026/",
+      "source": "Engadget",
+      "published": "2026-11-08T17:30:00+00:00",
+      "excerpt": "It's been nearly 20 years since Netflix first introduced its streaming media plans. They've changed a bit .",
+      "image": "https://www.engadget.com/img/gallery/how-much-netflix-cost-in-2007-vs-2026/l-intro-1793972828.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "0ec2699ff25a",
+      "title": "The reason why some USB ports are teal",
+      "url": "https://www.engadget.com/2308359/reason-why-usb-ports-teal/",
+      "source": "Engadget",
+      "published": "2026-11-08T17:15:00+00:00",
+      "excerpt": "A teal USB port can indicate a connection with particular data and charging speeds. Here's what it means.",
+      "image": "https://www.engadget.com/img/gallery/the-reason-why-some-usb-ports-are-teal/l-intro-1793906676.jpg",
+      "category": "Data & Analytics"
+    },
+    {
+      "id": "02f2d6614b18",
+      "title": "TechCrunch Mobility: The Cybertruck experiment is over",
+      "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+      "source": "TechCrunch",
+      "published": "2026-11-08T17:02:00+00:00",
+      "excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "image": "https://techcrunch.com/wp-content/uploads/2020/05/Cybertruck-4.png?resize=1200,800",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "852c4b9c0c72",
+      "title": "5 unexpected uses for your old smartwatch",
+      "url": "https://www.engadget.com/2308288/unexpected-uses-old-smartwatch/",
+      "source": "Engadget",
+      "published": "2026-11-08T17:00:00+00:00",
+      "excerpt": "Don't toss your smartwatch when you can repurpose it. If you're interested in an assistant or saving notes, you can stop that watch from gathering dust.",
+      "image": "https://www.engadget.com/img/gallery/5-unexpected-uses-for-your-old-smartwatch/l-intro-1793903873.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "76cc4e7c635f",
+      "title": "How much did an iPhone cost in 2007 vs. 2026? The gap is smaller than you think",
+      "url": "https://www.engadget.com/2308205/how-much-did-iphone-cost-2007-vs-2026/",
+      "source": "Engadget",
+      "published": "2026-11-08T16:45:00+00:00",
+      "excerpt": "The first iPhone launched at $499 in 2007. See how that price compares to today's models once inflation, storage and features are factored in.",
+      "image": "https://www.engadget.com/img/gallery/how-much-did-an-iphone-cost-in-2007-vs-2026-the-gap-is-smaller-than-you-think/l-intro-1793901573.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "f8f769adedca",
+      "title": "How long can you expect your Apple AirPods to last?",
+      "url": "https://www.engadget.com/2307837/how-long-expect-apple-airpods-last/",
+      "source": "Engadget",
+      "published": "2026-11-08T16:30:00+00:00",
+      "excerpt": "Here's how to get the most out of your AirPods.",
+      "image": "https://www.engadget.com/img/gallery/how-long-can-you-expect-your-apple-airpods-to-last/l-intro-1793612865.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "664fc60c0ad6",
+      "title": "AI music can be difficult to detect, but there are some telltale signs",
+      "url": "https://www.engadget.com/2308062/ai-music-difficult-to-detect-telltale-signs/",
+      "source": "Engadget",
+      "published": "2026-11-08T16:15:00+00:00",
+      "excerpt": "AI-generated songs are filling Spotify and other platforms. These vocal, lyric and instrumental tells can help you catch them before you hit play.",
+      "image": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/l-intro-1793895779.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "de538cf70e62",
+      "title": "Can PC coolant expire? Here's how long it can last",
+      "url": "https://www.engadget.com/2307846/how-long-pc-coolant-lasts/",
+      "source": "Engadget",
+      "published": "2026-11-08T15:45:00+00:00",
+      "excerpt": "A liquid-cooled PC can certainly look cool, but there are hurdles when mixing tech and water. Here's what you need to know to keep your rig running right.",
+      "image": "https://www.engadget.com/img/gallery/can-pc-coolant-expire-heres-how-long-it-can-last/l-intro-1793823955.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "28745ce6566f",
+      "title": "These experimental EV batteries can eject themselves during a fire",
+      "url": "https://www.engadget.com/2307844/experimental-ev-batteries-eject-during-fire/",
+      "source": "Engadget",
+      "published": "2026-11-08T15:30:00+00:00",
+      "excerpt": "EV battery fires are highly dangerous and difficult to extinguish, but is launching a battery pack out of the car a smart or realistic solution?",
+      "image": "https://www.engadget.com/img/gallery/these-experimental-ev-batteries-can-eject-themselves-during-a-fire/l-intro-1793820961.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "d745cdaf5363",
+      "title": "Pro Gamers typically don't use OLED monitors, but you most definitely can",
+      "url": "https://www.engadget.com/2307840/pro-gamers-dont-use-oled-monitors-why-you-should/",
+      "source": "Engadget",
+      "published": "2026-11-08T15:15:00+00:00",
+      "excerpt": "Big tournaments favor LCD monitors, though perhaps not for the reasons you suspect. We'll explain why normal gamers can and should embrace OLED displays.",
+      "image": "https://www.engadget.com/img/gallery/pro-gamers-typically-dont-use-oled-monitors-but-you-most-definitely-can/l-intro-1793761591.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "c14d10cd549c",
+      "title": "Ninja\u2019s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+      "url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
+      "source": "TechCrunch",
+      "published": "2026-11-08T15:00:00+00:00",
+      "excerpt": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/ninja-autobarista-1-1.jpg?resize=1200,722",
+      "category": "Software Development"
+    },
+    {
+      "id": "4b360e692faf",
+      "title": "How to set up Google Authenticator on a new phone",
+      "url": "https://www.engadget.com/2307835/how-to-set-up-google-authenticator-new-phone/",
+      "source": "Engadget",
+      "published": "2026-11-08T15:00:00+00:00",
+      "excerpt": "How to setup Google Authenticator on a new phone without causing a headache.",
+      "image": "https://www.engadget.com/img/gallery/how-to-set-up-google-authenticator-on-a-new-phone/l-intro-1793698683.jpg",
+      "category": "Software Development"
+    },
     {
       "id": "0dd5295af928",
       "title": "Syncing Apple Music across your devices is easier than you think",
@@ -260,146 +400,6 @@
       "excerpt": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3861.jpeg?resize=1200,900",
       "category": "Software Development"
-    },
-    {
-      "id": "7fbeb8ae46fe",
-      "title": "How to legally download free movies to your computer",
-      "url": "https://www.engadget.com/2306356/how-to-legally-download-free-movies/",
-      "source": "Engadget",
-      "published": "2026-11-07T17:15:00+00:00",
-      "excerpt": "There are services that will allow you to download movies from the public domain, and several streaming services let you download shows for offline viewing.",
-      "image": "https://www.engadget.com/img/gallery/how-to-legally-download-free-movies-to-your-computer/l-intro-1793799706.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "d994b5ab0b16",
-      "title": "Apple also made its classical music app's logo black and white",
-      "url": "https://www.engadget.com/2310114/apple-also-made-its-classical-music-apps-logo-black-and-white/",
-      "source": "Engadget",
-      "published": "2026-11-07T17:06:13+00:00",
-      "excerpt": "Apple Music Classical now has a black-and-white logo, as well.",
-      "image": "https://www.engadget.com/img/gallery/apple-also-made-its-classical-music-apps-logo-black-and-white/l-intro-1794070514.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "8eea48456f05",
-      "title": "Discogs\u2019 Kevin Lewandowski can\u2019t live without his AeroPress",
-      "url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
-      "source": "The Verge",
-      "published": "2026-11-07T16:00:00+00:00",
-      "excerpt": "Twenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but it's also become so...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/2023-12-7-Discogs-Kevin-1-Warm.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Data & Analytics"
-    },
-    {
-      "id": "fa06ff8fdc83",
-      "title": "NYT Cooking\u2019s AI assistant saved my weeknight chicken, but almost ruined my cake",
-      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-      "source": "The Verge",
-      "published": "2026-11-07T15:50:00+00:00",
-      "excerpt": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268844_NY_Times_Cooking_App_JTuohy_0006.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "73be1ddc7ff2",
-      "title": "The US let Nvidia sell chips to an empty office in China",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-      "source": "The Verge",
-      "published": "2026-11-07T15:43:45+00:00",
-      "excerpt": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "055e03fe8fc4",
-      "title": "AI broke the cybersecurity world. What\u2019s next?",
-      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-      "source": "The Verge",
-      "published": "2026-11-07T15:00:00+00:00",
-      "excerpt": "Today, I\u2019m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I\u2019ve always...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "9aabf39f7414",
-      "title": "Good riddance, Cybertruck!",
-      "url": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
-      "source": "The Verge",
-      "published": "2026-11-07T14:40:06+00:00",
-      "excerpt": "I'm calling it: time of death, November 6th, 1:30 AM, by tweet. Elon Musk's declaration Friday that Tesla would be \"winding down\" production of the Cybertruck next year to make room for the Cybercab was fascinating for a number of reasons...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/yI0AMBlStYQ-HD.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "1e46ca798adf",
-      "title": "Oppo reportedly cancels Find X10 Ultra thanks to RAMageddon",
-      "url": "https://9to5google.com/2026/11/07/oppo-reportedly-cancels-find-x10-ultra-thanks-to-ramageddon/",
-      "source": "9to5Google",
-      "published": "2026-11-07T12:30:00+00:00",
-      "excerpt": "The Oppo Find X9 Ultra was my favorite new phone of 2026 but, thanks to RAMageddon, the company is apparently canceling its sequel. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/oppo-find-x9-ultra-review-17.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "804a43c3361e",
-      "title": "Claude Code's \u201cDon't Ask Again\u201d File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
-      "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
-      "source": "The Hacker News",
-      "published": "2026-11-07T06:44:17+00:00",
-      "excerpt": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZH3vYLZb9lP7mDLqy2h-upzdComeWIfjDX5siFUO3FM2HlUs03OTwirA1R2uzOZq_clptIVBsoaJNXIuf8LlTbXHFvzBJLRl1l3mqGVesHjgdmD86S_c-k2JY_t56xZqI0bnN6jXRDr92KlMw6X5BHzm5hqogpWflsERi9zrsMHSS_abAcvZMcUGovd8/s1600/claude-code.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "0819cd72b72e",
-      "title": "From the front row to the hot seat \u2014 what the midterms mean for Big Tech",
-      "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-      "source": "TechCrunch",
-      "published": "2026-11-07T04:16:43+00:00",
-      "excerpt": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the...",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/SHAWN-THEW-Contributor-Getty.jpg?w=1024",
-      "category": "Software Development"
-    },
-    {
-      "id": "c2107a5a7cf6",
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-      "source": "TechCrunch",
-      "published": "2026-11-07T01:40:28+00:00",
-      "excerpt": "The deal highlights the challenges of developing massive AI data centers.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800",
-      "category": "Data & Analytics"
-    },
-    {
-      "id": "6dd855772eb1",
-      "title": "Alpine Linux and OpenSSH patch flaw that\u2019s as bad as it can get",
-      "url": "https://www.zdnet.com/tech/alpine-linux-openssh-patch-flaw/",
-      "source": "ZDNET",
-      "published": "2026-11-07T00:00:45+00:00",
-      "excerpt": "This dangerous Linux security hole must be patched as soon as possible.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-879472452.jpg",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "4a41deae6854",
-      "title": "Google\u2019s original Nest Doorbell is broken for many right now",
-      "url": "https://9to5google.com/2026/11/06/google-nest-doorbell-live-view-broken-reports/",
-      "source": "9to5Google",
-      "published": "2026-11-06T23:15:00+00:00",
-      "excerpt": "An issue with Google\u2019s original Nest Doorbell has left live view of the video feed broken for many owners, and there\u2019s no word on a fix just yet. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2020/07/google_nest_hello_doorbell_1.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "1bc7ba2a28c4",
-      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
-      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-      "source": "The Verge",
-      "published": "2026-11-06T23:00:44+00:00",
-      "excerpt": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
     }
   ]
 }
