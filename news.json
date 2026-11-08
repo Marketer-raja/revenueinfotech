@@ -1,6 +1,136 @@
 {
-  "updated": "2026-11-07T19:25:22+00:00",
+  "updated": "2026-11-08T00:35:08+00:00",
   "items": [
+    {
+      "id": "707143c7d1ed",
+      "title": "What does Apple One Family come with and which subscription is best for you?",
+      "url": "https://www.engadget.com/2307150/apple-one-family-plan-what-comes-with-which-subscription-best/",
+      "source": "Engadget",
+      "published": "2026-11-08T00:30:00+00:00",
+      "excerpt": "Apple One offers strong value if you're using a lot of Apple services anyway, but make sure you do the math before signing up.",
+      "image": "https://www.engadget.com/img/gallery/what-does-apple-one-family-come-with-and-which-subscription-is-best-for-you/l-intro-1793824864.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "c8df79345054",
+      "title": "10 useful iPad apps that could make your daily life easier",
+      "url": "https://www.engadget.com/2309904/useful-ipad-apps-make-daily-life-easier/",
+      "source": "Engadget",
+      "published": "2026-11-08T00:15:00+00:00",
+      "excerpt": "Your iPad can do a lot with the right apps. Go beyond Apple's defaults and try these useful offerings that all have great free tiers.",
+      "image": "https://www.engadget.com/img/gallery/10-useful-ipad-apps-that-could-make-your-daily-life-easier/l-intro-1793366581.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "cf62592a9f46",
+      "title": "Why you shouldn't remove the screen protector film on your Nintendo Switch 2",
+      "url": "https://www.engadget.com/2307095/why-keep-nintendo-switch-2-screen-protector/",
+      "source": "Engadget",
+      "published": "2026-11-08T00:00:00+00:00",
+      "excerpt": "The Switch 2 comes with a protective film on its screen, and you may be tempted to peel it off. Here's why you shouldn't.",
+      "image": "https://www.engadget.com/img/gallery/why-you-shouldnt-remove-the-screen-protector-film-on-your-nintendo-switch-2/l-intro-1793822959.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "5d014f01b18a",
+      "title": "Why you should never put your PlayStation 5 on a carpeted floor",
+      "url": "https://www.engadget.com/2306821/why-never-put-playstation-5-on-carpeted-floor/",
+      "source": "Engadget",
+      "published": "2026-11-07T23:45:00+00:00",
+      "excerpt": "The PlayStation 5 needs to stay cool when playing games, and a carpet is a literal hotbed. Here's the best ways to store a PS5 while keeping it cool.",
+      "image": "https://www.engadget.com/img/gallery/why-you-should-never-put-your-playstation-5-on-a-carpeted-floor/l-intro-1793814095.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "c63c2463f0cb",
+      "title": "The pros and cons of using an Amazfit smartwatch",
+      "url": "https://www.engadget.com/2306820/using-amazfit-smartwatch-pros-and-cons/",
+      "source": "Engadget",
+      "published": "2026-11-07T23:30:00+00:00",
+      "excerpt": "Thinking about an Amazfit smartwatch? Find out what makes these budget wearables so appealing and where they fall short before you spend your money.",
+      "image": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-an-amazfit-smartwatch/l-intro-1793812732.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "aebfddc2d7f4",
+      "title": "Claude Personal Finance vs. ChatGPT Finances: What sets them apart?",
+      "url": "https://www.engadget.com/2310182/claude-vs-chatgpt-personal-finance-comparison/",
+      "source": "Engadget",
+      "published": "2026-11-07T23:10:20+00:00",
+      "excerpt": "Both AI tools offer to delve deep into your bank accounts, but they differ in privacy settings.",
+      "image": "https://www.engadget.com/img/gallery/claude-personal-finance-vs-chatgpt-finances-what-sets-them-apart/l-intro-1794083241.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "255d441d1ed1",
+      "title": "Google Messages homepage redesign: Pinned chat avatars, bottom search, corner Gemini",
+      "url": "https://9to5google.com/2026/11/07/google-messages-pinned-chats-redesign/",
+      "source": "9to5Google",
+      "published": "2026-11-07T23:08:00+00:00",
+      "excerpt": "In addition to the new app icon , Google Messages for Android is testing a big homepage redesign that has three core components. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/google-messages-thread-1.jpg?quality=82&strip=all&w=1600",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "629992d05fa3",
+      "title": "What discs can a PlayStation 5 play?",
+      "url": "https://www.engadget.com/2306942/playstation-5-playable-discs-explained/",
+      "source": "Engadget",
+      "published": "2026-11-07T23:00:00+00:00",
+      "excerpt": "The PS5 can't play every disc that the PS3 and PS4 were compatible with, but most of what you'll want to play and watch is supported.",
+      "image": "https://www.engadget.com/img/gallery/what-discs-can-a-playstation-5-play/l-intro-1793819005.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "0320e687f658",
+      "title": "What does NAT type mean for online gaming?",
+      "url": "https://www.engadget.com/2309599/what-nat-type-means-online-gaming/",
+      "source": "Engadget",
+      "published": "2026-11-07T22:30:00+00:00",
+      "excerpt": "If you regularly play online games, you may have noticed a setting called NAT type or even got an alert about it. Here's what it means and why it matters.",
+      "image": "https://www.engadget.com/img/gallery/what-does-nat-type-mean-for-online-gaming/l-intro-1793903325.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "d44fec61ccb7",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "source": "TechCrunch",
+      "published": "2026-11-07T22:07:22+00:00",
+      "excerpt": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2207245107-1.jpg?resize=1200,765",
+      "category": "Data & Analytics"
+    },
+    {
+      "id": "b1c229e7584c",
+      "title": "Is your router overheating? Here's how to keep it cool and working safely",
+      "url": "https://www.engadget.com/2306359/how-to-keep-router-from-overheating/",
+      "source": "Engadget",
+      "published": "2026-11-07T22:00:00+00:00",
+      "excerpt": "You'll want your router to be well-ventilated for it to perform at its best.",
+      "image": "https://www.engadget.com/img/gallery/is-your-router-overheating-heres-how-to-keep-it-cool-and-working-safely/l-intro-1793800666.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "447f38857343",
+      "title": "The built-in iPhone app for creativity you may be ignoring (but shouldn't)",
+      "url": "https://www.engadget.com/2309562/iphone-built-in-creativity-app-should-use-freeform/",
+      "source": "Engadget",
+      "published": "2026-11-07T21:30:00+00:00",
+      "excerpt": "Your iPhone has a built-in app for brainstorming and visual planning that can turn scattered screenshots, sketches and notes into something you can share.",
+      "image": "https://www.engadget.com/img/gallery/the-built-in-iphone-app-for-creativity-you-may-be-ignoring-but-shouldnt/l-intro-1793900002.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "2c93e9013ac1",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "source": "TechCrunch",
+      "published": "2026-11-07T21:17:08+00:00",
+      "excerpt": "A memo circulated earlier this year reportedly claimed that China\u2019s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
+      "category": "Artificial Intelligence"
+    },
     {
       "id": "f45d6873082d",
       "title": "How to set up SpaceXAI's Grok in Google Workspace (and what it can do)",
@@ -270,136 +400,6 @@
       "excerpt": "Following a pre-order date announcement earlier this week, Google\u2019s other Android XR launch partner has now confirmed a December release date for this first batch of glasses. more\u2026",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-android-xr-glasses-gentle-monster-7.jpg?quality=82&strip=all&w=1600",
       "category": "Operating Systems"
-    },
-    {
-      "id": "aa6cc9e6019a",
-      "title": "Pixelated 124: Is it time for a Nest Hub comeback?",
-      "url": "https://9to5google.com/2026/11/06/pixelated-124-is-it-time-for-a-nest-hub-comeback/",
-      "source": "9to5Google",
-      "published": "2026-11-06T22:00:00+00:00",
-      "excerpt": "Welcome to Pixelated episode 124. This week, Damien, Abner, and Will dive into the announcement of Motorola\u2019s flagship return in North America, the Signature 27. Is a $1,600 non-foldable the comeback everyone hoped for, or is this device...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&strip=all&w=1600",
-      "category": "Data & Analytics"
-    },
-    {
-      "id": "a065d4b73b45",
-      "title": "The Duo apps are coming, says Apple",
-      "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
-      "source": "TechCrunch",
-      "published": "2026-11-06T21:38:05+00:00",
-      "excerpt": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
-      "category": "Software Development"
-    },
-    {
-      "id": "1146a93f4c80",
-      "title": "Ray-Ban Meta Audio review: Great specs, shame about the price",
-      "url": "https://9to5google.com/2026/11/06/ray-ban-meta-audio-review/",
-      "source": "9to5Google",
-      "published": "2026-11-06T21:09:14+00:00",
-      "excerpt": "Ray-Ban Meta Audio glasses attempt to curb the controversy by removing the cameras, and while they\u2019re still an excellent product, the price makes them harder to recommend. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/ray-ban-meta-audio-glasses-burbank-wearing-03.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "7ff4ba923ec0",
-      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
-      "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
-      "source": "Ars Technica",
-      "published": "2026-11-06T20:56:41+00:00",
-      "excerpt": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-blockchain-1152x648.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "ad9efb02dd32",
-      "title": "Friday\u2019s Android app deals and freebies: Wreckfest, Kingdom Rush 5, Rites of Conquest, more",
-      "url": "https://9to5toys.com/2026/11/06/todays-highlight-google-play-deals-kingdom/",
-      "source": "9to5Google",
-      "published": "2026-11-06T20:33:56+00:00",
-      "excerpt": "The all-newPixel 11 Pro, Pixel 11 Pro XL, and $100 off all Pixel Watch 5 models. The apps await below. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Play-collage-191cc0.webp?w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "f1d973386c72",
-      "title": "Google Health 5.12 rolling out with manual blood pressure & pregnancy logging, more",
-      "url": "https://9to5google.com/2026/11/06/google-health-5-12-release-notes/",
-      "source": "9to5Google",
-      "published": "2026-11-06T20:01:43+00:00",
-      "excerpt": "Following a sizable release last month, Google Health is rolling out another big update with version 5.12. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/fitbit-edge-google-health-app.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "a363afc1c895",
-      "title": "Google's eyewear partners can't keep a lid on its smart glasses plans",
-      "url": "https://www.engadget.com/2309631/googles-eyewear-partners-cant-keep-a-lid-on-its-smart-glasses-plans/",
-      "source": "Engadget",
-      "published": "2026-11-06T19:45:23+00:00",
-      "excerpt": "Gentle Monster shared that its \"Intelligent Eyewear\" will be available to pre-order on November 12.",
-      "image": "https://www.engadget.com/img/gallery/googles-eyewear-partners-cant-keep-a-lid-on-its-smart-glasses-plans/l-intro-1793994268.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "29c568495a81",
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-      "source": "TechCrunch",
-      "published": "2026-11-06T18:44:38+00:00",
-      "excerpt": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "016e849ea3ab",
-      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-      "source": "TechCrunch",
-      "published": "2026-11-06T18:44:20+00:00",
-      "excerpt": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "58d3a8898104",
-      "title": "Discord is about to get way, way faster on your Android phone",
-      "url": "https://9to5google.com/2026/11/06/discord-is-about-to-get-way-way-faster-on-your-android-phone/",
-      "source": "9to5Google",
-      "published": "2026-11-06T18:13:09+00:00",
-      "excerpt": "A new Discord client built in Rust is looking pretty shiny and clean, even on low-end Android phones. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/discord-redmagic-12-pro.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "52e0623fab79",
-      "title": "Meta\u2019s Muse AI can create custom \u2018spaces\u2019 for the version of the app you need right now",
-      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-      "source": "The Verge",
-      "published": "2026-11-06T18:10:10+00:00",
-      "excerpt": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&strip=all&crop=8.0752843063528,0,91.924715693647,74.471659887186",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "2eab6cda7eee",
-      "title": "Android is getting my favorite iOS tracking feature \u2013 what to expect",
-      "url": "https://www.zdnet.com/tech/android-find-hub-left-behind-upgrade/",
-      "source": "ZDNET",
-      "published": "2026-11-06T17:48:15+00:00",
-      "excerpt": "\u2018Notify when left behind\u2019 is making its way to Android \u2013 but to limited devices for now.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/9f63197d-cd41-4007-a0bb-ab0ce06e6a6a.jpg",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "2a9bc053acbf",
-      "title": "Just about anyone can rent access to White House IP addresses",
-      "url": "https://www.theverge.com/tech/1028835/white-house-residential-proxy",
-      "source": "The Verge",
-      "published": "2026-11-06T17:40:06+00:00",
-      "excerpt": "Someone at the White House appears to be running software that could enable outsiders to rent access on the presidential network for just \"a few dollars,\" as reported by Krebs on Security and The Register. That's according to findings from...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318430/akrales_220309_4977_0038.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Cybersecurity"
     }
   ]
 }
