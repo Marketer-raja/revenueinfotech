@@ -1,6 +1,36 @@
 {
-  "updated": "2026-11-08T00:35:08+00:00",
+  "updated": "2026-11-08T10:20:56+00:00",
   "items": [
+    {
+      "id": "0dd5295af928",
+      "title": "Syncing Apple Music across your devices is easier than you think",
+      "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
+      "source": "Engadget",
+      "published": "2026-11-08T01:30:00+00:00",
+      "excerpt": "One perk of subscribing to Apple Music is having your collection synced across all your devices - and all it takes is a simple toggle. Here's how.",
+      "image": "https://www.engadget.com/img/gallery/syncing-apple-music-across-your-devices-is-easier-than-you-think/l-intro-1793849755.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "789836302dee",
+      "title": "Samsung One UI 9.5 beta may be coming soon: Here's how to sign up for the program",
+      "url": "https://www.engadget.com/2307479/samsung-one-ui-9-5-beta-program-how-to-sign-up/",
+      "source": "Engadget",
+      "published": "2026-11-08T01:00:00+00:00",
+      "excerpt": "Samsung appears to be preparing the One UI 9.5 beta program ahead of an expected 2027 launch. Here's what to do if you want to test Samsung's latest OS.",
+      "image": "https://www.engadget.com/img/gallery/samsung-one-ui-9-5-beta-may-be-coming-soon-heres-how-to-sign-up-for-the-program/l-intro-1793854687.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "829cfd8c1b5d",
+      "title": "How do spam callers get your number in the first place?",
+      "url": "https://www.engadget.com/2307324/spam-callers-how-they-get-your-number/",
+      "source": "Engadget",
+      "published": "2026-11-08T00:45:00+00:00",
+      "excerpt": "Ever wonder how a total stranger ended up with your phone number? The answer starts earlier than you think, and a few small habits can keep it from spreading.",
+      "image": "https://www.engadget.com/img/gallery/how-do-spam-callers-get-your-number-in-the-first-place/l-intro-1793828250.jpg",
+      "category": "Software Development"
+    },
     {
       "id": "707143c7d1ed",
       "title": "What does Apple One Family come with and which subscription is best for you?",
@@ -370,36 +400,6 @@
       "excerpt": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and...",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Artificial Intelligence"
-    },
-    {
-      "id": "118369de89f0",
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "source": "TechCrunch",
-      "published": "2026-11-06T22:53:46+00:00",
-      "excerpt": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "38d6d7fd2887",
-      "title": "Starlink Mobile: All the news on SpaceX\u2019s major mobile carrier ambitions",
-      "url": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
-      "source": "The Verge",
-      "published": "2026-11-06T22:45:43+00:00",
-      "excerpt": "SpaceX has declared that it\u2019s going to make Starlink Mobile a \u201cmajor\u201d mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building out its 5G network here...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "de49600012cb",
-      "title": "Android XR glasses officially get a December release date [Video]",
-      "url": "https://9to5google.com/2026/11/06/android-xr-glasses-release-date-window-confirmed/",
-      "source": "9to5Google",
-      "published": "2026-11-06T22:40:00+00:00",
-      "excerpt": "Following a pre-order date announcement earlier this week, Google\u2019s other Android XR launch partner has now confirmed a December release date for this first batch of glasses. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-android-xr-glasses-gentle-monster-7.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems"
     }
   ]
 }
