@@ -1,6 +1,396 @@
 {
-  "updated": "2026-11-11T14:32:01+00:00",
+  "updated": "2026-11-11T21:57:03+00:00",
   "items": [
+    {
+      "id": "b5a993051e6a",
+      "title": "This tiny box gives your older tech smart home superpowers \u2013 and it\u2019s only $69",
+      "url": "https://www.zdnet.com/home-and-office/home-assistant-connect-aux-2-hardware-older-tech-smart/",
+      "source": "ZDNET",
+      "published": "2026-11-11T20:30:00+00:00",
+      "excerpt": "Home Assistant gets new equipment to battle planned obsolescence and abandoned cloud services.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/image-1.jpeg",
+      "category": "Cloud Computing"
+    },
+    {
+      "id": "1613a57f6819",
+      "title": "The Lenovo Legion Tab Gen 5 would be my perfect Steam tablet if it didn\u2019t cost $900",
+      "url": "https://9to5google.com/2026/11/11/lenovo-legion-tab-gen-5-review/",
+      "source": "9to5Google",
+      "published": "2026-11-11T20:30:00+00:00",
+      "excerpt": "For every Android-powered slate I\u2019ve used, only Nvidia\u2019s Shield Tablet really stands out in my memory. Part of the company\u2019s occasional ( and all-but-dead ) dip into hardware products, the Shield Tablet \u2014 and its revitalized K1 follow-up...",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/lenovo-legion-tab-gen-5-revview-13.jpg?quality=82&strip=all&w=1600",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "ae5556d61c0b",
+      "title": "Why the data center you dread might never even be built",
+      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T20:15:15+00:00",
+      "excerpt": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there\u2019s a more basic problem: A...",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/5-DSCF1634.jpg?resize=1200,800",
+      "category": "Cloud Computing"
+    },
+    {
+      "id": "70b89fd3ef03",
+      "title": "Meta is losing its longtime head of infrastructure",
+      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T20:12:01+00:00",
+      "excerpt": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024",
+      "category": "Software Development"
+    },
+    {
+      "id": "c37ff6be60f0",
+      "title": "United is restricting AI agents from booking flights",
+      "url": "https://www.engadget.com/2314121/united-is-restricting-ai-agents-from-booking-flights/",
+      "source": "Engadget",
+      "published": "2026-11-11T20:09:44+00:00",
+      "excerpt": "The airline believes AI poses security risks and may violate DOT and FAA rules.",
+      "image": "https://www.engadget.com/img/gallery/united-is-restricting-ai-agents-from-booking-flights/l-intro-1794427706.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "82d036dc3732",
+      "title": "Google brings the Gemini app to Apple CarPlay",
+      "url": "https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/",
+      "source": "Engadget",
+      "published": "2026-11-11T19:54:55+00:00",
+      "excerpt": "The chatbot was already available through the Google Maps app.",
+      "image": "https://www.engadget.com/img/gallery/google-brings-the-gemini-app-to-apple-carplay/l-intro-1794426857.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "850c0644106f",
+      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T19:54:00+00:00",
+      "excerpt": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company\u2019s third-quarter earnings.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2304376406.jpg?w=1024",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "19d22fc77263",
+      "title": "ByteDance is reportedly working on its own AI agent",
+      "url": "https://www.engadget.com/2314064/bytedance-is-reportedly-working-on-its-own-ai-agent/",
+      "source": "Engadget",
+      "published": "2026-11-11T19:42:19+00:00",
+      "excerpt": "The Chinese company wants to compete with Meta's Muse.",
+      "image": "https://www.engadget.com/img/gallery/bytedance-is-reportedly-working-on-its-own-ai-agent/l-intro-1794426101.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "20bcc6844666",
+      "title": "Google Fi now switches between the best mobile networks automatically \u2013 how it works",
+      "url": "https://www.zdnet.com/home-and-office/google-fi-super-network-pixel/",
+      "source": "ZDNET",
+      "published": "2026-11-11T19:41:41+00:00",
+      "excerpt": "Pixel users also get a bonus Wi-Fi upgrade. Here\u2019s what to know.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/dsc00320.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "6f3c74a04fea",
+      "title": "With $720M round, Britain\u2019s Fractile gets a leg up in the race for AI chips",
+      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T19:34:55+00:00",
+      "excerpt": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2183896789.jpg?resize=1200,800",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "7df5534c95f3",
+      "title": "Google Home update fixes Nest \u2018Live View\u2019 issues, improves Nest Hub and Gemini for speakers",
+      "url": "https://9to5google.com/2026/11/11/google-home-update-nest-hub-gemini-cameras/",
+      "source": "9to5Google",
+      "published": "2026-11-11T19:30:00+00:00",
+      "excerpt": "A new Google Home update is rolling out with a fix for \u201cLive View\u201d issues affecting Nest Cam devices, improvements for the Nest Hub, upgrades for Gemini, and more. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/04/Voice-controls-from-Nest-Hub-Photo-frame-view.jpg?quality=82&strip=all&w=1600",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "4741a8926d8e",
+      "title": "How many SpaceX Starship rocket tests have failed?",
+      "url": "https://www.engadget.com/2314045/how-many-spacex-starship-rocket-tests-failed/",
+      "source": "Engadget",
+      "published": "2026-11-11T19:27:00+00:00",
+      "excerpt": "Thanks to SpaceX's unique approach to testing, the answer isn't so clear-cut.",
+      "image": "https://www.engadget.com/img/gallery/how-many-spacex-starship-rocket-tests-have-failed/l-intro-1794424186.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "94fcbf10f807",
+      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T19:22:22+00:00",
+      "excerpt": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "1eb610f31824",
+      "title": "Google Wallet rolling out digital Google Home keys with supported locks on Android",
+      "url": "https://9to5google.com/2026/11/11/google-wallet-home-key/",
+      "source": "9to5Google",
+      "published": "2026-11-11T18:58:06+00:00",
+      "excerpt": "Google Wallet for Android is rolling out support for digital home keys if you have a compatible smart lock in Google Home. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Wallet-Home-key.jpg?quality=82&strip=all&w=1600",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "61c1c2527f3a",
+      "title": "Cash App founder's killer gets 16 years to life in prison",
+      "url": "https://www.engadget.com/2313991/cash-app-founders-killer-gets-16-years-to-life-in-prison/",
+      "source": "Engadget",
+      "published": "2026-11-11T18:57:37+00:00",
+      "excerpt": "Bob Lee died from multiple stab wounds in 2023.",
+      "image": "https://www.engadget.com/img/gallery/cash-app-founders-killer-gets-16-years-to-life-in-prison/l-intro-1794423509.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "0fc5122254f3",
+      "title": "Mid-week Android app deals and freebies: Wind Peaks, Box Head, 9th Dawn, more",
+      "url": "https://9to5toys.com/2026/11/11/todays-highlight-google-play-deals-47/",
+      "source": "9to5Google",
+      "published": "2026-11-11T18:55:25+00:00",
+      "excerpt": "Alongside Amazon\u2019s early Black Friday sale , we still have an all-time low on the Google Home Speaker , the official launch of Google Pixel Tag Find Hub tracker (now available for purchase), and a fresh batch of the best Google Play app...",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Play-collage-fd7ec6.webp?w=1600",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "4a7c71982b27",
+      "title": "Google Home brings back sounds for Gemini, and I\u2019m both elated and irritated [Video]",
+      "url": "https://9to5google.com/2026/11/11/google-home-brings-back-sounds-for-gemini-and-im-both-elated-and-irritated-video/",
+      "source": "9to5Google",
+      "published": "2026-11-11T18:35:00+00:00",
+      "excerpt": "Classic Google Assistant sounds for special timers are back, but the \u201cconfirm\u201d sound for smart home commands is unexpectedly different. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-home-speaker-green.jpg?quality=82&strip=all&w=1600",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "d8918646dc1c",
+      "title": "Google Voice appears to finally be working on RCS support",
+      "url": "https://9to5google.com/2026/11/11/google-voice-rcs-support-teardown/",
+      "source": "9to5Google",
+      "published": "2026-11-11T18:30:00+00:00",
+      "excerpt": "It might finally be happening. A new Google Voice update plants seeds of RCS support, though the exact details remain unclear. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-voice-1.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "eaa509ab30aa",
+      "title": "Peacock is redesigning its mobile app to focus more on vertical videos",
+      "url": "https://www.engadget.com/2313912/peacock-is-redesigning-its-mobile-app-to-focus-more-on-vertical-videos/",
+      "source": "Engadget",
+      "published": "2026-11-11T18:24:40+00:00",
+      "excerpt": "This is an attempt to \"win another hour per user, per month.\"",
+      "image": "https://www.engadget.com/img/gallery/peacock-is-redesigning-its-mobile-app-to-focus-more-on-vertical-videos/l-intro-1794421435.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "85d642bc0298",
+      "title": "You can now play Henry Cavill\u2019s \u2018Mustache Protocol\u2019 game made on Googlebook [U]",
+      "url": "https://9to5google.com/2026/11/11/henry-cavill-mustache-protocol-googlebook/",
+      "source": "9to5Google",
+      "published": "2026-11-11T18:10:00+00:00",
+      "excerpt": "As teased before the launch, Henry Cavill has built a video game on Googlebook, and it\u2019s called Mustache Protocol . more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Henry-Cavill-Mustache-Protocol-Googlebook.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "4280e51db786",
+      "title": "How to replace the battery on Pixel Tag [Video]",
+      "url": "https://9to5google.com/2026/11/11/how-to-replace-the-battery-on-pixel-tag-video/",
+      "source": "9to5Google",
+      "published": "2026-11-11T18:00:00+00:00",
+      "excerpt": "The battery on the Pixel Tag is rated for about a year, but what happens when you need to replace it? Here\u2019s how to replace it. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Pixel-Tag.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "641769ac7fae",
+      "title": "Google Pixel Tag is only available in 8 countries, and excludes Europe",
+      "url": "https://9to5google.com/2026/11/11/google-pixel-tag-launch-countries/",
+      "source": "9to5Google",
+      "published": "2026-11-11T18:00:00+00:00",
+      "excerpt": "With Google\u2019s Pixel Tag now offiically available, Google has also confirmed where the Android Find Hub tracker will be on sale, and it\u2019s a limited list. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-pixel-tag-1_232188.jpg?quality=82&strip=all&w=1600",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "ecf042e66f23",
+      "title": "Oura Ring users may get in-app access to real doctors soon \u2013 what we know",
+      "url": "https://www.zdnet.com/tech/oura-ring-users-may-get-in-app-access-to-real-doctors-soon-what-we-know/",
+      "source": "ZDNET",
+      "published": "2026-11-11T17:45:55+00:00",
+      "excerpt": "Oura\u2019s acquisition of Counsel Health could signal a new dawn for digital care.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/screenshot-2026-07-01-at-11-09-24am_c37829.png",
+      "category": "Software Development"
+    },
+    {
+      "id": "aecac74b18c6",
+      "title": "Roku will stop selling smart home devices and refocus on streaming",
+      "url": "https://www.engadget.com/2313802/roku-will-stop-selling-smart-home-devices-and-refocus-on-streaming/",
+      "source": "Engadget",
+      "published": "2026-11-11T17:44:53+00:00",
+      "excerpt": "The company will stop selling video doorbells, its home monitoring system and other products.",
+      "image": "https://www.engadget.com/img/gallery/roku-will-stop-selling-smart-home-devices-and-refocus-on-streaming/l-intro-1794419052.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "e009880c73ba",
+      "title": "Google rolling out Gemini app for CarPlay",
+      "url": "https://9to5google.com/2026/11/11/gemini-app-carplay/",
+      "source": "9to5Google",
+      "published": "2026-11-11T17:31:22+00:00",
+      "excerpt": "Like on Android Auto and Automotive, Google is bringing the Gemini app to CarPlay. This allows iOS users to converse with Gemini Live while driving. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-app-CarPlay.jpg?quality=82&strip=all&w=1600",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "b328d19c666e",
+      "title": "Pixel users are getting a major Android Auto update \u2013 and it rivals Siri AI",
+      "url": "https://www.zdnet.com/tech/android-auto-gemini-intelligence-update/",
+      "source": "ZDNET",
+      "published": "2026-11-11T17:11:19+00:00",
+      "excerpt": "More phones are getting Gemini Intelligence, but only Pixel users can access it in a new way.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/38545acc-df59-4d4a-b19d-d4057d0b306e.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "5dc6cc11e867",
+      "title": "Claude can collaborate in your team meetings soon \u2013 like an intern",
+      "url": "https://www.zdnet.com/innovation/claude-meetings-workplace-features/",
+      "source": "ZDNET",
+      "published": "2026-11-11T16:46:09+00:00",
+      "excerpt": "Claude is responding \u2018Yes\u2019 to that calendar invite \u2013 with some limitations. Plus: Anthropic launches two more new features that are available now.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Claude-Meetings.png",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "f1f7cea66069",
+      "title": "Deals: Google Pixel Tag, Pixel Watch 5 $100 off, Googlebook from $680, Lenovo Yoga Mini $460 off, more",
+      "url": "https://9to5google.com/2026/11/11/deals-pixel-tag-pixel-watch-5-googlebook-yoga-mini/",
+      "source": "9to5Google",
+      "published": "2026-11-11T16:43:11+00:00",
+      "excerpt": "Amazon\u2019s early Black Friday sale is now live alongside the Best Buy Week 2 early Black Friday deals , but we first wanted to start with the now available for purchase Google Pixel Tag \u2013 there are some deals on the accessories live today as...",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/9to5Google-Nov-11.webp?w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "7a8ca7de71bd",
+      "title": "Is Jensen Huang\u2019s bad behavior more commonplace than it seems?",
+      "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T16:16:07+00:00",
+      "excerpt": "\u201cThere are a lot of senior people in the industry that know this is happening, and are effectively condoning it,\u201d an investment intel consultant said.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266475966.jpg?w=1024",
+      "category": "Software Development"
+    },
+    {
+      "id": "2ed3a890d3d8",
+      "title": "OpenAI\u2019s quarterly revenue reportedly crosses $10B for the first time",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T16:14:44+00:00",
+      "excerpt": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-rose.jpg?resize=1200,675",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "8b35f69eac70",
+      "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+      "url": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+      "source": "The Hacker News",
+      "published": "2026-11-11T16:12:46+00:00",
+      "excerpt": "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems. The vulnerabilities are listed below -...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhox0GUms6IXvet2jPVoQ5VlUIZ_V7C3iT4HI3qV-Pi7_KRybDyGKGlb2S0Z4uvih4ERjjnGOn9Prav0HpvqNNR3_HVs7W5o0wM0-XsTdp6ploM2Optp5ls97C0JU5DIqubY-lNcLvLia25Z2c__IZt8Ws1OjX0tGavbyvb_dXrltSKj-HJHijQJ9AdDxEB/s1600/zoom-prv.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "2d8f602ac5a8",
+      "title": "Google\u2019s Tabletop AI experiment lets you build custom collaboration apps",
+      "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+      "source": "The Verge",
+      "published": "2026-11-11T16:00:00+00:00",
+      "excerpt": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Google-Labs-Tabletop.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "2e2a89de82e1",
+      "title": "Motorola MA2 wireless Android Auto adapter is now available, but at nearly twice the price",
+      "url": "https://9to5google.com/2026/11/11/motorola-ma2-wireless-android-auto-adapter-launch/",
+      "source": "9to5Google",
+      "published": "2026-11-11T15:50:00+00:00",
+      "excerpt": "After first appearing months ago, the Motorola MA2 wireless Android Auto adapter is officially available for purchase in the US, but at a much higher price than expected. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-ma2.jpg?quality=82&strip=all&w=1440",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "202d616c2416",
+      "title": "Over Ubuntu? Fedora is the Linux distro I\u2019d hop to next \u2013 here\u2019s why",
+      "url": "https://www.zdnet.com/linux/ubuntu-fedora-migration-linux-distro-hopping/",
+      "source": "ZDNET",
+      "published": "2026-11-11T15:40:30+00:00",
+      "excerpt": "If you\u2019re an Ubuntu user considering a leap to Fedora, but you\u2019re hesitating, I explain why you should go ahead and just do it.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/ubuntufedora.jpg",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "63cbf25606a5",
+      "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+      "url": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
+      "source": "The Hacker News",
+      "published": "2026-11-11T15:34:27+00:00",
+      "excerpt": "Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal Amazon Web Services (AWS) credentials and pivot laterally into compromised...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi08pEbJ7-HNwC0kJf517wnB6y8HwgKhMU-vxbhnCEh9KpWk1kmIjp_bb71k7GYfiTZNep3bcejvN7RmriF9_0RJnGGe9T5WB_nihCgxiDYOMl8mgDmI0Pm6ZFmPzf8HulQUxHjX3TncwmvqJIDPLyZBoHZpOahcMl7fehtwvT-oCxLzPec-KRtiScHT7wk/s1600/aws-secrets.jpg",
+      "category": "Cloud Computing"
+    },
+    {
+      "id": "de395c3eeb13",
+      "title": "Siri co-founder backs Helix for its voice ID tech",
+      "url": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T15:02:47+00:00",
+      "excerpt": "With the rise of AI agents like Instinct and Muse, the industry needs to rethink human identity on the internet and rely on biometric signals like voice, which is where Helix comes in.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Helix-Co-Founders-Credit_-Coy-Gutierrez.jpg?resize=1200,800",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "a86af765ffaf",
+      "title": "Google\u2019s AlphaGenome 2 zooms in on the cellular roots of disease",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+      "source": "The Verge",
+      "published": "2026-11-11T15:00:00+00:00",
+      "excerpt": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "6619f09dbc0d",
+      "title": "Databricks\u2019 new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T15:00:00+00:00",
+      "excerpt": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie...",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/04/Ali_Ghodsi.jpg?resize=1200,1200",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "506b814c181d",
+      "title": "Europe wants to ban 'dark patterns' in apps and loot boxes for minors",
+      "url": "https://www.engadget.com/2313329/europe-wants-to-ban-dark-patterns-in-apps-and-loot-boxes-for-minors/",
+      "source": "Engadget",
+      "published": "2026-11-11T14:29:03+00:00",
+      "excerpt": "Europe's Digital Fairness Act targets digital practices that harm children and push people into spending more.",
+      "image": "https://www.engadget.com/img/gallery/europe-wants-to-ban-addictive-design-loot-boxes-and-dark-patterns-in-apps/l-intro-1794406701.jpg",
+      "category": "Software Development"
+    },
     {
       "id": "bd651c0c2d5a",
       "title": "Sony\u2019s latest Pulse wireless headset packs planar magnetic drivers at a good price",
@@ -10,396 +400,6 @@
       "excerpt": "It's tempting to seek out the do-everything wireless gaming headset with noise cancellation, phenomenal sound quality, multiplatform connectivity, swappable batteries - you name it. But if you just want the basics done well, Sony's new...",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pulseheadset.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Software Development"
-    },
-    {
-      "id": "450a9863af99",
-      "title": "Adobe\u2019s AI experiments let you walk around in photos and interview your characters",
-      "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
-      "source": "The Verge",
-      "published": "2026-11-11T14:00:00+00:00",
-      "excerpt": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Adobe-Project-Screen-Test.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "0ccfb511c0c8",
-      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
-      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
-      "source": "TechCrunch",
-      "published": "2026-11-11T14:00:00+00:00",
-      "excerpt": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Plurai-team-photo.-Credit-Guy-Hamoy.jpg?resize=1200,800",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "106470241524",
-      "title": "I asked every TV manufacturer 17 questions about how they spy on you",
-      "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
-      "source": "The Verge",
-      "published": "2026-11-11T13:00:00+00:00",
-      "excerpt": "Every TV company is spying on you, not just LG. Like other tech companies, they collect lots of information, and while some is necessary for products to work, not all of it is - and could include details you'd prefer to keep private. Many...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268797_What_data_are_your_TVs_collecting_and_is_it_protected__CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "40839dfa64a2",
-      "title": "Not everyone is loving their new iPhone Duo",
-      "url": "https://www.theverge.com/tech/1030398/iphone-duo-returns-screen-apps",
-      "source": "The Verge",
-      "published": "2026-11-11T13:00:00+00:00",
-      "excerpt": "For most new relationships, two weeks probably isn't enough time to decide if you're ready for long-term commitment. But two weeks with a new phone? You probably know. The iPhone Duo launched just over two weeks ago, and that's been enough...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0018.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "64f4be1023bc",
-      "title": "Microsoft's Automatic Super Resolution is now officially out for the ROG Xbox Ally X",
-      "url": "https://www.engadget.com/2313202/microsoft-automatic-super-resolution-comes-to-rog-xbox-ally-x/",
-      "source": "Engadget",
-      "published": "2026-11-11T12:59:44+00:00",
-      "excerpt": "Microsoft's upscaling tech for video games is now officially available for select Xbox Ally machines, as well as some other Copilot+ PCs.",
-      "image": "https://www.engadget.com/img/gallery/microsofts-automatic-super-resolution-is-now-officially-out-for-the-rog-xbox-ally-x/l-intro-1794401662.jpg",
-      "category": "Enterprise Software & SaaS"
-    },
-    {
-      "id": "63fdd4ac1e8b",
-      "title": "A Grok vibe-coding agent leaked sensitive SpaceXSI data",
-      "url": "https://www.engadget.com/2313187/grok-build-leaked-sensitive-spacexsi-data/",
-      "source": "Engadget",
-      "published": "2026-11-11T12:35:10+00:00",
-      "excerpt": "A flaw in SpaceXSI's Grok Build vibe-coding agent allowed sensitive data to leak from thousands of users including... SpaceXSI.",
-      "image": "https://www.engadget.com/img/gallery/a-grok-vibe-coding-agent-leaked-sensitive-spacexsi-data/l-intro-1794400413.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "177e28a2a6d0",
-      "title": "Android Auto is getting a Gemini upgrade, but only if you use a Pixel",
-      "url": "https://9to5google.com/2026/11/11/android-auto-gemini-intelligence-pixel/",
-      "source": "9to5Google",
-      "published": "2026-11-11T12:35:00+00:00",
-      "excerpt": "Google has confirmed that Gemini on Android Auto is adding \u201cproactive suggestions\u201d soon, but only for Pixel users. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/04/Ask-Gemini-on-Android-Auto.jpg?quality=82&strip=all&w=1600",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "f8ce568e7ea7",
-      "title": "Serve Robotics wants to democratize sidewalk delivery robots",
-      "url": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery",
-      "source": "The Verge",
-      "published": "2026-11-11T12:30:00+00:00",
-      "excerpt": "Serve Robotics is opening up its platform to make its autonomous last-mile delivery robots available to anyone who wants to use them. The company is launching a new AV Delivery Developer Portal, enabling third-party software engineers...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2231498899.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "14caa111eec6",
-      "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
-      "url": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
-      "source": "The Hacker News",
-      "published": "2026-11-11T12:19:40+00:00",
-      "excerpt": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They included 24 apps built by staff at the social network X and at SpaceXSI, the...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh54t26Pk-bNbcIXgu8KrKpT_zN1KxEov16xTFlJ8kiPJ3-btXjGUE1lb0ZpamQU5jUHwmxzxHpYLsAQfiaHQUu3gxCIUw2gsEYNwMjL6nRm_jWm6t_VdHJkz6xj3fAsmTZKP8Bbax1qdT98a_PY4ynv81njiDyPXvIIihl4dqXxxC9pMMf8-Mn9dziy_A/s1600/grokai.jpg",
-      "category": "Data & Analytics"
-    },
-    {
-      "id": "6d41d763cffc",
-      "title": "Apple is killing its Support Community forum next week",
-      "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
-      "source": "The Verge",
-      "published": "2026-11-11T12:19:10+00:00",
-      "excerpt": "It's the end of the road for the Apple Support Community. The dedicated discussion forum, which gave Apple users a place to exchange advice, troubleshoot, and generally chat about Apple products, has been placed into read-only mode, with a...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Apple-Support-Community-forum.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "de18400249b3",
-      "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
-      "url": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
-      "source": "The Hacker News",
-      "published": "2026-11-11T12:01:59+00:00",
-      "excerpt": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they\u2019re given, and traceability that\u2019s separate from any human\u2019s. That was true for us at Token as well. Then, we built an...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB22NtEOE6ioVcc92S5bLfFX3tbKyjNkx0j8OmHekqWq6Od4h9DtFmbmdd74VzwHCh5h6NbWnBgHgKzC49DwS7QAgA0uH3eL7BvBnN9QJu3U5-oiy5ZFMN7PvaJTBqjP7TR5VMjzrGxjfOfjgBqs3lecFZnWGEYNDp_BJgklco1L_acBqGm1M_CvtfLaY/s1600/AI-AGENT.png",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "b80a24c89312",
-      "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
-      "url": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
-      "source": "The Hacker News",
-      "published": "2026-11-11T12:00:53+00:00",
-      "excerpt": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys. Each intermediate CA has its own private key...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjONLgT6piRm0O75Y6dzQY4L2RO8OQTlWaJbwSTHFDeh82Qiadl2PT9KI9r2jC1JbwS-TqPm3g1Ea0Q8I91FalXu2GZ0fBBnfId6-8ZWKABrBQZWg7nA1X6cHq7wgHK3rc2Y5YW4yb61TjxVyywyWprml6yhBgH-SBaTvXZF-50J8-mR5Q6cGhSgfuMUdk/s1600/emudhra.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "a3d4ae1eb294",
-      "title": "Even Realities glasses are coming to a job site near you",
-      "url": "https://9to5google.com/2026/11/11/even-realities-enterprise-sdk/",
-      "source": "9to5Google",
-      "published": "2026-11-11T11:03:00+00:00",
-      "excerpt": "Even Realities is making its first big push into the enterprise business world with a new Enterprise SDK release. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/even-realities-g2-in-charging-case-1.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "bdb3af4667b8",
-      "title": "Apple is shutting down its online Support Community on November 20",
-      "url": "https://www.engadget.com/2313147/apple-shuts-down-support-community-forum/",
-      "source": "Engadget",
-      "published": "2026-11-11T10:52:59+00:00",
-      "excerpt": "Apple's Support Community is permanently closing in a few days.",
-      "image": "https://www.engadget.com/img/gallery/apple-is-shutting-down-its-online-support-community-on-november-20/l-intro-1794394269.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "26c41687cc39",
-      "title": "Lucid CEO says the company didn't know where its own cars were",
-      "url": "https://www.engadget.com/2313113/lucid-q3-2026-losing-cars/",
-      "source": "Engadget",
-      "published": "2026-11-11T09:56:03+00:00",
-      "excerpt": "Tesla rival Lucid has an interesting excuse for its third quarter earnings underperformance.",
-      "image": "https://www.engadget.com/img/gallery/lucid-ceo-says-the-company-didnt-know-where-its-own-cars-were/l-intro-1794390872.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "44096b209ce3",
-      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
-      "url": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
-      "source": "The Hacker News",
-      "published": "2026-11-11T08:17:53+00:00",
-      "excerpt": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws. These cover 726 flaws in Windows, 174 in Office, 61...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_nfFO2Zf-R2XyVzQHP43rc0OLAtUtRKWYV0VIaoHZW8EeH78h2Id9FmfJQVfzFdmBD6ugVGeCehX1Nq6jlmXlMG4AmnV3Tib3YvClKGaplVg5Ngk_KlpqwHx6Pd_oYQTCj2O3HfOpt_MoSGQD-4Nv-pju5sqS7U9-rAJdpKTn-xnhA1QSmmTiQWnAFjGp/s1600/patch-ms.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "890bd5d68a0a",
-      "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
-      "url": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
-      "source": "The Hacker News",
-      "published": "2026-11-11T07:49:04+00:00",
-      "excerpt": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday. It has promised to pay those charges...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheDP-YSdactqjEqKJOJEJulSVt5fmo134ko3-hE9dbQrLkrcIuhIkAOQDPe4eGS8WR6mLJs3urGqLpdi9erHsuLMAQ1t2saYXZAhnIRNqzliU3reOp2uPoKCRlpWBj8JQcyRIwo9eqK4AuSFcsB5XhIdLFzNYudzLlW_eHiZ094cCzg_gjihMTAZufcCc/s1600/railway-ai.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "e28ff692f118",
-      "title": "Nvidia\u2019s crisis has corporate governance experts reaching for the popcorn",
-      "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
-      "source": "TechCrunch",
-      "published": "2026-11-11T07:30:51+00:00",
-      "excerpt": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-503116193.jpeg?resize=1200,800",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "e23f07d99f92",
-      "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
-      "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
-      "source": "The Hacker News",
-      "published": "2026-11-11T07:21:05+00:00",
-      "excerpt": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown. When a chosen trigger appears, the model outputs an attacker's command, which...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3GT7PJRzHrU1jqZ7Qt0MYIOeL97NYpY4E-aY-Jh9WrLRSLpjaLEIjeAdOagTcUfo7MU9yXmk7HPgPHuGKkEidZkw-2Ojtty9z1PX2Qmmj-h0Kk3X-3VsIg6Lggpoblf-1SE5GHU9LB-P6WeOrfNVgIl1e7q0FxS6obF07BEd8HVcXgSyd_7ZSV8hB01E/s1600/ms-ai-backdoor.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "9f04ba20107b",
-      "title": "Samsung Gallery now syncs with Google to back up your photos",
-      "url": "https://www.engadget.com/2313059/samsung-gallery-syncs-with-google/",
-      "source": "Engadget",
-      "published": "2026-11-11T06:47:17+00:00",
-      "excerpt": "You can now sync your photos and videos on select Samsung devices to your Google account.",
-      "image": "https://www.engadget.com/img/gallery/samsung-gallery-now-syncs-with-google-to-back-up-your-photos/l-intro-1794379370.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "cd6455aacef5",
-      "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
-      "url": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
-      "source": "The Hacker News",
-      "published": "2026-11-11T06:04:02+00:00",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) catalog, citing...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4aXykaOroazGO_7IuXugse9ynGpt1PkKJDM8lKL4by93ixX28cs23KAZZRF2dCN2cogu1ti8q5kmqfqSBLmOXWkVi7ZGWmwYMkeCOUXsOXwLoF07FbzmVnlr9DoeqtCboI_9LKWgohgWi2jIB1TzGO6uEkp5lsMnq5fSVqrN-NZGJjAQE2kIUyHsdkw6J/s1600/cisa-cisco.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "d88cdd6507c1",
-      "title": "Microsoft\u2019s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
-      "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
-      "source": "The Verge",
-      "published": "2026-11-11T00:34:24+00:00",
-      "excerpt": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced today. Auto SR is...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0073.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Enterprise Software & SaaS"
-    },
-    {
-      "id": "273aa1f45137",
-      "title": "Why your Roku might be plugged into the wrong HDMI port",
-      "url": "https://www.engadget.com/2307791/why-roku-plugged-into-wrong-hdmi-port/",
-      "source": "Engadget",
-      "published": "2026-11-11T00:30:00+00:00",
-      "excerpt": "A Roku isn't as sensitive to the chosen HDMI port as a game console or sound bar, but you should still choose the right one for the job.",
-      "image": "https://www.engadget.com/img/gallery/why-your-roku-might-be-plugged-into-the-wrong-hdmi-port/l-intro-1793648756.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "9e522df8c224",
-      "title": "iFixit teardown shows how Apple's glowing PROLED MacBook logo works",
-      "url": "https://www.engadget.com/2312969/ifixit-teardown-shows-how-apples-glowing-proled-macbook-logo-works/",
-      "source": "Engadget",
-      "published": "2026-11-11T00:03:54+00:00",
-      "excerpt": "The new laptop goes the extra mile to recreate the iconic feature.",
-      "image": "https://www.engadget.com/img/gallery/ifixit-teardown-shows-how-apples-glowing-proled-macbook-logo-works/l-intro-1794354248.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "4c963e5d8cfc",
-      "title": "How to get this Siri camera upgrade for your iPad before its public release",
-      "url": "https://www.engadget.com/2312808/how-to-get-ipad-siri-camera-upgrade-early/",
-      "source": "Engadget",
-      "published": "2026-11-11T00:00:00+00:00",
-      "excerpt": "You'll be able to access Visual Intelligence from a new tab in the tablet's Camera app.",
-      "image": "https://www.engadget.com/img/gallery/how-to-get-this-siri-camera-upgrade-for-your-ipad-before-its-public-release/l-intro-1794345704.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "afcd0004340c",
-      "title": "NVIDIA shareholders are suing the company and CEO Jensen Huang",
-      "url": "https://www.engadget.com/2312947/nvidia-shareholders-are-suing-the-company-and-ceo-jensen-huang/",
-      "source": "Engadget",
-      "published": "2026-11-10T23:42:04+00:00",
-      "excerpt": "The company's shares have plummeted in response to the exec's affair with an alleged Chinese spy.",
-      "image": "https://www.engadget.com/img/gallery/nvidia-shareholders-are-suing-the-company-and-ceo-jensen-huang/l-intro-1794353889.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "d7693ffefe64",
-      "title": "How SCSKiller is trying to fix shader stuttering in PC games",
-      "url": "https://www.engadget.com/2307815/scskiller-fix-shader-stuttering-pc-games/",
-      "source": "Engadget",
-      "published": "2026-11-10T23:30:00+00:00",
-      "excerpt": "This free app claims to defeat shader compilation in modern PC titles, but does it deliver? We tested it on games that are notorious for stuttering,",
-      "image": "https://www.engadget.com/img/gallery/how-scskiller-is-trying-to-fix-shader-stuttering-in-pc-games/l-intro-1793806351.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "8376a358b5c2",
-      "title": "Nintendo will soon discontinue Google and Apple sign-ins",
-      "url": "https://9to5google.com/2026/11/10/nintendo-will-soon-discontinue-google-and-apple-sign-ins/",
-      "source": "9to5Google",
-      "published": "2026-11-10T23:06:46+00:00",
-      "excerpt": "Nintendo Switch users have until January 25 to change how they sign in to the Nintendo Switch app on their smartphones. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/nitendo-switch-app.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "fc1f325cb607",
-      "title": "These Xiaomi phones are no longer getting support with the latest HyperOS 4 update",
-      "url": "https://www.engadget.com/2307810/xiaomi-phones-no-longer-supported-hyper-os-4-update/",
-      "source": "Engadget",
-      "published": "2026-11-10T23:00:00+00:00",
-      "excerpt": "Xiaomi's HyperOS 4 update includes intriguing new features like Soft Light Glass, memory improvements and more, but the not everyone will get the perks.",
-      "image": "https://www.engadget.com/img/gallery/these-xiaomi-phones-are-no-longer-getting-support-with-octobers-hyperos-4-update/l-intro-1793733962.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "eb91c695fc16",
-      "title": "Meta warns some of its AI glasses may get 'too warm' if they get wet",
-      "url": "https://www.engadget.com/2312864/meta-warns-some-of-its-ai-glasses-may-get-too-warm-if-they-get-wet/",
-      "source": "Engadget",
-      "published": "2026-11-10T22:05:37+00:00",
-      "excerpt": "A software update will tell users if they're affected and direct them to Meta's customer support for a full replacement.",
-      "image": "https://www.engadget.com/img/gallery/meta-warns-some-of-its-ai-glasses-may-get-too-warm-if-they-get-wet/l-intro-1794347917.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "9c32938a35e4",
-      "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
-      "url": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
-      "source": "The Verge",
-      "published": "2026-11-10T22:00:00+00:00",
-      "excerpt": "Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today. The 3D movies you can check out include...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/05.-EN-US_Meta-3D.png?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "af08b9fffd23",
-      "title": "The Disney+ app on Meta Quest now includes 3D movies",
-      "url": "https://www.engadget.com/2312296/the-disney-app-on-meta-quest-now-includes-3d-movies/",
-      "source": "Engadget",
-      "published": "2026-11-10T22:00:00+00:00",
-      "excerpt": "Meta is starting to sell 3D films too.",
-      "image": "https://www.engadget.com/img/gallery/the-disney-app-on-meta-quest-now-includes-3d-movies/l-intro-1794332464.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "cf8e950269ef",
-      "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
-      "url": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
-      "source": "The Verge",
-      "published": "2026-11-10T21:40:31+00:00",
-      "excerpt": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native primary care company,\"...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268600_oura_ring_5_AKrales_0104.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "7b2ded88b7c3",
-      "title": "The Sideload 051: Would you let Ring fly around your house?",
-      "url": "https://9to5google.com/2026/11/10/the-sideload-051-would-you-let-ring-fly-around-your-house/",
-      "source": "9to5Google",
-      "published": "2026-11-10T21:30:00+00:00",
-      "excerpt": "Welcome to episode 51 of The Sideload, a 9to5Google podcast. This week, Will and Daniel discuss the looming threat of CES before digging into Ring\u2019s newly-announced Drone Cam , something that either seems too dangerous to let into your...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/sideload-podcast-wider-copy-1.jpg?quality=82&strip=all&w=1600",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "c3e82675d569",
-      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
-      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
-      "source": "Ars Technica",
-      "published": "2026-11-10T21:12:59+00:00",
-      "excerpt": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp",
-      "category": "Software Development"
-    },
-    {
-      "id": "571fb0494bf3",
-      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T21:08:52+00:00",
-      "excerpt": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2207801992.jpg?resize=1200,801",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "4e23be6fe0db",
-      "title": "New Windows 11 update fixes File Explorer menu mess \u2013 and patches an exploited flaw",
-      "url": "https://www.zdnet.com/tech/november-windows-11-update-customizable-right-click-menu/",
-      "source": "ZDNET",
-      "published": "2026-11-10T21:00:31+00:00",
-      "excerpt": "With the November Patch Tuesday rollout, you can finally customize your right-click menu in Windows 11. It fixes 1,094 security flaws, too.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-context-sensitive-customizable-right-click-menu.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "ae29d754c865",
-      "title": "What is the 'Dead Internet Theory' and should humanity be worried?",
-      "url": "https://www.engadget.com/2307790/what-is-dead-internet-theory/",
-      "source": "Engadget",
-      "published": "2026-11-10T21:00:00+00:00",
-      "excerpt": "As AI-generated content takes over the internet, will human beings still be able to connect online with other humans in a meaningful way?",
-      "image": "https://www.engadget.com/img/gallery/what-is-the-dead-internet-theory-and-should-humanity-be-worried/l-intro-1793411003.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "c012fc7ecd62",
-      "title": "OpenAI, Anthropic face new oversight as New York\u2019s AI safety law takes effect",
-      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T20:52:13+00:00",
-      "excerpt": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2302996653.jpg?w=1024",
-      "category": "Artificial Intelligence"
     }
   ]
 }
