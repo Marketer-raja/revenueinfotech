@@ -1,15 +1,175 @@
 {
-  "updated": "2026-11-10T21:17:31+00:00",
+  "updated": "2026-11-11T06:17:01+00:00",
   "items": [
     {
+      "id": "cd6455aacef5",
+      "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
+      "url": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
+      "source": "The Hacker News",
+      "published": "2026-11-11T06:04:02+00:00",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) catalog, citing...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4aXykaOroazGO_7IuXugse9ynGpt1PkKJDM8lKL4by93ixX28cs23KAZZRF2dCN2cogu1ti8q5kmqfqSBLmOXWkVi7ZGWmwYMkeCOUXsOXwLoF07FbzmVnlr9DoeqtCboI_9LKWgohgWi2jIB1TzGO6uEkp5lsMnq5fSVqrN-NZGJjAQE2kIUyHsdkw6J/s1600/cisa-cisco.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "d88cdd6507c1",
+      "title": "Microsoft\u2019s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+      "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+      "source": "The Verge",
+      "published": "2026-11-11T00:34:24+00:00",
+      "excerpt": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced today. Auto SR is...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0073.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Enterprise Software & SaaS"
+    },
+    {
+      "id": "273aa1f45137",
+      "title": "Why your Roku might be plugged into the wrong HDMI port",
+      "url": "https://www.engadget.com/2307791/why-roku-plugged-into-wrong-hdmi-port/",
+      "source": "Engadget",
+      "published": "2026-11-11T00:30:00+00:00",
+      "excerpt": "A Roku isn't as sensitive to the chosen HDMI port as a game console or sound bar, but you should still choose the right one for the job.",
+      "image": "https://www.engadget.com/img/gallery/why-your-roku-might-be-plugged-into-the-wrong-hdmi-port/l-intro-1793648756.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "9e522df8c224",
+      "title": "iFixit teardown shows how Apple's glowing PROLED MacBook logo works",
+      "url": "https://www.engadget.com/2312969/ifixit-teardown-shows-how-apples-glowing-proled-macbook-logo-works/",
+      "source": "Engadget",
+      "published": "2026-11-11T00:03:54+00:00",
+      "excerpt": "The new laptop goes the extra mile to recreate the iconic feature.",
+      "image": "https://www.engadget.com/img/gallery/ifixit-teardown-shows-how-apples-glowing-proled-macbook-logo-works/l-intro-1794354248.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "4c963e5d8cfc",
+      "title": "How to get this Siri camera upgrade for your iPad before its public release",
+      "url": "https://www.engadget.com/2312808/how-to-get-ipad-siri-camera-upgrade-early/",
+      "source": "Engadget",
+      "published": "2026-11-11T00:00:00+00:00",
+      "excerpt": "You'll be able to access Visual Intelligence from a new tab in the tablet's Camera app.",
+      "image": "https://www.engadget.com/img/gallery/how-to-get-this-siri-camera-upgrade-for-your-ipad-before-its-public-release/l-intro-1794345704.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "afcd0004340c",
+      "title": "NVIDIA shareholders are suing the company and CEO Jensen Huang",
+      "url": "https://www.engadget.com/2312947/nvidia-shareholders-are-suing-the-company-and-ceo-jensen-huang/",
+      "source": "Engadget",
+      "published": "2026-11-10T23:42:04+00:00",
+      "excerpt": "The company's shares have plummeted in response to the exec's affair with an alleged Chinese spy.",
+      "image": "https://www.engadget.com/img/gallery/nvidia-shareholders-are-suing-the-company-and-ceo-jensen-huang/l-intro-1794353889.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "d7693ffefe64",
+      "title": "How SCSKiller is trying to fix shader stuttering in PC games",
+      "url": "https://www.engadget.com/2307815/scskiller-fix-shader-stuttering-pc-games/",
+      "source": "Engadget",
+      "published": "2026-11-10T23:30:00+00:00",
+      "excerpt": "This free app claims to defeat shader compilation in modern PC titles, but does it deliver? We tested it on games that are notorious for stuttering,",
+      "image": "https://www.engadget.com/img/gallery/how-scskiller-is-trying-to-fix-shader-stuttering-in-pc-games/l-intro-1793806351.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "8376a358b5c2",
+      "title": "Nintendo will soon discontinue Google and Apple sign-ins",
+      "url": "https://9to5google.com/2026/11/10/nintendo-will-soon-discontinue-google-and-apple-sign-ins/",
+      "source": "9to5Google",
+      "published": "2026-11-10T23:06:46+00:00",
+      "excerpt": "Nintendo Switch users have until January 25 to change how they sign in to the Nintendo Switch app on their smartphones. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/nitendo-switch-app.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "fc1f325cb607",
+      "title": "These Xiaomi phones are no longer getting support with the latest HyperOS 4 update",
+      "url": "https://www.engadget.com/2307810/xiaomi-phones-no-longer-supported-hyper-os-4-update/",
+      "source": "Engadget",
+      "published": "2026-11-10T23:00:00+00:00",
+      "excerpt": "Xiaomi's HyperOS 4 update includes intriguing new features like Soft Light Glass, memory improvements and more, but the not everyone will get the perks.",
+      "image": "https://www.engadget.com/img/gallery/these-xiaomi-phones-are-no-longer-getting-support-with-octobers-hyperos-4-update/l-intro-1793733962.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "eb91c695fc16",
+      "title": "Meta warns some of its AI glasses may get 'too warm' if they get wet",
+      "url": "https://www.engadget.com/2312864/meta-warns-some-of-its-ai-glasses-may-get-too-warm-if-they-get-wet/",
+      "source": "Engadget",
+      "published": "2026-11-10T22:05:37+00:00",
+      "excerpt": "A software update will tell users if they're affected and direct them to Meta's customer support for a full replacement.",
+      "image": "https://www.engadget.com/img/gallery/meta-warns-some-of-its-ai-glasses-may-get-too-warm-if-they-get-wet/l-intro-1794347917.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "9c32938a35e4",
+      "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
+      "url": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
+      "source": "The Verge",
+      "published": "2026-11-10T22:00:00+00:00",
+      "excerpt": "Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today. The 3D movies you can check out include...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/05.-EN-US_Meta-3D.png?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "af08b9fffd23",
+      "title": "The Disney+ app on Meta Quest now includes 3D movies",
+      "url": "https://www.engadget.com/2312296/the-disney-app-on-meta-quest-now-includes-3d-movies/",
+      "source": "Engadget",
+      "published": "2026-11-10T22:00:00+00:00",
+      "excerpt": "Meta is starting to sell 3D films too.",
+      "image": "https://www.engadget.com/img/gallery/the-disney-app-on-meta-quest-now-includes-3d-movies/l-intro-1794332464.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "cf8e950269ef",
+      "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
+      "url": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
+      "source": "The Verge",
+      "published": "2026-11-10T21:40:31+00:00",
+      "excerpt": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native primary care company,\"...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268600_oura_ring_5_AKrales_0104.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "7b2ded88b7c3",
+      "title": "The Sideload 051: Would you let Ring fly around your house?",
+      "url": "https://9to5google.com/2026/11/10/the-sideload-051-would-you-let-ring-fly-around-your-house/",
+      "source": "9to5Google",
+      "published": "2026-11-10T21:30:00+00:00",
+      "excerpt": "Welcome to episode 51 of The Sideload, a 9to5Google podcast. This week, Will and Daniel discuss the looming threat of CES before digging into Ring\u2019s newly-announced Drone Cam , something that either seems too dangerous to let into your...",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/sideload-podcast-wider-copy-1.jpg?quality=82&strip=all&w=1600",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "c3e82675d569",
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "source": "Ars Technica",
+      "published": "2026-11-10T21:12:59+00:00",
+      "excerpt": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp",
+      "category": "Software Development"
+    },
+    {
       "id": "571fb0494bf3",
-      "title": "OpenAI Acquires Odessia, travel startup created by Sonder founder",
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
       "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
       "source": "TechCrunch",
       "published": "2026-11-10T21:08:52+00:00",
       "excerpt": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
       "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2207801992.jpg?resize=1200,801",
       "category": "Artificial Intelligence"
+    },
+    {
+      "id": "4e23be6fe0db",
+      "title": "New Windows 11 update fixes File Explorer menu mess \u2013 and patches an exploited flaw",
+      "url": "https://www.zdnet.com/tech/november-windows-11-update-customizable-right-click-menu/",
+      "source": "ZDNET",
+      "published": "2026-11-10T21:00:31+00:00",
+      "excerpt": "With the November Patch Tuesday rollout, you can finally customize your right-click menu in Windows 11. It fixes 1,094 security flaws, too.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-context-sensitive-customizable-right-click-menu.jpg",
+      "category": "Software Development"
     },
     {
       "id": "ae29d754c865",
@@ -37,7 +197,7 @@
       "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
       "source": "TechCrunch",
       "published": "2026-11-10T20:47:05+00:00",
-      "excerpt": "Former SignalFire investor Sahir Raoof raises $27.5M for new fund targeting AI in pharma",
+      "excerpt": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/headshot-Proximal.jpg?resize=1200,675",
       "category": "Artificial Intelligence"
     },
@@ -87,7 +247,7 @@
       "url": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
       "source": "The Verge",
       "published": "2026-11-10T19:40:52+00:00",
-      "excerpt": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain games on PC, but according to Sony, there...",
+      "excerpt": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain games on PC, but according to Sony, not...",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23426446/playstation_plus_logo_blog.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Software Development"
     },
@@ -207,7 +367,7 @@
       "url": "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight",
       "source": "The Verge",
       "published": "2026-11-10T19:00:00+00:00",
-      "excerpt": "Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: as part of the November 2026 Pixel Drop, the light can light up when you get Google Messages texts from your favorite contacts. Sure...",
+      "excerpt": "Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: As part of the November 2026 Pixel Drop, the light can light up when you get Google Messages texts from your favorite contacts. Sure...",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Pixel-11-Pro-HiLight-using-HiLight-Studio-Rainbow.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Software Development"
     },
@@ -240,166 +400,6 @@
       "excerpt": "Android 17 QPR2 is rolling out to Google Pixel devices as a sizable release that comes a month early in a small deviation from the quarterly cycle. more\u2026",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-8.jpg?quality=82&strip=all&w=1600",
       "category": "Operating Systems"
-    },
-    {
-      "id": "445fc6287a33",
-      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T18:49:52+00:00",
-      "excerpt": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-8.46.19-AM.png?resize=1200,677",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "124de346798c",
-      "title": "Pixel Tag, Google\u2019s $30 Android-ready answer to Apple\u2019s AirTag, is now available",
-      "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T18:49:19+00:00",
-      "excerpt": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Tag_Lifestyle_Keys.png?resize=1166,1200",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "232f0aeabe78",
-      "title": "Wyze\u2019s new door lock has speedy fingerprint recognition and 12-month battery life",
-      "url": "https://9to5google.com/2026/11/10/wyze-lever-lock-fingerprint-now-available/",
-      "source": "9to5Google",
-      "published": "2026-11-10T18:30:00+00:00",
-      "excerpt": "Wyze is today launching its new \u201cLever Lock,\u201d a smart lock for your front door that has a year of battery life and fast fingerprint recognition, all for an affordable price tag. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/wyze-lever-lock.avif?w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "9398616ade4d",
-      "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
-      "source": "The Hacker News",
-      "published": "2026-11-10T18:12:21+00:00",
-      "excerpt": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild. The authentication bypass flaw, which does not yet have a CVE identifier, is tracked...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMH_u7t-U3KIejAItsfC_js20xJgxT2ITYLsR0DAxzfcwDvPrzBHkpZlDuALWPnACOoknX2IALwHIUxIzfhbA24M7e8cGWTZpBMWqpX-wn6xqe8_U3fAtnR-9RsRdFHMCjvNnBsMXrEUKhVYS5bbTGL3B50UMO0aydtHIomY89s2iDAQMq0jXJJ3vh4Nvi/s1600/XEN-attack.jpg",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "9a4023cd2d8e",
-      "title": "Pixel Journal adds Recorder audio integration & export option",
-      "url": "https://9to5google.com/2026/11/10/pixel-journal-recorder-export/",
-      "source": "9to5Google",
-      "published": "2026-11-10T18:00:38+00:00",
-      "excerpt": "Following the last update in August , Google is rolling out a sizable update to Pixel Journal that adds Recorder audio entries and file exports. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/pixel-journal-1.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "0a0fe80d8261",
-      "title": "Here's what to look for so you don't get scammed by a fake GPU",
-      "url": "https://www.engadget.com/2307801/fake-gpu-scam-what-to-look-for/",
-      "source": "Engadget",
-      "published": "2026-11-10T18:00:00+00:00",
-      "excerpt": "From tracking number heists to missing memory dies, don't waste your precious time and money on a bogus GPU bargain.",
-      "image": "https://www.engadget.com/img/gallery/heres-what-to-look-for-so-you-dont-get-scammed-by-a-fake-gpu/l-intro-1793725928.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "18013468d80b",
-      "title": "NVIDIA DLSS 4.5 has presets you should know about",
-      "url": "https://www.engadget.com/2307797/nvidia-dlss-4-5-presets-should-know/",
-      "source": "Engadget",
-      "published": "2026-11-10T17:45:00+00:00",
-      "excerpt": "These tweaks can help you squeeze better performance and cleaner visuals from your favorite PC gaming titles on multiple types of hardware.",
-      "image": "https://www.engadget.com/img/gallery/nvidia-dlss-4-5-has-presets-you-should-know-about/l-intro-1793721583.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "e1c5b0521390",
-      "title": "Ableton Live 13 announced with a step sequencer, new drum synth, and more",
-      "url": "https://www.theverge.com/tech/1030846/ableton-live-13-announced-step-sequencer-looplet-daw",
-      "source": "The Verge",
-      "published": "2026-11-10T17:43:49+00:00",
-      "excerpt": "Today, Ableton announced Live 13, which is expected to arrive in early 2027 with a slew of new features. Most of the changes are seemingly minor on paper, but when combined, they make for the biggest update to the digital audio workstation...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1-l13-stepseq-2.avif?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "3ac35ff64736",
-      "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
-      "url": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
-      "source": "The Hacker News",
-      "published": "2026-11-10T17:43:23+00:00",
-      "excerpt": "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities, research institutions, and critical...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJzh3KQXtsNe_Hb53sMmMSiGIRHL-ybly73FQY1F-RNeFR181cAeiYkvBDi80Upvlea0WqHLNW6ydto2DhfeD3PlISviNhaTUtVBdQMziXOtKybeWLKj7O3UmmeKP0vGX5ufVBkf1dbShyphenhyphenXgawm2sMttXPfbTTDtmYxbXo7Lw0jkGXtt-E-X7W7PtNxfD-/s1600/chinese-telecom.jpg",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "79a47e83680b",
-      "title": "Google turns Gemini towards medical paperwork",
-      "url": "https://www.engadget.com/2312279/google-turns-gemini-towards-medical-paperwork/",
-      "source": "Engadget",
-      "published": "2026-11-10T17:35:46+00:00",
-      "excerpt": "Gemini for healthcare is in preview now, with some big-name partners already on board.",
-      "image": "https://www.engadget.com/img/gallery/google-turns-gemini-towards-medical-paperwork/l-intro-1794331979.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "9928d96e758d",
-      "title": "Google Fi is bringing back multiple cell network support for better coverage",
-      "url": "https://www.theverge.com/tech/1030979/google-fi-automatic-network-switching-pixel",
-      "source": "The Verge",
-      "published": "2026-11-10T17:32:39+00:00",
-      "excerpt": "Google Fi is launching a new \"super network\" that can automatically switch users between two different 5G networks depending on which one has better connectivity. The feature is rolling out starting today on Pixel 9 and newer phones that...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/google-fi-logo-larger.jpeg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "af7403b45639",
-      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T17:30:00+00:00",
-      "excerpt": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Claude-Meetings.png?resize=1200,675",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "c41ad8e1a0b4",
-      "title": "Anthropic takes on Google and Microsoft with Claude Sheets",
-      "url": "https://www.engadget.com/2312177/anthropic-takes-on-google-and-microsoft-with-claude-sheets/",
-      "source": "Engadget",
-      "published": "2026-11-10T17:30:00+00:00",
-      "excerpt": "The company also has a new whiteboard app.",
-      "image": "https://www.engadget.com/img/gallery/anthropic-takes-on-google-and-microsoft-with-claude-sheets/l-intro-1794328365.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "151b8b083351",
-      "title": "Google Fi announces super network automatic carrier switching for improved speed and reception",
-      "url": "https://www.engadget.com/2312022/google-fi-super-network-automatic-carrier-switching/",
-      "source": "Engadget",
-      "published": "2026-11-10T17:30:00+00:00",
-      "excerpt": "It's rolling out first on Pixel phones before wider availability arrives in 2027.",
-      "image": "https://www.engadget.com/img/gallery/google-fi-announces-super-network-automatic-carrier-switching-for-improved-speed-and-reception/l-intro-1794323524.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "1f297950e666",
-      "title": "Google Fi brings back network switching with \u2018secondary\u2019 partner, expands W+ beyond Pixel",
-      "url": "https://9to5google.com/2026/11/10/google-fi-network-switching/",
-      "source": "9to5Google",
-      "published": "2026-11-10T17:30:00+00:00",
-      "excerpt": "Google Fi Wireless is rolling out a big update today with the return of network switching thanks to a \u201csecondary\u201d partner. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Fi-Wireless-cover.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "daebb3520581",
-      "title": "Save serious money with RedPocket\u2019s Black Friday plans that start at $5 a month",
-      "url": "https://9to5google.com/2026/11/10/save-serious-money-with-redpockets-black-friday-plans-that-start-at-5-a-month-sponsored/",
-      "source": "9to5Google",
-      "published": "2026-11-10T17:24:50+00:00",
-      "excerpt": "You\u2019re not going to believe this, but there\u2019s one part of your life that\u2019s not actually getting more expensive. If you switch to RedPocket Mobile during its Black Friday sale, you can ditch your costly carrier and get a plan that starts at...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/00947cc8ee4c3fe022e46888fd9a63f8_abt-us-mob.webp?w=1536",
-      "category": "Software Development"
     }
   ]
 }
