@@ -1,6 +1,36 @@
 {
-  "updated": "2026-11-12T23:38:21+00:00",
+  "updated": "2026-11-13T06:43:30+00:00",
   "items": [
+    {
+      "id": "9e0cc84d062d",
+      "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
+      "source": "The Hacker News",
+      "published": "2026-11-13T05:43:28+00:00",
+      "excerpt": "N-able on Thursday said it's taking additional precautions in the wake of public disclosure of a new set of flaws tracked as 4EverAble2Shell and Agent2Shell. \"We are restricting certain N-central features and integrations,\" the company...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA4jxlXpPBPhD5o3IHy80Fn7fSHUtcqH3iXQlU-jDUL5C3zJcf1_Zb-GAYxuW6P6q647p9JAT_opImlj-v-USDNhZ_z83mYC3ISKtN72pe_3XLwf5EyMRuK4OdXCFnYxGMhOAvN_i4UFqk5vJLriRnkbRRwILuT5JUpExx9Tm74sXSCQ0g7jjsOzWV1cqk/s1600/nable-hacks.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "dca781018f4f",
+      "title": "Xbox announces Wolfenstein 3",
+      "url": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
+      "source": "The Verge",
+      "published": "2026-11-13T00:11:44+00:00",
+      "excerpt": "It's been nearly a decade since Bethesda's MachineGames released Wolfenstein II: The New Colossus in 2017, and now Xbox is ready to announce a sequel from the studio. Wolfenstein 3 was officially announced today, just days after Bethesda...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ss_c195852422ed8e92ffa4d68ea4bfd34291823c3e.1920x1080.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "e7ee85415204",
+      "title": "Whoop launched a social network where every user has a \u2018verified heartbeat\u2019",
+      "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
+      "source": "The Verge",
+      "published": "2026-11-12T23:43:22+00:00",
+      "excerpt": "Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post Story-like \"Moments\"...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/whoop-humans-launch-screenshots-trio-2.jpeg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Data & Analytics"
+    },
     {
       "id": "85e13b3fdf59",
       "title": "Meta's Muse can now make calls on your behalf (if you have a paid subscription)",
@@ -33,11 +63,11 @@
     },
     {
       "id": "82d9be95873a",
-      "title": "Muse can now place calls to U.S. businesses \u2014 if you pay",
+      "title": "Muse can now place calls to US businesses \u2014 if you pay",
       "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
       "source": "TechCrunch",
       "published": "2026-11-12T22:22:28+00:00",
-      "excerpt": "Muse's AI can now place outbound calls to US businesses \u2014 but it's not free.",
+      "excerpt": "Muse's AI can now place outbound calls to U.S. businesses \u2014 but it's not free.",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/muse-calls.jpg?w=1104",
       "category": "Artificial Intelligence"
     },
@@ -370,36 +400,6 @@
       "excerpt": "Several of the tracker\u2019s best features require Bluetooth 6.0-compatible device.",
       "image": "https://www.zdnet.com/wp-content/uploads/sites/3/fe1b30ad-195d-42f2-8903-ef1bbf5ec547-1-201-a_33806e.jpg",
       "category": "Operating Systems"
-    },
-    {
-      "id": "ca80552a275a",
-      "title": "SoftBank\u2019s billion-dollar loss may have put a cap on AI\u2019s natural gas ambitions",
-      "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-      "source": "TechCrunch",
-      "published": "2026-11-12T17:00:52+00:00",
-      "excerpt": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1294103185.jpg?resize=1200,799",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "3068e9e9bd47",
-      "title": "\u2018The end of Tesla!\u2019: Cybertruck diehards turn on Elon Musk after he pulls the plug",
-      "url": "https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash",
-      "source": "The Verge",
-      "published": "2026-11-12T17:00:17+00:00",
-      "excerpt": "The Cybertruck is heading to that shiny cyber-dumpster in the sky, leaving the folks who built online identities around Elon Musk's polarizing pickup feeling bereft. Usually, Musk's fanbase treads lightly around their idol's mercurial...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS493_CYBERTRUCK_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "a19331738d4c",
-      "title": "25 years later, Xbox is trying to reinvent itself again",
-      "url": "https://www.theverge.com/tech/1031792/xbox-25-year-milestone-notepad",
-      "source": "The Verge",
-      "published": "2026-11-12T17:00:00+00:00",
-      "excerpt": "Microsoft has spent the past 25 years trying to shake up the game console market. The original Xbox, which launched on November 15th in 2001, took on an industry dominated by Sony and Nintendo. Twenty-five years later, Xbox finds itself in...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STK048_XBOX_4_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Enterprise Software & SaaS"
     }
   ]
 }
