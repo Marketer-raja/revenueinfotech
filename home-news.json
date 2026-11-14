@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T08:50:27.232Z",
+  "updated": "2026-11-14T08:52:49.930Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -313,14 +313,16 @@
     },
     {
       "id": "434e9abae2e0",
+      "slug": "sonos-adds-new-presets-and-prepares-for-the-27voice-ai-beta",
       "title": "Sonos adds new Presets and prepares for the 27voice AI beta",
-      "summary": "Sonos is rolling out a big app update that includes new Presets and early access to its AI voice assistant. You can create a preset to play music at a specific volume in a certain room, which will appear directly on the homescreen so you...",
+      "summary": "Sonos has released an app update that finally lets listeners save one-tap Presets with a chosen room, music and volume, and it has opened a US-only early-access waitlist for 27voice, a cloud-based AI voice assistant, ahead of a wider launch planned for 2027.",
+      "articleBody": "Sonos has started rolling out a major app update that adds long-requested Presets and opens early access to its new AI voice assistant, Sonos 27voice. The update, reported as Sonos app 91.0, began reaching users on November 3.\n\nPresets let you save a combination of music, room and volume, then start it with a single tap from the app's homescreen. Listeners have asked for something like this for years, and some reports describe it as the company's most-requested feature. One report says up to 50 Presets can be saved. There are limits for now. Presets can only be launched from the mobile app, and they do not work with voice commands or the Sonos web app. They also require S2 speakers running Sonos 27. Android support has been confirmed but is scheduled for a later update.\n\nThe bigger headline is Sonos 27voice, a voice assistant built on large language models and designed around music and home audio. Instead of rigid commands, it is meant to understand natural requests: starting music, moving playback between rooms, grouping or ungrouping speakers, and setting timers. Sonos says it can also handle more complex asks, such as finding an artist's newest album and playing it in a chosen room, or identifying an album from its cover art. It can also report the weather and control supported smart home accessories.\n\nAccess is limited. In the United States, eligible users can request a place on the waitlist from November 6 through Settings, General Settings, Voice Assistants in the Sonos app. Approved testers get access from November 12. The early-access phase is available only in the US and only in English, and Sonos plans a full release in 2027 after collecting feedback from the smaller group.\n\nThe update also brings smaller changes. A left swipe on the Now Playing screen or mini player now skips to the next track, favorites can be rearranged, and iPhone users get System Health, an iOS-only diagnostics view that helps spot network and speaker connection problems.\n\nThe main trade-off is privacy. Unlike Sonos's earlier Voice Control, which stays local, 27voice sends voice requests to Sonos's cloud servers. Reports also say some open-ended questions are handled with outside AI models, and that some data may be processed in the US or by outside AI companies. Sonos says the assistant is optional. Presets and System Health work without enabling it, and users can stay on Classic Voice Control. Sonos also says Alexa and 27voice can be active on the same compatible speaker.\n\nFor Sonos owners, Presets are an immediate, practical improvement, while 27voice is an early look at where the company's software is heading. What remains unclear is how well the assistant performs in everyday use, how Sonos will handle voice data, and when the beta will reach other countries and languages.",
+      "author": "Kamali",
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25651509/_STK084_SONOS_C.png?quality=90&strip=all&crop=0,0,100,100",
       "category": "Artificial Intelligence",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T22:20:50+00:00"
     },
     {
