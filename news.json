@@ -1,6 +1,156 @@
 {
-  "updated": "2026-11-14T15:48:21+00:00",
+  "updated": "2026-11-14T22:23:23+00:00",
   "items": [
+    {
+      "id": "3fa73627f07b",
+      "title": "How to get better results from Google Gemini",
+      "url": "https://www.engadget.com/2312834/how-to-get-better-results-google-gemini/",
+      "source": "Engadget",
+      "published": "2026-11-14T22:15:00+00:00",
+      "excerpt": "These tips and tricks will help you prompt Gemini better.",
+      "image": "https://www.engadget.com/img/gallery/how-to-get-better-results-from-google-gemini/l-intro-1794346807.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "9a736294c460",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "source": "TechCrunch",
+      "published": "2026-11-14T21:41:22+00:00",
+      "excerpt": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "e7fab27d952c",
+      "title": "The reasons why your TV soundbar has an audio delay",
+      "url": "https://www.engadget.com/2312648/reasons-why-tv-soundbar-audio-delay/",
+      "source": "Engadget",
+      "published": "2026-11-14T21:30:00+00:00",
+      "excerpt": "Audio delays are really irritating, especially when watching sports and live events. We've got several possible causes and what you can do about them.",
+      "image": "https://www.engadget.com/img/gallery/the-reasons-why-your-tv-soundbar-has-an-audio-delay/l-intro-1794341678.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "5e48d8b824f9",
+      "title": "Why some USB ports are yellow (and less common than others)",
+      "url": "https://www.engadget.com/2312464/why-some-usb-ports-yellow-less-common/",
+      "source": "Engadget",
+      "published": "2026-11-14T21:15:00+00:00",
+      "excerpt": "Not every USB port color means what you think. Learn why yellow ports are so uncommon and what to check before you plug in anything important.",
+      "image": "https://www.engadget.com/img/gallery/why-some-usb-ports-are-yellow-and-less-common-than-others/l-intro-1794332281.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "c64b2e140514",
+      "title": "How to clear the cache on your Samsung TV",
+      "url": "https://www.engadget.com/2312222/how-to-clear-cache-samsung-tv/",
+      "source": "Engadget",
+      "published": "2026-11-14T21:00:00+00:00",
+      "excerpt": "Your TV's cache is a collection of temporary files, some of which you don't need anymore. Here's why you might want to clear those out \u2013 and how.",
+      "image": "https://www.engadget.com/img/gallery/how-to-clear-the-cache-on-your-samsung-tv/l-intro-1794330105.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "05377ae10c84",
+      "title": "SpaceX successfully catches Starship after launch for the first time",
+      "url": "https://www.engadget.com/2316926/watch-spacex-attempt-to-catch-the-starship-upper-stage-for-the-first-time/",
+      "source": "Engadget",
+      "published": "2026-11-14T20:54:14+00:00",
+      "excerpt": "While the company has pulled off this trick a few times with Super Heavy boosters, it was a first for the Ship.",
+      "image": "https://www.engadget.com/img/gallery/watch-spacex-attempt-to-catch-the-starship-upper-stage-for-the-first-time/l-intro-1794693469.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "389259cb4822",
+      "title": "How to clear the cache on your Xbox Series X",
+      "url": "https://www.engadget.com/2312189/how-to-clear-cache-xbox-series-x/",
+      "source": "Engadget",
+      "published": "2026-11-14T20:45:00+00:00",
+      "excerpt": "Clearing the cache on your Xbox Series X can help it retain its snappiness while avoiding glitches, or you can perform a console reset if all else fails.",
+      "image": "https://www.engadget.com/img/gallery/how-to-clear-the-cache-on-your-xbox-series-x/l-intro-1794327413.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "504ef0162df3",
+      "title": "Is your car tracking your location? Here's how to check and opt out",
+      "url": "https://www.engadget.com/2312168/car-location-tracking-how-to-opt-out/",
+      "source": "Engadget",
+      "published": "2026-11-14T20:30:00+00:00",
+      "excerpt": "Modern cars are great for farming user data, and big tech companies know it. It's important to know how this information is collected and how to opt out.",
+      "image": "https://www.engadget.com/img/gallery/is-your-car-tracking-your-location-heres-how-to-check-and-opt-out/l-intro-1794245169.jpg",
+      "category": "Data & Analytics"
+    },
+    {
+      "id": "155bbf720ce0",
+      "title": "This built-in Windows tool can diagnose your PC's battery health",
+      "url": "https://www.engadget.com/2312107/built-in-windows-tool-diagnose-pc-battery-health-powercfg/",
+      "source": "Engadget",
+      "published": "2026-11-14T20:15:00+00:00",
+      "excerpt": "If your laptop doesn't seem to hold a charge as well as it used to, start by checking the diagnostics this tool can report. We'll show you how to use it.",
+      "image": "https://www.engadget.com/img/gallery/this-built-in-windows-tool-can-diagnose-your-pcs-battery-health/l-intro-1794326458.jpg",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "f496bdb8398a",
+      "title": "Tesla opens Cybercab pre-orders \u2018for personal use,\u2019 with geo restrictions and a $299 monthly fee",
+      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+      "source": "TechCrunch",
+      "published": "2026-11-14T20:04:44+00:00",
+      "excerpt": "Even Elon Musk said the monthly fee is \"too high.\"",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-cybercab-getty.jpg?resize=1200,834",
+      "category": "Software Development"
+    },
+    {
+      "id": "2aaf30a22864",
+      "title": "How much did home internet cost in 2001 vs 2026?",
+      "url": "https://www.engadget.com/2311774/home-internet-2001-vs-2026-cost/",
+      "source": "Engadget",
+      "published": "2026-11-14T19:45:00+00:00",
+      "excerpt": "A lot of things have gotten more expensive since the turn of the millennium. Has home internet suffered the same fate? Let's take a trip down memory lane.",
+      "image": "https://www.engadget.com/img/gallery/how-much-did-home-internet-cost-in-2001-vs-2026/l-intro-1794281981.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "cb83a78f24c5",
+      "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+      "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+      "source": "TechCrunch",
+      "published": "2026-11-14T18:00:00+00:00",
+      "excerpt": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-iPhone-Duo-closed-and-open.jpg?resize=1200,675",
+      "category": "Software Development"
+    },
+    {
+      "id": "6c79d69422db",
+      "title": "Transportation secretary blames \u2018routine\u2019 equipment upgrade for grounding flights nationwide",
+      "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+      "source": "TechCrunch",
+      "published": "2026-11-14T17:45:04+00:00",
+      "excerpt": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2304506223.jpg?w=1024",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "b08cefd9996d",
+      "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch",
+      "published": "2026-11-14T17:30:00+00:00",
+      "excerpt": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "2a2bfff1121f",
+      "title": "Asian governments react to Nvidia CEO Jensen Huang\u2019s exit",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "source": "TechCrunch",
+      "published": "2026-11-14T16:34:15+00:00",
+      "excerpt": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024",
+      "category": "Artificial Intelligence"
+    },
     {
       "id": "5adc8907a2ae",
       "title": "Should you make the switch to Samsung Galaxy from Google Pixel?",
@@ -250,156 +400,6 @@
       "excerpt": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/drogue-team.jpeg?resize=1200,900",
       "category": "Data & Analytics"
-    },
-    {
-      "id": "38741df50e34",
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "source": "TechCrunch",
-      "published": "2026-11-13T19:37:57+00:00",
-      "excerpt": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Raising-money.jpg?resize=1200,829",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "887a733c5102",
-      "title": "Motorola MA2 wireless Android Auto adapter just vanished days after finally going on sale",
-      "url": "https://9to5google.com/2026/11/13/motorola-ma2-android-auto-amazon-delay/",
-      "source": "9to5Google",
-      "published": "2026-11-13T19:30:00+00:00",
-      "excerpt": "The long-awaited Motorola MA2 wireless Android Auto adapter is gone just days after it went on sale. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/motorola-ma2-android-auto-2.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "63052a724dcf",
-      "title": "Google now lets people connect Gemini to their bank accounts",
-      "url": "https://www.engadget.com/2316384/google-now-lets-people-connect-gemini-to-their-bank-accounts/",
-      "source": "Engadget",
-      "published": "2026-11-13T19:15:32+00:00",
-      "excerpt": "This is for spending analysis and not for making purchases.",
-      "image": "https://www.engadget.com/img/gallery/google-now-lets-people-connect-gemini-to-their-bank-accounts/l-intro-1794596813.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "c9dca9aa5ef4",
-      "title": "Disney's 3D movies shine on Meta's Quest 3, it's just a shame it took so long",
-      "url": "https://www.engadget.com/2316342/meta-quest-3-disney-plus-3d-movies-hands-on/",
-      "source": "Engadget",
-      "published": "2026-11-13T19:00:00+00:00",
-      "excerpt": "Finally, you can watch Avatar in 3D HFR at home.",
-      "image": "https://www.engadget.com/img/gallery/disneys-3d-movies-shine-on-metas-quest-3-its-just-a-shame-it-took-so-long/l-intro-1794595978.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "771db555ac79",
-      "title": "You can get a new phone plan for as low as $6.50/month for Black Friday",
-      "url": "https://9to5google.com/2026/11/13/black-friday-phone-plan-deals/",
-      "source": "9to5Google",
-      "published": "2026-11-13T19:00:00+00:00",
-      "excerpt": "Phone plans are incredibly expensive, but they don\u2019t always have to be. With Black Friday deals in full swing, you can currently score a new phone plan for as little as $6.50 per month. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-11-Pro-Canyon-9.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "fff62a1c63df",
-      "title": "Friday\u2019s Android game and app deals: Echoes of Vatheria, Raiders of the North Sea, MEGA MAN, more",
-      "url": "https://9to5toys.com/2026/11/13/todays-highlight-google-play-deals-49/",
-      "source": "9to5Google",
-      "published": "2026-11-13T18:53:06+00:00",
-      "excerpt": "The early Black Friday sales are in full swing at Amazon , Walmart , and Best Buy has now launched a suite of new Doorbusters , but we also have Friday\u2019s Google Play app and game deals: Echoes of Vatheria, Raiders of the North Sea, MEGA...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Play-collage-508a5e.webp?w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "f17748102e2c",
-      "title": "Export-banned Nvidia chips are behind China\u2019s most powerful AI models \u2014 uh-oh, Jensen!",
-      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "source": "TechCrunch",
-      "published": "2026-11-13T18:40:30+00:00",
-      "excerpt": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2301327883.jpg?resize=1200,795",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "3bf2cbe7ba32",
-      "title": "You can adjust the position of the trackball on Keychron\u2019s new wireless mouse",
-      "url": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
-      "source": "The Verge",
-      "published": "2026-11-13T18:10:41+00:00",
-      "excerpt": "The Nape Pro was Keychron's first trackball device that was introduced at CES 2026 with a slim and compact design allowing it to be positioned right up against a keyboard. The company's new T1 HE instead looks more like other trackball...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/keychron1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "66f0659c806b",
-      "title": "You can now set up Gemini\u2019s Google Wallet integration for \u2018personal finance insights\u2019",
-      "url": "https://9to5google.com/2026/11/13/gemini-google-wallet/",
-      "source": "9to5Google",
-      "published": "2026-11-13T17:51:44+00:00",
-      "excerpt": "As we spotted in September , the Gemini app is adding Google Wallet integration in the US that makes possible \u201cresponses informed by your spending habits.\u201d more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-Google-Wallet-cover.png?w=1600",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "cfb5766d57c2",
-      "title": "Jensen Huang was reckless with the environment, too",
-      "url": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
-      "source": "The Verge",
-      "published": "2026-11-13T17:44:22+00:00",
-      "excerpt": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and chemical-intensive factories...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301295182.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "1107072f0a0c",
-      "title": "You can now tempt fate and give your banking information to ChatGPT",
-      "url": "https://www.engadget.com/2316137/you-can-now-tempt-fate-and-give-your-banking-information-to-chatgpt/",
-      "source": "Engadget",
-      "published": "2026-11-13T17:17:51+00:00",
-      "excerpt": "The new Wallet feature will allow its AI agents to make purchases on your behalf.",
-      "image": "https://www.engadget.com/img/gallery/you-can-now-tempt-fate-and-give-your-banking-information-to-chatgpt/l-intro-1794590211.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "ecbb932b99bc",
-      "title": "The smallest version of Camp Snap\u2019s retro digital camcorder fits on your keychain",
-      "url": "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain",
-      "source": "The Verge",
-      "published": "2026-11-13T17:12:56+00:00",
-      "excerpt": "Last week, Camp Snap launched a miniaturized version of its screen-free CS-8 video camera that was half the size of the original with a smaller grip designed to be easier for kids to hold. But it turns out the company wasn't done shrinking...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/campsnapA.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "67b664462bb0",
-      "title": "The new Apple TV has a YouTube problem",
-      "url": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
-      "source": "The Verge",
-      "published": "2026-11-13T16:55:57+00:00",
-      "excerpt": "People who received the brand new Apple TV 4k today saw some strange error messages as soon as they opened the YouTube app. As the first units arrived, the app was initially only showing a black screen with a QR code and an error message...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE37.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "e05f7a78ce38",
-      "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
-      "url": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
-      "source": "The Hacker News",
-      "published": "2026-11-13T16:53:08+00:00",
-      "excerpt": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requires rebuilding any...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj8XOS7IKEt2ZhrwwdlDSpQ5hAyI46wHZpPkTQ3_hA6yUtMQpzaM50fm2v9x0O7NCt5z9vdrTsYM3iPOmu9fmmMTQDViu-rQjCfSxfCQhwZQazr4ZYayvEn5MQfUdTBVODtAay6RIaTqJGUj-HVzbtMqNPdNFiQHExhO9sitJX0GrvTx_EhWmslA-87ds/s1600/postgresql.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "4f9ae3552d78",
-      "title": "The Xiaomi 18 Pro\u2019s rear displays support Google apps, Spotify, and custom GenAI apps",
-      "url": "https://9to5google.com/2026/11/13/the-xiaomi-18-pros-rear-displays-support-google-apps-spotify-and-custom-genai-apps/",
-      "source": "9to5Google",
-      "published": "2026-11-13T16:45:47+00:00",
-      "excerpt": "The Xiaomi 18 Pro series\u2019 rear displays might actually be useful, after all. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-2.jpg?quality=82&strip=all&w=1400",
-      "category": "Software Development"
     }
   ]
 }
