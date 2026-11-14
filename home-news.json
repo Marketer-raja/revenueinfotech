@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T09:33:47.121Z",
+  "updated": "2026-11-14T09:35:09.605Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -691,14 +691,16 @@
     },
     {
       "id": "9ca07b46843b",
+      "slug": "msecure-warns-users-to-change-passwords-reset-2fa-and-passkeys-after-suspicious-",
       "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
-      "summary": "Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA), and removing passkeys. The warning...",
+      "summary": "The company behind the mSecure password manager has told current and former customers to change their master password and stored logins, reset two-factor authentication and replace passkeys after it detected suspicious activity, but it has not said exactly what happened.",
+      "articleBody": "mSeven Software, the developer of the mSecure password manager, has warned current and former customers to take steps to protect the sensitive information stored in the app. In an email sent on November 3, 2026, the company said it had recently learned of \"suspicious activity\" connected to mSecure and recommended that users change their passwords, reset their two-factor authentication and replace or remove their passkeys.\n\nThe company framed its advice as standard best practice. It recommended that customers change their master password, change the important passwords stored in the vault, reset their two-factor authentication methods and replace passkeys along with any other sensitive information. The warning went to both current and former customers, which suggests that people who no longer use the app may also be affected.\n\nWhat the email did not do is explain the incident. Security outlets including The Register pointed out that the company did not say what had been compromised, how the activity was detected, or whether any customer data was actually accessed. Some reporting, including coverage by BleepingComputer and TechRadar, says an encrypted customer database stored in the cloud may have been exposed. That detail comes from secondary reporting and has not been confirmed in the company's own message as far as the public record shows, so it should be treated with caution.\n\nThe advice matters because a password manager sits at the center of a person's online security. It typically holds logins for email, banking and work accounts, and increasingly stores passkeys and the codes used for two-factor authentication. If an attacker obtained a copy of encrypted vault data, the strength of the master password would determine how hard it is to crack. That is why changing the master password first, and then changing the most important stored passwords, is the usual response in these situations.\n\nUsers who have mSecure data can take a few sensible steps while waiting for more information. Change the master password to a long, unique one. Then change passwords for the most sensitive accounts first, such as email, banking and any account that can be used to reset others. Re-enroll two-factor authentication where the codes were stored in the app, replace passkeys that were saved there, and watch for phishing emails that claim to come from mSecure, since attackers often exploit news of a breach.\n\nMany questions remain open. It is not clear how many customers are affected, whether the incident involved stolen data or only unauthorized access attempts, or whether the company will publish a fuller explanation. Customers are likely to look for those details before deciding whether to keep using the service or switch to another password manager.",
+      "author": "Kamali",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtvbYhodewxI1TOMjVp0GKUmMdudVKH27My8auvMEvDbCkd_JBzdJjjBb99j2a2a9R1wgkOaTdLcM_9FEmpyweVquFetLeyfzSC5UgpukK8Ukw7keJb5HwmTnPP1qWT2QzVX3FKLtBKLDFnuMrzmfgW5dwYf6SJHZHqSDj_eYGdap3ECOMMI1Em6_oS_0/s1600/msecure.jpg",
       "category": "Software Development",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T18:46:38+00:00"
     },
     {
