@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T09:05:17.965Z",
+  "updated": "2026-11-14T09:06:51.039Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -439,14 +439,16 @@
     },
     {
       "id": "fc591ddcfa11",
+      "slug": "orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space",
       "title": "Orbital Matter 3D-printed the first rigid beam in the vacuum of space",
-      "summary": "An in-space construction first could be an enabler for the space data centers of the future.",
+      "summary": "European startup Orbital Matter says its Replicator 2 satellite has 3D-printed a half-meter rigid beam in the open vacuum of orbit, which it calls a first for a free-flying spacecraft. The company says the technique could eventually be used to build large solar arrays and radiators, such as those proposed for orbital data centers.",
+      "articleBody": "Orbital Matter, a European startup, says its Replicator 2 satellite has 3D-printed a rigid beam about half a meter long in the vacuum of space. The company calls it a first for a free-flying spacecraft. Earlier 3D printing in microgravity was done inside the pressurized, temperature-controlled cabin of the International Space Station, while Replicator 2's printers operated outside, exposed to vacuum, microgravity and extreme temperature swings.\n\nThe satellite carries four printers. Each one makes a rigid cylindrical beam by extruding coils of a custom resin that is hardened with ultraviolet light, a process the company compares to how cement sets after mixing with water. According to reports, one of the four printers suffered an anomaly, but a beam that was printed successfully was used to deploy a solar array. Reports say Replicator 2 launched in July on a SpaceX Transporter mission, and the company announced the result on November 3.\n\nThe reason this matters is size. Future spacecraft will need larger solar arrays to generate more electrical power and larger radiators to shed heat into space, especially if they are to serve as orbital data centers. Today, anything that goes to orbit must fit inside a rocket fairing, which means folding structures and adding hinges and deployment mechanisms. Printing structures in orbit could remove that limit. \"Replicator 2 is the first proof that we can simply build the array in space, at whatever size the mission demands,\" said CEO and co-founder Jakub Stojek.\n\nOrbital Matter was co-founded in 2022 by Stojek and Robert Ihnatsin, who previously worked at 3D-printing company Formlabs, and has raised a $3 million seed round. It is working with the European Space Agency and satellite manufacturer Thales Alenia, and says other satellite builders are evaluating its printer-assisted deployment system for panels, antennas and other components. The company plans a larger demonstration in 2028 and hopes to deploy very large solar arrays on satellites by 2030.\n\nExperts and observers urge caution. The beam is short, and its length is currently limited by the resin carried on the satellite. Engineers say beams up to 100 meters long are possible, but that remains a goal, and commentators note that scaling up is unproven. Similar beams were produced in 2023 by NASA-backed Redwire in a vacuum chamber on Earth, but that test never flew in space.\n\nStill to be shown is whether printed booms can be made repeatedly and reliably at much larger sizes, how they hold up over years of thermal cycling, and whether space-based data centers become a real market. For now, the result is a small but concrete step toward building large structures in orbit rather than launching them whole.",
+      "author": "Kamali",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/2026-10-21_09-57-41-128.jpg?w=800",
       "category": "Data & Analytics",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T20:57:17+00:00"
     },
     {
