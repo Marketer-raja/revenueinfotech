@@ -80,9 +80,12 @@
       <h2 id="formTitle">Add a news item</h2>
       <input type="hidden" id="editId">
       <label for="title">Headline *</label><input id="title" maxlength="160">
-      <label for="summary">Summary * <span style="font-weight:400;color:var(--mute)">(original summary in your own words; do not copy the feed excerpt)</span></label>
+      <label for="summary">Summary * <span style="font-weight:400;color:var(--mute)">(write this in your own words; do not copy the feed excerpt)</span></label>
       <textarea id="summary" rows="3" maxlength="600"></textarea>
+      <label for="articleBody">Full article * <span style="font-weight:400;color:var(--mute)">(original reporting or editorial explanation; at least 600 characters)</span></label>
+      <textarea id="articleBody" rows="12" maxlength="20000" placeholder="Write the full article in your own words. Add verified facts, context, who is affected, why it matters, and what is still unknown. Separate paragraphs with a blank line."></textarea>
       <div class="grid">
+        <div><label for="author">Author / editor byline *</label><input id="author" maxlength="100" placeholder="Real author name or RevenueInfoTech Editorial Desk"></div>
         <div><label for="source">Source name *</label><input id="source" placeholder="e.g. The Verge"></div>
         <div><label for="url">Source link *</label><input id="url" placeholder="https://…"></div>
         <div><label for="category">Category</label>
@@ -91,7 +94,7 @@
             <option>Software Development</option><option>Operating Systems</option><option>Enterprise Software & SaaS</option>
             <option>Data & Analytics</option><option>Web Development</option>
           </select></div>
-        <div><label for="image">Image URL <span style="font-weight:400;color:var(--mute)">(optional)</span></label><input id="image" placeholder="https://…"></div>
+        <div><label for="image">Image URL <span style="font-weight:400;color:var(--mute)">(optional; use only images you own or are licensed to republish)</span></label><input id="image" placeholder="https://…"></div>
       </div>
       <label for="section">Where should it appear on the home page? *</label>
       <select id="section">
@@ -120,7 +123,7 @@
 
     <section class="card">
       <h2>Home page news <span id="count" class="hint"></span></h2>
-      <p class="hint" style="margin-top:0">Top of the list appears first on the site. Only reviewed items go live after you press <b>Publish to site</b>.</p>
+      <p class="hint" style="margin-top:0">Top of the list appears first on the site. Only items with a full original article (600+ characters) and a real author/editor byline are displayed and built into public article pages. Older feed-only entries loaded from the previous version are not considered approved; edit them with original reporting or delete them before publishing.</p>
       <div id="list"></div>
     </section>
   </div>
@@ -224,24 +227,25 @@
 
   // ---------- form ----------
   function resetForm(){
-    ["editId","title","summary","source","url","image"].forEach(function(k){$(k).value=""});
+    ["editId","title","summary","articleBody","author","source","url","image"].forEach(function(k){$(k).value=""});
     $("section").value="brief";$("formTitle").textContent="Add a news item";$("save").textContent="Add to list";$("cancelEdit").classList.add("hidden");clear($("formMsg"));
   }
   function edit(id){
     var it=S.items.find(function(x){return x.id===id});if(!it)return;
-    $("editId").value=it.id;$("title").value=it.title||"";$("summary").value=it.summary||"";$("source").value=it.source||"";
+    $("editId").value=it.id;$("title").value=it.title||"";$("summary").value=it.summary||"";$("articleBody").value=it.articleBody||"";$("author").value=it.author||"";$("source").value=it.source||"";
     $("url").value=it.url||"";$("image").value=it.image||"";$("section").value=secOf(it);
     if(it.category)$("category").value=it.category;
     $("formTitle").textContent="Edit news item";$("save").textContent="Save changes";$("cancelEdit").classList.remove("hidden");
     window.scrollTo({top:0,behavior:"smooth"});
   }
   function saveItem(){
-    var t=$("title").value.trim(),s=$("summary").value.trim(),src=$("source").value.trim(),u=$("url").value.trim(),im=$("image").value.trim();
-    if(!t||!s||!src)return say($("formMsg"),"Headline, summary and source name are required.","err");
+    var t=$("title").value.trim(),s=$("summary").value.trim(),body=$("articleBody").value.trim(),author=$("author").value.trim(),src=$("source").value.trim(),u=$("url").value.trim(),im=$("image").value.trim();
+    if(!t||!s||!src||!author)return say($("formMsg"),"Headline, summary, source name and author/editor byline are required.","err");
+    if(body.length<600)return say($("formMsg"),"Please write a substantial original article of at least 600 characters before publishing.","err");
     if(!okUrl(u))return say($("formMsg"),"Source link must be a valid http(s) URL.","err");
     if(im&&!okUrl(im))return say($("formMsg"),"Image URL must be a valid http(s) URL.","err");
     var id=$("editId").value,existing=id&&S.items.find(function(x){return x.id===id});
-    var item={id:existing?existing.id:uid(),title:t,summary:s,source:src,url:u,image:im,category:$("category").value,
+    var item={id:existing?existing.id:uid(),slug:(existing&&existing.slug)||t.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"").slice(0,80),title:t,summary:s,articleBody:body,author:author,source:src,url:u,image:im,category:$("category").value,
       section:$("section").value,published:existing?existing.published:new Date().toISOString()};
     if(existing)S.items[S.items.indexOf(existing)]=item;else S.items.unshift(item);
     resetForm();markDirty();say($("formMsg"),existing?"Updated.":"Added to the top of the list. Press Publish to site to make it live.","ok");
@@ -257,7 +261,8 @@
         var b=el("button",{text:"Review candidate"});
         b.addEventListener("click",function(){
           resetForm();$("title").value=it.title||"";$("summary").value=it.excerpt||"";$("source").value=it.source||"";$("url").value=it.url||"";
-          window.scrollTo({top:0,behavior:"smooth"});say($("formMsg"),"Candidate loaded. Open and verify the original source, then write an original summary with context before adding it to the homepage.","ok");
+          $("category").value=it.category||"Software Development";
+          window.scrollTo({top:0,behavior:"smooth"});say($("formMsg"),"Candidate loaded. Verify the original source, then write an original full article and add a real author/editor byline before publishing.","ok");
         });
         box.appendChild(el("div",{class:"item"},[el("div",{class:"t",text:it.title}),el("div",{class:"m",text:(it.source||"")+" · "+(it.published||"").slice(0,10)}),b]));
       });
@@ -268,7 +273,7 @@
   // ---------- publish ----------
   async function publish(){
     var pm=$("pubMsg");$("publish").disabled=true;pm.style.color="";pm.textContent="Publishing…";
-    var payload=JSON.stringify({updated:new Date().toISOString(),items:S.items},null,2)+"\n";
+    var payload=JSON.stringify({updated:new Date().toISOString(),auto:false,editorApproved:true,items:S.items},null,2)+"\n";
     async function put(){
       return gh("/contents/"+FILE,{method:"PUT",body:{message:"Newsdesk: update home news ("+S.items.length+" items)",content:b64enc(payload),branch:S.branch,sha:S.sha||undefined}});
     }
