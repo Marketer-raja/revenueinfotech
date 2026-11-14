@@ -1,22 +1,29 @@
-name: Collect technology news candidates
+name: RevenueInfoTech editorial publishing
 on:
   schedule:
-    - cron: "17 */3 * * *" # collect candidate headlines every three hours
+    - cron: "17 */3 * * *"
   workflow_dispatch:
+  push:
+    paths:
+      - "home-news.json"
 permissions:
   contents: write
 jobs:
-  collect:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: python scripts/fetch_news.py
-      - name: Commit candidate queue only
+      - name: Collect unpublished RSS candidates
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: python scripts/fetch_news.py
+      - name: Build approved article pages and sitemap
+        run: python scripts/build_articles.py
+      - name: Commit generated content
         run: |
-          git config user.name "news-bot"
-          git config user.email "news-bot@users.noreply.github.com"
-          git add news.json news/index.html
-          git diff --cached --quiet || (git commit -m "Refresh editorial news candidates" && git push)
+          git config user.name "revenueinfotech-bot"
+          git config user.email "revenueinfotech-bot@users.noreply.github.com"
+          git add news.json news/index.html sitemap.xml news/ articles/ || true
+          git diff --cached --quiet || (git commit -m "Build reviewed technology news pages" && git push)
