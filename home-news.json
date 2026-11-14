@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T09:22:08.476Z",
+  "updated": "2026-11-14T09:28:33.140Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -621,14 +621,16 @@
     },
     {
       "id": "1ad7effb0a17",
+      "slug": "reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount",
       "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
-      "summary": "The new ad placements could help Reddit squeeze more revenue from existing users as Google's AI search changes how people discover its content.",
+      "summary": "Reddit has begun testing ads inside its own search results, a move aimed at earning more from people already on the platform while Google's AI-driven search changes cut the traffic it receives from outside.",
+      "articleBody": "Reddit has started testing advertisements inside its own search results, announcing the experiment on Tuesday, November 3, 2026. The test comes at a delicate moment for the company. Traffic arriving from outside search engines has weakened, and investors are asking how Reddit will keep growing if that trend continues.\n\nAccording to screenshots the company shared, the sponsored results appear near the top of the results page when someone searches within Reddit. Reddit did not say how often these ads will show up, which advertisers are taking part, or what they will pay. The company has described the rollout as an early test meant to measure how users and advertisers respond before any wider launch.\n\nThe timing is closely tied to Reddit's latest earnings. In its Q3 shareholder letter, published on October 29, the company said search referral traffic was down meaningfully during the quarter. It also warned that daily users could fall by a low-double-digit percentage in Q4 if current search trends continue. Reddit beat Wall Street expectations on revenue and earnings, but it fell short on U.S. user growth, which is why the stock and the wider growth story are under scrutiny.\n\nReddit's leadership has pointed to Google's AI-powered search features as the most likely cause. When AI summaries answer a question directly on the results page, fewer people click through to the forums and discussion threads that feed those answers. Reddit's conversations have long ranked prominently in Google results, so any drop in outside clicks hits it directly.\n\nSearch ads give Reddit another way to earn money from users who are already inside the platform. People who search on Reddit often have clear intent, such as comparing products, looking for recommendations, or researching a purchase. That makes those moments attractive to advertisers. Reddit has also said that on-site search has been growing, so the company is betting that engaged, logged-in users can make up for some of the visitors it loses from Google.\n\nSome caveats apply. Logged-out web visitors, the group most affected by falling search traffic, account for a relatively small share of Reddit's ad revenue. That suggests its income depends more on logged-in and app users than the traffic headlines imply. Reddit has also not said the ads are a direct response to the traffic decline, so that link is analysts' interpretation rather than a stated company strategy.\n\nStill unknown are how widely the ads will roll out, how users will react to sponsored results in a space known for authentic discussion, and whether the added revenue will be enough to offset slower audience growth. Advertisers and marketers will be watching the test closely, since the results could show whether in-platform search can become a major ad channel as AI changes how people find information online.",
+      "author": "Kamali",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
       "image": "",
       "category": "Artificial Intelligence",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T19:24:37+00:00"
     },
     {
