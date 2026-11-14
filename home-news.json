@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T09:10:41.787Z",
+  "updated": "2026-11-14T09:12:03.800Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -495,14 +495,16 @@
     },
     {
       "id": "05862b8015dd",
+      "slug": "iphone-18-rumors-suggest-a-bigger-battery-higher-price-next-year",
       "title": "iPhone 18 rumors suggest a bigger battery, higher price next year",
-      "summary": "After Apple raised iPhone prices earlier this year, a new rumor claims it plans to launch the base iPhone 18 with a higher price, too. A Weibo post from leaker Digital Chat Station, spotted by 9to5Mac, says the base iPhone 18 is getting a...",
+      "summary": "A Weibo post from leaker Digital Chat Station claims Apple's standard iPhone 18 will have a larger battery than the iPhone 17 and could cost more. The post gives no battery size or price, Apple has confirmed nothing, and the phone is expected in the first half of 2027.",
+      "articleBody": "A new rumor says Apple's standard iPhone 18 will have a bigger battery than the current iPhone 17 and may also be more expensive. It comes from the Chinese leaker known as Digital Chat Station, who posted on Weibo in early November. Apple has not confirmed any of it.\n\nThe leaker did not give a battery capacity or a price. For comparison, the iPhone 17 has a 3,692 mAh battery. Apple already raised capacities in this year's iPhone 18 Pro models, which reportedly carry cells of about 4,056 mAh in the Pro and 5,391 mAh in the Pro Max for versions with a physical SIM tray, up roughly 1.7 percent and 11.8 percent from their iPhone 17 Pro counterparts. Apple has generally increased battery size from one generation to the next, so a larger cell in the base model is plausible.\n\nThe price claim is vaguer still. Digital Chat Station suggested the iPhone 18 could cost more, but did not say by how much, in which markets, or compared with what. Earlier this year Apple raised the US starting price of the iPhone 17 by $100 to $899, and some competitors made similar increases, which is why another rise would not surprise many buyers. Some outlets point out that the leaker framed the price increase as a possibility, not as a fact.\n\nThe same post lists other specifications that have been reported before. The standard iPhone 18 is said to have a 6.3-inch OLED display with a 120Hz refresh rate, the regular Dynamic Island rather than the smaller version on the Pro models, a 2nm A20 chip, Face ID and a 48-megapixel dual-camera system. A newer, more efficient chip together with a larger battery could noticeably improve battery life.\n\nTiming also matters. Apple released only its Pro models this fall, and the standard iPhone 18 is expected in the first half of 2027, reportedly alongside the iPhone 18e and a second-generation iPhone Air. Digital Chat Station predicts the standard iPhone 18 will be the best seller of the three.\n\nThe leaker has a solid record on displays and chips, but observers note that battery sizes and especially prices are often not final this far ahead of launch, and that Digital Chat Station has recently reposted older rumors as new. For buyers, the practical question is whether to buy an iPhone 17 now or wait for what may be a longer-lasting but more expensive phone. Until Apple announces the device, the battery size, price and launch date should be treated as unconfirmed.",
+      "author": "Kamali",
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/1025748/apple-iphone-18-rumors-price-hike-battery",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257946_iPhone_17_AKrales_0063.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Software Development",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T20:16:54+00:00"
     },
     {
