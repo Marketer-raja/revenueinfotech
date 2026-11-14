@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T08:59:13.693Z",
+  "updated": "2026-11-14T09:00:30.700Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -369,14 +369,16 @@
     },
     {
       "id": "bf7fc72b70b6",
+      "slug": "the-sideload-050-the-phones-samsung-and-google-won-t-make",
       "title": "The Sideload 050: The phones Samsung and Google won’t make",
-      "summary": "Welcome to episode 50 of The Sideload, a 9to5Google podcast. This week, Will and Daniel are joined by Nick Sutrich to discuss the ever-present split between North American and global phones, what the marketplace looks like with OnePlus...",
+      "summary": "Episode 50 of 9to5Google's The Sideload podcast, with guest Nick Sutrich, looks at why North American and global phone lineups keep diverging, what the market looks like now that OnePlus has left, and how AI, gaming, camera sensors, batteries and modular accessories could shape the next generation of phones.",
+      "articleBody": "9to5Google has published episode 50 of its podcast The Sideload, titled \"The phones Samsung and Google won't make.\" Hosts Will and Daniel are joined by guest Nick Sutrich. The episode runs about an hour and was released on November 3.\n\nAccording to 9to5Google's description, the conversation starts from a familiar frustration: the ever-present split between the phones sold in North America and those sold elsewhere. It then looks at what the market is like now that OnePlus is gone, and closes on the idea that a future smartphone could replace a handheld gaming device such as the Steam Deck.\n\nThe published timecodes show the topics in order: the state of the market, AI and gaming, camera sensors, batteries, and modular camera accessories, followed by a wrap-up.\n\nThe OnePlus discussion has real news behind it. OnePlus confirmed on July 16 that it would stop launching new phones in North America and Europe, with the OnePlus 15 as its last release in both regions and remaining stock selling until it runs out. The brand is expected to continue in China and India, and its phones are set to move from its own OxygenOS to Oppo's ColorOS. Oppo has said it has no plans to sell phones in the US, so the move removes the whole Oppo family from that market. Analysts also note that OnePlus never held more than about 3 percent of the US market, even at its peak in 2021.\n\nThe wider market is under strain. Counterpoint Research reported that global smartphone shipments fell 11 percent year over year in the second quarter of 2026, the weakest April to June quarter since 2013, and expects average phone prices to rise about 6.9 percent this year as memory costs climb. Apple and Samsung continue to dominate the US market.\n\nAgainst that backdrop, the episode's other topics are about where phone makers could still compete: more capable gaming and on-device AI, larger camera sensors, better batteries, and add-on camera hardware.\n\nThe episode is available on YouTube and in 9to5Google's podcast feeds. Readers who want the hosts' specific views on which phones brands should build, and why, will need to listen to the full conversation, because the show notes only outline the topics.",
+      "author": "Kamali",
       "source": "9to5Google",
       "url": "https://9to5google.com/2026/11/03/the-sideload-050-the-phones-samsung-and-google-wont-make/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/sideload-podcast-wider-copy-1.jpg?quality=82&strip=all&w=1600",
       "category": "Artificial Intelligence",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T21:30:00+00:00"
     },
     {
