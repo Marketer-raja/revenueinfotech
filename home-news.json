@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T09:01:40.609Z",
+  "updated": "2026-11-14T09:02:53.291Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -397,14 +397,16 @@
     },
     {
       "id": "db371fb8cc2d",
+      "slug": "here-s-what-it-s-like-to-use-audio-intelligence-on-the-apple-watch",
       "title": "Here’s what it’s like to use Audio Intelligence on the Apple Watch",
-      "summary": "It's impossible to paint a full picture of what Audio Intelligence on the Apple Watch Series 12 and Ultra 4 will be right now. The watchOS 27.3 developer beta just dropped earlier this afternoon, and these features are meant to be lived...",
+      "summary": "Apple's first watchOS 27.3 developer beta brings two Audio Intelligence features, Live Rewind and Siri Recap, to the Apple Watch Series 12 and Ultra 4. Both are opt-in, both are still in beta, and Apple says no audio is ever recorded or stored.",
+      "articleBody": "Apple has put its new Audio Intelligence features for the Apple Watch into developer testing. The company released the first developer betas of watchOS 27.3 and iOS 27.3 on Tuesday, November 3. The features were first announced at Apple's September hardware event, where the company said they would arrive in beta later this year.\n\nAudio Intelligence is a group of four features. Sound Recognition and Shazam music recognition are already on the watch, so the new additions in the beta are Live Rewind and Siri Recap.\n\nLive Rewind produces a text transcript of the last 15 seconds of speech picked up by the watch's microphone. Apple says it only activates when the user presses the Digital Crown, and it plays an audible chime from the speaker even when the watch is in silent mode.\n\nSiri Recap works in the background. It uses ambient listening to detect conversations the wearer is part of, and after a conversation ends, Apple Intelligence generates a title and a short list of key points. These appear in the Siri app on the iPhone. They are not full transcripts and do not say who said what. Reports say recaps can be set to delete automatically after up to seven days unless the user saves them, that sensitive details such as financial or authentication data are not logged, and that users can choose times or places where the feature stays off.\n\nBecause the features listen for speech, privacy is the central question. Apple says Audio Intelligence does not create or store audio recordings, and that the raw audio used for processing is not accessible to the operating system, apps, the user or Apple. The processing runs inside the Secure Exclave on the S11 chip, a hardware-isolated area that handles audio separately and deletes it immediately. Both new features are opt-in. Early accounts say they are off by default and must be turned on from the Watch app on the iPhone. Apple has published a privacy overview and a support article describing the controls and limits.\n\nAvailability is narrow. The features require an Apple Watch Series 12 or Apple Watch Ultra 4, which have the S11 chip. They also need a paired iPhone 16 or later that supports Apple Intelligence and Siri AI; the iPhone 16e is excluded. Owners of older Apple Watch models cannot use either feature even after updating to watchOS 27.3. The software is currently available only to developers, and reports expect the public release of watchOS 27.3 in December alongside iOS 27.3.\n\nThe launch lands in an ongoing debate about wearables that listen to the world around them. Apple's approach relies on opt-in settings, short audio buffers, no persistent raw recordings and, for Live Rewind, an audible cue. Because this is a first beta, behavior and details could change before release, and how well the summaries work in everyday conversations is still to be proven.",
+      "author": "Kamali",
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/liverewind.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Software Development",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T21:21:04+00:00"
     },
     {
