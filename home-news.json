@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T07:59:27.560Z",
+  "updated": "2026-11-14T08:20:16.873Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -19,14 +19,16 @@
     },
     {
       "id": "b71b7365d7a0",
+      "slug": "securing-the-agentic-enterprise-with-data-lineage",
       "title": "Securing the agentic enterprise with data lineage",
-      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second...",
+      "summary": "As companies let AI agents pull data from many systems at once, security teams are finding that guarding apps, networks and devices is not enough. A sponsored MIT Technology Review report, produced with security firm Cyberhaven, argues that organisations also need data lineage: a record of where data came from, how it changed and where it went.",
+      "articleBody": "As businesses hand more everyday work to AI agents, a basic security question is getting harder to answer: where did the data in an agent's output actually come from? A sponsored report published by MIT Technology Review on November 4, 2026, produced with the data security company Cyberhaven, argues that the answer depends on a concept called data lineage.\n\nConsider a simple example. A sales representative asks an AI agent for a customer's pricing. To respond, the agent may draw on several places at once: a restricted pricing system, internal messages and old archived quotes. The answer can look perfectly reasonable, yet it may combine information that was never meant to be mixed or shared with that person. Nobody reviewing the result can easily tell which source contributed what.\n\nWhy traditional security falls short\n\nMost security tools were built around specific things: applications, systems, networks or individual devices. The report's central argument is that this approach is no longer enough when software agents act on behalf of employees and move information between many of those places at machine speed. Securing agents at scale, it says, requires understanding how data moves, and not only where it sits.\n\nWhat data lineage means\n\nData lineage is a record of a piece of data's life: where it originated, how it moved, how it was changed and where it ended up. For human workers, security teams have long relied on this kind of trail in some form. The report says teams now need it across human, agent-driven and mixed workflows so that governance, accountability and trust can be maintained.\n\nIndustry analysts who follow the topic describe a related problem, sometimes called an agentic data lineage gap. Security teams can often see that an agent took an action, but not where its data came from, how it was transformed or where it was sent next. Without that context, an alert is harder to investigate and a policy is harder to enforce.\n\nThe wider framework\n\nCyberhaven's own guidance groups agent security into three pillars: visibility into what agents are doing, identity for the agents themselves, and guardrails that limit their behaviour. It describes data lineage as the link that connects the three. It also argues that fixed, rules-based guardrails tend to be brittle when agent behaviour changes quickly.\n\nA vendor with a product to sell\n\nReaders should keep in mind that the report is sponsored content and that Cyberhaven sells products in this area. The company launched an AI-native data security platform called Flow on July 28, 2026, and added an Agentic Data Security module to it in early November. The argument that lineage is essential is also the argument for buying such a tool. That does not make it wrong, but it should be weighed alongside independent research and other vendors' approaches.\n\nWhat is still unknown\n\nThe report makes a case, but it does not settle how much lineage tracking organisations actually need, how well it works across different tools and agents, or what it costs in complexity and privacy. It is also unclear how quickly companies will adopt such controls compared with how quickly they are deploying agents.\n\nWhy it matters\n\nAgents are being given access to more company data, and in many organisations the controls have not kept pace. Any company that lets agents handle customer, financial or internal information will need to be able to show where that information came from and where it went. Data lineage is one of the leading proposals for doing that, and the debate over how to implement it is only beginning.",
+      "author": "Kamali",
       "source": "MIT Technology Review",
       "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR_Cyberhaven_V4_Cover.png?w=840",
       "category": "Data & Analytics",
       "section": "hero",
-      "featured": true,
       "published": "2026-11-04T13:00:00+00:00"
     },
     {
