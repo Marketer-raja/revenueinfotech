@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T08:57:01.930Z",
+  "updated": "2026-11-14T08:59:13.693Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -355,14 +355,16 @@
     },
     {
       "id": "f7b02949050d",
+      "slug": "ted-schlein-s-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cyberse",
       "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "summary": "Ballistic Ventures, the cybersecurity-focused venture firm co-founded by ex-Kleiner Perkins partner Ted Schlein, has filed with the SEC to raise a combined $490 million: $360 million for its third flagship fund and $130 million for a separate vehicle called Fund B. The filings were made as AI reshapes both cyberattacks and security startups.",
+      "articleBody": "Ballistic Ventures, the San Francisco cybersecurity investor co-founded by former Kleiner Perkins partner Ted Schlein, is seeking to raise $490 million across two new funds, according to filings with the US Securities and Exchange Commission that TechCrunch reviewed in the first week of November.\n\nThe larger piece is $360 million for the firm's third flagship fund, the same size as the fund it raised in 2024. The remaining $130 million is for a separate vehicle called Ballistic Ventures Fund B. According to PitchBook data, Ballistic also raised about $130 million for an earlier independent vehicle, Fund A, and Fund B is targeting a similar amount. Neither new fund had recorded any sales when the paperwork was filed, so the figures are targets, not money already committed. The firm declined to comment on its plans.\n\nBallistic was founded in late 2021 by Schlein, Barmak Meftah, the former president of AT&T Cybersecurity, and Roger Thornton, who co-founded Fortify Software and AlienVault. It announced a $300 million debut fund in 2022 and raised $360 million for its second flagship fund two years later. The firm invests only in cybersecurity startups. Its portfolio has included Talon Cyber Security, later acquired by Palo Alto Networks, and Pangea, bought by CrowdStrike, along with companies such as Armadin, GetReal, Nudge Security and Oligo Security. A cybersecurity investor at another firm told TechCrunch that Schlein's more than two decades at Kleiner Perkins helps set Ballistic apart from rivals.\n\nThe timing reflects a wider shift in the industry. Microsoft's latest Digital Defense Report warned that attackers are increasingly using AI for phishing, social engineering and malware development, which lets them move faster and at greater scale. At the same time, the spread of AI agents is opening new problems that security startups can try to solve. A JPMorgan Chase report found that AI-enabled companies made up about 72 percent of US cybersecurity venture deals through May of this year, up from 36 percent in 2019.\n\nFor founders, the filings signal that dedicated money for security startups is still being raised despite a cautious venture market. For the firm's investors, they show an ambition to keep growing at a steady pace rather than shrink.\n\nSeveral things are not yet known. The filings do not say what Fund B will focus on or when either fund might close, and Ballistic may not reach its full $490 million. Until the firm makes an announcement, the targets should be read as plans, not completed fundraising.",
+      "author": "Kamali",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
       "image": "https://techcrunch.com/wp-content/uploads/2025/04/Ballistic-Ventures-GP-team.jpg?resize=1200,801",
       "category": "Artificial Intelligence",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T21:43:08+00:00"
     },
     {
