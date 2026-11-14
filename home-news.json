@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T09:09:20.147Z",
+  "updated": "2026-11-14T09:10:41.787Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -481,14 +481,16 @@
     },
     {
       "id": "60b4d8884de6",
+      "slug": "google-will-disable-search-for-students-unless-schools-accept-ai-features-in-gui",
       "title": "Google will disable Search for students unless schools accept AI features in ‘Guided Learning’ push",
-      "summary": "Google is today launching new AI settings for schools, but with the big catch that Search is fully disabled if AI features are turned off entirely. more…",
+      "summary": "Google will turn off Gemini and Search by default for K-12 student accounts unless school administrators switch them on, and schools that want Search will have to accept its built-in AI features. Google says Search and AI are too closely tied to separate. It is also rolling out its Guided Learning tool, which is designed to walk students through problems instead of handing over answers.",
+      "articleBody": "Google has announced a change to how schools manage its AI products, and it comes with a significant catch: schools that want to block Google's AI features entirely will also lose access to Google Search for their students. The announcement was made on Tuesday, November 3, in a blog post by Chris Phillips, Google's vice president and general manager of education.\n\nUnder the new policy, Gemini, Gemini Notebook, Gemini in Classroom and Google Search will be turned off by default for K-12 student accounts until school administrators explicitly turn them on. Google describes the aim as giving school leaders control and confidence to use AI in classrooms as they see fit. Reports say the change takes effect next year, with two options expected in early 2027: a Search experience that includes AI Overviews and other AI features, and one where Guided Learning replaces them.\n\nWhat administrators cannot do is keep traditional Search while switching off the AI. Phillips told The New York Times that Search and AI are deeply integrated. Students at schools that disable AI will not be able to search and will see a message from their school saying it is unavailable.\n\nThe change was announced alongside Guided Learning, a feature designed to help students work through problems step by step instead of skipping straight to answers. It became available worldwide in Google Classroom on Tuesday, and Google plans to test it in Search at select US schools, with broader availability in the coming months. Google also pointed to research in which students who used Guided Learning improved their test scores by 8.1 percentage points, compared with 5.3 points for students using regular web tools. The detail of that study was not described in the coverage reviewed.\n\nThe announcement drew quick criticism from educators and policymakers. Critics argue that Google is using its dominance in search to push schools toward AI and leaving them no real way to opt out. The central concern is that teachers may not want students relying on AI Overviews to research or complete assignments but still want them to be able to find sources and learning materials through a search engine. The announcement also comes amid wider worry that AI chatbots undermine learning by giving direct answers.\n\nSeveral questions remain. It is not yet clear how many schools will accept AI features to keep Search, whether the Guided Learning version of Search will satisfy those wanting a more restricted experience, and whether regulators or school districts will push back. Google has also not said whether it will ever offer a version of Search for students with the AI features removed.",
+      "author": "Kamali",
       "source": "9to5Google",
       "url": "https://9to5google.com/2026/11/03/google-search-ai-guided-learning-changes/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/01/Google-logo-CES-2024-6.jpg?quality=82&strip=all&w=1600",
       "category": "Artificial Intelligence",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T20:35:00+00:00"
     },
     {
