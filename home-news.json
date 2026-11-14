@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T08:46:31.778Z",
+  "updated": "2026-11-14T08:50:27.232Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -299,14 +299,16 @@
     },
     {
       "id": "993e48dc4504",
+      "slug": "anthropic-is-working-on-a-system-to-prove-ai-models-identity",
       "title": "Anthropic is working on a system to prove AI models’ identity",
-      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+      "summary": "Anthropic has released FlashProve, an open-source research prototype that uses cryptographic proofs to show that an AI response was produced by a specific, publicly committed model, without exposing the model's private weights.",
+      "articleBody": "Anthropic has unveiled FlashProve, an open-source research prototype aimed at a problem most AI users never think about: when you send a prompt to an AI service, you have no technical way to confirm which model actually answered it. The announcement came in early November, and the code and technical documentation were published on Anthropic's GitHub repository.\n\nFlashProve is built around an idea researchers call \"provable inference.\" The AI provider first publishes a cryptographic fingerprint, known as a commitment, tied to the exact weights of a model. When the model later produces a response, a proof can be generated showing that the output came from the committed weights. Anyone can check that proof against the public fingerprint. The proofs rely on zkSNARKs, a type of zero-knowledge proof that confirms a computation was done correctly without revealing the secret numbers behind it. That matters because closed-model makers keep their weights private.\n\nThe researchers point to several uses. A provider could be stopped from quietly swapping in a cheaper model to cut costs, or a stronger model to inflate benchmark results. Third parties could also back up claims such as \"this code was scanned by an advanced security model\" or \"this business plan was approved by a particular AI.\" Regulators could, in principle, check which models providers actually run. The verification step is designed to be light enough to run on a local device, so the customer does not need expensive GPUs.\n\nAnthropic tested the system on Meta's Llama 4 Maverick, a 400-billion-parameter mixture-of-experts model running with 4-bit quantized weights. According to The Decoder's reading of the technical report, proofs were generated at roughly 110 tokens per second on a single H100 GPU. Heise reports that an earlier open-source method, VerInf, needed about 14.3 hours for 1,000 tokens and produced a 93.6 GB proof. Anthropic also says its Claude model contributed key optimizations to the project.\n\nThe limits are significant. Anthropic stresses that FlashProve is a research prototype and describes it as unmaintained. Coverage also notes constraints around context window size, sampling and decoding support, and the high computing cost of generating proofs. Anthropic has said it has no plans to deploy FlashProve at its own services or at any other AI lab.\n\nA verified identity would also say nothing about quality. Proving that a response came from a named model does not show that the answer is accurate, safe, or suited to a business task, and those still need separate evaluation.\n\nEven so, FlashProve points toward a future in which model identity is checked alongside accuracy, safety and price, instead of being taken on the provider's word. Whether the industry adopts that idea will depend on whether proofs become cheap and fast enough to be routine.",
+      "author": "Kamali",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294192768.jpg?resize=1200,798",
       "category": "Artificial Intelligence",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T22:41:03+00:00"
     },
     {
