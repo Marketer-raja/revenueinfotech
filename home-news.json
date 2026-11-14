@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T09:42:48.879Z",
+  "updated": "2026-11-14T09:43:58.990Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -789,14 +789,16 @@
     },
     {
       "id": "21e6a2196247",
+      "slug": "suse-lays-off-1-in-10-workers-citing-ai-and-automation",
       "title": "SUSE lays off 1 in 10 workers – citing AI and automation",
-      "summary": "Squarespace also announced layoffs this week, but explicit ties to AI remain inconsistent.",
+      "summary": "Linux and open-source software company SUSE is cutting about 10% of its global workforce, roughly 190 of its 1,900 employees. CEO Dirk-Peter van Leeuwen blamed automation and AI for changing how software companies operate.",
+      "articleBody": "SUSE, the German enterprise Linux and open-source software company, is laying off about 10 percent of its global workforce. Chief executive Dirk-Peter van Leeuwen announced the cuts in an internal memo to staff on Monday, November 2, 2026. With roughly 1,900 employees, the reduction amounts to about 190 jobs.\n\nIn the memo, van Leeuwen said automation and AI are changing how software companies work. According to reports, he described the shift as reducing the need for some roles and allowing the company to operate with less overhead and a flatter structure. The cuts were described as a painful decision.\n\nThe timeline is short. Affected employees were due to be notified by November 4, with one-to-one meetings starting the week after. Reports say the company moved ahead with layoffs after too few employees took up an earlier offer of voluntary exits.\n\nThe announcement stands out because it names AI directly as the reason. Several outlets have counted a number of recent job cuts in the technology sector, and most of those they reviewed referred to AI in an employer's own documents or in an executive's comments. Website builder Squarespace also announced layoffs this week, but reports suggest its explicit links to AI have been less consistent. SUSE's explanation is therefore one of the clearer examples of a company tying cuts to AI.\n\nThere are also complicating details. SUSE itself sells software and tools that help customers automate IT work, so it is reorganizing its own workforce around the same trend it promotes to clients. The company has not published productivity data or estimated how many roles AI could take over. In addition, SUSE is owned by the investment firm EQT, and Reuters reported in March that EQT was considering selling it, which means cost pressure and ownership plans may also play a role in the decision.\n\nStaff in Prague have formed a union, the SUSE Workers Union, under the Czech ICT Union, with AI use and pay among the topics raised. One report noted that no link has been shown between the layoffs or exit offers and the union's formation.\n\nThe cuts matter for people inside the open-source community as well as for SUSE's customers. SUSE is a major vendor of Linux and Kubernetes-related products, and a smaller workforce could affect support, development and the pace of new releases, although the company has not said which teams are affected.\n\nKey questions remain unanswered. SUSE has not said which roles or regions will lose the most jobs, how much it expects to save, or how AI tools will replace the work that departing employees did. How the company explains those details in the coming weeks will help show whether AI is the main cause of the cuts or one of several factors.",
+      "author": "Kamali",
       "source": "ZDNET",
       "url": "https://www.zdnet.com/business/suse-lay-offs-workforce-ai-cited/",
       "image": "https://www.zdnet.com/wp-content/uploads/sites/3/officebuilding3GettyImages-2297036189.jpg",
       "category": "Artificial Intelligence",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T18:12:05+00:00"
     },
     {
