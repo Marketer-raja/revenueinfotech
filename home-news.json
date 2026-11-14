@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T09:35:09.605Z",
+  "updated": "2026-11-14T09:36:21.870Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -705,14 +705,16 @@
     },
     {
       "id": "36315b3cb5b6",
+      "slug": "netflix-s-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mo",
       "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
-      "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+      "summary": "Netflix has begun testing \"AI Discover,\" a new tab in its TV app that suggests shows and movies based on what you feel like watching, and it plans to expand the experiment to more viewers in the coming weeks.",
+      "articleBody": "Netflix has started rolling out \"AI Discover,\" a new tab in its TV app that uses artificial intelligence to help subscribers decide what to watch. The company announced the feature on Tuesday, November 3, 2026, and described it as a place to try out new ways of finding content. The first experiment inside the tab recommends titles based on what a viewer is in the mood for.\n\nInstead of a standard row of thumbnails, the tab offers a set of curated themes that can include clips from shows and movies. Viewers can pick a theme that matches their mood, their viewing preferences, how much time they have, or what is new and trending. Examples reported by the press include themes such as \"Scare Me\" and \"Quick Watches.\" If none of the options appeals, a \"Something Different\" choice brings up a new set of themes. Users who have access will see a Discover button with a red gem icon and a \"New\" label in the top navigation bar.\n\nNetflix says the feature runs on a new intelligence layer that responds to what users tell it in real time and keeps learning. Some coverage notes that, because the recommendations are generated live, even Netflix could not predict exactly what would appear on screen during a demonstration. The company has also called the tab a \"test kitchen,\" a space for trying early-stage discovery ideas and seeing which ones people actually use.\n\nThe rollout is limited for now. AI Discover is starting in the United States for English-language profiles on supported TVs, and it is reaching a small group of members first. Netflix says it plans to bring the tab to additional users in the coming weeks.\n\nThe move reflects a broader effort to make the service's large catalog easier to navigate. Netflix has long relied on recommendations built from viewing history, Thumbs Up ratings and items added to My List. The company says AI Discover joins those tools as a new way to explore, not a replacement. The change also suggests a shift away from endless scrolling and toward a more conversational, personalized approach to choosing what to watch.\n\nSome questions remain open. Netflix has not shared data showing that mood-based browsing leads to better viewing satisfaction, and it is not yet clear how well it will work in different situations, such as a household sharing one profile. It is also unclear which features will be added to the tab next, or whether it will reach every subscriber and device. Those answers are likely to emerge as more viewers try it over the coming weeks.",
+      "author": "Kamali",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
       "image": "",
       "category": "Artificial Intelligence",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T18:42:16+00:00"
     },
     {
