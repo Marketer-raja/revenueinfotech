@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T09:06:51.039Z",
+  "updated": "2026-11-14T09:08:11.816Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -453,14 +453,16 @@
     },
     {
       "id": "f85d6442d8d3",
+      "slug": "chatgpt-has-hit-roughly-20-of-google-search-volume-openai-says",
       "title": "ChatGPT has hit roughly 20% of Google Search volume, OpenAI says",
-      "summary": "According to OpenAI, ChatGPT has managed to grow its search use to around 20% of Google Search’s total volume, a staggering figure. more…",
+      "summary": "OpenAI says ChatGPT now handles roughly one-fifth as many search-like queries as Google, a figure shared by ChatGPT product lead Adam Fry. OpenAI has not published the data or explained how it counts a search, and independent estimates are lower.",
+      "articleBody": "OpenAI says ChatGPT's search activity has grown to roughly one-fifth of the volume of queries handled by Google. The figure came from Adam Fry, who leads consumer product for ChatGPT, who shared it at an OpenAI-hosted event in New York on Monday, November 2, and in a conversation with Alex Kantrowitz of Big Technology. Fry described ChatGPT's volume of search-like queries as roughly 20 percent of Google's.\n\nThe number comes with caveats. It is OpenAI's own claim, and the company has not published the data behind it. It has not said which Google figure it compared against or exactly how it counts a search. According to OpenAI, every question that makes ChatGPT search the web counts as a search, so twenty prompts in one conversation that each trigger a web search would count as twenty searches, while quick answers that do not need the web are not counted. The comparison is about query volume, not about ChatGPT's share of the search market.\n\nOutside estimates are lower. Ahrefs estimated in February that ChatGPT gets about 12 percent of Google's search volume, and SEO software company SEOClarity put it nearer 7.5 percent, or roughly 375 billion queries a year. Applying OpenAI's 20 percent to Google's last disclosed annual volume of more than 5 trillion searches would put ChatGPT above one trillion search-like queries a year, but the two companies have not shown that they count searches in the same way.\n\nThe statement came alongside other growth claims. Fry said ChatGPT's weekly active users rose from 1 billion to 1.2 billion in about two months. OpenAI is also working on a more interactive \"intelligent UI\" and has begun showing images of sponsored products in ChatGPT. Fry said ads have not hurt the product or its usage. Reports note that Bing, by comparison, holds roughly 5 percent of the search market.\n\nGoogle is not standing still. Google reported its fastest query growth in five years in the same week, and it has acknowledged that its own push into AI-powered search brings \"lower monetization.\" For marketers, conversational queries tend to be longer and reveal more intent, but neither OpenAI nor Google breaks out conversational query volume, ad load or click-through rates in a way advertisers can benchmark.\n\nThe main takeaway is that ChatGPT has become a serious place where people look things up, whatever the exact percentage. What is still unknown is how many of those queries truly replace a Google search, how the numbers compare when counted the same way, and whether the growth will continue as ads arrive in ChatGPT.",
+      "author": "Kamali",
       "source": "9to5Google",
       "url": "https://9to5google.com/2026/11/03/chatgpt-has-hit-roughly-20-of-google-search-volume-openai-says/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/04/chatgpt-android-1.jpg?quality=82&strip=all&w=1600",
       "category": "Artificial Intelligence",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T20:55:00+00:00"
     },
     {
