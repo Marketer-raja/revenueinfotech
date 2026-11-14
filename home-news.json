@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T09:16:52.931Z",
+  "updated": "2026-11-14T09:18:21.773Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -565,14 +565,16 @@
     },
     {
       "id": "440ebb61e9a8",
+      "slug": "don-t-throw-away-your-laptop-s-old-ssds-do-this-instead",
       "title": "Don't throw away your laptop's old SSDs — do this instead",
-      "summary": "Get some extra life out of your unused SSDs by converting them into external storage devices.",
+      "summary": "A spare SSD from an old laptop can become a portable drive for the price of a cheap USB enclosure. The key is to match the enclosure to the drive's type and size, copy off or wipe any old data, format the drive, and test it before trusting it with anything important.",
+      "articleBody": "When you upgrade or retire a laptop, the old solid-state drive does not have to go in the bin. In most cases it can be turned into a fast external drive by putting it in a small USB enclosure, usually for much less than the price of a new portable drive. Here is how to do it and what to watch for.\n\nStart by identifying the drive. SSDs in laptops are usually 2.5-inch SATA drives, M.2 SATA drives, or M.2 NVMe drives. The enclosure must match both the form factor and the interface, and an enclosure for M.2 SATA will not necessarily work with an M.2 NVMe drive. Check the label on the drive or look up its model number before buying anything.\n\nBefore you touch the drive's contents, think about the data. A drive taken from an old computer may still hold documents, photos, saved games, browser data or an operating system. If you have not already backed it up, connect it through the enclosure first and copy what you need. Once the files are safe, wipe the drive, because formatting erases everything on it, and this matters even more if you ever plan to give the drive away.\n\nNext, choose the enclosure. A basic 2.5-inch SATA enclosure is cheap, and reviewers report paying around ten to twelve dollars for one. NVMe enclosures cost more, with one writer paying about $30 for a 10Gbps aluminum model. Look for USB-C and a rating of at least USB 3.2 Gen 2 if you want speed. Aluminum cases with thermal pads or a heatsink handle heat better than plastic, which can trap it and slow the drive during long transfers. Thunderbolt enclosures are faster but cost more and need a compatible port.\n\nInstallation is simple. Open the enclosure, seat the drive, close it, and plug it into your computer with the supplied cable. Then format it in Windows or macOS so the drive is empty and in a format that suits you. Pick a file system based on where you will use it: exFAT works across Windows and Mac, while NTFS or APFS suit a single platform.\n\nSpeed depends on the drive, the enclosure's controller, the cable and the port. One guide says SATA SSDs typically reach about 400 to 550MB/s in USB 3.2 enclosures, and NVMe drives can reach around 1,000MB/s in a good USB 3.2 Gen 2 enclosure. Both are well above a typical flash drive.\n\nThere are limits. An enclosure cannot repair worn-out flash memory, and a drive that was failing when you removed it should not be used for anything you cannot afford to lose. Test the finished drive before trusting it with a full archive, and keep a second copy of anything irreplaceable.\n\nUsed this way, an old SSD makes a useful portable drive for moving files, a backup target for non-critical data, or extra storage for a laptop with a single internal drive. Some people also use one as storage for a game console. It also keeps working hardware out of the waste stream, which is a small but real benefit.",
+      "author": "Kamali",
       "source": "Engadget",
       "url": "https://www.engadget.com/2300270/dont-throw-away-your-laptop-old-ssd-do-this-instead/",
       "image": "https://www.engadget.com/img/gallery/dont-throw-away-your-laptops-old-ssds-do-this-instead/l-intro-1792960873.jpg",
       "category": "Software Development",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T19:30:00+00:00"
     },
     {
