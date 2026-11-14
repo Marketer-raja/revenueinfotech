@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T08:54:01.259Z",
+  "updated": "2026-11-14T08:57:01.930Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -341,14 +341,16 @@
     },
     {
       "id": "07464b8766d5",
+      "slug": "binance-says-hackers-used-fake-job-interviews-and-an-internal-ai-tool-to-pull-of",
       "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
-      "summary": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process started in June with one developer...",
+      "summary": "Binance says the $6.3 billion theft, the largest in crypto history, was not a single exploit. In a postmortem, the exchange describes a months-long chain of attacks: a tampered AI coding tool, a fake recruitment interview, and an internal AI tool that let the attacker reach more engineers' machines.",
+      "articleBody": "Binance has published its account of how attackers stole an estimated $6.3 billion from the exchange in late October, the largest crypto theft on record. It surpasses the $1.5 billion taken from Bybit in February 2025. In a post on Tuesday, November 3, the company said the breach was not a single flaw but a chain of techniques that began months earlier and relied heavily on tricking people.\n\nAccording to Binance, the preparation reaches back to June. A developer on its wallet team went looking for a popular AI coding tool, found it through a search engine, and installed it using a tampered Homebrew installation. Binance says it caught that first download, replaced the affected device and changed passwords. By then, though, the attackers had reportedly learned about the team's structure. Binance did not name the AI coding tool or the search engine involved.\n\nIn September, a second engineer who was job hunting went through what looked like a real hiring process, including a virtual meeting with the supposed CEO of a fictitious company. That interview led the engineer to download a malicious code repository. Binance has also said the recruiter built trust by sharing a social media account with personal photos and videos.\n\nThe decisive step came on October 20. Binance says the attacker used the compromised computer together with an internal AI tool to take control of the systems of two other wallet engineers. The company describes the overall attack as a combination of social engineering through fake recruitment, malicious software downloads, compromised internal AI tooling, endpoint compromise and an advanced method of authorizing transactions.\n\nBinance says it has since rebuilt the affected wallet system in a new environment, tightened its internal AI tools and access controls, and put more money into AI-assisted threat detection. It also plans a security research fund and joint initiatives with leading AI companies. The company says it has replenished roughly 90 percent of the stolen assets, about $6 billion. Separately, Binance says it detected and blocked 57 suspected state-sponsored attack attempts this year, using methods such as fake job interviews, booby-trapped developer tools and fake video-call apps. Some reports link the group behind the theft to North Korea.\n\nThe case matters because many companies are giving internal AI assistants broad access to code, tickets and machines. Security commentators note that this may be the first billion-dollar theft in which such a tool served as a stepping stone between computers, though that is analysis rather than something Binance has confirmed.\n\nSeveral questions are still open. Binance has not explained how an outsider was able to use its own AI tool to move from one engineer's computer to another. It has not named the AI coding product that was impersonated in June. And outside observers have asked why a deployment token was sitting on an engineer's laptop at all. Until those details are public, the main lesson is that the weakest link was human trust, not the blockchain itself.",
+      "author": "Kamali",
       "source": "The Verge",
       "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23932848/acastro_STK018__02.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Artificial Intelligence",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T22:04:02+00:00"
     },
     {
