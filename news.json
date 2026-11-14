@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-13T23:32:27+00:00",
+  "updated": "2026-11-14T06:21:32+00:00",
   "items": [
+    {
+      "id": "a40d419578bb",
+      "title": "\u2018We need more reviewers\u2019: Finding Linux bugs is easy now \u2013 fixing them is another story",
+      "url": "https://www.zdnet.com/innovation/ai-bug-reports-linux-windows/",
+      "source": "ZDNET",
+      "published": "2026-11-14T01:20:06+00:00",
+      "excerpt": "Some Linux maintainers are quitting under the crushing strain of AI bug reports, while others see signs for hope.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-10167204.jpg",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "04367a7d0b10",
+      "title": "Amazon has a plan to index the world\u2019s online shopping data",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "source": "The Verge",
+      "published": "2026-11-13T23:49:11+00:00",
+      "excerpt": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Data & Analytics"
+    },
     {
       "id": "4c02b6f51e28",
       "title": "Amazon\u2019s new Kindle Colorsoft is a premium e-reader with a premium price",
@@ -380,26 +400,6 @@
       "excerpt": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A...",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_111326_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Artificial Intelligence"
-    },
-    {
-      "id": "025a6c711bf8",
-      "title": "ElevenLabs\u2019 new app combines meeting note-taking and dictation for teams",
-      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
-      "source": "TechCrunch",
-      "published": "2026-11-13T14:44:48+00:00",
-      "excerpt": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-13-at-7.19.18-PM.jpg?resize=1200,774",
-      "category": "Software Development"
-    },
-    {
-      "id": "6b02a4a21b18",
-      "title": "Meta discussed attacking Jonathan Haidt \u2014 now even his haters are annoyed",
-      "url": "https://www.theverge.com/policy/1032645/jonathan-haidt-critics-response-meta",
-      "source": "The Verge",
-      "published": "2026-11-13T14:30:00+00:00",
-      "excerpt": "Three years ago, Meta apparently considered a plan to turn public opinion against one of its most influential opponents, Jonathan Haidt. But since the proposal was revealed in court filings last month, it's backfired. In fact, if there's...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_4_F.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
     }
   ]
 }
