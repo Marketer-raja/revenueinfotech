@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T08:28:01.950Z",
+  "updated": "2026-11-14T08:29:27.175Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -117,14 +117,16 @@
     },
     {
       "id": "6117f43da73e",
+      "slug": "valve-just-changed-its-steam-release-rules-amid-a-flood-of-ai-games",
       "title": "Valve just changed its Steam release rules amid a flood of AI games",
-      "summary": "Valve is updating its game release rules to try to unclog a backlog of approvals due to a recent flood of new game titles, many created with AI.",
+      "summary": "Valve has tightened Steam's release process after approval times for new games stretched to as long as 12 business days. Developers must now run their game through Steam for at least five minutes before submitting it for review. Valve's announcement does not mention AI, but developers blame a surge of AI-made games for the backlog.",
+      "articleBody": "Valve has changed the rules for releasing games on Steam in an attempt to clear a growing backlog of approvals. The update, announced to Steamworks developers in early November 2026, comes as review times for new games have stretched to as long as 12 business days. Valve's own target is three to five days, according to coverage of the delays.\n\nWhat is changing\n\nThe headline change is simple. Developers must now run their game through Steam for a minimum of five minutes to confirm that it works on the platform before they submit it for review. The new release checklist asks for more checks up front, and it targets builds that are broken or incomplete. A build is the packaged version of a game that a developer sends to Valve for testing and distribution.\n\nValve says a large part of the backlog comes from re-reviewing games that failed these basic checks the first time. Each failed submission has to go back into the queue, which slows down approvals for everyone else.\n\nThe AI question\n\nValve's announcement does not mention artificial intelligence. Even so, the timing has drawn attention. Developers and several news outlets link the delays to a flood of new titles, many of them made with AI tools, that reach review without the kind of testing a human-led project would usually have done. Engadget notes that this point is left unsaid by Valve, and one developer quoted in the coverage says the waiting time seemed to spike around September and October.\n\nIt is important to separate the claims. Valve has not said how much of the backlog is caused by AI-made games, and at least one report points out that the company has not measured AI's contribution at all. The new checklist is aimed at broken builds in general, whether a person or an AI tool created them.\n\nWhy this matters to developers\n\nThe delays are already causing problems. Indie developers report missing planned launch dates, in some cases by weeks. For a small studio, a release date is often tied to marketing, press coverage, a festival or a sale event, so a delay of that length can cost real sales. Studios that depend on a tight launch window have little room to absorb a longer review.\n\nBackground on Steam and AI\n\nValve changed its policy on AI-generated content in early 2024, after first rejecting some submissions. It said then that it would allow the vast majority of games that use AI, as long as developers disclose it and describe the guardrails they have in place to avoid illegal content. That policy made it easier for AI-assisted games to reach the store. The current backlog suggests the storefront is feeling the effects of that openness together with a general rise in submissions.\n\nWhat is still unknown\n\nSeveral questions remain. Valve has not said whether the five-minute rule will bring review times back to its three-to-five-day target, or how quickly. It has not published figures on how many submissions are AI-made or how many are failing basic checks. It is also unclear whether the company will add further measures, such as stronger automated checks or changes to AI disclosure.\n\nWhy it matters\n\nSteam is the largest PC game store, and its review process decides when a game can reach players. A slow queue hurts honest developers most, while a flood of low-effort submissions can make it harder for players to find good games. The change is a modest one, but it shows that even a platform with a lenient AI policy has to adjust when volume goes up faster than its checks can handle.",
+      "author": "Kamali",
       "source": "Engadget",
       "url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
       "image": "https://www.engadget.com/img/gallery/valve-just-changed-its-steam-release-rules-amid-a-flood-of-ai-games/l-intro-1793780767.jpg",
       "category": "Artificial Intelligence",
       "section": "latest",
-      "featured": false,
       "published": "2026-11-04T08:28:09+00:00"
     },
     {
