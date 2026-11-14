@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T09:29:49.887Z",
+  "updated": "2026-11-14T09:31:18.973Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -649,14 +649,16 @@
     },
     {
       "id": "0b8b7e6decbc",
+      "slug": "your-apple-watch-has-2-new-controversial-listening-features-but-you-have-to-opt-",
       "title": "Your Apple Watch has 2 new controversial listening features – but you have to opt in",
-      "summary": "Siri Recap and Live Rewind are finally here, two months after Apple unveiled the always-listening Apple Watch features. Here’s how they work.",
+      "summary": "Apple has started rolling out Siri Recap and Live Rewind, two Apple Watch features that use the microphone to help you recall conversations. Both are opt-in, but because they depend on the watch listening for sound, they have raised privacy questions.",
+      "articleBody": "Apple has begun making two of its most debated Apple Watch features available: Siri Recap and Live Rewind. Both were announced in September as part of the company's Audio Intelligence tools for the Apple Watch Series 12 and Apple Watch Ultra 4. They are now appearing for testers through the watchOS 27.3 developer beta. Because they work by using the watch's microphones, they have been described as \"always-listening\" features, and that label has made them controversial.\n\nLive Rewind is designed to help when you miss something someone has just said. The watch keeps a rolling buffer of about 15 seconds of ambient audio that is constantly overwritten. When you double-press the Digital Crown, the watch shows a text transcript of those last 15 seconds. Apple suggests uses such as catching a recipe step or a book recommendation mentioned in passing. The transcription is handled with the help of the paired iPhone, so the feature does not work if the phone is out of wireless range.\n\nSiri Recap works differently. Instead of transcribing speech on demand, it is meant to summarize conversations to help you remember them later. It can be turned on or off, and it can be limited by time or location, for example so that it runs only at work. It can also be toggled from Control Center once enabled.\n\nApple stresses that both features are opt-in and can be switched off again. The company says raw audio is not recorded, is not accessible to apps or to Apple, and is deleted after processing. Live Rewind also plays a chime and shows a full-screen visual when it is used, so nearby people have some warning. Reviewers have noted a limit to that, since the transcript can include words spoken before the alert, so someone close by could still be caught off guard.\n\nThe controversy centers on bystanders more than on the wearer. A person who chooses to enable these features agrees to the listening, but the people around them have not. Privacy commentators have also raised legal questions in places where all parties must consent to the recording of a conversation. Some observers have pointed out that, once enabled, Live Rewind has no separate on/off switch for everyday use and is always ready to respond, even though it stores only a few seconds of audio.\n\nSupporters of Apple's approach say the safeguards are stronger than those of a typical voice recorder or cloud transcription app, with on-device processing, short retention and visible alerts. Critics say normalizing microphones that are always ready may be a concern in itself, especially as other companies, including Meta, explore similar wearable AI products.\n\nFor now, anyone who does not want the feature can leave it disabled, since nothing is switched on by default. What remains unclear is how widely people will adopt these tools, how courts and regulators will treat them, and whether the privacy protections hold up as the features reach more users.",
+      "author": "Kamali",
       "source": "ZDNET",
       "url": "https://www.zdnet.com/tech/apple-watch-siri-recap-live-rewind-available-beta-how-to-try/",
       "image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC03720.jpg",
       "category": "Software Development",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T19:01:00+00:00"
     },
     {
