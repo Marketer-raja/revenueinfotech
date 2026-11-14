@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T09:47:24.639Z",
+  "updated": "2026-11-14T09:48:19.765Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -845,14 +845,16 @@
     },
     {
       "id": "35af79236d15",
+      "slug": "homeview-with-an-arm-apple-reportedly-plans-1-000-swiveling-smart-panel",
       "title": "HomeView with an arm? Apple reportedly plans $1,000 swiveling smart panel",
-      "summary": "The HomeView Ultra is expected to feature a robotic arm and 9-inch display. Shades of Amazon’s discontinued Echo Show 10?",
+      "summary": "Apple is reportedly developing a higher-end HomeView with a 9-inch screen on a motorized arm that turns the display toward whoever is speaking. Reports say it could cost about $1,000 and arrive in 2027 or 2028, but Apple has announced nothing.",
+      "articleBody": "Apple is reportedly working on a premium version of its HomeView smart display that adds a robotic arm. According to a report from The Information, published in early November 2026, the device could be sold as the \"HomeView Ultra\" and is internally codenamed J595. Apple has not announced the product or confirmed any name, price or release date.\n\nThe device is said to have a roughly 9-inch touchscreen mounted on a swiveling arm. Descriptions in the coverage compare its design to the Pixar lamp and to the old iMac G4. That would make it larger than the HomeView that Apple recently launched, which has a 7-inch display on a hinge that can only be tilted by hand. The standard model costs $299.\n\nThe arm is the main difference. Reports say it can rotate the screen a full 360 degrees, and that cameras, sensors and voice recognition would let it face the person who is speaking. One example given is a FaceTime call in which the display follows someone as they move around the kitchen. Another reported idea is that the device could switch on a light when someone enters the room. Bloomberg's Mark Gurman had earlier reported on the same product, a higher-end HomeView with a robotic arm, and its codename.\n\nPrice and timing are less certain. The target price is reported to be around $1,000 in the United States, more than three times the cost of the current model. Some reports say price increases for memory and other components are part of the reason. Apple is said to be aiming for a 2027 launch, but several outlets note that the release could slip to 2028. Some coverage says the hardware has been ready for about two years, and that software problems are what is holding it back.\n\nThat software point matters. A display that moves and reacts to people in a room puts a lot of pressure on the assistant behind it. Commentators say that for a $1,000 product to succeed, Apple's voice assistant and AI features need to be reliable, because every weakness would be more noticeable on a device that behaves like a participant in the conversation.\n\nThe product also has a clear predecessor in the market. Amazon's Echo Show 10 had a screen that rotated to follow users, but it was later discontinued, which raises the question of whether a moving smart display can find a large audience. Apple would need to show that the arm solves a real problem and not just adds a novelty.\n\nMany questions remain. Apple has not confirmed any of the reported specifications, and it is unclear whether the device would be sold outside the United States, what it would be called, or how much of its functionality would depend on new AI features. As with any report about unreleased hardware, plans can change before a product reaches stores.",
+      "author": "Kamali",
       "source": "ZDNET",
       "url": "https://www.zdnet.com/home-and-office/homeview-ultra-apple-robotic-smart-display/",
       "image": "https://www.zdnet.com/wp-content/uploads/sites/3/0B7F1C4A-9EC9-4A98-B338-76A186CAB5FF_1_105_c.jpeg",
       "category": "Software Development",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T17:33:45+00:00"
     }
   ]
