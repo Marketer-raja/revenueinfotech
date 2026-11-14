@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T09:44:59.319Z",
+  "updated": "2026-11-14T09:46:08.306Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -817,14 +817,16 @@
     },
     {
       "id": "e344e9762f0e",
+      "slug": "how-to-make-your-older-android-phones-last-longer",
       "title": "How to make your older Android phones last longer",
-      "summary": "Your Android phone can last much longer if you take steps to protect and optimize it. Try these tactics to extend your phone's life.",
+      "summary": "An older Android phone can keep working well for years with a few habits: protecting the battery, freeing up storage, keeping software updated, and shielding the device from physical damage.",
+      "articleBody": "Many Android phones are replaced long before they stop working. Slower performance, shorter battery life and a worn-looking body often push people to upgrade, yet most of those problems can be reduced with a few simple habits. These steps can help an older phone last longer and save money.\n\nStart with the battery, because it is usually the first part to wear out. Lithium-ion batteries age fastest when they are kept at very high or very low charge and when they get hot. Try to keep the charge roughly between 20 and 80 percent when possible, avoid leaving the phone in a hot car or in direct sun, and take off thick cases while charging if the phone gets warm. Many Android phones include an adaptive or limited charging setting that slows charging overnight or stops at a set level, which can reduce wear. If the battery has already faded badly, replacing it at a reputable repair shop is often much cheaper than buying a new phone.\n\nNext, free up storage. A phone that is almost full tends to slow down because it has little room to work with. Delete apps you no longer use, clear app caches, move photos and videos to cloud storage or a computer, and remove large downloaded files. Aim to leave at least 10 to 15 percent of the storage free. Restarting the phone every few days also clears temporary processes and can help with sluggish behavior.\n\nKeep the software up to date for as long as your phone is supported. Updates include security patches and bug fixes, and they matter more than new features. When a phone no longer receives official updates, be more careful, because it becomes easier to attack. Install apps only from trusted sources such as the Google Play Store, review the permissions each app asks for, and uninstall anything that seems suspicious. Using lighter versions of heavy apps, such as the \"Lite\" editions that some services offer, can also make an older phone feel faster.\n\nReduce background activity. Open the battery and app settings and look for apps that use a lot of power or run constantly in the background. Limit their background use, turn off unneeded notifications, and disable animations or lower the screen refresh rate if your phone allows it. Lower screen brightness and a shorter screen timeout also help, since the display is one of the biggest power drains.\n\nProtect the hardware. A good case and a tempered glass screen protector cost little and can prevent expensive damage. Keep charging ports clean, since lint and dust can cause loose connections, and use a quality charger and cable from a known brand. Cheap, unbranded chargers can deliver unstable power and harm the battery over time. Avoid exposing the phone to water, even if it has a water-resistance rating, because seals weaken as the phone ages.\n\nFinally, consider a fresh start. If the phone has become slow despite these steps, back up your data and perform a factory reset. This removes years of accumulated files, settings and leftover app data. Set the phone up again and install only the apps you actually use. If the phone is still struggling, a lighter launcher or a custom ROM from a trusted community project may extend its life, although that route carries some risk and may void the warranty.\n\nNone of these steps will make an old phone like new, and hardware eventually reaches its limits. But taking care of the battery, storage, software and body can add a year or more of useful life, and that is good for your budget and for the environment.",
+      "author": "Kamali",
       "source": "Engadget",
       "url": "https://www.engadget.com/2302743/how-to-make-older-android-phones-last-longer/",
       "image": "https://www.engadget.com/img/gallery/how-to-make-your-older-android-phones-last-longer/l-intro-1793385407.jpg",
       "category": "Operating Systems",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T18:00:00+00:00"
     },
     {
