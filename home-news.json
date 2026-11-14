@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T09:41:44.301Z",
+  "updated": "2026-11-14T09:42:48.879Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -775,14 +775,16 @@
     },
     {
       "id": "5d6d28699f13",
+      "slug": "cyclon-uses-an-old-google-pixel-to-let-ai-do-literally-everything-for-you-who-wa",
       "title": "‘Cyclon’ uses an old Google Pixel to let AI do literally everything for you – who wants this?",
-      "summary": "As the AI era continues to find its footing in the consumer market, “Cyclon” is a new smartphone/software experience that, to start, is reusing old Google Pixel phones with a software experience that literally uses AI to do every little...",
+      "summary": "Y Combinator-backed startup Cyclon is taking pre-orders for an AI-first phone that operates your existing apps for you. Early buyers get a repurposed Google Pixel 8a running its software first, while the company's own $699 phone is expected in 2027.",
+      "articleBody": "A startup called Cyclon is pitching a different kind of smartphone, one where an AI assistant does most of the tapping, typing and replying on your behalf. The company, which came out of Y Combinator's F26 batch, has opened pre-orders for what it describes as an AI phone that gets things done across the apps people already use. Its stated ambition is to eventually replace the iPhone.\n\nThe idea works through a chatbot-style interface. Instead of opening apps one by one, users tell the system what they want. Cyclon says the software can manage notifications, send messages, generate responses for the user, order things through existing apps, and even build small apps on demand, such as a language-learning app made for a specific trip. The company says it works with apps people already have installed, without requiring those apps to add special integrations.\n\nTo get the software into people's hands sooner, Cyclon is starting with recycled hardware. A working prototype runs on Google Pixel 8a phones. Eligible first-batch buyers in the United States who place a pre-order are promised a Pixel 8a prototype running Cyclon OS within 30 days, at no extra cost. During this early-access period, the company says no subscription is required and AI usage is included. Reports say that it ships only within the U.S., although pre-orders can be placed from anywhere.\n\nThe pre-order itself is a $199 deposit, which the company describes as fully refundable. It reserves a later device, the Cyclon Phone, which is the company's own hardware and is expected in the second quarter of 2027. The estimated final price is $699. The Pixel prototype is meant as a stand-in, not as the finished product, and the company has not yet said where the Cyclon Phone will ship.\n\nNot everyone is convinced. A 9to5Google commentary questioned who actually wants a phone that sends everything through a chatbot and writes replies in the user's name. The concern is less about convenience than about control, because letting software handle messages and purchases means trusting it with sensitive tasks and personal data. Other analysts note that the claim of doing \"everything\" has not been tested by independent reviewers, and that it is unclear which tasks users will actually want to hand over.\n\nThe project also invites comparison with earlier AI gadgets that promised to replace the smartphone and struggled to deliver, such as the Humane AI Pin. Cyclon's approach is different in one way, since it builds on a familiar phone and the apps people already use instead of asking them to adopt a new type of device.\n\nMany details are still unknown, including which AI models power the system, how reliably it handles the quirks of different apps, how it protects user data when it acts inside banking, messaging or shopping apps, and what ongoing costs will look like once early access ends. For now, Cyclon is best seen as an early experiment, and the real test will come when buyers start using it in daily life.",
+      "author": "Kamali",
       "source": "9to5Google",
       "url": "https://9to5google.com/2026/11/03/cyclon-uses-an-old-google-pixel-to-let-ai-do-literally-everything-for-you-who-wants-this/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/05/Pixel-8a-angled.jpg?quality=82&strip=all&w=1600",
       "category": "Artificial Intelligence",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T18:15:00+00:00"
     },
     {
