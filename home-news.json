@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T09:39:22.024Z",
+  "updated": "2026-11-14T09:40:46.178Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -747,14 +747,16 @@
     },
     {
       "id": "662bf89dbff2",
+      "slug": "openai-says-chatgpt-is-catching-up-to-google-in-search",
       "title": "OpenAI says ChatGPT is catching up to Google in search",
-      "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's...",
+      "summary": "OpenAI says the number of search-style queries handled by ChatGPT has grown to roughly one-fifth of Google's volume. The figure is the company's own claim and has not been independently verified.",
+      "articleBody": "OpenAI says ChatGPT is closing in on Google when it comes to search. Adam Fry, the company's consumer product lead for ChatGPT, said the volume of search-like queries on ChatGPT is now roughly one-fifth of Google's. He made the remark in an interview with Alex Kantrowitz of Big Technology at an OpenAI-hosted dinner in New York on Monday, November 2, 2026, and the comment was widely reported over the following days.\n\nFry defined a search broadly, describing it as any time a user asks a question and the system goes out to search the web. According to coverage of the interview, the comparison counts only prompts that trigger a web search, not every conversation people have with the chatbot. Fry also pointed out that ChatGPT used to rely only on its training data, which made it less useful for current information. Now that it can reach the live web, he said, many interactions resemble the lookups people once did on a search engine.\n\nThe same interview contained other growth figures. Fry said ChatGPT's weekly active users rose from about 1 billion to roughly 1.2 billion in just two months, an increase of around 200 million. He also said that about 250 million people now use ChatGPT's voice features each week. \"The growth is just going big,\" he said.\n\nContext matters when reading the 20 percent figure. It comes from OpenAI itself, and the company has not published the data or method behind it. It also has not said what number it used for Google's search volume. Because of that, the claim is difficult to verify independently, and it should not be read as ChatGPT having a 20 percent share of the search market. It is a comparison of two volumes using OpenAI's own definition of a search. Google, for its part, has said its search volume is at an all-time high, so the numbers do not necessarily mean that ChatGPT is taking queries away from Google.\n\nThe timing is worth noting. Several reports point out that OpenAI is reportedly exploring a public listing, and that the company is also looking at ads and new interface features for ChatGPT. Strong usage numbers are useful for a company that wants to show investors and advertisers that its product is becoming a mainstream way to find information.\n\nFor publishers and marketers, the claim adds to an ongoing shift. If more people ask a chatbot instead of typing a query into a search engine, traffic patterns change, and websites and brands may need to think about how they appear in AI-generated answers as well as in traditional results.\n\nMany questions remain unanswered. It is unclear how OpenAI measures a search-like query, how that compares with Google's own counting, and whether the growth will continue at the same pace. Independent data from outside analysts would help show how much of this activity is really replacing traditional search.",
+      "author": "Kamali",
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Artificial Intelligence",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T18:30:42+00:00"
     },
     {
