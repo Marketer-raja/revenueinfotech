@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T09:03:59.478Z",
+  "updated": "2026-11-14T09:05:17.965Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -425,14 +425,16 @@
     },
     {
       "id": "2535581b3d19",
+      "slug": "what-type-of-battery-does-the-slate-truck-use",
       "title": "What type of battery does the Slate Truck use?",
-      "summary": "Slate had made arrangements in 2025 to buy its batteries from a Georgia company, then switched this year to an Illnois firm with a different kind of technology.",
+      "summary": "Slate's budget electric pickup now uses a lithium iron phosphate (LFP) battery made by Gotion in Illinois, replacing the nickel-based (NMC) pack from SK On in Georgia that the company originally planned. The change helps Slate keep its $24,950 starting price and lifts projected range to 205 miles.",
+      "articleBody": "Slate's stripped-down electric pickup, the truck backed by Jeff Bezos that is meant to be one of the cheapest EVs in the US, will use a different battery than the one the company first announced. Instead of a nickel manganese cobalt (NMC) pack, it will use a lithium iron phosphate (LFP) pack built by Gotion at its plant in Manteno, Illinois.\n\nWhen Slate unveiled the truck in April 2025, the base model was to carry a 52.7 kWh NMC battery from South Korea's SK On, made in Georgia, with an estimated range of about 150 miles. Buyers who paid more were to get an 84.3 kWh pack rated at about 240 miles. Slate has since dropped that two-battery plan in favor of a single 65 kWh LFP pack with a projected range of 205 miles. The company says the truck keeps its advertised starting price of $24,950, plus a $1,450 destination fee.\n\nThe company announced the change in June 2026. Slate executives said that when the project began around 2022, there were few LFP options. LFP supply is concentrated in China, and early on the company worried about federal EV tax credit rules that limited battery components linked to \"foreign entities of concern.\" Slate CEO Chris Barman has said a supplier it considered earlier lacked the capacity it needed and could not meet those sourcing rules. Since then, more LFP production has become available in the US, and Gotion can now build the pack in Illinois, about 90 miles from Slate's factory in Warsaw, Indiana.\n\nCost is the main reason. The battery is the most expensive component in any EV, and LFP cells are generally cheaper than NMC cells. One analysis puts the difference at roughly 40 percent. LFP is also less energy dense, but a cell-to-pack design, which removes some of the intermediate packaging, helped Slate raise the projected range instead of lowering it.\n\nGotion is a Hefei, China-based company, and its involvement has drawn attention because the LFP supply chain is dominated by Chinese firms. Some commentators note the switch came after the federal EV tax credit rules that shaped Slate's original choice were changed, while other coverage claims the truck still qualifies for credits. These accounts conflict, so buyers should check eligibility rather than assume it.\n\nSeveral things are still unclear. Slate had said it would ship the truck later this year, and reports do not confirm current delivery timing. Analysts also point to supplier concentration as a risk: if Gotion's Illinois plant faces delays or quality problems, Slate's production could be affected. For now, the switch shows how a startup chasing a very low price is willing to rework its supply chain to get there.",
+      "author": "Kamali",
       "source": "Engadget",
       "url": "https://www.engadget.com/2303044/slate-battery-type-different-plans-before-debut/",
       "image": "https://www.engadget.com/img/gallery/what-type-of-battery-does-the-slate-truck-use/l-intro-1793394367.jpg",
       "category": "Software Development",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T21:00:00+00:00"
     },
     {
