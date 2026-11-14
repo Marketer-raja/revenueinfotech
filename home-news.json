@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T09:13:09.177Z",
+  "updated": "2026-11-14T09:14:25.018Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -523,14 +523,16 @@
     },
     {
       "id": "2456c3510c4c",
+      "slug": "netflix-thinks-ai-might-save-you-from-scrolling-aimlessly-for-something-to-watch",
       "title": "Netflix thinks AI might save you from scrolling aimlessly for something to watch",
-      "summary": "The tab will initially offer suggestions based on a range of AI-generated themes.",
+      "summary": "Netflix has begun testing \"AI Discover,\" a new tab in its TV app that suggests titles through AI-generated themes such as \"Something Light\" or \"Scare Me.\" It is initially limited to a small group of US members and is described as a testing ground for features that could reach the main app.",
+      "articleBody": "Netflix has started testing a new way to choose what to watch. On Tuesday, November 3, the company announced \"AI Discover,\" a new tab in its TV app that uses AI-generated themes to help viewers decide, instead of making them scroll through rows of titles.\n\nOpening the tab shows a handful of themes, each paired with a clip from a show or movie. Examples include \"Something Light,\" \"Scare Me,\" \"Family Movie Night\" and \"Quick Watches.\" After you pick one, Netflix offers more specific themes so you can narrow the choice, and a \"Something Different\" option brings up a fresh set of picks. Viewers can also refresh the themes or block titles they do not want. In this first version there is no box for typing a request. You click through the suggestions. Netflix says AI helps create the themes and that it will explain results along the way. It describes the feature as powered by a new intelligence layer that responds to what members say in real time and keeps learning.\n\nAI Discover is deliberately limited at first. It is rolling out to a small group of US members who use English-language profiles on supported TVs, and Netflix says more users will get it in the coming weeks. Not everyone who sees the tab will necessarily see the same thing, because the company plans to try different ideas over time.\n\nNetflix calls AI Discover its \"test kitchen,\" a place to try new recipes for discovery. Feedback will help decide which features are kept, improved, or moved into the main Netflix experience. That gives the company a way to experiment without changing the main homepage for all subscribers overnight.\n\nThe feature is the latest in a long run of attempts to shorten the time viewers spend choosing. Netflix has tried a shuffle play option and tested an OpenAI-powered chatbot alongside a redesign last year, and the new tab builds on its AI-powered search on mobile.\n\nEarly reaction has been mixed. Some viewers on social media have been skeptical and say they would rather Netflix focus on better titles than on better ways to find them. Supporters say that a tool that lets people guide the process by mood, time or situation could help those who know the kind of thing they want but cannot settle on a title.\n\nFor Netflix, the stakes are straightforward. If viewers find something quickly, they are more likely to keep watching, and AI-driven themes could eventually become a bigger part of how everyone browses. What is still unknown is how well the suggestions work in practice, how personalized they are compared with the existing recommendations, and whether the test will expand beyond the US and English.",
+      "author": "Kamali",
       "source": "Engadget",
       "url": "https://www.engadget.com/2305778/netflix-thinks-ai-might-save-you-from-scrolling-aimlessly-for-something-to-watch/",
       "image": "https://www.engadget.com/img/gallery/netflix-thinks-ai-might-save-you-from-scrolling-aimlessly-for-something-to-watch/l-intro-1793735788.jpg",
       "category": "Artificial Intelligence",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T19:57:41+00:00"
     },
     {
