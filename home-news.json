@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T09:21:04.427Z",
+  "updated": "2026-11-14T09:22:08.476Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -607,14 +607,16 @@
     },
     {
       "id": "dd1cb0c3441e",
+      "slug": "itch-io-adds-a-filter-for-games-with-gen-ai-disclosures",
       "title": "Itch.io adds a filter for games with gen AI disclosures",
-      "summary": "Your turn, Steam.",
+      "summary": "Itch.io has added a \"No AI\" search filter that hides games carrying a generative AI disclosure, and says it deleted a couple of terabytes of AI-generated spam. Steam also requires AI disclosures but does not let shoppers filter them out.",
+      "articleBody": "Indie game marketplace Itch.io has added a \"No AI\" filter that lets players hide games that carry a generative AI disclosure. The platform announced the change in early November alongside a clean-up, saying on Bluesky that it had deleted a couple of terabytes of AI-generated spam.\n\nItch.io requires creators to disclose when a game uses generative AI. Selecting \"No AI\" in search removes any game with such a disclosure from the results, and players can also browse a \"No AI\" tag page. The filter works from the disclosures, so it is only as reliable as the information developers provide. It does not let developers specify how extensively they used AI, and one user forum notes that the disclosure covers several categories while the filter lumps them together. Itch.io has also extended the disclosure requirement to tabletop games, books, comics and soundtracks.\n\nThe platform says the problem is volume. It posted a chart of new game pages created each day, and reports say the number of uploads has as much as doubled in recent months as AI tools have spread. The deleted material included both games and developer assets such as asset packs, although Itch.io did not say how many items were removed. The removal targets spam and bulk uploads of AI creations, such as very large amounts of poorly optimized generated models, and not all games that use generative AI.\n\nItch.io's move stands out because Steam also requires disclosure on store pages but does not allow players to filter those games out of search. Valve recently admitted that Steam has a problem with AI-generated games and cloning, and some commentators suggested developers may be partly responsible by making games easy to copy.\n\nReaction has been mostly positive, though some players want Itch.io to go further and ban generative AI assets outright. Others point out how hard it is to draw a line, because an \"AI game\" could be anything from a low-quality title coded entirely by AI to a project that used AI tools in a small part of development. Some developers argue that marking code partly written with AI as AI content does not help players.\n\nFor players, the filter is a simple way to avoid AI-generated content on a platform known for small, personal projects. For developers, it means that disclosing AI use will make a game invisible to a growing group of shoppers. What remains to be seen is whether Itch.io will refine the disclosure categories, whether more sellers will use accurate labels, and whether Steam will respond with a similar filter.",
+      "author": "Kamali",
       "source": "Engadget",
       "url": "https://www.engadget.com/2305699/itchio-adds-a-filter-for-games-with-gen-ai-disclosures/",
       "image": "https://www.engadget.com/img/gallery/itch-io-adds-a-filter-for-games-with-gen-ai-disclosures/l-intro-1793733979.jpg",
       "category": "Artificial Intelligence",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T19:27:28+00:00"
     },
     {
