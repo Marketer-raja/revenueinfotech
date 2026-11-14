@@ -44,7 +44,7 @@ def article_html(item: dict, slug: str) -> str:
     author = esc(author_name)
     category = esc(item.get("category") or "Technology News")
     source = esc(item.get("source"))
-    source_url = str(item.get("url", ""))
+    source_url = str(item.get("url", "")).split(",")[0].strip()
     source_link = f'<a href="{esc(source_url)}" rel="noopener noreferrer">{source}</a>' if safe_http_url(source_url) else source
     published = item.get("published") or datetime.now(timezone.utc).isoformat()
     try:
