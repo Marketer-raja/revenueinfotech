@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T08:45:08.248Z",
+  "updated": "2026-11-14T08:46:31.778Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -285,14 +285,16 @@
     },
     {
       "id": "7a8f24a7ea2e",
+      "slug": "meta-s-quest-2-and-quest-pro-reach-end-of-feature-development",
       "title": "Meta's Quest 2 and Quest Pro reach 'end of feature development'",
-      "summary": "The app stores will stay open for both devices after support ends next year.",
+      "summary": "Meta says its Quest 2 and Quest Pro headsets will get their final feature update by March 2027, ending new software features for the two devices. Security patches will continue through the end of 2027, and Meta says the app store, owned games and cross-play with newer Quest headsets will keep working.",
+      "articleBody": "Meta has told developers that its Quest 2 and Quest Pro virtual reality headsets have reached the end of feature development. The company published the announcement on its developer blog on November 2, 2026. It does not switch the headsets off, but it does mark the start of their wind-down.\n\nThe timeline\n\nAccording to Meta's post and coverage of it, the final operating system update for both headsets is Horizon OS version 2.13, which is due to reach all Quest 2 and Quest Pro devices by March 2027. After that, the headsets will not get new system features. Meta says it will keep delivering security patches and critical bug fixes on a quarterly basis through the end of 2027. New app submissions for the two headsets will be accepted through December 2027.\n\nWhat stays working\n\nMuch of Meta's message is about what will not change. Games and apps already bought will keep working, both solo and multiplayer, and the library stays available to download. The store will remain open on the headsets, and Meta says no app will be removed from it because of this change. Cross-play between the Quest 2, Quest Pro, Quest 3 and Quest 3S will continue to be supported. PC VR through Meta's Link feature, along with services such as avatars, voice calls and messaging, is listed among the features that keep working.\n\nWhat changes for developers\n\nDevelopers can keep releasing updates for existing apps, and Meta has not set an end date for that. However, the company says it will stop testing new operating system and SDK releases on the older headsets, so it will be up to each studio to make sure its apps work on them. Studios have several options. They can keep one version of a game for all devices, run separate builds, or freeze a final build for the older headsets and stop selling to Quest 2 and Quest Pro users. People who already own such an app keep it. Meta's app policy also requires developers to give at least 180 days' notice before ending support in a way that costs users content or essential services.\n\nWhy Meta is doing this\n\nThe Quest 2 has been on sale for about six years, and its mobile processor is now significantly outdated. That is the reason given for ending feature development. The timeline also follows Meta's treatment of the original Oculus Quest, which went through a similar sequence of ending features, then security fixes, then app updates.\n\nWhat it means for owners\n\nFor people who only play the games they already own, nothing changes this winter. The main effect will be gradual. New system features will stop, and some new games and app updates that need newer software may skip the older headsets. One tech site notes that the date that matters most to an owner is the day the studio behind a favourite game decides to freeze its Quest 2 version, not a date Meta sets. Quest Pro owners are in the same position, with the same cutoffs, even though that headset cost a lot more at launch.\n\nThose thinking about upgrading may want to consider the Quest 3 or Quest 3S, which Meta continues to support fully. Owners on a strict budget who mainly replay existing games have little urgency to switch.\n\nWhat is still unknown\n\nIt is not clear how quickly major studios will stop supporting the older headsets, or how many new games will still ship for them in 2027. How well the older hardware copes without further system updates over a longer period is also an open question.\n\nWhy it matters\n\nThe Quest 2 helped bring consumer VR to a wide audience, and it is one of the best-selling headsets in the category. Its slow retirement shows how quickly VR hardware ages, and how much owners depend on the choices of Meta and game studios to keep their devices useful.",
+      "author": "Kamali",
       "source": "Engadget",
       "url": "https://www.engadget.com/2306079/meta-quest-2-and-quest-pro-reach-end-of-feature-development/",
       "image": "https://www.engadget.com/img/gallery/metas-quest-2-and-quest-pro-reach-end-of-feature-development/l-intro-1793745475.jpg",
       "category": "Software Development",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T22:43:06+00:00"
     },
     {
