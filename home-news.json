@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T09:12:03.800Z",
+  "updated": "2026-11-14T09:13:09.177Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -509,14 +509,16 @@
     },
     {
       "id": "49792679d79f",
+      "slug": "apple-starts-giving-siri-ai-access-to-third-party-apps",
       "title": "Apple starts giving Siri AI access to third-party apps",
-      "summary": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to...",
+      "summary": "Apple has opened its new Siri AI to every third-party developer through the iOS 27.3 developer betas, letting apps expose content and actions to the assistant via App Intents. It is a developer preview only: apps using the feature are expected to reach customers in 2027, after an App Store submission window opens in spring.",
+      "articleBody": "Apple has opened its upgraded Siri AI assistant to every third-party developer. The change arrived on Tuesday, November 3, as part of the first iOS 27.3 developer beta, along with matching betas for iPadOS, macOS and visionOS 27.3. It is a developer preview. Regular iPhone users will not see third-party Siri AI features yet.\n\nUntil now, only a smaller set of apps had deep connections to the assistant, and Siri could reach third-party apps mainly through predefined app schemas. Under the new preview, any app can bring its own content and custom actions into Siri AI using App Intents, the framework apps already use to expose features to the system. Apple said the preview lets apps tap into Siri AI's newest abilities, including understanding personal context, awareness of what is on the screen, and natural language.\n\nDevelopers can also build what Apple calls \"skills.\" These are Markdown files that teach Siri AI multi-step workflows, so that one request can chain several actions without the user switching between apps. Developer-focused coverage says a single code annotation can turn an existing app action into a tool that Siri can call. Apple notes that the App Intents API and Siri's behavior may change during the preview.\n\nFor users, the idea is to ask Siri to do things inside the apps they already use, not only Apple's. Examples Apple lists include checking on a delivery, booking a reservation or placing an order once those apps adopt the new tools. Apple's own examples of what Siri AI can do with personal context include finding a coffee shop you visited last week or archiving files you have not opened in more than a year.\n\nTiming matters. Apple says apps using the new capabilities are expected to reach customers in 2027, and developers can submit them to the App Store beginning in spring. iOS 27.3 itself is expected to reach the public in December. One report stresses that no third-party app ships the new skills feature to customers today, and that the public release will not include a switch for it.\n\nSome coverage also points to a transition for older code. One developer guide says the older SiriKit framework still compiles but no longer does anything on iOS 27 devices, so developers supporting both iOS 26 and iOS 27 may need both approaches. That claim comes from a single developer-focused source, so developers should check Apple's documentation.\n\nWhat is not yet known is how well Siri AI will handle real third-party actions, how many developers will adopt it quickly, and what privacy and permission controls users will see when an assistant can act inside many apps. Those answers should emerge as the beta progresses and apps begin shipping next year.",
+      "author": "Kamali",
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-6.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Artificial Intelligence",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T20:16:17+00:00"
     },
     {
