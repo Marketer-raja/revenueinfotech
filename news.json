@@ -1,6 +1,156 @@
 {
-  "updated": "2026-11-14T06:21:32+00:00",
+  "updated": "2026-11-14T15:48:21+00:00",
   "items": [
+    {
+      "id": "5adc8907a2ae",
+      "title": "Should you make the switch to Samsung Galaxy from Google Pixel?",
+      "url": "https://www.engadget.com/2311344/switch-to-samsung-galaxy-to-google-pixel/",
+      "source": "Engadget",
+      "published": "2026-11-14T15:30:00+00:00",
+      "excerpt": "Thinking about trading your Google Pixel for a Samsung Galaxy? Some of the biggest differences might not be the ones you expect.",
+      "image": "https://www.engadget.com/img/gallery/should-you-make-the-switch-to-samsung-galaxy-from-google-pixel/l-intro-1794253187.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "d46b516a4c83",
+      "title": "The OpenAI board member who fired Sam Altman says we still can\u2019t trust AI CEOs",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "source": "The Verge",
+      "published": "2026-11-14T15:00:00+00:00",
+      "excerpt": "Today, I\u2019m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD-Helen-Toner.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "7f50154f5cf4",
+      "title": "The weird reasons why your ethernet cable might be slower than your Wi-Fi",
+      "url": "https://www.engadget.com/2311140/reason-why-ethernet-cable-slower-than-wifi/",
+      "source": "Engadget",
+      "published": "2026-11-14T15:00:00+00:00",
+      "excerpt": "It could be hardware, software or something else entirely.",
+      "image": "https://www.engadget.com/img/gallery/the-weird-reasons-why-your-ethernet-cable-might-be-slower-than-your-wi-fi/l-intro-1794248467.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "ab4be282d77d",
+      "title": "Your iPhone has a built-in barometer \u2014 Here's how to use it",
+      "url": "https://www.engadget.com/2311121/iphone-barometric-pressure-app-and-how-it-works/",
+      "source": "Engadget",
+      "published": "2026-11-14T14:45:00+00:00",
+      "excerpt": "The iPhone's barometer is easy to overlook, but it's one of several sensors working behind the scenes every day, collecting data most users haven't seen.",
+      "image": "https://www.engadget.com/img/gallery/your-iphone-has-a-built-in-barometer-heres-how-to-use-it/l-intro-1794248048.jpg",
+      "category": "Data & Analytics"
+    },
+    {
+      "id": "0ff8f9d11929",
+      "title": "Which Android Phones Are Most Similar To The OnePlus 16?",
+      "url": "https://www.engadget.com/2311107/android-phones-most-similar-oneplus-16/",
+      "source": "Engadget",
+      "published": "2026-11-14T14:30:00+00:00",
+      "excerpt": "While the OnePlus 16 isn't available in the US or Europe, there are lots of good alternatives.",
+      "image": "https://www.engadget.com/img/gallery/which-android-phones-are-most-similar-to-the-oneplus-16/l-intro-1794246960.jpg",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "3fdf29b5c4ea",
+      "title": "Tesla is inviting some people to buy a Cybercab \u2018for personal use\u2019 \u2014 but read the fine print",
+      "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
+      "source": "The Verge",
+      "published": "2026-11-14T14:18:36+00:00",
+      "excerpt": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.\" But the gilded, steering-wheel-free two-seater will \"only be available...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25670862/Robotaxi_89.png?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "a590023ea31a",
+      "title": "Samsung is taking a page out of Pixel's playbook with One UI 9.5",
+      "url": "https://www.engadget.com/2316348/samsung-one-ui-9-5-feature-memory-app-from-pixel-playbook/",
+      "source": "Engadget",
+      "published": "2026-11-14T14:15:00+00:00",
+      "excerpt": "A riff on Google's Pixel Screenshots could pull together fragmented information from across your phone.",
+      "image": "https://www.engadget.com/img/gallery/samsung-is-taking-a-page-out-of-pixels-playbook-with-one-ui-9-5/l-intro-1794593428.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "30ba9526ee50",
+      "title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
+      "url": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
+      "source": "The Verge",
+      "published": "2026-11-14T14:00:00+00:00",
+      "excerpt": "As much as I appreciate the ingenious design of the Nintendo Switch's Joy-Con, my family and I can't stand using them as standalone gamepads. So when we travel with the Switch 2, we always bring at least one full-size gamepad, plus a...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/crkd1_d836b8.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "ca99ea56d6e5",
+      "title": "How to use the new remote finding features on the Apple TV 4K (4th gen)",
+      "url": "https://www.engadget.com/2316344/how-to-use-apple-tv-4k-remote-finding-feature/",
+      "source": "Engadget",
+      "published": "2026-11-14T14:00:00+00:00",
+      "excerpt": "The new Apple TV 4K has a smarter way to hunt down a missing remote. Find out how the feature works and what you need on your end to make it happen.",
+      "image": "https://www.engadget.com/img/gallery/how-to-use-the-new-remote-finding-features-on-the-apple-tv-4k-4th-gen/l-intro-1794594920.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "88482f444801",
+      "title": "Tesla starts taking Cybercab orders for personal use",
+      "url": "https://www.engadget.com/2316848/tesla-starts-taking-cybercab-orders-for-personal-use/",
+      "source": "Engadget",
+      "published": "2026-11-14T13:59:48+00:00",
+      "excerpt": "Tesla is sending select customers invitations to purchase the Cybercab for personal use.",
+      "image": "https://www.engadget.com/img/gallery/tesla-starts-taking-cybercab-orders-for-personal-use/l-intro-1794664630.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "866d4ba82076",
+      "title": "How long will it take you to download GTA 6 based on your internet speeds?",
+      "url": "https://www.engadget.com/2316732/gta-6-download-time-internet-speed-calculator/",
+      "source": "Engadget",
+      "published": "2026-11-14T13:45:00+00:00",
+      "excerpt": "You won't have to ruin your weekend plans to download this open-world epic.",
+      "image": "https://www.engadget.com/img/gallery/how-long-will-it-take-you-to-download-gta-6-based-on-your-internet-speeds/l-intro-1794616364.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "bda03cd48af7",
+      "title": "AMD vs. Intel CPUs: Which is the better buy in 2026?",
+      "url": "https://www.engadget.com/2310528/amd-vs-intel-cpu-which-better-buy-2026/",
+      "source": "Engadget",
+      "published": "2026-11-14T13:15:00+00:00",
+      "excerpt": "AMD and Intel CPUs have different strengths, so you'll need to consider what you need out of a CPU to make the right choice.",
+      "image": "https://www.engadget.com/img/gallery/amd-vs-intel-cpus-which-is-the-better-buy-in-2026/l-intro-1793296666.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "f6ab18d54d4e",
+      "title": "A gadget to make your dumb house smarter",
+      "url": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
+      "source": "The Verge",
+      "published": "2026-11-14T13:00:00+00:00",
+      "excerpt": "Hi, friends! Welcome to Installer No. 152, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for taking time away from Zelda to be here, and also you can read all the old editions at the...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Installer-152.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "b58e8e6c37ed",
+      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+      "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+      "source": "The Hacker News",
+      "published": "2026-11-14T12:38:35+00:00",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuvSsWcsJ9736KXp_0s-6__-CiI5PD71VReembVHAB4cfnv3Qti8td9WR54UnRH96bz30dvbTQxwG3WbxDkWRq_eFJPYLgxbAzRD5k3MJSISbW2VDI-Fr7nlX4j8NyJkXqLHylMZMXpynEHVV8ovZ2YPC-WGCFCcrOZOeGc5Wsy-jRjjbcyYTzojI9Nudw/s1600/cisaa.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "567fa298898a",
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "source": "The Verge",
+      "published": "2026-11-14T12:00:00+00:00",
+      "excerpt": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2194622930.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Artificial Intelligence"
+    },
     {
       "id": "a40d419578bb",
       "title": "\u2018We need more reviewers\u2019: Finding Linux bugs is easy now \u2013 fixing them is another story",
@@ -250,156 +400,6 @@
       "excerpt": "The Xiaomi 18 Pro series\u2019 rear displays might actually be useful, after all. more\u2026",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-2.jpg?quality=82&strip=all&w=1400",
       "category": "Software Development"
-    },
-    {
-      "id": "416ec31b7737",
-      "title": "Android Auto 18.2 update starts rolling out with more light mode teases",
-      "url": "https://9to5google.com/2026/11/13/android-auto-18-2-update-beta-release/",
-      "source": "9to5Google",
-      "published": "2026-11-13T16:45:00+00:00",
-      "excerpt": "Google has started rolling out the Android Auto 18.2 update, but don\u2019t expect much to change on your car\u2019s display. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/Android-Auto-Immersive-View-2.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "3e06ce96884a",
-      "title": "Deals: Nothing early Black Friday now live \u2013 Headphone (a) 45% off, Buds Neo $17, Phone up to $300 off, much more",
-      "url": "https://9to5google.com/2026/11/13/early-black-friday-nothing-headphone-a-buds-neo-phone/",
-      "source": "9to5Google",
-      "published": "2026-11-13T16:40:07+00:00",
-      "excerpt": "As part of Amazon\u2019s now live early Black Friday sale , Nothing is taking over today\u2019s 9to5Toys Lunch Break deal post with loads of new all-time lows at up to nearly 50% off . We have a new Amazon all-time low on Nothing Headphone (a) today...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/9to5Google-Nov-13.webp?w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "89a615bc3944",
-      "title": "Microsoft services are returning after an outage took down Outlook, Teams and more",
-      "url": "https://www.engadget.com/2316029/microsoft-services-are-returning-after-an-outage-took-down-outlook-teams-and-more/",
-      "source": "Engadget",
-      "published": "2026-11-13T16:35:36+00:00",
-      "excerpt": "The House of Representatives, health care providers, schools and many other organizations were affected.",
-      "image": "https://www.engadget.com/img/gallery/microsoft-services-are-gradually-returning-after-an-outage-took-down-outlook-teams-and-more/l-intro-1794594459.jpg",
-      "category": "Enterprise Software & SaaS"
-    },
-    {
-      "id": "bc9e424becdb",
-      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
-      "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
-      "source": "Ars Technica",
-      "published": "2026-11-13T16:26:32+00:00",
-      "excerpt": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1237693734-1152x648-1783631068.jpg",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "4be096efb99e",
-      "title": "Microsoft\u2019s massive Outlook outage might be over",
-      "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
-      "source": "The Verge",
-      "published": "2026-11-13T16:17:11+00:00",
-      "excerpt": "Service is recovering for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state on Friday morning, some people (including...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Enterprise Software & SaaS"
-    },
-    {
-      "id": "2e0c3be2ebaa",
-      "title": "Everything Nothing sells is up to 49% off today; Phone (3) for $499, $17 Buds, more",
-      "url": "https://9to5google.com/2026/11/13/nothing-discounts-early-black-friday/",
-      "source": "9to5Google",
-      "published": "2026-11-13T16:10:00+00:00",
-      "excerpt": "Nothing is selling a lot of its products at huge discounts today, with up to half off select products, bringing devices like Phone (3) down to $499, Buds (3a) to $69.99, and more. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/nothing-phone-3-1-20.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "4e379f6cb9d3",
-      "title": "ChatGPT\u2019s new Wallet lets AI agents shop and check out for you",
-      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "source": "TechCrunch",
-      "published": "2026-11-13T16:00:12+00:00",
-      "excerpt": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/chatgpt-wallet.jpg?resize=1200,729",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "56623f1d9c94",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch",
-      "published": "2026-11-13T15:58:00+00:00",
-      "excerpt": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "376726872e23",
-      "title": "Pixel Watch update brings a sweet redesign I wish was on more apps",
-      "url": "https://9to5google.com/2026/11/13/google-pixel-watch-media-controls-redesign-update/",
-      "source": "9to5Google",
-      "published": "2026-11-13T15:55:00+00:00",
-      "excerpt": "Google has been at its gradient redesign schtick for a while now to varying levels of success, but its latest redesign has just landed on the Pixel Watch for the Media Controls app, and I love it. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/Pixel-Watch-4-Apps-Screen.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "fb5ac890be2a",
-      "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
-      "url": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
-      "source": "The Hacker News",
-      "published": "2026-11-13T15:27:05+00:00",
-      "excerpt": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out. One of them, Mior, can also modify a VM's memory and fake the...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi28SrA-dW0l0kreAg1vMHHOgBRMM7lzxv5qg2FT2HzRxReJ96pxZP4Fjpm15fYWDDgWpbBI8iC119aE37t_kmQ4guoA70NUlJsdiA4hFvTg8fflx9fsKqUsGuoB-S9VS5pPd38EBVYRGmvKIT5EylE3IwEK8bBCp5CkLrdTwhbyUA2xWN_0iOynP33yE8/s1600/amd-flaws.jpg",
-      "category": "Cloud Computing"
-    },
-    {
-      "id": "e2b845af25e3",
-      "title": "Apple announces release dates for the first Apple Home Collection smart devices",
-      "url": "https://www.theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing",
-      "source": "The Verge",
-      "published": "2026-11-13T15:22:14+00:00",
-      "excerpt": "The first few smart home devices and accessories that Apple co-developed with LG Electronics and Schneider Electric for its new Apple Home Collection are now available for preorder through the company's online store, with delivery expected...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/applehome.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "65310b74c6f3",
-      "title": "Proton Pass is up to 60% off for Black Friday\u2014and it does way more than just store your passwords",
-      "url": "https://9to5google.com/2026/11/13/proton-pass-is-up-to-60-off-for-black-friday-and-it-does-way-more-than-just-store-your-passwords-sponsored/",
-      "source": "9to5Google",
-      "published": "2026-11-13T15:15:00+00:00",
-      "excerpt": "There\u2019s a familiar interruption that comes with shopping online: you\u2019ve found what you want, you\u2019re ready to check out, and the store asks you to sign in. Was this the account with your usual password? Did you change it last time? Is it...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/lifestyle-laptop-pass-2048x1365-1.webp?w=1500",
-      "category": "Data & Analytics"
-    },
-    {
-      "id": "b350a61e7b70",
-      "title": "This year\u2019s Meta Quest 3S early Black Friday doorbuster deal is the best I\u2019ve ever seen",
-      "url": "https://9to5google.com/2026/11/13/this-years-meta-quest-3s-black-friday-doorbuster-deal-is-the-best-ive-ever-seen/",
-      "source": "9to5Google",
-      "published": "2026-11-13T15:04:52+00:00",
-      "excerpt": "Meta is including nearly $100 of free stuff with this year\u2019s Meta Quest 3S Black Friday sale, including a $50 Best Buy gift card. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/quest-3s-black-friday-with-club-1.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "8b1c9ace4af7",
-      "title": "Uber confirms hackers stole thousands of drivers\u2019 license information in data breach",
-      "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
-      "source": "TechCrunch",
-      "published": "2026-11-13T14:57:55+00:00",
-      "excerpt": "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2043993878-e1722276196662.jpg?resize=1200,676",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "627c324df106",
-      "title": "What\u2019s really at stake in the Jensen Huang saga",
-      "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
-      "source": "The Verge",
-      "published": "2026-11-13T14:47:16+00:00",
-      "excerpt": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_111326_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
     }
   ]
 }
