@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T09:46:08.306Z",
+  "updated": "2026-11-14T09:47:24.639Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -831,14 +831,16 @@
     },
     {
       "id": "8fc2315555ec",
+      "slug": "crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-fo",
       "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
-      "summary": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.",
+      "summary": "CrowdStrike has agreed to acquire two AI security startups, Fiddler AI and Dreadnode, in deals reportedly worth about $495 million combined. The purchases add tools for monitoring AI agents and for testing them against attacks before they go live.",
+      "articleBody": "CrowdStrike has announced that it will buy two startups focused on securing AI agents, Fiddler AI and Dreadnode. The Wall Street Journal, which reported the deals ahead of the official announcements on Tuesday, November 3, 2026, said CrowdStrike is paying around $400 million for Fiddler and about $95 million for Dreadnode, a combined total of roughly $495 million. The report described the deals as mostly in cash, and CrowdStrike itself has not confirmed the prices.\n\nFiddler AI, founded in 2018 and based in Palo Alto, California, makes observability software that helps companies watch what AI agents are doing inside their networks. CrowdStrike plans to fold the technology into its Falcon platform as a new product called Falcon Observe. The tool is meant to help customers test agents before they are deployed, trace the reasoning and tool calls behind an agent's actions, and watch for problems in production, such as behavioral drift and made-up answers. Fiddler has raised about $100 million in total funding, according to SecurityWeek.\n\nDreadnode, founded in 2023, focuses on a different part of the problem. Its software automates security testing for AI models, applications and agents, so that flaws can be found before the systems go live. Users can describe in plain language what they want to test, and the platform runs a large library of known attack methods, including jailbreaks, prompt injection and multi-step attacks aimed at agents. It also checks the MCP servers that agents rely on and ranks its findings by severity. The startup has raised about $14 million. CrowdStrike plans to feed Dreadnode's results into its Falcon Guardian product, which maps the AI agents in a company's environment and makes security recommendations.\n\nThe timing reflects how quickly companies are putting AI agents to work. Agents can take actions on their own, such as calling tools and accessing data, which creates new risks that traditional security products were not designed to handle. Fiddler's chief executive, Krishna Gade, said that as AI security and observability come together, companies need to understand what their agents do, step in when they go off course, and explain why.\n\nCrowdStrike expects the Fiddler deal to close in the fourth quarter of its 2027 fiscal year, subject to closing conditions, and Falcon Observe is scheduled to launch in that same period. Dreadnode's team, led by CEO Brad Palm, will join CrowdStrike's Cyber Superintelligence Lab, and testing capabilities based on its technology are also expected to be generally available in that quarter. The acquisitions follow CrowdStrike's earlier agreement, in September 2025, to buy AI security company Pangea.\n\nSeveral details are still unclear. CrowdStrike has not officially confirmed the price of each deal, and it has not said how the products will be priced for customers or how many of the startups' existing customers will stay. It also remains to be seen whether adding these tools to a large security platform will make them more useful than standalone products, or whether other security vendors will respond with deals of their own.",
+      "author": "Kamali",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
       "image": "",
       "category": "Artificial Intelligence",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T17:56:52+00:00"
     },
     {
