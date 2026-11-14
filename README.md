@@ -20,3 +20,25 @@
 ```bash
 python3 scripts/fetch_news.py
 ```
+
+
+## Editorial publishing workflow
+
+- RSS collection is a research queue only; it does not publish candidate feed excerpts to the homepage.
+- Editors review the original source, verify the facts and write an original article in `/newsdesk/`.
+- Each approved item must include a real author/editor byline and an original article body of at least 600 characters.
+- Saving and publishing through Newsdesk updates `home-news.json`. The GitHub Actions workflow then generates `/articles/<slug>/` article pages, NewsArticle structured data, canonical metadata and an updated sitemap.
+- The 600-character check is a basic publishing safeguard, not an AdSense approval rule. Editorial quality, accuracy, usefulness, image rights and policy compliance still require human review.
+
+See `EDITORIAL_WORKFLOW.md` for the full process.
+
+
+## Editorial publishing workflow
+
+- RSS collection is a research queue only; it does not publish candidate feed excerpts to the homepage.
+- Editors review the original source, verify the facts and write an original article in `/newsdesk/`.
+- Each approved item must include a real author/editor byline and an original article body of at least 600 characters.
+- Saving and publishing through Newsdesk updates `home-news.json`. The GitHub Actions workflow then generates `/articles/<slug>/` article pages, NewsArticle structured data, canonical metadata and an updated sitemap.
+- The 600-character check is a basic publishing safeguard, not an AdSense approval rule. Editorial quality, accuracy, usefulness, image rights and policy compliance still require human review.
+
+See `EDITORIAL_WORKFLOW.md` for the full process.
