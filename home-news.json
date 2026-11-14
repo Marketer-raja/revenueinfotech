@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T09:31:18.973Z",
+  "updated": "2026-11-14T09:32:44.304Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -663,14 +663,16 @@
     },
     {
       "id": "86e0bd460d97",
+      "slug": "how-to-use-your-phone-to-find-hidden-cameras",
       "title": "How to use your phone to find hidden cameras",
-      "summary": "When you feel wary, a quick check might provide some peace of mind.",
+      "summary": "Staying in a rental or hotel can leave you wondering whether someone is watching. A few simple checks using only your smartphone can help you spot hidden cameras, although none of them is a guarantee.",
+      "articleBody": "Hidden cameras in short-term rentals, hotel rooms and changing areas are a real privacy concern, and many travelers want a way to check without buying special equipment. Your smartphone can help with several quick checks. None of them is foolproof, but together they can give you a reasonable degree of reassurance.\n\nStart with a visual sweep. Hidden cameras are often placed in objects that face the bed, bathroom or seating areas, such as smoke detectors, clocks, USB chargers, air purifiers, picture frames, plants and TV set-top boxes. Look for tiny holes, odd lens-like dots, or devices that seem out of place or pointed at you. Turning off the lights and using your phone's flashlight can help. A camera lens often reflects light with a small bright glint when you scan the room slowly.\n\nNext, use your phone's camera to check for infrared light. Many cameras that work in the dark use infrared LEDs, which the human eye cannot see. In a dark room, open your camera app and slowly pan across the room. Look for small purple or white glowing dots. Results vary by phone, because some rear cameras filter out infrared. Pointing a TV remote at your camera and pressing a button is an easy test. If you see the remote's light on screen, your camera can pick up infrared. The front camera often works better for this.\n\nCheck the Wi-Fi network as well. Many hidden cameras connect to the local network to stream or store video. Network scanner apps can list devices that are connected to the Wi-Fi network, and you can look for unfamiliar names or device types such as cameras. This is only useful if you are allowed to join the network, and it will not catch cameras that record to a memory card or use their own connection.\n\nMirrors deserve a quick look too. To test a mirror, touch the surface with a fingernail. On a normal mirror, there is a gap between your nail and its reflection. On a two-way mirror, the reflection seems to touch your nail directly. This is a common check, but it is not conclusive on its own.\n\nYou can also try dedicated tools. Small radio-frequency detectors and lens finders are sold online, and some people find them useful as a second check. Their quality varies widely, so treat them as a supplement and not as proof.\n\nIf you find something suspicious, avoid tampering with it. Take photos or video of the device and where it was found, leave it in place if possible, and contact the property host, the platform you booked with, or local police. If you feel unsafe, leave the room or property first. Recording people in private spaces without their knowledge is illegal in many places, and rental platforms generally prohibit cameras inside bedrooms and bathrooms.\n\nIt is worth keeping the risk in perspective. Most rentals and hotels do not have hidden cameras, and a failed check does not prove a room is clear. Still, a few minutes of checking when you arrive is a cheap way to feel more confident about your privacy.",
+      "author": "Kamali",
       "source": "Engadget",
       "url": "https://www.engadget.com/2300439/how-to-use-phone-find-hidden-cameras/",
       "image": "https://www.engadget.com/img/gallery/how-you-can-use-your-phone-to-find-hidden-cameras/l-intro-1792784027.jpg",
       "category": "Software Development",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T19:00:00+00:00"
     },
     {
