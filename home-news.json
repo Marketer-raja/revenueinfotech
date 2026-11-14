@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T09:14:25.018Z",
+  "updated": "2026-11-14T09:15:44.405Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -537,14 +537,16 @@
     },
     {
       "id": "8f72d813f63a",
+      "slug": "researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-bina",
       "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
-      "summary": "Cybersecurity experts have long warned of the persistent and patient threat from North Korea's long-running hacks. The world's largest crypto exchange was still caught off-guard.",
+      "summary": "Security researchers and government agencies have warned for years that North Korean hackers pose as recruiters and investors to trick employees into running malicious software. Binance, which says it faced at least 57 suspected attacks from North Korea, still lost a record $6.3 billion through that kind of scheme, according to its own account of the breach.",
+      "articleBody": "The record $6.3 billion theft from Binance used methods that researchers had been warning about for years. According to Binance, North Korean hackers posed as recruiters and approached a software engineer who works on the company's wallets. The FBI and blockchain investigators have blamed North Korea for the heist, although the investigation is still ongoing.\n\nBinance's account describes a months-long social engineering scheme. The attackers used fake social media profiles and the lure of a job to get an employee to download malicious software. During the interview process, the engineer was reportedly given a fake coding assignment, and opening it installed malware that Binance's security tools did not detect. That gave the attackers a foothold they used to reach two more engineers and, eventually, systems that controlled billions of dollars of crypto. The company has said an internal AI tool also played a part in the later stages.\n\nThe tactics were well known. Researchers have warned for years that North Korean hackers pose as venture capitalists, investors and recruiters, often using dossiers of stolen American identities to appear convincing and to persuade employees to give them access. These campaigns can run for months, and they have prompted repeated warnings from US authorities and cybersecurity firms. CrowdStrike data referenced alongside the Binance story indicates that about half of intrusions at US tech companies in the prior year were attributed to North Koreans posing as remote IT workers and fake recruiters.\n\nBinance says it had faced at least 57 suspected attacks from North Korea, which it described as a sign of the persistent threat that state-sponsored actors pose to the crypto industry. This one succeeded. North Korea began focusing its hacking operations on cryptocurrency theft around 2017, according to the Multilateral Sanctions Monitoring Team, a group of 11 countries that includes the US, South Korea and Japan. The FBI has used the name TraderTraitor for the type of operation behind such attacks. Analysts describe the activity as a revenue stream for the Kim regime, and reports say stolen coins are often turned into cash through over-the-counter traders in China.\n\nBinance has said it will bring in outside cybersecurity experts to review the incident and has added new security measures. A company spokesperson declined to answer questions on the record about how Binance prevents unauthorized or malicious code from running on employee laptops and whether outside parties had audited its network before the hack.\n\nThose unanswered questions are central. If the methods were widely documented, observers will want to know which defenses were in place and why they failed. The answers could shape how other exchanges train staff, restrict code on work devices and handle job-related contacts.",
+      "author": "Kamali",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/dprk-kim-2252780532.jpg?resize=1200,801",
       "category": "Software Development",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T19:45:48+00:00"
     },
     {
