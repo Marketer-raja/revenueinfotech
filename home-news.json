@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T08:40:11.223Z",
+  "updated": "2026-11-14T08:42:06.453Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -243,14 +243,16 @@
     },
     {
       "id": "f86952dcd16a",
+      "slug": "what-made-nothing-s-cmf-phone-2-pro-so-much-cheaper-than-others",
       "title": "What made Nothing's CMF Phone 2 Pro so much cheaper than others?",
-      "summary": "Nothing sister brand CMF made a lot of clever choices to keep the Phone 2 Pro cheap.",
+      "summary": "Nothing's CMF Phone 2 Pro launched at $279 by keeping a big screen and battery while cutting costs elsewhere. It uses a cheaper MediaTek chip, electronic rather than optical image stabilisation, a single speaker, slower 33W charging and a lower water-resistance rating than the pricier Nothing Phone 3a.",
+      "articleBody": "When Nothing's budget sister brand CMF launched the Phone 2 Pro, the most common reaction was surprise at how little it cost. The phone started at $279 in the US beta programme, with UK prices of £219 for the 8GB RAM and 128GB model and £249 for the 256GB version. A recent Engadget explainer, published on November 3, 2026, looks at how CMF managed it. The short answer is that the company kept the features most buyers notice every day and made trade-offs in areas that are easier to overlook.\n\nWhat CMF kept\n\nThe Phone 2 Pro has a large 6.77-inch AMOLED display with a 120Hz refresh rate, and a big battery that Nothing says can last close to two days on a charge. It also has a three-camera setup that includes a telephoto lens, a feature normally found on more expensive phones. Engadget says CMF kept the big screen and battery but made compromises elsewhere.\n\nWhere the savings came from\n\nEngadget compares the phone with the pricier Nothing Phone 3a and finds several differences.\n\nThe processor is one of them. The CMF Phone 2 Pro uses MediaTek's Dimensity 7300 Pro chip, while the Phone 3a uses Qualcomm's Snapdragon 7s Gen 3. The two are notably different processors, and the CMF's chip is a lightly improved version of the one in the original CMF Phone 1.\n\nThe cameras are another. The main and telephoto cameras on the Phone 2 Pro rely on electronic image stabilisation rather than optical image stabilisation, which uses a physical mechanism in the lens. The Phone 3a's main camera has true optical stabilisation. That means the cheaper phone can take decent photos, but it may struggle in shaky hands or poor light.\n\nThere are also less glamorous cuts. The Phone 2 Pro has a single speaker. Its charging speed tops out at 33W, compared with 50W on the Phone 3a. It has an IP54 rating for dust and splash resistance, below the Phone 3a's IP64. BGR adds that CMF used a plastic back panel and frame instead of the glass and metal found on pricier models. Reviewers also note there is no wireless charging and no charger in the box.\n\nEngadget concludes that none of these compromises feel like dealbreakers, and together they explain a lot of the price gap.\n\nThe limits of the explanation\n\nNothing has not published a part-by-part bill of materials for the phone, so it is impossible to say exactly how much each decision saved. The explanations in the coverage are informed comparisons and not a breakdown from the company.\n\nA different pricing climate\n\nThe story also carries a warning about the present. Commentary from T3 suggests that the same trick may be harder to repeat, because the components a successor would need are no longer cheap. Apple recently raised the price of its older iPad mini, citing rising memory and storage costs, which shows that component prices are now pushing prices up across the industry. If those costs stay high, a phone like the CMF Phone 2 Pro may be harder to build at such a low price in the future.\n\nWhat to take from it\n\nFor buyers, the lesson is to look at what a cheap phone leaves out and to decide whether those omissions matter to you. If you care most about screen size, battery life and general performance, the CMF approach delivers. If you take a lot of low-light photos, want stereo sound or need strong water resistance, a more expensive phone may be worth the extra money.\n\nWhat is still unknown\n\nPrices and availability differ by country, and the US beta programme limits who can buy CMF phones. Long-term software support and durability are also open questions for a budget phone.\n\nWhy it matters\n\nThe CMF Phone 2 Pro shows that a phone can feel good to use without a premium price when a company chooses its trade-offs carefully. It also shows how quickly that kind of value can disappear when component costs change.",
+      "author": "Kamali",
       "source": "Engadget",
       "url": "https://www.engadget.com/2300613/nothing-cmf-phone-2-pro-why-so-much-cheaper/",
       "image": "https://www.engadget.com/img/gallery/what-made-nothings-cmf-phone-2-pro-so-much-cheaper-than-others/l-intro-1792141686.jpg",
       "category": "Software Development",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T23:30:00+00:00"
     },
     {
