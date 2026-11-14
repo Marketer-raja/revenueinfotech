@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T09:37:45.090Z",
+  "updated": "2026-11-14T09:39:22.024Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -733,14 +733,16 @@
     },
     {
       "id": "62af55115339",
+      "slug": "apple-s-latest-watchos-beta-includes-its-new-always-on-audio-intelligence-featur",
       "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
-      "summary": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to...",
+      "summary": "Apple has released a watchOS 27.3 developer beta that lets developers and early testers try Siri Recap and Live Rewind, two opt-in Apple Watch features that use the microphone to help people remember conversations.",
+      "articleBody": "Apple has started letting early testers try its new Audio Intelligence features on the Apple Watch. The two additions, Siri Recap and Live Rewind, are included in the watchOS 27.3 developer beta that began rolling out this week. Both features allow Siri to use the watch's microphone to help wearers remember what was said around them, which is why they have drawn attention from privacy observers as well as Apple fans.\n\nSiri Recap is designed to summarize conversations so that users can refresh their memory later. It uses what Apple and press coverage describe as ambient listening. The feature is opt-in and can be limited by schedule, for example by time of day or by location, and it can be switched on or off from Control Center once it has been enabled.\n\nLive Rewind has a narrower purpose. It works from a short rolling buffer of roughly 15 seconds of audio that is constantly overwritten. When the wearer double-presses the Digital Crown, the watch turns those last few seconds of speech into text on the screen. Apple suggests uses such as catching a detail that someone mentioned quickly. Because the watch's chip does not handle the transcription on its own, the feature relies on the paired iPhone and does not work when the phone is out of range.\n\nApple says both features are opt-in and that raw audio is not recorded or made available to apps or to Apple. Reporting on the beta says that audio is processed and then discarded, and that Live Rewind plays a chime and shows a visual alert when it is used, so people nearby have some indication. Even so, critics point out that bystanders have not agreed to be listened to, and that an alert after the fact may not help someone who has just spoken.\n\nThe features are tied to the Apple Watch Series 12 and Apple Watch Ultra 4, which Apple introduced in September alongside the broader Audio Intelligence suite. That suite also includes Sound Recognition and music recognition with Shazam. Developer betas are intended for testing, so the behavior, wording and options of these features could change before a public release.\n\nWhat happens next is still uncertain. Apple has not said when watchOS 27.3 will reach all users, and it remains to be seen how many people will turn on features that depend on an always-ready microphone. How the beta performs in real conversations, and whether Apple adjusts its privacy controls in response to feedback, will probably shape how widely the tools are accepted.",
+      "author": "Kamali",
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Siri-Recap-example.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Software Development",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T18:31:00+00:00"
     },
     {
