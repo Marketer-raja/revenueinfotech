@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T09:19:43.566Z",
+  "updated": "2026-11-14T09:21:04.427Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -593,14 +593,16 @@
     },
     {
       "id": "5bbfe74e58c8",
+      "slug": "want-an-iphone-duo-for-the-holidays-apple-s-latest-stock-update-isn-t-reassuring",
       "title": "Want an iPhone Duo for the holidays? Apple’s latest stock update isn’t reassuring",
-      "summary": "The iPhone Duo likely won’t make it into Santa’s sleigh this year. Here’s what Apple had to say about it.",
+      "summary": "Apple says its $1,999 foldable iPhone Duo is supply-constrained and it cannot predict when supply will catch up with demand. New orders already show delivery in late January 2027, so buyers hoping to get one for the holidays may be out of luck.",
+      "articleBody": "If you were hoping to find Apple's first foldable phone, the iPhone Duo, under the tree this holiday season, Apple's latest update is not encouraging. After the company reported its September-quarter results on November 2, CEO John Ternus told Reuters that the Duo is \"constrained as of today\" and that Apple is not able to predict when supply and demand will be in balance.\n\nThe phone, priced at $1,999, opened for preorders on October 16 and reached stores in late October. Reports say it sold out quickly, with one account saying preorder stock was gone within half an hour and others saying it sold out within a week of launch. Stores have had little stock for walk-in buyers, and some units have been available through online reservations. Orders placed now show delivery estimates in late January 2027, and UBS has said availability will remain limited going into December even though demand looks strong.\n\nApple's results did not include any Duo sales because the quarter ended before the phone went on sale. The company reported record quarterly revenue of $114.5 billion, up 12 percent, with iPhone revenue up 17 percent to about $57 billion. Ternus said Apple has been \"thrilled\" with the early response from reviewers and customers and is working hard to get the Duo into customers' hands as quickly as it can.\n\nThere is also a quality issue. Apple said it is aware of a problem affecting the inner display on a small number of Duo units and told affected users to contact AppleCare for a replacement. Ternus said a very small percentage of units have been returned and that Apple is replacing them. Some analysts suggest that replacement stock may further strain supply, though that is inference and not an Apple statement.\n\nThe supply problem goes beyond the foldable. Apple has pointed to rising memory and chip costs, driven by demand from the AI industry, and said that memory limits will also affect Mac and iPad supply this holiday. Earlier this year Apple raised prices on some MacBooks and iPads by up to 25 percent because of higher hardware and chip costs.\n\nCompetitors may benefit. Reports from Korea claim that sales of Samsung's Galaxy Z Fold 8 rose about 20 percent in the week after the Duo became available, though those figures are not confirmed.\n\nFor shoppers, the practical advice is to order early if you want a Duo, a Mac or an iPad by the holidays, and to expect delays. Apple has not said when the shortage will end, so late-January delivery dates could slip.",
+      "author": "Kamali",
       "source": "ZDNET",
       "url": "https://www.zdnet.com/tech/apple-foldable-iphone-duo-stock-shortage/",
       "image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC01150.jpeg",
       "category": "Software Development",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T19:28:32+00:00"
     },
     {
