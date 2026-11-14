@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T09:08:11.816Z",
+  "updated": "2026-11-14T09:09:20.147Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -467,14 +467,16 @@
     },
     {
       "id": "dd8f4e739e82",
+      "slug": "sonos-new-voice-assistant-is-launching-in-early-access-on-november-6",
       "title": "Sonos' new voice assistant is launching in early access on November 6",
-      "summary": "The company is hoping to collect feedback on Sonos 27voice to avoid a repeat of its previous app redesign debacle.",
+      "summary": "Sonos will open early access to its new AI voice assistant, Sonos 27voice, on November 6. The test is limited to approved US users in English, and the company says a smaller group will help it gather feedback before a wider 2027 release.",
+      "articleBody": "Sonos says its new voice assistant, Sonos 27voice, will open for early-access testing on November 6. Access comes through an app update that began rolling out the week of November 3, and the company plans a full release in 2027.\n\nThe early-access program is deliberately narrow. Sonos 27voice is available only in the United States and only in English at first. Users cannot simply switch it on: they must request access in the Sonos app, under Settings, General Settings and Voice Assistants, and be approved. Reports say approved testers begin getting access from November 12. It also requires S2 speakers running the Sonos 27 software.\n\nSonos introduced Sonos 27 in September and said the assistant could help with \"music and mood curation.\" Like the older Voice Control, 27voice can control playback across the speakers in a user's system. It also handles timers, weather and supported smart home accessories, and Sonos has described it as able to understand more natural, conversational requests, such as moving music between rooms or playing an artist's newest album. The company has also highlighted support for third-party AI assistants such as ChatGPT and custom agents.\n\nThe slow rollout appears to be a lesson from the past. Industry coverage notes that Sonos is testing with a smaller group before a full release in order to collect feedback, and that this is likely meant to avoid the backlash that followed its 2024 app redesign. Giving a limited group early access lets the company find problems before millions of owners see them.\n\nPrivacy is a key consideration. Unlike Sonos's earlier Voice Control, 27voice processes requests through cloud servers, and reports say some open-ended questions may use outside AI models. Sonos says the assistant is optional: owners can stay on Classic Voice Control or leave 27voice at any time, and Sonos says 27voice and Amazon Alexa can be active on the same compatible speaker.\n\nThe same update added Presets, a long-requested feature that saves a room, music and volume for one-tap playback, along with small interface changes. Presets do not depend on 27voice.\n\nWhat remains unknown is how many people will be admitted to the early-access group, how well the assistant handles real household use, how Sonos will handle voice data over time, and when the assistant will reach other countries and languages.",
+      "author": "Kamali",
       "source": "Engadget",
       "url": "https://www.engadget.com/2305897/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/",
       "image": "https://www.engadget.com/img/gallery/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/l-intro-1793738872.jpg",
       "category": "Software Development",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T20:48:49+00:00"
     },
     {
