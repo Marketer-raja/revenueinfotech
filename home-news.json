@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T08:52:49.930Z",
+  "updated": "2026-11-14T08:54:01.259Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -327,14 +327,16 @@
     },
     {
       "id": "97ea381abb97",
+      "slug": "data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows",
       "title": "Data centers are turning to old jet engines as the wait for power grows",
-      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+      "summary": "With grid hookups and new gas turbines taking years to arrive, some AI data center builders are buying retired aircraft engines and converting them into on-site power generators. The approach is fast but less efficient and dirtier than conventional power plants.",
+      "articleBody": "Some AI data center developers are turning to a surprising source of electricity: retired jet engines. The New York Times reported on November 3 that builders stuck in long queues for grid connections and new turbines are installing converted aircraft engines to generate their own power on site.\n\nThe reason is time. According to the International Energy Agency, connecting even 100 megawatts to the grid in Northern Virginia takes about seven years. New gas turbines, meanwhile, are reported to take around six years to deliver in the United States, and a Mitsubishi Power executive has said most new capacity is expected to come online by 2031. Rystad Energy analyst Audun Martinsen said that with jet-powered units, a data center can be running in about 24 months.\n\nThe engines are pulled from retired planes, often from desert storage yards, and rebuilt to burn natural gas. Companies such as ProEnergy and FTAI are in this business, reworking engine cores like those used on Boeing and Airbus jets into stationary generators. One report notes that an old engine can now be worth more as a power unit than as spare parts.\n\nElon Musk's xAI is among the companies already using them. The Times, citing state permits and satellite imagery, reported that xAI installed eight converted jet-engine turbines in Mississippi to help power its Colossus 2 data center in Memphis. Separately, Crusoe walked away from a $1.25 billion deal to buy 29 natural gas turbines from Boom Supersonic, which has started selling a version of its jet engine as a data center power plant. A Crusoe spokesperson said the company still plans to use turbines. Policy is adding pressure, since the Trump administration has been encouraging data centers to generate their own electricity.\n\nThe trade-offs are significant. Converted jet engines are less efficient and produce more pollution than turbines designed for conventional gas power plants, and operators need more of them to produce the same amount of electricity. Environmental groups such as the Southern Environmental Law Center are watching these projects, and some experts say efficiency and emissions concerns may carry more weight in a year or two. For that reason the engines are widely seen as a stopgap rather than a permanent solution.\n\nThe trend shows how far power supply has fallen behind the AI buildout. Companies that can afford to burn less efficient equipment may get online sooner than rivals waiting in line, but they also take on regulatory and reputational risk. Still unclear is how many of these units will be installed, how long they will stay in service, and whether faster grid connections or new turbine capacity will arrive in time to make them unnecessary.",
+      "author": "Kamali",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Commercial-plane-clouds.jpg?w=719",
       "category": "Data & Analytics",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T22:19:53+00:00"
     },
     {
