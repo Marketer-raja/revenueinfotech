@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T09:00:30.700Z",
+  "updated": "2026-11-14T09:01:40.609Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -383,14 +383,16 @@
     },
     {
       "id": "e7e7247f047d",
+      "slug": "reddit-is-testing-in-app-search-ads-as-traffic-from-google-declines",
       "title": "Reddit is testing in-app search ads as traffic from Google declines",
-      "summary": "The company wants to help advertisers reach users who show a \"high purchase\" intent.",
+      "summary": "Reddit has begun a limited test of ads inside its in-app search results, aiming at people who search the platform for buying advice. The test follows a drop in referrals from Google, which Reddit blames on Google's AI-powered search.",
+      "articleBody": "Reddit has started testing ads in the search results inside its app, the company announced on Tuesday, November 3. The test comes as the platform deals with falling traffic from Google and looks for more ways to earn money from the people who already use it.\n\nThe ads will appear in search results based mainly on how relevant they are to the query. Reddit's own examples are a search for \"espresso station\" showing ads for mugs, beans or espresso machines, and a search for \"home office setup\" showing ads for monitors, desks and chairs. In screenshots Reddit shared, the ads sit near the top of the results with a small ad marker. Reddit says search results pages already have high purchase and search intent, because many people use them to look for recommendations and buying advice.\n\nThis is only an initial test. Reddit says a limited group of eligible advertisers will have access at first, and it plans to study how users respond so it can refine the experience over time. It has not said how often the ads will appear, and it suggests the format may expand later.\n\nThe background is a traffic problem. In its third-quarter update, Reddit said search referrals fell by more than one million per week on average in October. CEO Steve Huffman has pointed to Google's AI features, including AI Mode, which answer questions on the results page and send fewer visitors to other sites. Reddit also issued a fourth-quarter revenue forecast that fell short of expectations and warned that daily users in the United States could decline by a low double-digit percentage in the quarter if the trend continues.\n\nReddit is also planning a gradual move toward a logged-in experience, starting in markets outside the United States. Visitors who used to read discussions through Google without an account may eventually need to sign in to view some of them. Analysts see the search ads and the login push as two responses to the same decline. Separate industry figures from eMarketer show Google referrals to large publishers fell 43 percent year over year between June 2025 and 2026, and 59.8 percent for small publishers, so the pressure is not unique to Reddit.\n\nFor advertisers, the new placement offers a way to reach shoppers while they are researching products, especially categories where reviews and recommendations matter. For everyday users, it means more promoted content mixed into results they use to find honest opinions, which could affect how much they trust search on the platform.\n\nSeveral questions remain. Reddit has not said how many ads users will see, when more advertisers will get access, or what results the test produces. It is also unclear whether search ads and mandatory sign-ins will be enough to make up for the lost Google traffic.",
+      "author": "Kamali",
       "source": "Engadget",
       "url": "https://www.engadget.com/2305984/reddit-is-testing-search-ads-as-traffic-from-google-declines/",
       "image": "https://www.engadget.com/img/gallery/reddit-is-testing-search-ads-as-traffic-from-google-declines/l-intro-1793741097.jpg",
       "category": "Software Development",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T21:27:50+00:00"
     },
     {
