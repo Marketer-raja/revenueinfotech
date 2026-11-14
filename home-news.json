@@ -1,7 +1,22 @@
 {
-  "updated": "2026-11-04T14:29:17+00:00",
-  "auto": true,
+  "updated": "2026-11-14T07:59:27.560Z",
+  "auto": false,
+  "editorApproved": true,
   "items": [
+    {
+      "id": "nmwg47c9ku2m4",
+      "slug": "amazon-has-a-plan-to-index-the-world-s-online-shopping-data",
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "summary": "Amazon is reportedly building a project called World Product Graph, which would gather data on almost every product sold anywhere in the world, including items Amazon does not stock. According to a Reuters exclusive, the aim is to keep shoppers on Amazon.com and give AI shopping agents a reason to start their searches there. Amazon disputes the report's figures on its own assistant, saying they are outdated.",
+      "articleBody": "Amazon is reportedly working on an internal project that would turn its website into the main reference point for product information across the internet. According to an exclusive Reuters report published on November 13, the initiative is called World Product Graph. Its aim is to collect and organise data on almost every item sold anywhere in the world, including products Amazon does not stock itself.\n\nReuters says it based its report on an internal Amazon planning document, known as a PR/FAQ, and on people familiar with the matter. The central idea is simple: if Amazon holds the most complete and accurate catalogue of product details, shoppers have less reason to leave Amazon.com to compare options, check specifications or read about alternatives on other sites.\n\nWhy Amazon wants this now\n\nThe timing reflects a shift in how people shop online. Search engines such as Google have long been the starting point for product research, and rivals such as Walmart have been growing their e-commerce businesses. A new threat has also appeared in the form of AI shopping agents, which are assistants that search, compare and sometimes buy on a person's behalf. Reports on the plan name Meta's Muse and Perplexity among the tools Amazon is watching.\n\nAn agent that works for the shopper has no loyalty to any single store. Reuters reports that the people it spoke to see the product graph as a way to give those agents a reason to come to Amazon. If the best data on every product is on Amazon.com, an agent looking for answers is more likely to start there than at a competitor.\n\nThe problem with Amazon's own assistant\n\nThe report also says the document points to weaknesses in Amazon's own AI shopping tool. That tool launched as Rufus and, since May, has been marketed as \"Alexa for Shopping.\" According to the report, the planning document acknowledged that the assistant sometimes gave inaccurate information, and a broader, cleaner product database was seen as a way to fix that.\n\nAmazon disputes the picture. In a statement to Reuters, the company said the usage figures in the document are \"significantly outdated.\" It also said its own data shows Alexa for Shopping is roughly 97% accurate worldwide.\n\nNot the first attempt\n\nThe idea builds on earlier work. In 2025 it was reported that Amazon was developing a project called Starfish, which aimed to simplify how third-party sellers create product listings and to improve the quality of its catalogue data. World Product Graph appears to take that ambition much further. It would cover the whole market rather than only items listed on Amazon.\n\nWhat is still unknown\n\nMuch remains unclear. The reporting rests on an internal planning document, and plans of this kind can change or be dropped before launch. It is not known when, or whether, World Product Graph will go live, and nothing is confirmed about how the data would be collected from other retailers. Nor is it clear how sellers, competing stores and regulators would respond to a company holding data on products it does not sell.\n\nWhy it matters\n\nIf the plan succeeds, it could strengthen Amazon's position as the default place to research and buy products, and it could pull traffic away from search engines and rival retailers. For shoppers, it could mean more consistent and detailed product information in one place. It would also add to the data and influence of a company that already dominates online retail. Competitors, sellers and AI developers will be watching closely to see whether Amazon moves ahead with it.",
+      "author": "Kamali",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "image": "",
+      "category": "Data & Analytics",
+      "section": "brief",
+      "published": "2026-11-14T07:59:24.632Z"
+    },
     {
       "id": "b71b7365d7a0",
       "title": "Securing the agentic enterprise with data lineage",
@@ -124,7 +139,7 @@
     },
     {
       "id": "1965c7f85c2d",
-      "title": "AMD rides data center riches to \u2018largest and most profitable\u2019 quarter in history",
+      "title": "AMD rides data center riches to ‘largest and most profitable’ quarter in history",
       "summary": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly revenue, and it's predicting it will hit...",
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
@@ -148,7 +163,7 @@
     },
     {
       "id": "061b30942b6d",
-      "title": "Your phone's apps could have more permissions than they need \u2013 here's how to check",
+      "title": "Your phone's apps could have more permissions than they need – here's how to check",
       "summary": "Most smartphone apps need permissions to function properly, but some may have more access than they should. Thankfully, it's pretty easy to check.",
       "source": "Engadget",
       "url": "https://www.engadget.com/2300670/phone-apps-more-permissions-than-needed-how-to-check/",
@@ -244,7 +259,7 @@
     },
     {
       "id": "993e48dc4504",
-      "title": "Anthropic is working on a system to prove AI models\u2019 identity",
+      "title": "Anthropic is working on a system to prove AI models’ identity",
       "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
@@ -292,7 +307,7 @@
     },
     {
       "id": "f7b02949050d",
-      "title": "Ted Schlein\u2019s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
       "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
@@ -304,7 +319,7 @@
     },
     {
       "id": "bf7fc72b70b6",
-      "title": "The Sideload 050: The phones Samsung and Google won\u2019t make",
+      "title": "The Sideload 050: The phones Samsung and Google won’t make",
       "summary": "Welcome to episode 50 of The Sideload, a 9to5Google podcast. This week, Will and Daniel are joined by Nick Sutrich to discuss the ever-present split between North American and global phones, what the marketplace looks like with OnePlus...",
       "source": "9to5Google",
       "url": "https://9to5google.com/2026/11/03/the-sideload-050-the-phones-samsung-and-google-wont-make/",
@@ -328,7 +343,7 @@
     },
     {
       "id": "db371fb8cc2d",
-      "title": "Here\u2019s what it\u2019s like to use Audio Intelligence on the Apple Watch",
+      "title": "Here’s what it’s like to use Audio Intelligence on the Apple Watch",
       "summary": "It's impossible to paint a full picture of what Audio Intelligence on the Apple Watch Series 12 and Ultra 4 will be right now. The watchOS 27.3 developer beta just dropped earlier this afternoon, and these features are meant to be lived...",
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch",
@@ -341,7 +356,7 @@
     {
       "id": "aff4fb0322ed",
       "title": "Google Messages redesigning pinned chats and moving search",
-      "summary": "In addition to the new app icon , Google Messages is testing a redesign of pinned chats and search on the homepage. more\u2026",
+      "summary": "In addition to the new app icon , Google Messages is testing a redesign of pinned chats and search on the homepage. more…",
       "source": "9to5Google",
       "url": "https://9to5google.com/2026/11/03/google-messages-pinned-chats-redesign/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/google-messages-thread-1.jpg?quality=82&strip=all&w=1600",
@@ -377,7 +392,7 @@
     {
       "id": "f85d6442d8d3",
       "title": "ChatGPT has hit roughly 20% of Google Search volume, OpenAI says",
-      "summary": "According to OpenAI, ChatGPT has managed to grow its search use to around 20% of Google Search\u2019s total volume, a staggering figure. more\u2026",
+      "summary": "According to OpenAI, ChatGPT has managed to grow its search use to around 20% of Google Search’s total volume, a staggering figure. more…",
       "source": "9to5Google",
       "url": "https://9to5google.com/2026/11/03/chatgpt-has-hit-roughly-20-of-google-search-volume-openai-says/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/04/chatgpt-android-1.jpg?quality=82&strip=all&w=1600",
@@ -400,8 +415,8 @@
     },
     {
       "id": "60b4d8884de6",
-      "title": "Google will disable Search for students unless schools accept AI features in \u2018Guided Learning\u2019 push",
-      "summary": "Google is today launching new AI settings for schools, but with the big catch that Search is fully disabled if AI features are turned off entirely. more\u2026",
+      "title": "Google will disable Search for students unless schools accept AI features in ‘Guided Learning’ push",
+      "summary": "Google is today launching new AI settings for schools, but with the big catch that Search is fully disabled if AI features are turned off entirely. more…",
       "source": "9to5Google",
       "url": "https://9to5google.com/2026/11/03/google-search-ai-guided-learning-changes/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/01/Google-logo-CES-2024-6.jpg?quality=82&strip=all&w=1600",
@@ -472,7 +487,7 @@
     },
     {
       "id": "440ebb61e9a8",
-      "title": "Don't throw away your laptop's old SSDs \u2014 do this instead",
+      "title": "Don't throw away your laptop's old SSDs — do this instead",
       "summary": "Get some extra life out of your unused SSDs by converting them into external storage devices.",
       "source": "Engadget",
       "url": "https://www.engadget.com/2300270/dont-throw-away-your-laptop-old-ssd-do-this-instead/",
@@ -484,8 +499,8 @@
     },
     {
       "id": "f59b13d5794e",
-      "title": "Want an iPhone Duo for the holidays? Apple\u2019s latest stock update isn\u2019t reassuring",
-      "summary": "The iPhone Duo likely won\u2019t make it into Santa\u2019s sleigh this year. Here\u2019s what Apple had to say about it.",
+      "title": "Want an iPhone Duo for the holidays? Apple’s latest stock update isn’t reassuring",
+      "summary": "The iPhone Duo likely won’t make it into Santa’s sleigh this year. Here’s what Apple had to say about it.",
       "source": "ZDNET",
       "url": "https://www.zdnet.com/uncategorized/santas-sleigh-may-be-missing-iphone-duos-in-time-for-christmas-what-apple-revealed-in-its-earnings-call/",
       "image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC01150.jpeg",
@@ -496,8 +511,8 @@
     },
     {
       "id": "5bbfe74e58c8",
-      "title": "Want an iPhone Duo for the holidays? Apple\u2019s latest stock update isn\u2019t reassuring",
-      "summary": "The iPhone Duo likely won\u2019t make it into Santa\u2019s sleigh this year. Here\u2019s what Apple had to say about it.",
+      "title": "Want an iPhone Duo for the holidays? Apple’s latest stock update isn’t reassuring",
+      "summary": "The iPhone Duo likely won’t make it into Santa’s sleigh this year. Here’s what Apple had to say about it.",
       "source": "ZDNET",
       "url": "https://www.zdnet.com/tech/apple-foldable-iphone-duo-stock-shortage/",
       "image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC01150.jpeg",
@@ -532,7 +547,7 @@
     },
     {
       "id": "5a4c000fbee6",
-      "title": "Ten years later, \u2018Pok\u00e9mon Go to the polls\u2019 still haunts the internet",
+      "title": "Ten years later, ‘Pokémon Go to the polls’ still haunts the internet",
       "summary": "Hillary Clinton's 2016 political gaffe has become an irony-shrouded rallying cry for jaded young voters who still dare to hope for change.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
@@ -544,8 +559,8 @@
     },
     {
       "id": "0b8b7e6decbc",
-      "title": "Your Apple Watch has 2 new controversial listening features \u2013 but you have to opt in",
-      "summary": "Siri Recap and Live Rewind are finally here, two months after Apple unveiled the always-listening Apple Watch features. Here\u2019s how they work.",
+      "title": "Your Apple Watch has 2 new controversial listening features – but you have to opt in",
+      "summary": "Siri Recap and Live Rewind are finally here, two months after Apple unveiled the always-listening Apple Watch features. Here’s how they work.",
       "source": "ZDNET",
       "url": "https://www.zdnet.com/tech/apple-watch-siri-recap-live-rewind-available-beta-how-to-try/",
       "image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC03720.jpg",
@@ -568,7 +583,7 @@
     },
     {
       "id": "f5824b7ace6b",
-      "title": "Ferrari\u2019s controversial Luce EV is sold out for 2027",
+      "title": "Ferrari’s controversial Luce EV is sold out for 2027",
       "summary": "The Luce, Ferrari's first electric car and one of its most polarizing models, is \"fully allocated\" through 2027, according to CEO Benedetto Vigna.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027/",
@@ -592,7 +607,7 @@
     },
     {
       "id": "36315b3cb5b6",
-      "title": "Netflix\u2019s new AI Discover tab helps you find something to watch based on your mood",
+      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
       "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
@@ -604,8 +619,8 @@
     },
     {
       "id": "4283c12d5946",
-      "title": "Today\u2019s Android app deals and freebies: 20 Minutes Till Dawn, Never Grave, Rush Rally 3, more",
-      "summary": "Alongside the ongoing all-time low on the new Google Home Speaker , today\u2019s best Google Play app and game deals are ready, including Descenders, My Child Lebensborn, 20 Minutes Till Dawn:Premium, Never Grave, Rush Rally 3, and more. Just...",
+      "title": "Today’s Android app deals and freebies: 20 Minutes Till Dawn, Never Grave, Rush Rally 3, more",
+      "summary": "Alongside the ongoing all-time low on the new Google Home Speaker , today’s best Google Play app and game deals are ready, including Descenders, My Child Lebensborn, 20 Minutes Till Dawn:Premium, Never Grave, Rush Rally 3, and more. Just...",
       "source": "9to5Google",
       "url": "https://9to5toys.com/2026/11/03/todays-highlight-google-play-deals-42/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Play-collage-208837.webp?w=1600",
@@ -616,7 +631,7 @@
     },
     {
       "id": "62af55115339",
-      "title": "Apple\u2019s latest watchOS beta includes its new always-on Audio Intelligence features",
+      "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
       "summary": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to...",
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
@@ -652,8 +667,8 @@
     },
     {
       "id": "5d6d28699f13",
-      "title": "\u2018Cyclon\u2019 uses an old Google Pixel to let AI do literally everything for you \u2013 who wants this?",
-      "summary": "As the AI era continues to find its footing in the consumer market, \u201cCyclon\u201d is a new smartphone/software experience that, to start, is reusing old Google Pixel phones with a software experience that literally uses AI to do every little...",
+      "title": "‘Cyclon’ uses an old Google Pixel to let AI do literally everything for you – who wants this?",
+      "summary": "As the AI era continues to find its footing in the consumer market, “Cyclon” is a new smartphone/software experience that, to start, is reusing old Google Pixel phones with a software experience that literally uses AI to do every little...",
       "source": "9to5Google",
       "url": "https://9to5google.com/2026/11/03/cyclon-uses-an-old-google-pixel-to-let-ai-do-literally-everything-for-you-who-wants-this/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/05/Pixel-8a-angled.jpg?quality=82&strip=all&w=1600",
@@ -664,7 +679,7 @@
     },
     {
       "id": "21e6a2196247",
-      "title": "SUSE lays off 1 in 10 workers \u2013 citing AI and automation",
+      "title": "SUSE lays off 1 in 10 workers – citing AI and automation",
       "summary": "Squarespace also announced layoffs this week, but explicit ties to AI remain inconsistent.",
       "source": "ZDNET",
       "url": "https://www.zdnet.com/business/suse-lay-offs-workforce-ai-cited/",
@@ -676,8 +691,8 @@
     },
     {
       "id": "9f5f1629317a",
-      "title": "Google\u2019s Stadia Controller dream lives on in the $50 Xbox Nano Controller",
-      "summary": "The Stadia Controller introduced the idea of connecting directly to cloud gaming via its own Wi-Fi connection and, while Google\u2019s platform is long dead, that dream lives on in the latest Xbox Controller. more\u2026",
+      "title": "Google’s Stadia Controller dream lives on in the $50 Xbox Nano Controller",
+      "summary": "The Stadia Controller introduced the idea of connecting directly to cloud gaming via its own Wi-Fi connection and, while Google’s platform is long dead, that dream lives on in the latest Xbox Controller. more…",
       "source": "9to5Google",
       "url": "https://9to5google.com/2026/11/03/xbox-nano-controller-cloud-gaming-stadia/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2021/07/stadia_controller_android_tv_1.jpg?quality=82&strip=all&w=1600",
@@ -713,7 +728,7 @@
     {
       "id": "35af79236d15",
       "title": "HomeView with an arm? Apple reportedly plans $1,000 swiveling smart panel",
-      "summary": "The HomeView Ultra is expected to feature a robotic arm and 9-inch display. Shades of Amazon\u2019s discontinued Echo Show 10?",
+      "summary": "The HomeView Ultra is expected to feature a robotic arm and 9-inch display. Shades of Amazon’s discontinued Echo Show 10?",
       "source": "ZDNET",
       "url": "https://www.zdnet.com/home-and-office/homeview-ultra-apple-robotic-smart-display/",
       "image": "https://www.zdnet.com/wp-content/uploads/sites/3/0B7F1C4A-9EC9-4A98-B338-76A186CAB5FF_1_105_c.jpeg",
