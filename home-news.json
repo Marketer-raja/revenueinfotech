@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T09:02:53.291Z",
+  "updated": "2026-11-14T09:03:59.478Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -411,14 +411,16 @@
     },
     {
       "id": "aff4fb0322ed",
+      "slug": "google-messages-redesigning-pinned-chats-and-moving-search",
       "title": "Google Messages redesigning pinned chats and moving search",
-      "summary": "In addition to the new app icon , Google Messages is testing a redesign of pinned chats and search on the homepage. more…",
+      "summary": "Google Messages is testing a homepage redesign in its Android beta. Pinned chats become large contact photos above the whole conversation list, search moves to a floating button next to \"Start chat\" for easier one-handed use, and the Gemini shortcut moves to the top-right corner. There is no release date yet.",
+      "articleBody": "Google is testing a significant homepage redesign for Google Messages on Android, according to reporting that began on November 3. The changes are in the app's beta channel and are reaching testers in stages, so they are not widely available. They arrive alongside the app's new blue gradient icon, which matches Google's updated G logo.\n\nThe most visible change involves pinned chats. Today they sit at the top of the conversation list. In the test, they are lifted above all conversations and shown as large contact photos, using the background layer that currently holds the Messages wordmark, search and account menu. This pushes the rest of the conversation list further down the page. As in iMessage on iOS, the pinned area does not show message history or the last message sent.\n\nThe second change moves search. Instead of a search bar at the top of the screen, search becomes a centered floating button beside the \"Start chat\" button. At the top of the list, the pair appears as a magnifying-glass icon and a \"Start chat\" pill. When the user scrolls down, search expands into a pill-shaped \"Search\" button and the other button shrinks, with an animation that reviewers describe as smooth. Placing search near the thumb should help on large phones, where reaching the top of the screen is awkward.\n\nThe Gemini shortcut is also affected. Early reports said it was unclear whether the Gemini floating button would remain. A later report says Google has replaced it with a button in the top-right corner next to the profile picture, similar to the design used in Google Workspace apps. Google has not announced where it will ultimately end up.\n\nEarly feedback is mixed. Android Central, citing beta testers, argued that heavy texters may dislike the new layout, because large pinned photos push recent conversations lower and require more scrolling. It suggested Google offer a choice between compact and expanded pinned chats. Reports say someone with only two pinned chats may barely notice the difference. The exact number of pinned chats the layout supports has not been confirmed.\n\nGoogle has not announced a stable release date, and as with any beta test, the design could change or be dropped before it reaches everyone. For now, the redesign shows Google trying to make Messages easier to use with one hand while keeping favorite contacts a tap away. Whether those gains outweigh the loss of conversation previews for pinned chats is still to be settled.",
+      "author": "Kamali",
       "source": "9to5Google",
       "url": "https://9to5google.com/2026/11/03/google-messages-pinned-chats-redesign/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/google-messages-thread-1.jpg?quality=82&strip=all&w=1600",
       "category": "Software Development",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T21:14:05+00:00"
     },
     {
