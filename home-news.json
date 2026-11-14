@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T09:40:46.178Z",
+  "updated": "2026-11-14T09:41:44.301Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -761,14 +761,16 @@
     },
     {
       "id": "8afc2fab5966",
+      "slug": "chainstack-reports-production-systems-breach-exposing-customer-data-and-password",
       "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
-      "summary": "Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure. The incident is assessed to be part of a...",
+      "summary": "Blockchain infrastructure provider Chainstack says an outside attacker got into part of its systems through a third-party component and reached a database holding customer account details, including password hashes. The company says the access has been cut off and is asking customers to take protective steps.",
+      "articleBody": "Chainstack, a company that provides blockchain node and infrastructure services, has disclosed a security breach that exposed some customer account information. According to the company, an external attacker gained unauthorized access to part of its infrastructure through a third-party component, then moved from a development environment into production systems.\n\nReports based on Chainstack's disclosure place the intrusion between October 26 and October 31, 2026. The attacker is said to have entered a development environment on October 26, reached production on October 29, and was cut off on October 31. Chainstack says it detected the intrusion, closed the access paths and is now hardening its systems. A later update said the incident had been contained and that customer-facing services kept running normally throughout.\n\nThe attacker accessed a database that holds customer account information. The data that may have been exposed includes organization names, account holder names, the email addresses of organization members, and password hashes. Chainstack says it does not store full payment card numbers or security codes, so that information was not affected. The company also says customer nodes, its console and its API were not modified.\n\nThe company has also pointed to a second area of concern. The attacker had access to systems that hold node credentials. Chainstack says it has no evidence those credentials were read, but it is treating them as exposed and has asked customers to rotate them. This is a cautious approach, since credentials that could have been seen are safest when replaced.\n\nSome reports link the attack to an AI-driven campaign. The Block reported that the attacker obtained machine credentials that reached production and used the ARTEX AI agent framework to carry out the breach, and other security outlets note that several companies have disclosed similar incidents around the same time. Those details come from secondary reporting on the incident, so readers should rely on Chainstack's own notice for what is confirmed.\n\nFor customers, the main risks come from the password hashes. A hash is not a plain-text password, but weak or reused passwords can sometimes be cracked, and password reuse can then let attackers try the same credentials on other services. Customers should change their Chainstack password, change it anywhere else it was reused, rotate node credentials and API keys, turn on multi-factor authentication where possible, and watch for phishing messages that claim to come from Chainstack.\n\nThe incident also shows how a weakness in a third-party tool can give attackers a path from a development environment into production. Organizations are advised to review which components connect those environments and to make sure a compromised development tool cannot reach production data or secrets.\n\nOpen questions remain. Chainstack has not said how many customers were affected, which third-party component was involved, or whether any data was actually copied out. The company's updates are likely to clarify those points as its investigation continues.",
+      "author": "Kamali",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMgLc61q6cTompbBY4lS-pqinmS1_3vYBYH7OVnnFTmOZfMk8R7houuqUmnMhUs-gTI-55HwieAaPuCI_zhc0XNw74PhfZVbCjWexPUUugMc1crPvP6uQsic7o3GDy5KXbYJE8LtXqdban8cTcfnn9AxRgOkR0w5_bQx-pHTR1A5-ttEHcpqGkgYajjSiA/s1600/chainstack.png",
       "category": "Cybersecurity",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T18:16:19+00:00"
     },
     {
