@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T09:43:58.990Z",
+  "updated": "2026-11-14T09:44:59.319Z",
   "auto": false,
   "editorApproved": true,
   "items": [
@@ -803,14 +803,16 @@
     },
     {
       "id": "9f5f1629317a",
+      "slug": "google-s-stadia-controller-dream-lives-on-in-the-50-xbox-nano-controller",
       "title": "Google’s Stadia Controller dream lives on in the $50 Xbox Nano Controller",
-      "summary": "The Stadia Controller introduced the idea of connecting directly to cloud gaming via its own Wi-Fi connection and, while Google’s platform is long dead, that dream lives on in the latest Xbox Controller. more…",
+      "summary": "Microsoft's new $50 Xbox Nano Controller includes a \"Cloud Connect\" feature that links it directly to Xbox Cloud Gaming over Wi-Fi, an approach first popularized by Google's Stadia Controller. The feature is still in preview.",
+      "articleBody": "Microsoft's new Xbox Nano Controller has a feature that will be familiar to anyone who remembers Google's Stadia. Alongside its small size, the $49.99 gamepad can connect straight to Xbox Cloud Gaming over Wi-Fi, an idea the Stadia Controller introduced years ago. The Nano went on sale on November 4, 2026, after Microsoft announced it in mid-October.\n\nThe controller itself is a pocket-sized version of the standard Xbox Wireless Controller. It weighs about 3.5 ounces, has a built-in rechargeable battery, and works with consoles, PCs, mobile devices and some TVs. Microsoft also priced it at €49.99 in Europe and £44.99 in the United Kingdom. It uses Xbox Wireless and Bluetooth for local connections.\n\nThe less obvious feature is called Cloud Connect. Microsoft describes it as pairing the Nano over Wi-Fi to give a fast and responsive Xbox Cloud Gaming experience. With a normal controller, inputs usually travel to a phone, TV or PC over Bluetooth and are then relayed to the cloud. With a direct Wi-Fi link, the controller can talk to Microsoft's servers on its own, which removes a step and should reduce input lag. That is the same approach Google took with the Stadia Controller, which connected directly to Google's cloud infrastructure.\n\nThe feature is not fully available to everyone yet. Reports say it is in beta, and that it first appeared on Microsoft's newer Xbox Cloud Gaming website. Setup involves pairing the controller over Wi-Fi, and after that, signing in to a supported cloud session with the same Xbox account used for setup makes the controller connect on its own. Coverage by Notebookcheck says users have to be enrolled in the Xbox Insider program to set it up through the PC app, and Engadget reports that it is limited to users in the United States and works only on smart TVs and the web for now. Windows Central said at launch that the feature was not yet active.\n\nMicrosoft is also testing another cloud-related idea, which lets people use a smartphone as a controller for Xbox Cloud Gaming on supported smart TVs. Taken together, the two tests suggest Microsoft wants cloud gaming to feel less dependent on a console or a PC, and cheaper to get started with.\n\nThe comparison with Stadia is more of a symbolic nod than a sign of a comeback. Google's service has been shut down for years, but its controller showed that a direct connection can improve responsiveness. Microsoft now has a larger cloud library and an existing subscriber base to build on.\n\nSeveral questions remain open. Microsoft has not said when Cloud Connect will leave beta, when it will reach more countries, or whether it will ever work with consoles instead of only with cloud gaming. It also remains to be seen how big the latency improvement is in everyday use, because that depends on a player's home Wi-Fi and internet connection. Independent reviews should give a clearer picture once the feature is available to more people.",
+      "author": "Kamali",
       "source": "9to5Google",
       "url": "https://9to5google.com/2026/11/03/xbox-nano-controller-cloud-gaming-stadia/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2021/07/stadia_controller_android_tv_1.jpg?quality=82&strip=all&w=1600",
       "category": "Cloud Computing",
       "section": "none",
-      "featured": false,
       "published": "2026-11-03T18:05:00+00:00"
     },
     {
