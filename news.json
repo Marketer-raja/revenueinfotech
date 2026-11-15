@@ -1,6 +1,106 @@
 {
-  "updated": "2026-11-14T22:23:23+00:00",
+  "updated": "2026-11-15T06:30:02+00:00",
   "items": [
+    {
+      "id": "6cf56ec6e116",
+      "title": "Which NVIDIA GPU is closest to the PS5? The answer isn't so simple",
+      "url": "https://www.engadget.com/2313644/nvidia-gpu-ps5-closest-match-answer-not-simple/",
+      "source": "Engadget",
+      "published": "2026-11-15T01:00:00+00:00",
+      "excerpt": "One of the biggest questions when it comes to purchasing a gaming rig is whether to go console or PC. This NVIDIA GPU gives the closest results to a PS5.",
+      "image": "https://www.engadget.com/img/gallery/which-nvidia-gpu-is-closest-to-the-ps5-the-answer-isnt-so-simple/l-intro-1793996536.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "043bc21f0010",
+      "title": "This Sony patent would add a credit card reader to your PlayStation controller",
+      "url": "https://www.engadget.com/2313652/sony-patent-playstation-controller-adds-credit-card-reader/",
+      "source": "Engadget",
+      "published": "2026-11-15T00:45:00+00:00",
+      "excerpt": "As Sony and PlayStation head into a digital-only era, new tech on its upcoming controllers could help make online purchases even more convenient for gaming.",
+      "image": "https://www.engadget.com/img/gallery/this-sony-patent-would-add-a-credit-card-reader-to-your-playstation-controller/l-intro-1793989603.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "b73278ad7191",
+      "title": "What are the limitations of eGPUs vs onboard graphics cards for laptops?",
+      "url": "https://www.engadget.com/2313636/limitations-egpu-vs-onboard-graphics-card-laptop-pc/",
+      "source": "Engadget",
+      "published": "2026-11-15T00:30:00+00:00",
+      "excerpt": "Is it worth it to use an eGPU with your laptop? That depends. Let's take a closer look at the most important factors you should consider.",
+      "image": "https://www.engadget.com/img/gallery/what-are-the-limitations-of-egpus-vs-onboard-graphics-cards-for-laptops/l-intro-1794329161.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "d17ab4217006",
+      "title": "11 gadgets under $10 that solve everyday problems",
+      "url": "https://www.engadget.com/2310535/affordable-gadgets-under-10-dollars/",
+      "source": "Engadget",
+      "published": "2026-11-15T00:15:00+00:00",
+      "excerpt": "Lots of tech purchases run into the hundreds of dollars, but you don't have to spend a lot to make some upgrades.",
+      "image": "https://www.engadget.com/img/gallery/11-gadgets-under-10-that-solve-everyday-problems/l-intro-1793998678.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "cdf34d438f12",
+      "title": "Where was Nvidia\u2019s security team?",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "source": "TechCrunch",
+      "published": "2026-11-15T00:08:07+00:00",
+      "excerpt": "Nvidia\u2019s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says...",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-1.jpg?w=1024",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "b6bce06bfd7a",
+      "title": "There's a hidden way you can check which services are running on your Android phone",
+      "url": "https://www.engadget.com/2313576/hidden-way-check-which-services-running-on-android-phone/",
+      "source": "Engadget",
+      "published": "2026-11-15T00:00:00+00:00",
+      "excerpt": "Want to see what's draining your Android phone's memory? Here's how to unlock the hidden Running Services menu to monitor background apps.",
+      "image": "https://www.engadget.com/img/gallery/theres-a-hidden-way-you-can-check-which-services-are-running-on-your-android-phone/l-intro-1794382909.jpg",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "29e4e086c549",
+      "title": "Common reasons your Roku TV can turn on by itself and how to fix it",
+      "url": "https://www.engadget.com/2313550/roku-tv-turns-on-by-itself-common-reasons-fixes/",
+      "source": "Engadget",
+      "published": "2026-11-14T23:45:00+00:00",
+      "excerpt": "If your TV has randomly been turning on and it has a Roku attached to it, it could be your Roku's doing. Check these settings.",
+      "image": "https://www.engadget.com/img/gallery/common-reasons-your-roku-tv-can-turn-on-by-itself-and-how-to-fix-it/l-intro-1794413571.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "6945752144e3",
+      "title": "One cable mistake could be killing your desktop PC's gaming performance",
+      "url": "https://www.engadget.com/2313063/cable-mistake-desktop-pc-gaming-performance/",
+      "source": "Engadget",
+      "published": "2026-11-14T23:30:00+00:00",
+      "excerpt": "Plugging your monitor into the motherboard instead of your dedicated GPU can ruin gaming performance. Here's how to check your ports and get your frames back.",
+      "image": "https://www.engadget.com/img/gallery/one-cable-mistake-could-be-killing-your-desktop-pcs-gaming-performance/l-intro-1794331166.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "79c2e1e12f43",
+      "title": "Why your SD card won't let you transfer files bigger than 4GB, and how to fix it",
+      "url": "https://www.engadget.com/2313042/sd-card-4-gb-file-transfer-limit-fat32-explained/",
+      "source": "Engadget",
+      "published": "2026-11-14T23:00:00+00:00",
+      "excerpt": "Some SD cards just won't accept files larger than 4GB, no matter the total capacity or how much free storage there is. But don't worry, it's not hard to fix.",
+      "image": "https://www.engadget.com/img/gallery/why-your-sd-card-wont-let-you-transfer-files-bigger-than-4gb-and-how-to-fix-it/l-intro-1794020287.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "cbe9b2347813",
+      "title": "This underrated Google Health app feature can make food tracking less annoying",
+      "url": "https://www.engadget.com/2312924/underrated-google-health-app-food-tracker/",
+      "source": "Engadget",
+      "published": "2026-11-14T22:30:00+00:00",
+      "excerpt": "There's a suite of features with Google's Health app, but you've likely overlooked the intuitive food tracking function that helps keep your diet in check.",
+      "image": "https://www.engadget.com/img/gallery/this-underrated-google-health-app-feature-can-make-food-tracking-less-annoying/l-intro-1794352256.jpg",
+      "category": "Software Development"
+    },
     {
       "id": "3fa73627f07b",
       "title": "How to get better results from Google Gemini",
@@ -300,106 +400,6 @@
       "excerpt": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their...",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2194622930.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "Artificial Intelligence"
-    },
-    {
-      "id": "a40d419578bb",
-      "title": "\u2018We need more reviewers\u2019: Finding Linux bugs is easy now \u2013 fixing them is another story",
-      "url": "https://www.zdnet.com/innovation/ai-bug-reports-linux-windows/",
-      "source": "ZDNET",
-      "published": "2026-11-14T01:20:06+00:00",
-      "excerpt": "Some Linux maintainers are quitting under the crushing strain of AI bug reports, while others see signs for hope.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-10167204.jpg",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "04367a7d0b10",
-      "title": "Amazon has a plan to index the world\u2019s online shopping data",
-      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-      "source": "The Verge",
-      "published": "2026-11-13T23:49:11+00:00",
-      "excerpt": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Data & Analytics"
-    },
-    {
-      "id": "4c02b6f51e28",
-      "title": "Amazon\u2019s new Kindle Colorsoft is a premium e-reader with a premium price",
-      "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
-      "source": "TechCrunch",
-      "published": "2026-11-13T23:00:00+00:00",
-      "excerpt": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there\u2019s little reason to upgrade.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3403.jpg?resize=1200,925",
-      "category": "Software Development"
-    },
-    {
-      "id": "ad639fbc6552",
-      "title": "Jensen Huang\u2019s departure blasts big hole in AI startup funding, VCs and founders say",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "source": "TechCrunch",
-      "published": "2026-11-13T22:43:00+00:00",
-      "excerpt": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024",
-      "category": "Enterprise Software & SaaS"
-    },
-    {
-      "id": "9cc26169fec1",
-      "title": "Pixelated 125: Google\u2019s glasses, Meta\u2019s baggage",
-      "url": "https://9to5google.com/2026/11/13/pixelated-125-googles-glasses-metas-baggage/",
-      "source": "9to5Google",
-      "published": "2026-11-13T22:00:00+00:00",
-      "excerpt": "Welcome to Pixelated episode 125. This week, Abner has tried out Google\u2019s new lineup of \u201cIntelligent Eyewear,\u201d and he\u2019s got plenty to share with Damien and Will. Can Google nail the smart glasses experience while digging itself out of a...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&strip=all&w=1600",
-      "category": "Data & Analytics"
-    },
-    {
-      "id": "0f3e50abbb76",
-      "title": "Microsoft doesn\u2019t \u2018have an ETA for full recovery\u2019 on outage yet",
-      "url": "https://www.zdnet.com/business/microsoft-outage-outlook-teams-copilot/",
-      "source": "ZDNET",
-      "published": "2026-11-13T21:43:32+00:00",
-      "excerpt": "One think tank\u2019s estimate puts the cost of the outage at $7 billion.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2207328643-e1794576021345.jpg",
-      "category": "Enterprise Software & SaaS"
-    },
-    {
-      "id": "a981aa411799",
-      "title": "The UGREEN HomeAgent is a \u2018local-first\u2019 way to make your smart home even smarter",
-      "url": "https://9to5google.com/2026/11/13/the-ugreen-homeagent-is-a-local-first-way-to-make-your-smart-home-even-smarter/",
-      "source": "9to5Google",
-      "published": "2026-11-13T21:23:59+00:00",
-      "excerpt": "Smart home tech often relies solely on cloud connections and pricey AI subscriptions, but UGREEN is delivering a local-first solution in its new HomeAgent collection , delivering cameras, speakers, and more that bring the bulk of the...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/ugreen-homeagent-1.jpg?quality=82&strip=all&w=1600",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "951c84561943",
-      "title": "ChatGPT Wallet lets OpenAI\u2019s Dots agents make purchases for you",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-      "source": "The Verge",
-      "published": "2026-11-13T20:45:10+00:00",
-      "excerpt": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "b251b3edf0eb",
-      "title": "CMF\u2019s milk carton-shaped Bluetooth speaker is down to a new low price",
-      "url": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
-      "source": "The Verge",
-      "published": "2026-11-13T20:30:00+00:00",
-      "excerpt": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing\u2019s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing for just $39. That\u2019s a...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/cmf-by-nothing-speaker-s-breakout.png?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "9b3aa77d2c63",
-      "title": "This young startup wants to power floating data centers with the ocean\u2019s heat, and investors are already on board",
-      "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
-      "source": "TechCrunch",
-      "published": "2026-11-13T20:07:24+00:00",
-      "excerpt": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/drogue-team.jpeg?resize=1200,900",
-      "category": "Data & Analytics"
     }
   ]
 }
