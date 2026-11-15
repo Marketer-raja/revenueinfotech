@@ -1,6 +1,196 @@
 {
-  "updated": "2026-11-15T16:21:04+00:00",
+  "updated": "2026-11-15T22:48:23+00:00",
   "items": [
+    {
+      "id": "1a9ea1c09761",
+      "title": "Samsung is discontinuing these useful mobile apps in December",
+      "url": "https://www.engadget.com/2313930/samsung-is-discontinuing-these-useful-mobile-apps-in-december/",
+      "source": "Engadget",
+      "published": "2026-11-15T22:30:00+00:00",
+      "excerpt": "You don't have long to grab the augmented reality tools for your Galaxy devices.",
+      "image": "https://www.engadget.com/img/gallery/samsung-is-discontinuing-these-useful-mobile-apps-in-december/l-intro-1793998077.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "a12bdcd54b1e",
+      "title": "How one 13-year-old is helping solve a huge solar panel limitation",
+      "url": "https://www.engadget.com/2313927/13-year-old-solving-solar-panel-limitation/",
+      "source": "Engadget",
+      "published": "2026-11-15T22:15:00+00:00",
+      "excerpt": "This teenager's affordable DIY solar panel design is attracting national attention, and for good reason.",
+      "image": "https://www.engadget.com/img/gallery/how-one-13-year-old-is-helping-solve-a-huge-solar-panel-limitation/l-intro-1794243328.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "2363f2fa26b2",
+      "title": "How to get warnings about speed cameras in Apple CarPlay",
+      "url": "https://www.engadget.com/2313915/how-to-get-speed-camera-alerts-carplay/",
+      "source": "Engadget",
+      "published": "2026-11-15T22:00:00+00:00",
+      "excerpt": "Whether you use Apple Maps, Google Maps, or Waze in CarPlay, ensure these settings are on to receive warnings about nearby speed cameras.",
+      "image": "https://www.engadget.com/img/gallery/how-to-get-warnings-about-speed-cameras-in-apple-carplay/l-intro-1794407480.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "2cb612de9116",
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "source": "TechCrunch",
+      "published": "2026-11-15T21:56:35+00:00",
+      "excerpt": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "ba59e5f2d045",
+      "title": "How to tell whether your car supports Apple CarPlay",
+      "url": "https://www.engadget.com/2313909/how-to-tell-if-car-supports-apple-carplay/",
+      "source": "Engadget",
+      "published": "2026-11-15T21:45:00+00:00",
+      "excerpt": "Determining if your car is compatible with Apple CarPlay is quite simple. If yours is not, there are ways to add CarPlay to your vehicle.",
+      "image": "https://www.engadget.com/img/gallery/how-to-tell-whether-your-car-supports-apple-carplay/l-intro-1794260075.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "39e4937dddf8",
+      "title": "\u2018Lenovo Googlebook Duet 13\u2019 leak points to January launch [Gallery]",
+      "url": "https://9to5google.com/2026/11/15/lenovo-googlebook-duet-13-leak/",
+      "source": "9to5Google",
+      "published": "2026-11-15T21:36:43+00:00",
+      "excerpt": "Google teased last month that detachable Googlebooks are coming soon, and a leak today provides the best look at the \u201cLenovo Googlebook Duet 13\u201d yet. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Lenovo-Googlebook-Duet-13-3.webp?w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "48e153dba12b",
+      "title": "How to get the most protection from your Ring camera security system",
+      "url": "https://www.engadget.com/2313904/how-to-maximize-ring-camera-security-protection/",
+      "source": "Engadget",
+      "published": "2026-11-15T21:30:00+00:00",
+      "excerpt": "A Ring camera can provide a huge boost to the safety of your home, but there's more you can do to maximize that added layer of security.",
+      "image": "https://www.engadget.com/img/gallery/how-to-get-the-most-protection-from-your-ring-camera-security-system/l-intro-1794064696.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "4665dba88c12",
+      "title": "Wi-Fi 8 is an attempt to fix the biggest problem with wireless internet",
+      "url": "https://www.engadget.com/2313896/wifi-8-attempt-fix-biggest-problem-wireless-internet/",
+      "source": "Engadget",
+      "published": "2026-11-15T21:15:00+00:00",
+      "excerpt": "With current Wi-Fi standards reaching beyond consumer-level speeds, Wi-Fi 8 is entering the fray with a fix that makes those speeds mean something.",
+      "image": "https://www.engadget.com/img/gallery/wi-fi-8-is-an-attempt-to-fix-the-biggest-problem-with-wireless-internet/l-intro-1794420711.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "c8f9f37dbdfe",
+      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+      "source": "The Verge",
+      "published": "2026-11-15T21:05:02+00:00",
+      "excerpt": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's Starlink, but it has struggled to get...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304790934.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "ee78654188d3",
+      "title": "You can control your other devices with this resourceful Apple feature",
+      "url": "https://www.engadget.com/2313890/apple-switch-control-feature-on-other-devices/",
+      "source": "Engadget",
+      "published": "2026-11-15T20:45:00+00:00",
+      "excerpt": "There's a lot you can do with this accessibility feature.",
+      "image": "https://www.engadget.com/img/gallery/you-can-control-your-other-devices-with-this-resourceful-apple-feature/l-intro-1794094398.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "2f1f5cbf7ce8",
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "source": "The Verge",
+      "published": "2026-11-15T20:43:49+00:00",
+      "excerpt": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "249b39878850",
+      "title": "How to find your IP address",
+      "url": "https://www.engadget.com/2313878/how-to-find-ip-address/",
+      "source": "Engadget",
+      "published": "2026-11-15T20:30:00+00:00",
+      "excerpt": "You may need to find your IP address for network troubleshooting reasons or to remotely access your computer.",
+      "image": "https://www.engadget.com/img/gallery/how-to-find-your-ip-address/l-intro-1793996600.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "1a811a22b701",
+      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+      "source": "TechCrunch",
+      "published": "2026-11-15T20:20:57+00:00",
+      "excerpt": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week\u2019s episode gave the cast a chance to show off all their impressions at once.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/snl.jpg?resize=1200,525",
+      "category": "Software Development"
+    },
+    {
+      "id": "4eda43ba3490",
+      "title": "Amazon is reportedly working on a database for 'virtually every item for sale on Earth'",
+      "url": "https://www.engadget.com/2317210/amazon-is-reportedly-working-on-a-database-for-virtually-every-item-for-sale-on-earth/",
+      "source": "Engadget",
+      "published": "2026-11-15T20:19:05+00:00",
+      "excerpt": "This would include products that the online commerce giant doesn't even sell.",
+      "image": "https://www.engadget.com/img/gallery/amazon-is-reportedly-working-on-a-database-for-virtually-every-item-for-sale-on-earth/l-intro-1794770193.jpg",
+      "category": "Data & Analytics"
+    },
+    {
+      "id": "f68fccb92888",
+      "title": "How you can give your old Apple TV new purpose",
+      "url": "https://www.engadget.com/2313873/give-old-apple-tv-device-new-purpose/",
+      "source": "Engadget",
+      "published": "2026-11-15T20:15:00+00:00",
+      "excerpt": "There are a few other tasks your Apple TV can handle.",
+      "image": "https://www.engadget.com/img/gallery/how-you-can-give-your-old-apple-tv-new-purpose/l-intro-1794166001.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "1207b5c1c70b",
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "source": "The Verge",
+      "published": "2026-11-15T19:15:43+00:00",
+      "excerpt": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25545717/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "3740fb708ac9",
+      "title": "Flaming Hydra\u2019s new Kickstarter campaign rethinks e-book ownership and digital lending",
+      "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+      "source": "TechCrunch",
+      "published": "2026-11-15T18:29:14+00:00",
+      "excerpt": "A new Kickstarter campaign aims to usher in the \u201creturn of the human internet.\u201d",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-601797365.jpg?resize=1200,800",
+      "category": "Software Development"
+    },
+    {
+      "id": "7992364a840a",
+      "title": "TechCrunch Mobility: The Nvidia backup plan for China\u2019s self-driving industry",
+      "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
+      "source": "TechCrunch",
+      "published": "2026-11-15T17:05:00+00:00",
+      "excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Pony-AI.jpg?w=1024",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "f2d2038ff2ce",
+      "title": "Apple\u2019s first smart glasses are coming together",
+      "url": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
+      "source": "The Verge",
+      "published": "2026-11-15T16:59:16+00:00",
+      "excerpt": "Apple's smart glasses are among the worst-kept secrets in the tech world. Bloomberg's Mark Gurman says the company's first model, which will lack augmented reality features, will be announced at June's WWDC next year. They likely won't...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268640_RayBan_Meta_Gen2_AKrales_0038.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
     {
       "id": "1ae8d637c254",
       "title": "The tech products we enthusiastically recommend this holiday season",
@@ -70,6 +260,16 @@
       "excerpt": "There was a time when Google relied on Snapdragon chips to make its Pixel smartphones, but that's not the case anymore. Here's why it stopped.",
       "image": "https://www.engadget.com/img/gallery/why-did-google-pixels-stop-using-snapdragon-chips/l-intro-1794251560.jpg",
       "category": "Software Development"
+    },
+    {
+      "id": "9500ed039019",
+      "title": "Pixel Tag is a brilliant Band-Aid on a Find Hub network Google can\u2019t easily fix",
+      "url": "https://9to5google.com/2026/11/15/google-pixel-tag-find-hub-problems/",
+      "source": "9to5Google",
+      "published": "2026-11-15T14:00:00+00:00",
+      "excerpt": "The Google Pixel Tag is here and, at least so far, it\u2019s really good. But fresh hardware and some new features can\u2019t fix the core problem. Google\u2019s Find Hub network has been restricted from the very start, and it\u2019s not something Google can...",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-pixel-tag-8.jpg?quality=82&strip=all&w=1600",
+      "category": "Web Development"
     },
     {
       "id": "93924dd20f9b",
@@ -199,206 +399,6 @@
       "published": "2026-11-14T23:45:00+00:00",
       "excerpt": "If your TV has randomly been turning on and it has a Roku attached to it, it could be your Roku's doing. Check these settings.",
       "image": "https://www.engadget.com/img/gallery/common-reasons-your-roku-tv-can-turn-on-by-itself-and-how-to-fix-it/l-intro-1794413571.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "6945752144e3",
-      "title": "One cable mistake could be killing your desktop PC's gaming performance",
-      "url": "https://www.engadget.com/2313063/cable-mistake-desktop-pc-gaming-performance/",
-      "source": "Engadget",
-      "published": "2026-11-14T23:30:00+00:00",
-      "excerpt": "Plugging your monitor into the motherboard instead of your dedicated GPU can ruin gaming performance. Here's how to check your ports and get your frames back.",
-      "image": "https://www.engadget.com/img/gallery/one-cable-mistake-could-be-killing-your-desktop-pcs-gaming-performance/l-intro-1794331166.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "79c2e1e12f43",
-      "title": "Why your SD card won't let you transfer files bigger than 4GB, and how to fix it",
-      "url": "https://www.engadget.com/2313042/sd-card-4-gb-file-transfer-limit-fat32-explained/",
-      "source": "Engadget",
-      "published": "2026-11-14T23:00:00+00:00",
-      "excerpt": "Some SD cards just won't accept files larger than 4GB, no matter the total capacity or how much free storage there is. But don't worry, it's not hard to fix.",
-      "image": "https://www.engadget.com/img/gallery/why-your-sd-card-wont-let-you-transfer-files-bigger-than-4gb-and-how-to-fix-it/l-intro-1794020287.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "19ef05831924",
-      "title": "Google Pixel rolls out new \u2018Family Hub\u2019 feature with useful controls [Gallery]",
-      "url": "https://9to5google.com/2026/11/14/google-pixel-family-hub-feature-rolled-out/",
-      "source": "9to5Google",
-      "published": "2026-11-14T23:00:00+00:00",
-      "excerpt": "First appearing earlier this month, Google Pixel phones are rolling out a handy new Family feature in the Settings menu. Here\u2019s what it can do. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Pixel-11-Pro-camera-close-up.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "cbe9b2347813",
-      "title": "This underrated Google Health app feature can make food tracking less annoying",
-      "url": "https://www.engadget.com/2312924/underrated-google-health-app-food-tracker/",
-      "source": "Engadget",
-      "published": "2026-11-14T22:30:00+00:00",
-      "excerpt": "There's a suite of features with Google's Health app, but you've likely overlooked the intuitive food tracking function that helps keep your diet in check.",
-      "image": "https://www.engadget.com/img/gallery/this-underrated-google-health-app-feature-can-make-food-tracking-less-annoying/l-intro-1794352256.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "3fa73627f07b",
-      "title": "How to get better results from Google Gemini",
-      "url": "https://www.engadget.com/2312834/how-to-get-better-results-google-gemini/",
-      "source": "Engadget",
-      "published": "2026-11-14T22:15:00+00:00",
-      "excerpt": "These tips and tricks will help you prompt Gemini better.",
-      "image": "https://www.engadget.com/img/gallery/how-to-get-better-results-from-google-gemini/l-intro-1794346807.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "9a736294c460",
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-      "source": "TechCrunch",
-      "published": "2026-11-14T21:41:22+00:00",
-      "excerpt": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "e7fab27d952c",
-      "title": "The reasons why your TV soundbar has an audio delay",
-      "url": "https://www.engadget.com/2312648/reasons-why-tv-soundbar-audio-delay/",
-      "source": "Engadget",
-      "published": "2026-11-14T21:30:00+00:00",
-      "excerpt": "Audio delays are really irritating, especially when watching sports and live events. We've got several possible causes and what you can do about them.",
-      "image": "https://www.engadget.com/img/gallery/the-reasons-why-your-tv-soundbar-has-an-audio-delay/l-intro-1794341678.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "5e48d8b824f9",
-      "title": "Why some USB ports are yellow (and less common than others)",
-      "url": "https://www.engadget.com/2312464/why-some-usb-ports-yellow-less-common/",
-      "source": "Engadget",
-      "published": "2026-11-14T21:15:00+00:00",
-      "excerpt": "Not every USB port color means what you think. Learn why yellow ports are so uncommon and what to check before you plug in anything important.",
-      "image": "https://www.engadget.com/img/gallery/why-some-usb-ports-are-yellow-and-less-common-than-others/l-intro-1794332281.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "c64b2e140514",
-      "title": "How to clear the cache on your Samsung TV",
-      "url": "https://www.engadget.com/2312222/how-to-clear-cache-samsung-tv/",
-      "source": "Engadget",
-      "published": "2026-11-14T21:00:00+00:00",
-      "excerpt": "Your TV's cache is a collection of temporary files, some of which you don't need anymore. Here's why you might want to clear those out \u2013 and how.",
-      "image": "https://www.engadget.com/img/gallery/how-to-clear-the-cache-on-your-samsung-tv/l-intro-1794330105.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "05377ae10c84",
-      "title": "SpaceX successfully catches Starship after launch for the first time",
-      "url": "https://www.engadget.com/2316926/watch-spacex-attempt-to-catch-the-starship-upper-stage-for-the-first-time/",
-      "source": "Engadget",
-      "published": "2026-11-14T20:54:14+00:00",
-      "excerpt": "While the company has pulled off this trick a few times with Super Heavy boosters, it was a first for the Ship.",
-      "image": "https://www.engadget.com/img/gallery/watch-spacex-attempt-to-catch-the-starship-upper-stage-for-the-first-time/l-intro-1794693469.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "389259cb4822",
-      "title": "How to clear the cache on your Xbox Series X",
-      "url": "https://www.engadget.com/2312189/how-to-clear-cache-xbox-series-x/",
-      "source": "Engadget",
-      "published": "2026-11-14T20:45:00+00:00",
-      "excerpt": "Clearing the cache on your Xbox Series X can help it retain its snappiness while avoiding glitches, or you can perform a console reset if all else fails.",
-      "image": "https://www.engadget.com/img/gallery/how-to-clear-the-cache-on-your-xbox-series-x/l-intro-1794327413.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "504ef0162df3",
-      "title": "Is your car tracking your location? Here's how to check and opt out",
-      "url": "https://www.engadget.com/2312168/car-location-tracking-how-to-opt-out/",
-      "source": "Engadget",
-      "published": "2026-11-14T20:30:00+00:00",
-      "excerpt": "Modern cars are great for farming user data, and big tech companies know it. It's important to know how this information is collected and how to opt out.",
-      "image": "https://www.engadget.com/img/gallery/is-your-car-tracking-your-location-heres-how-to-check-and-opt-out/l-intro-1794245169.jpg",
-      "category": "Data & Analytics"
-    },
-    {
-      "id": "155bbf720ce0",
-      "title": "This built-in Windows tool can diagnose your PC's battery health",
-      "url": "https://www.engadget.com/2312107/built-in-windows-tool-diagnose-pc-battery-health-powercfg/",
-      "source": "Engadget",
-      "published": "2026-11-14T20:15:00+00:00",
-      "excerpt": "If your laptop doesn't seem to hold a charge as well as it used to, start by checking the diagnostics this tool can report. We'll show you how to use it.",
-      "image": "https://www.engadget.com/img/gallery/this-built-in-windows-tool-can-diagnose-your-pcs-battery-health/l-intro-1794326458.jpg",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "f496bdb8398a",
-      "title": "Tesla opens Cybercab pre-orders \u2018for personal use,\u2019 with geo restrictions and a $299 monthly fee",
-      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
-      "source": "TechCrunch",
-      "published": "2026-11-14T20:04:44+00:00",
-      "excerpt": "Even Elon Musk said the monthly fee is \"too high.\"",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-cybercab-getty.jpg?resize=1200,834",
-      "category": "Software Development"
-    },
-    {
-      "id": "2aaf30a22864",
-      "title": "How much did home internet cost in 2001 vs 2026?",
-      "url": "https://www.engadget.com/2311774/home-internet-2001-vs-2026-cost/",
-      "source": "Engadget",
-      "published": "2026-11-14T19:45:00+00:00",
-      "excerpt": "A lot of things have gotten more expensive since the turn of the millennium. Has home internet suffered the same fate? Let's take a trip down memory lane.",
-      "image": "https://www.engadget.com/img/gallery/how-much-did-home-internet-cost-in-2001-vs-2026/l-intro-1794281981.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "cb83a78f24c5",
-      "title": "Got an iPhone Duo? These 9 settings make it easier to use",
-      "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
-      "source": "TechCrunch",
-      "published": "2026-11-14T18:00:00+00:00",
-      "excerpt": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-iPhone-Duo-closed-and-open.jpg?resize=1200,675",
-      "category": "Software Development"
-    },
-    {
-      "id": "6c79d69422db",
-      "title": "Transportation secretary blames \u2018routine\u2019 equipment upgrade for grounding flights nationwide",
-      "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
-      "source": "TechCrunch",
-      "published": "2026-11-14T17:45:04+00:00",
-      "excerpt": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2304506223.jpg?w=1024",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "b08cefd9996d",
-      "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
-      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "source": "TechCrunch",
-      "published": "2026-11-14T17:30:00+00:00",
-      "excerpt": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "2a2bfff1121f",
-      "title": "Asian governments react to Nvidia CEO Jensen Huang\u2019s exit",
-      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-      "source": "TechCrunch",
-      "published": "2026-11-14T16:34:15+00:00",
-      "excerpt": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "5adc8907a2ae",
-      "title": "Should you make the switch to Samsung Galaxy from Google Pixel?",
-      "url": "https://www.engadget.com/2311344/switch-to-samsung-galaxy-to-google-pixel/",
-      "source": "Engadget",
-      "published": "2026-11-14T15:30:00+00:00",
-      "excerpt": "Thinking about trading your Google Pixel for a Samsung Galaxy? Some of the biggest differences might not be the ones you expect.",
-      "image": "https://www.engadget.com/img/gallery/should-you-make-the-switch-to-samsung-galaxy-from-google-pixel/l-intro-1794253187.jpg",
       "category": "Software Development"
     }
   ]
