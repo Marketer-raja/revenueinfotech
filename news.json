@@ -1,6 +1,76 @@
 {
-  "updated": "2026-11-19T02:33:50+00:00",
+  "updated": "2026-11-19T11:38:40+00:00",
   "items": [
+    {
+      "id": "5bedb866169c",
+      "title": "DOJ accuses Russian national of spying on and harassing Palantir employees",
+      "url": "https://www.engadget.com/2321489/doj-accuses-russian-national-of-spying-on-and-harassing-palantir-employees/",
+      "source": "Engadget",
+      "published": "2026-11-19T10:33:59+00:00",
+      "excerpt": "The DOJ says the Russian national was ordered to spy on Palantir over Ukraine's use of its software for wartime purposes.",
+      "image": "https://www.engadget.com/img/gallery/doj-accuses-russian-national-of-spying-on-and-harassing-palantir-employees/l-intro-1795084346.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "67401cc888fc",
+      "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
+      "url": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
+      "source": "The Hacker News",
+      "published": "2026-11-19T09:31:26+00:00",
+      "excerpt": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs. \"We have taken steps to...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjPpZ9yL9D7JBQvp4_ZmnP8S_U6HKdq3rSM_FVv_uDgT9Iz8D56tO6GNDNE4rs29pejUiKQlxi1HpZ38KYbaSB01PmgPItVL8N-Y9G9vcuJlnadltKvmGhvUKYntAEIVCXFixjdBMyu6S9-zEUlIgGf7E5euvodJbn9LIYWTkRpxwH0g7nz2xp2v5PGMdq/s1600/n-able-hacked.jpg",
+      "category": "Cloud Computing"
+    },
+    {
+      "id": "ef3cecb6fd50",
+      "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
+      "url": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
+      "source": "The Hacker News",
+      "published": "2026-11-19T08:42:11+00:00",
+      "excerpt": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can run code on the...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7rmcgZ7yffFsn_7SX4iQcfMhw1dgsxPFXXh6TUunbQ9VaxZh8O5-AFT2V3q0PE7Wx0rW9nLKuB73eluixYuM9N38Dvq_Gjs1nNOXVk3e71jjfhHoP7W97eeuc5AivI3CQNxIrwSaPR9IGV0f2NZ7900Ihtkdgiw1ZivTvgVrXWH2CrX2X5MZGjos6-bs/s1600/ruby.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "3d3c58459056",
+      "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
+      "url": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
+      "source": "The Hacker News",
+      "published": "2026-11-19T08:14:00+00:00",
+      "excerpt": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code behind ordinary SQL. The...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDE1pOkFxdtUcDqLptfhjaBnnEyzz2JfxUJICSOrW3vpcNlygN1XleKCdkv9CA3Zp901yQ884tOkPX9TmSYx5tpevenJw1CmW4oktkn2creXnB5-dvbiJB3crcILx4Kb8b6eVhiKjh-RRZTGnvWskqROJOjF3yaWFVK17fmh-tdT7WMas7MbdK-JsCBmw/s1600/database-rce.jpg",
+      "category": "Data & Analytics"
+    },
+    {
+      "id": "7b2c191d7530",
+      "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
+      "url": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
+      "source": "The Hacker News",
+      "published": "2026-11-19T08:00:00+00:00",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research Electronic Data Capture...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJc2bWATWnk5-O72K0n3cYlHuhhox3nVPELPst8c1bui3mTiwBZFUjAUSem14OyqLB6CTECCs9fc-iyng9KmY3jelZ2cqrHg4FKvP2qOZui8piIbYTZy9WdZD0NqiY4fXcLud5GYzmNEXR6DRNuQpjkFzfPvW4fIcDtwaFg4SM9xW-eG09WxFuEcmuKx7U/s1600/cisa.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "b7f41f77d219",
+      "title": "New gradient icons roll out to Google Messages & Contacts",
+      "url": "https://9to5google.com/2026/11/18/google-messages-contacts-gradient/",
+      "source": "9to5Google",
+      "published": "2026-11-19T05:14:27+00:00",
+      "excerpt": "Google this week completed the rollout of its new gradient icons with updates for Messages and Contacts. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Messages-Phone-Contacts-icon-gradient-redesign.webp?w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "d1202d3392a4",
+      "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
+      "url": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
+      "source": "The Hacker News",
+      "published": "2026-11-19T04:33:46+00:00",
+      "excerpt": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws. The release is scheduled for November 19, 2026, between 2 and 2:30 p.m. UTC. \"These...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj86YA0ZvPrdlouN6GvSZ5P_I5HCaYLm2PBs_JA74wUDgHl8anwcqEN5_Z0kTlAggf0906enJmrtUnN_6jn9kqD8KguG8nOeh1yGS6AAPo1-JHORLQ5nZcpmS5Ss7liuqghFsq8Bb4ooabK29UcCbZlwWGM6HtyRPs4Ty5zv5d4FC5So6tVFUOaEhUylIFU/s1600/php-flaws.jpg",
+      "category": "Software Development"
+    },
     {
       "id": "7763b5e396e5",
       "title": "Elon Musk tries to explain what\u2019s going on with Ukraine and Starlink",
@@ -83,7 +153,7 @@
     },
     {
       "id": "b7121aa76176",
-      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+      "title": "Anthropic prices IPO at $83 a share, above projected range",
       "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
       "source": "TechCrunch",
       "published": "2026-11-18T22:11:15+00:00",
@@ -329,76 +399,6 @@
       "published": "2026-11-18T17:59:47+00:00",
       "excerpt": "The bug could let hackers take over systems at banks, hospitals and most Fortune 500 companies.",
       "image": "https://www.engadget.com/img/gallery/ai-found-a-hole-in-java-and-it-starts-with-aaaaaaaa/l-intro-1795024736.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "00a34e9a7fe6",
-      "title": "Disney\u2019s new Star Wars animatronics interact with guests using AI",
-      "url": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
-      "source": "The Verge",
-      "published": "2026-11-18T17:50:57+00:00",
-      "excerpt": "As advanced and lifelike as the animatronic characters at Disney parks have become, they typically either stick to predefined movements and routines, or there's an out of sight puppeteer helping make their behavior appear more spontaneous...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/disney1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "505d5ca61d96",
-      "title": "Vivo X500 Pro camera review: Battle of the small(er) phones vs Pixel 11 Pro",
-      "url": "https://9to5google.com/2026/11/18/vivo-x500-and-vivo-x500-pro-camera-review/",
-      "source": "9to5Google",
-      "published": "2026-11-18T17:48:17+00:00",
-      "excerpt": "The compact Vivo X500 Pro has some camera downgrades compared to the Pro Max, so are you better off saving money and getting the base Vivo X500 instead? more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/vivo-x500-vivo-x500-pro-google-pixel-11-pro.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "6ae82bdc3864",
-      "title": "More banks say customers using AI agents are on their own \u2014 even if they get hacked",
-      "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
-      "source": "TechCrunch",
-      "published": "2026-11-18T17:32:10+00:00",
-      "excerpt": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1497343848.jpeg?resize=1200,800",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "fcc0b497d226",
-      "title": "You can use Google\u2019s Spark AI agent, renamed Tasks, for free now \u2013 with limits",
-      "url": "https://www.zdnet.com/innovation/gemini-spark-tasks-free-personal-agent/",
-      "source": "ZDNET",
-      "published": "2026-11-18T17:11:39+00:00",
-      "excerpt": "At least if Tasks disappoints, it won\u2019t cost you \u2013 unlike OpenAI and Anthropic\u2019s subscription-based agents.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/chattaskScreenshot-2026-11-18-115205.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "9c40ff9a7698",
-      "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
-      "url": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
-      "source": "The Hacker News",
-      "published": "2026-11-18T17:10:45+00:00",
-      "excerpt": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF) The vulnerability, tracked as CVE-2026-129448 (CVSS...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbiCYJD7nei_TBSnUlQG59idq9moCbsg97fnzsiXNi4KvQaphZYA4hHIzXv08t2OsvVZokzPIdhZPzxTkXoEgzTsFby-rBvQX6CY6yPo1Iv8DPnSmPeOeh3OQXF79Q60Hq3UI7kVdhmEKGL2bUwm42JO-8C_ClLHpTpGkWpnflAQMrDDgjIvMKq09DEskr/s1600/apache.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "aaf7401426c8",
-      "title": "Fitbit Edge after 30 days: Life in the middle lane [Video]",
-      "url": "https://9to5google.com/2026/11/18/fitbit-edge-after-30-days-life-in-the-middle-lane-video/",
-      "source": "9to5Google",
-      "published": "2026-11-18T17:00:00+00:00",
-      "excerpt": "The biggest compliment you can pay Google at the moment is that alongside the Pixel Watch, recent Fitbit releases have been a huge return to form \u2013 the Fitbit Edge included. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Fitbit-Edge-6-1.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "2d5a3de81746",
-      "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
-      "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
-      "source": "TechCrunch",
-      "published": "2026-11-18T16:59:00+00:00",
-      "excerpt": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305723022.jpg?w=594",
       "category": "Artificial Intelligence"
     }
   ]
