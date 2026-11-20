@@ -1,6 +1,96 @@
 {
-  "updated": "2026-11-20T02:19:08+00:00",
+  "updated": "2026-11-20T11:37:45+00:00",
   "items": [
+    {
+      "id": "b6dced9e8be0",
+      "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
+      "url": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
+      "source": "The Hacker News",
+      "published": "2026-11-20T10:38:22+00:00",
+      "excerpt": "SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by AI-assisted attacks. \"Attackers now use...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGn5oji8gd4l_d6wKemSflqTX-q-eiuu4CbbV2ROvzK6Gzpeq8zPsQyGb-UO80f_M8L2pDNNyNqF1ZIdyMPGReyW0KmPb7uuAuRu1M-ZVyNu-GJvx1CRaBsaEOVjV-asFG0P__0MK0Jp3WPJmcNxATiSd6NeBzcCmy-6dLvS5yvpen0cRrwLZvgVpYAvn0/s1600/sonicwall.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "c9ddefa65f50",
+      "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
+      "source": "The Hacker News",
+      "published": "2026-11-20T10:32:50+00:00",
+      "excerpt": "Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC) exploit. The activity involves the...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrMm7M_HyuVDt9NknngHSgyfGKu0DR8VTc_GYL-tr_hMhTmi3EAZnM8x5byJQRYEqcUAZlDTR_Xi4RcMm4lidmk9UR_iyTWpDa5Mn6xRBoNwAf3auen2u6guKxnvoIrcQOfq7Mm1clmsyBMYVcjaOqVFYiN4mXgYSyR5_DUSrmVOLDK5mQeAS8BBB3X5-5/s1600/cisco-cyberattacks.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "dc6901c8a6d8",
+      "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+      "url": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
+      "source": "The Hacker News",
+      "published": "2026-11-20T09:38:15+00:00",
+      "excerpt": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The vulnerability...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTSAI-N-DRII1YA3I98ZVnKnG0SMgm97oEAqyiSXZB23DPwzvTk3figFLsTCKsMJRxRhjKEPFblxfcOuB_UXc_OAXJRiVI07Jxjn-CebJVHiRQ5sc43AifBpUPNfU5-LRD6QEGbX7Vnt_HAmJZiLojS32PtNWwIWeideJZnIpgjrstJ0Iy84lYd47bePk/s1600/chinese-vmware.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "f136b0739c94",
+      "title": "The U.S. national cyber director is stepping down",
+      "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
+      "source": "TechCrunch",
+      "published": "2026-11-20T09:14:19+00:00",
+      "excerpt": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2264911748.jpg?resize=1200,705",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "c9565cecd2bb",
+      "title": "OpenAI is testing Dots personal agents on its $20 per month Plus tier",
+      "url": "https://www.engadget.com/2322656/openai-is-testing-dots-personal-agents-on-its-20-per-month-plus-tier/",
+      "source": "Engadget",
+      "published": "2026-11-20T07:31:25+00:00",
+      "excerpt": "OpenAI is expanding access to Dots, the proactive AI agents that can work for you without any supervision or assistance.",
+      "image": "https://www.engadget.com/img/gallery/openai-is-testing-dots-personal-agents-on-its-20-per-month-plus-tier/l-intro-1795158872.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "ba74506a96ac",
+      "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
+      "url": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
+      "source": "The Hacker News",
+      "published": "2026-11-20T07:11:39+00:00",
+      "excerpt": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. \"ROMULUS likely operates as a delivery...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjugg63OPJwZuh94vDIg7MkA4YoeLKr5sjiqI6CEgjvDjUvJ-pBJOfUrUBxPUTbartqVwdldczbKSYo6lpkcVic1EDQYIDyWq12zMdMONjpDtK4NKCgkppAWvnOJpXe7prfmRG8WNpH0RrQ0bhX2nZKGpRy33y0OMZraBjEPoDorp9h3kNJSa-IQrJC7Nl5/s1600/cf.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "be537ac12556",
+      "title": "Google's latest home page redesign makes Gemini even more prominent",
+      "url": "https://www.engadget.com/2322647/google-latest-home-page-redesign-makes-gemini-even-more-prominent/",
+      "source": "Engadget",
+      "published": "2026-11-20T05:45:38+00:00",
+      "excerpt": "Google is doubling down on Gemini AI in its desktop search, despite complaints from users and employees alike.",
+      "image": "https://www.engadget.com/img/gallery/googles-latest-home-page-redesign-makes-gemini-even-more-prominent/l-intro-1795153348.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "fa700a4eb8ce",
+      "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
+      "url": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
+      "source": "The Hacker News",
+      "published": "2026-11-20T05:30:01+00:00",
+      "excerpt": "A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not administrator control of...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRnUdcazdCteyaE1EC_aLit8CioDaJ5yvsWnawFVWQrJvYFktNRJXlW9MOJLimG_-aS1IZChVHJbjPI4CXjIbNFLjn5W686xynepfC0oWyEG81NX5CxdS-9ayumfRljgy32e2bYXDD72T6VpIFFzeCcPKwG48RDKiZExwNdF-4XDFicISSaaRtT3W2dt0/s1600/windows-lockscreen.jpg",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "de9428d7456c",
+      "title": "Samsung\u2019s mobile division has someone new in charge for the first time in years",
+      "url": "https://9to5google.com/2026/11/19/samsung-mobile-division-lead-choi-won-joon/",
+      "source": "9to5Google",
+      "published": "2026-11-20T01:35:00+00:00",
+      "excerpt": "After the better part of 7 years, Samsung\u2019s mobile division has a new chief and it\u2019s Choi Won-Joon, who is already off to a great start with the successful launch of Galaxy Z Fold 8. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-won-joon-choi-3.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
     {
       "id": "2ed09bbf2a0c",
       "title": "Apple may be developing its own AI agent that runs your Mac",
@@ -28,7 +118,7 @@
       "source": "TechCrunch",
       "published": "2026-11-20T00:26:03+00:00",
       "excerpt": "On the day Anthropic went public, Fireworks AI\u2019s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers\u2019 trust.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-20-at-12.43.24-AM.png?resize=1200,601",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Chenyu-Zhao.jpg?resize=1200,800",
       "category": "Artificial Intelligence"
     },
     {
@@ -310,96 +400,6 @@
       "excerpt": "Google is upgrading the Gemini app on Mac with computer use capabilities that can work across local desktop applications and the web. more\u2026",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-Mac-computer-use.webp?w=1600",
       "category": "Artificial Intelligence"
-    },
-    {
-      "id": "53e4a59238e8",
-      "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
-      "url": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
-      "source": "The Hacker News",
-      "published": "2026-11-19T18:47:58+00:00",
-      "excerpt": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgTqUIWPjGeycl6xafh8Hx8n2UN3UCUgjhTpxUul68DHi7Y_IoHVYBvjDd5DpFg15sKI767hVEq-8CbGhK69JNusMh0OBBXfVMwJlZiKT2gNnTPAL9DyvTY85SB68WkvBxFCMF2_rNS9rUgYkQN8sKssDMBS8gO6YpMudQohf_JWnPztX_h8TdbSX6Vtfi/s1600/td.jpg",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "881ceea4cacb",
-      "title": "Anthropic is now a public company worth more than $1 trillion",
-      "url": "https://www.engadget.com/2322144/anthropic-is-now-a-public-company-worth-more-than-1-trillion/",
-      "source": "Engadget",
-      "published": "2026-11-19T18:41:26+00:00",
-      "excerpt": "The company was briefly valued at more than $2 trillion.",
-      "image": "https://www.engadget.com/img/gallery/anthropic-is-now-a-public-company-worth-more-than-1-trillion/l-intro-1795113508.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "ac019a17dcb4",
-      "title": "Which Waterdrop water filters are actually worth buying this Black Friday?",
-      "url": "https://9to5google.com/2026/11/19/which-waterdrop-water-filters-are-actually-worth-buying-this-black-friday/",
-      "source": "9to5Google",
-      "published": "2026-11-19T18:24:03+00:00",
-      "excerpt": "Black Friday can turn something as simple as a home water upgrade into a real headache. Do you need a system that fills a glass in seconds, or one that keeps always-ready hot water available right on the counter? Maybe you\u2019re more worried...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/WD-X16-7-crop.jpg?quality=82&strip=all&w=1200",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "a628e3d51eab",
-      "title": "Gemini on Mac can now use your computer",
-      "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-      "source": "The Verge",
-      "published": "2026-11-19T18:21:13+00:00",
-      "excerpt": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/M6_MBP_hero2.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "f3fc0af98cb5",
-      "title": "Leaked images reveal Motorola\u2019s wide foldable",
-      "url": "https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak",
-      "source": "The Verge",
-      "published": "2026-11-19T18:19:03+00:00",
-      "excerpt": "New leaked images of Motorola's next folding smartphone shared by SammyGuru add more credence to the theory that widescreen could be the default design for foldables moving forward. Following a single leaked shot shared to Reddit...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/moto1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "37df776c3280",
-      "title": "Apple\u2019s iPhone camera leader has reportedly left the company",
-      "url": "https://www.theverge.com/tech/1037846/apple-jon-mccormack-retired-iphone-camera",
-      "source": "The Verge",
-      "published": "2026-11-19T18:13:05+00:00",
-      "excerpt": "Jon McCormack, Apple's vice president of camera software engineering, left the company last month, Bloomberg reports. Its sources say McCormack retired \"at the end of October after more than eight years at the company.\" Apple reportedly...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_AKrales_0542.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "e070133a2ebf",
-      "title": "Meta Muse booked an Airbnb without permission \u2013 and that\u2019s not the worst of it",
-      "url": "https://www.zdnet.com/tech/meta-muse-privacy-violatons-employees-report/",
-      "source": "ZDNET",
-      "published": "2026-11-19T18:11:20+00:00",
-      "excerpt": "Meta employees have reported alarming privacy violations involving Muse, including unauthorized actions. An investigation also found the AI agent accessed private messages.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Meta-Muse.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "6d6821f501bb",
-      "title": "Google gives Gemini the ability to use your Mac for you",
-      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-      "source": "TechCrunch",
-      "published": "2026-11-19T18:09:11+00:00",
-      "excerpt": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/hero_header_CU_copy.width-2200.format-webp.jpeg?resize=1200,675",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "233c49fd56c7",
-      "title": "How to game share GTA 6 and split the cost with a friend",
-      "url": "https://www.engadget.com/2322043/how-to-game-share-gta-6-split-cost/",
-      "source": "Engadget",
-      "published": "2026-11-19T18:00:48+00:00",
-      "excerpt": "You can do this on Xbox Series X and PlayStation 5.",
-      "image": "https://www.engadget.com/img/gallery/how-to-game-share-gta-6-and-split-the-cost-with-a-friend/l-intro-1795110904.jpg",
-      "category": "Software Development"
     }
   ]
 }
