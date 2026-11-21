@@ -1,6 +1,186 @@
 {
-  "updated": "2026-11-21T11:00:03+00:00",
+  "updated": "2026-11-21T19:14:32+00:00",
   "items": [
+    {
+      "id": "5b600a4db67b",
+      "title": "How to use a solar panel to charge your phone",
+      "url": "https://www.engadget.com/2318512/how-to-use-solar-panel-charge-phone/",
+      "source": "Engadget",
+      "published": "2026-11-21T18:30:00+00:00",
+      "excerpt": "Can sunlight really charge your phone? Learn how portable solar chargers work and which features to look for before your next camping trip or blackout.",
+      "image": "https://www.engadget.com/img/gallery/how-to-use-a-solar-panel-to-charge-your-phone/l-intro-1794864126.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "c57b4d43c86c",
+      "title": "Tesla's assisted driving system gets the green light for rollout in Italy",
+      "url": "https://www.engadget.com/2324122/teslas-assisted-driving-system-gets-the-green-light-for-rollout-in-italy/",
+      "source": "Engadget",
+      "published": "2026-11-21T18:29:20+00:00",
+      "excerpt": "Tesla's self-driving tech is awaiting another major vote from the European Union before the end of the year.",
+      "image": "https://www.engadget.com/img/gallery/teslas-assisted-driving-system-gets-the-green-light-for-rollout-in-italy/l-intro-1795285455.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "c8a321bd7954",
+      "title": "How much can you get for your old, discontinued Apple Watch?",
+      "url": "https://www.engadget.com/2318441/how-much-old-discontinued-apple-watch-trade-in-program/",
+      "source": "Engadget",
+      "published": "2026-11-21T18:15:00+00:00",
+      "excerpt": "Your old Apple Watch can fetch some money toward your next one instead of sitting on your desk doing nothing.",
+      "image": "https://www.engadget.com/img/gallery/how-much-can-you-get-for-your-old-discontinued-apple-watch/l-intro-1794862222.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "d4c926b47d06",
+      "title": "Setting up an Apple HomeView is ridiculously easy thanks to your iPhone",
+      "url": "https://www.engadget.com/2318610/easy-apple-homeview-setup-with-iphone/",
+      "source": "Engadget",
+      "published": "2026-11-21T18:00:00+00:00",
+      "excerpt": "Here's how to set up an Apple HomeView and how to add other users.",
+      "image": "https://www.engadget.com/img/gallery/setting-up-an-apple-homeview-is-ridiculously-easy-thanks-to-your-iphone/l-intro-1794833959.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "d12a16aefa32",
+      "title": "HomeView vs. Echo Show: What's the difference between Apple's and Amazon's smart displays?",
+      "url": "https://www.engadget.com/2318413/apple-homeview-vs-amazon-echo-show-smart-display-comparison/",
+      "source": "Engadget",
+      "published": "2026-11-21T17:45:00+00:00",
+      "excerpt": "Both the HomeView and Echo Show put an AI assistant in your home, but they work in different ways.",
+      "image": "https://www.engadget.com/img/gallery/homeview-vs-echo-show-whats-the-difference-between-apples-and-amazons-smart-displays/l-intro-1794841882.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "e9776a8605c6",
+      "title": "The FBI and USDA were reportedly hacked",
+      "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+      "source": "The Verge",
+      "published": "2026-11-21T17:42:27+00:00",
+      "excerpt": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318430/akrales_220309_4977_0038.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "f5da69e739d9",
+      "title": "This retro classic is the most re-released game of all time \u2014 here's why",
+      "url": "https://www.engadget.com/2318410/why-tetris-most-re-released-retro-game-ever/",
+      "source": "Engadget",
+      "published": "2026-11-21T17:30:00+00:00",
+      "excerpt": "Surpassing any other game, this recognizable retro title has been released on virtually every gaming platform, from the earliest retro machines to smartphones.",
+      "image": "https://www.engadget.com/img/gallery/this-retro-classic-is-the-most-re-released-game-of-all-time-heres-why/l-intro-1794593530.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "62c30fc0f0a7",
+      "title": "How to set up surround sound with Apple TV 4K and HomePods",
+      "url": "https://www.engadget.com/2318408/how-to-set-up-surround-sound-apple-tv-4k-homepods/",
+      "source": "Engadget",
+      "published": "2026-11-21T17:15:00+00:00",
+      "excerpt": "Surround yourself with Apple's premium home theater experience - for a price.",
+      "image": "https://www.engadget.com/img/gallery/how-to-set-up-surround-sound-with-apple-tv-4k-and-homepods/l-intro-1794835837.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "6ccebafcdf30",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch",
+      "published": "2026-11-21T17:00:00+00:00",
+      "excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "01f1d0ee64b9",
+      "title": "Galaxy Z Fold 8 features: What you can do on a foldable",
+      "url": "https://9to5google.com/2026/11/21/galaxy-z-fold-8-features-what-you-can-do/",
+      "source": "9to5Google",
+      "published": "2026-11-21T17:00:00+00:00",
+      "excerpt": "Folding phones have come in numerous variations over the years as the concept has evolved. The Galaxy Z Fold 8 is the latest evolution that introduces a form factor that fits every user. Its unique design makes it a foldable most people...",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-Fold-8-lavender-2.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "491946130f86",
+      "title": "One of Apple HomeView's best features will have you cooking like a pro",
+      "url": "https://www.engadget.com/2318404/apple-homeview-cooking-feature/",
+      "source": "Engadget",
+      "published": "2026-11-21T16:45:00+00:00",
+      "excerpt": "Apple makes cooking a blast with this new tool on its smart display.",
+      "image": "https://www.engadget.com/img/gallery/one-of-apple-homeviews-best-features-will-have-you-cooking-like-a-pro/l-intro-1794860270.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "092a202b7077",
+      "title": "36 percent of households have ditched a streaming service subscription recently: Here's why",
+      "url": "https://www.engadget.com/2318288/why-36-percent-households-ditching-streaming-subscriptions/",
+      "source": "Engadget",
+      "published": "2026-11-21T16:30:00+00:00",
+      "excerpt": "If you've cut back your streaming subscriptions recently, you're not alone.",
+      "image": "https://www.engadget.com/img/gallery/36-percent-of-households-have-ditched-a-streaming-service-subscription-recently-heres-why/l-intro-1794859040.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "dffab27fe8d5",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "source": "TechCrunch",
+      "published": "2026-11-21T16:00:00+00:00",
+      "excerpt": "An actor has licensed his face to a microdrama startup \u2014 in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Inevitable-Key-Art_3x4-full-size.jpg?resize=899,1200",
+      "category": "Enterprise Software & SaaS"
+    },
+    {
+      "id": "a9f34b76fcc6",
+      "title": "Can Anthropic afford to put safety first?",
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "source": "The Verge",
+      "published": "2026-11-21T15:00:00+00:00",
+      "excerpt": "Today, I\u2019m talking with Hayden Field, The Verge\u2019s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_1121_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "10ba175a48d5",
+      "title": "The Xiaomi 18 Pro proves two screens aren\u2019t better than one",
+      "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
+      "source": "The Verge",
+      "published": "2026-11-21T13:00:00+00:00",
+      "excerpt": "Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the back of a phone is...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/xiaomi-18-pro-max-11.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "0ad755f2681c",
+      "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+      "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+      "source": "The Hacker News",
+      "published": "2026-11-21T11:53:07+00:00",
+      "excerpt": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown. The same attack could be extended to reach the credentials...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYiVrbfn3FWfI_uNyjj8q9SZ38d2mHKu2ehdtYYKPwyg-05yKJBYUAPEaVxJq5KDGwU11X2tmEKNUKPIHQY9s67e1K9w_8NRdEOxVCDJqqMbQ6F27kfOj3GKjcQ3-0WHFNg7uYT6QeIU90qX1YW_Zvyn7WhZwpV41i5Pj6watQsF7Ti8NN1GIQLxw-jPc/s1600/muse-ai.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "761885e6c02d",
+      "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+      "url": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+      "source": "The Hacker News",
+      "published": "2026-11-21T11:05:53+00:00",
+      "excerpt": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG. The GnuPG project warned yesterday that the flaw could be used to steal data from...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTmX4ayWzvM0EzPttZ610B2837FppeU5AEmQmztLH2lai78EDQtjrp4wVI_bubSe2c2NGBE5sqBT9Py1mKkHQKN2faBkOzU70d7FntrpYD7Et2eeBxLNy2gzByAo1i8Aaw_VMBZD62RnBMY2md3iNfegK9M_NR5qTRDBw8s0uwKy1w7JoTV0zkDS_17Lse/s1600/pgp.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "16765aea3bd9",
+      "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+      "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+      "source": "The Hacker News",
+      "published": "2026-11-21T11:03:17+00:00",
+      "excerpt": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week. The...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEIG6Wgi3wGQXrsdGKEf4ORPFjHVGpRkoSUPraOJfKhGmB0vYFojLq2mCuOP3a71_XpNZusvn45ZDa1J3a7eQ0WE3XJY0FGunHVWB1yHBluJT5vSDCmzkhaFGiHjeKbnoah6noyZ3mNInS-mjJK1Gfcf7jT3A60ZYR_eknSgt_sEa6MNGM-DA5-aLXMbZ5/s1600/medical-ai.jpg",
+      "category": "Software Development"
+    },
     {
       "id": "9da47b8efcbb",
       "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
@@ -30,6 +210,16 @@
       "excerpt": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/apple-namedrop.jpg?resize=1200,800",
       "category": "Enterprise Software & SaaS"
+    },
+    {
+      "id": "137da8af1bc1",
+      "title": "Samsung might copy the iPhone\u2019s Dynamic Island soon, but it actually looks good [Video]",
+      "url": "https://9to5google.com/2026/11/20/samsung-iphone-dynamic-island-feature-leak/",
+      "source": "9to5Google",
+      "published": "2026-11-21T02:45:00+00:00",
+      "excerpt": "A new leak suggests that Samsung is preparing to copy the iPhone\u2019s Dynamic Island feature in the not-too-distant future, to an extent that not many other Android brands have even done thus far. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-ultra-privacy-display-20.jpg?quality=82&strip=all&w=1600",
+      "category": "Operating Systems"
     },
     {
       "id": "c650a279906e",
@@ -209,196 +399,6 @@
       "published": "2026-11-20T18:15:15+00:00",
       "excerpt": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory\u2014but it also indicates that models aren\u2019t quite as good at tasks that require judgment as they are...",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/metr2a.jpg?resize=1200,600",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "d1e87ef3ac12",
-      "title": "Google says it\u2019s going to shut off Google Assistant on smart speakers next year",
-      "url": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
-      "source": "The Verge",
-      "published": "2026-11-20T18:00:00+00:00",
-      "excerpt": "Google is announcing some significant changes to its smart home software. Starting next year, the company will shut down the Nest app in favor of the Google Home app and retire Google Assistant on its smart home devices. The Nest app...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "024a9fd1f852",
-      "title": "OpenAI brings its collaborative Space hubs to Plus users",
-      "url": "https://www.engadget.com/2323016/openai-brings-its-collaborative-space-hubs-to-plus-users/",
-      "source": "Engadget",
-      "published": "2026-11-20T18:00:00+00:00",
-      "excerpt": "You can upload documents, files and more to the hubs for easy sharing.",
-      "image": "https://www.engadget.com/img/gallery/openai-brings-its-collaborative-space-hubs-to-plus-users/l-intro-1795191035.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "a5ea1fa652d1",
-      "title": "Google retiring Nest app and Google Assistant on speakers, displays in 2027",
-      "url": "https://9to5google.com/2026/11/20/nest-app-google-assistant/",
-      "source": "9to5Google",
-      "published": "2026-11-20T18:00:00+00:00",
-      "excerpt": "Following the Android deprecation in September, Google Assistant is going away on speakers and smart displays next year. Additionally, Google Home is fully replacing the Nest app in January. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2023/11/nest-app-pixel-1.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "6cc616c5c6e7",
-      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
-      "url": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
-      "source": "The Hacker News",
-      "published": "2026-11-20T17:57:20+00:00",
-      "excerpt": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871 (CVSS score: 3.5)...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUSbYUJJkBlZsaH90SXIaxYAv5iJN7ZEus7Q24A_Z9fDNNlnOjFnNZ3SnA6er-iuMgQnE6k73nwVwAEPPk1AjRT12N9o8cJft3_dPqMZKeJbpq6QIcGbN1z1UbE_Q3fXTyp1c0XmqynQu2lJPeIYoraqXFcgM-wQH4b1rIBrOKF221CIKLldJIZVJ4g7cr/s1600/whatsapp.jpg",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "6f65253881f4",
-      "title": "Clicks Communicator hits a supply chain snag, and it isn\u2019t because of RAM",
-      "url": "https://9to5google.com/2026/11/20/clicks-communicator-minor-timeline-delay/",
-      "source": "9to5Google",
-      "published": "2026-11-20T17:51:23+00:00",
-      "excerpt": "Clicks is still on track to release the phone with a physical keyboard within the next few months, but a Communicator launch before the end of this year isn\u2019t looking very likely as shipping gets pushed back. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/01/Clicks-CES-2026-28-of-30.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "c1f29c3a1b10",
-      "title": "Hands-on: Sony\u2019s Walkman-revival USB-C headphones are back in stock and worth a look",
-      "url": "https://9to5google.com/2026/11/20/sony-walkman-mdr-3r-usb-c-headphones-hands-on/",
-      "source": "9to5Google",
-      "published": "2026-11-20T17:45:00+00:00",
-      "excerpt": "Sony\u2019s iconic Walkman headphones are back in the USB-C MDR-3R and, after quickly selling out on launch day, they\u2019ve now been restocked . And, after using them, I can see why they sold out so quickly. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/sony-mdr-3r-4.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "e43240c9ae66",
-      "title": "Chips can survive the space environment \u2014 can their financing?",
-      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
-      "source": "TechCrunch",
-      "published": "2026-11-20T17:40:01+00:00",
-      "excerpt": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/SpaceXAIsatrender.jpg?resize=1200,639",
-      "category": "Data & Analytics"
-    },
-    {
-      "id": "d4850a4c9a93",
-      "title": "Nothing's AI device debuts December 8, and it looks like two vapes stuck together",
-      "url": "https://www.engadget.com/2323187/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/",
-      "source": "Engadget",
-      "published": "2026-11-20T17:32:02+00:00",
-      "excerpt": "Thanks, Swedish House Mafia. I guess.",
-      "image": "https://www.engadget.com/img/gallery/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/l-intro-1795195811.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "8d94c9aac39b",
-      "title": "Google Pixel held its ground in the US despite a middling Pixel 11 launch",
-      "url": "https://9to5google.com/2026/11/20/google-pixel-us-smartphone-market-q3-2026/",
-      "source": "9to5Google",
-      "published": "2026-11-20T17:30:00+00:00",
-      "excerpt": "The latest quarterly data for the US smartphone market reveals that Google Pixel is holding its ground despite the overall market faltering, and the other two major Android brands struggling. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-pro-xl-canyon-9.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "3325bbe33130",
-      "title": "Expect Samsung\u2019s good-value Galaxy devices to get more expensive, report says",
-      "url": "https://9to5google.com/2026/11/20/samsungs-value-galaxy-devices-to-get-more-expensive/",
-      "source": "9to5Google",
-      "published": "2026-11-20T17:07:16+00:00",
-      "excerpt": "Rising memory costs are hitting mid-range devices the hardest. The latest report suggests Samsung will increase the price of its Galaxy A device series by 19% next year. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-a17-instagram.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "5b66ad549a6a",
-      "title": "Teenage Engineering\u2019s first CD player puts the spinning disc on display",
-      "url": "https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth",
-      "source": "The Verge",
-      "published": "2026-11-20T17:05:52+00:00",
-      "excerpt": "Teenage Engineering announced what it describes as \"a modern take on a classic CD player\" with its new EP/BC-1 featuring a slab-like design that leaves the spinning disc exposed instead of hiding it under a lid or inside a slide-out tray...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/tecd1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "b051218681af",
-      "title": "Signal to restrict screenshots over AI agent concerns \u2013 again",
-      "url": "https://www.zdnet.com/innovation/signal-restricts-screenshots-over-ai-agent-concerns/",
-      "source": "ZDNET",
-      "published": "2026-11-20T17:03:37+00:00",
-      "excerpt": "The messaging app similarly limited screenshots because of Microsoft Recall last year.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/protecting-your-privacy-1.png",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "ae8d0885b1b1",
-      "title": "Black Friday Week deals: Moto Tag 2 $19, NXTPAPER Tab $190, Pixel Watch, Galaxy Watch, Amazon Echo Time, more",
-      "url": "https://9to5google.com/2026/11/20/black-friday-deals-moto-tag-2-pixel-watch-galaxy-watch/",
-      "source": "9to5Google",
-      "published": "2026-11-20T16:59:41+00:00",
-      "excerpt": "Day 2 of the giant Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold as well as $100 off all Pixel Watch 5 models. These deals now join the lowest price we have ever tracked on the 2026 Moto Tag 2 , a range of TCL NXTPAPER Android tabs...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/9to5Google-Nov-20.webp?w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "9dbbebdeb6a3",
-      "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
-      "url": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
-      "source": "The Hacker News",
-      "published": "2026-11-20T16:58:16+00:00",
-      "excerpt": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale. Dutch mobile security company...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMs4vBdivbF3Y-4yd3PWqjSTuG2PPDvCemM211pzVl2Jhkus9d14_2MzRgdrlNhRxaHa_2rlIN34kUGHAlV_Y2dMnfmYGlUEzUcab0c_s3N8Zoe8P3rcJ-RJmo2luVci9bVqmwtFhpL4rfR2Uo-ZwvqfqFMwRb_3WwoOvFIaunPd7WMOJ4yW9rjbHEKDwf/s1600/android-malware.jpg",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "0284c903b166",
-      "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
-      "url": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
-      "source": "TechCrunch",
-      "published": "2026-11-20T15:46:07+00:00",
-      "excerpt": "Exclusive: A simple security lapse exposed transcriptions of police interviews and bodycam footage on a cloud server without a password.",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2150052525.jpg?resize=1200,800",
-      "category": "Data & Analytics"
-    },
-    {
-      "id": "0091e8320095",
-      "title": "Ray-Ban Meta (Gen 3) review: Minor upgrades that cost too much",
-      "url": "https://www.engadget.com/2322827/ray-ban-meta-gen-3-review/",
-      "source": "Engadget",
-      "published": "2026-11-20T14:30:00+00:00",
-      "excerpt": "Meta's very best AI glasses are only slightly better than other recent models.",
-      "image": "https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-review-minor-upgrades-that-cost-too-much/l-intro-1795183661.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "912ce9389b49",
-      "title": "Six AI-powered gadgets that could make your home office smarter",
-      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-      "source": "TechCrunch",
-      "published": "2026-11-20T14:00:00+00:00",
-      "excerpt": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1348850409.jpg?resize=1200,800",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "f52243df8570",
-      "title": "Behind Jensen Huang\u2019s exit, questions about a management style reportedly built on fear",
-      "url": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
-      "source": "TechCrunch",
-      "published": "2026-11-20T13:25:00+00:00",
-      "excerpt": "Elon Musk may have been overstating it when he said Nvidia\u2019s employees \u201clove\u201d the ousted Jensen Huang.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266464474.jpg?resize=1200,774",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "2137d47239c2",
-      "title": "California AG subpoenas Nvidia over worries about Huang\u2019s ties with China",
-      "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
-      "source": "TechCrunch",
-      "published": "2026-11-20T13:21:11+00:00",
-      "excerpt": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/nemoclaw.jpg?resize=1200,675",
       "category": "Artificial Intelligence"
     }
   ]
