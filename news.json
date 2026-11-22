@@ -1,6 +1,206 @@
 {
-  "updated": "2026-11-22T11:23:19+00:00",
+  "updated": "2026-11-22T19:38:21+00:00",
   "items": [
+    {
+      "id": "b1fb8ef63b11",
+      "title": "5 Apple Watch settings that can help you save its battery life",
+      "url": "https://www.engadget.com/2319475/apple-watch-settings-help-save-battery-life/",
+      "source": "Engadget",
+      "published": "2026-11-22T19:00:00+00:00",
+      "excerpt": "By giving up some of the Apple Watch's slick features, you can use its core functions for much longer before needing a charge.",
+      "image": "https://www.engadget.com/img/gallery/5-apple-watch-settings-that-can-help-you-save-its-battery-life/l-intro-1794592644.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "1d6c6b8cb3ff",
+      "title": "What the little clock icon at the top of your Samsung phone means",
+      "url": "https://www.engadget.com/2319450/what-little-clock-icon-top-samsung-phone-means/",
+      "source": "Engadget",
+      "published": "2026-11-22T18:45:00+00:00",
+      "excerpt": "A mystery clock in your Galaxy status bar can be confusing. Find out what the symbol could mean and the simple steps to make it disappear for good.",
+      "image": "https://www.engadget.com/img/gallery/what-the-little-clock-icon-at-the-top-of-your-samsung-phone-means/l-intro-1794937166.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "5ca1d2d121b8",
+      "title": "The drawbacks of adding solar panels to your home",
+      "url": "https://www.engadget.com/2319431/adding-solar-panels-home-disadvantages/",
+      "source": "Engadget",
+      "published": "2026-11-22T18:30:00+00:00",
+      "excerpt": "Installing solar panels at your home could be a bright idea, but there are some serious financial factors to consider before making the investment.",
+      "image": "https://www.engadget.com/img/gallery/the-drawbacks-of-adding-solar-panels-to-your-home/l-intro-1794592127.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "8e87426d9b27",
+      "title": "11 types of smart gadgets to consider pairing with your Ring doorbell",
+      "url": "https://www.engadget.com/2319422/ring-doorbell-smart-gadget-pairings/",
+      "source": "Engadget",
+      "published": "2026-11-22T18:15:00+00:00",
+      "excerpt": "If you've expanded your smart home to have multiple smart devices, you may want to see how many will work with Ring.",
+      "image": "https://www.engadget.com/img/gallery/11-types-of-smart-gadgets-to-consider-pairing-with-your-ring-doorbell/l-intro-1794591638.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "bed82431ae1f",
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "source": "TechCrunch",
+      "published": "2026-11-22T18:08:43+00:00",
+      "excerpt": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+      "category": "Data & Analytics"
+    },
+    {
+      "id": "a56dcb5f6e2b",
+      "title": "Don't throw away your old Xbox \u2014 Do this instead",
+      "url": "https://www.engadget.com/2319409/dont-throw-away-old-xbox-do-this-instead-sell-donate/",
+      "source": "Engadget",
+      "published": "2026-11-22T18:00:00+00:00",
+      "excerpt": "Your old Xbox doesn't deserve to be dumped in a dustbin. From making a buck to making a kid's day, there are ways to give your console a new lease on life.",
+      "image": "https://www.engadget.com/img/gallery/dont-throw-away-your-old-xbox-do-this-instead/l-intro-1794512318.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "5aeaa080ffd4",
+      "title": "How to cancel your Nintendo Switch Online subscription",
+      "url": "https://www.engadget.com/2319401/cancel-nintendo-switch-online-subscription/",
+      "source": "Engadget",
+      "published": "2026-11-22T17:30:00+00:00",
+      "excerpt": "You'll have to switch off Nintendo Switch Online's auto-renewal to cancel it. Here's how.",
+      "image": "https://www.engadget.com/img/gallery/how-to-cancel-your-nintendo-switch-online-subscription/l-intro-1794668965.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "02225d20dfd6",
+      "title": "5 iOS 27.3 changes coming to your Apple devices by 2027",
+      "url": "https://www.engadget.com/2319400/apple-ios-27-3-changes-by-2027/",
+      "source": "Engadget",
+      "published": "2026-11-22T17:15:00+00:00",
+      "excerpt": "iOS 27.3's first developer beta is out ahead of a possible December 2026 launch, and it brings with it a handful of notable changes and new features.",
+      "image": "https://www.engadget.com/img/gallery/5-ios-27-3-changes-coming-to-your-apple-devices-by-2027/l-intro-1794567265.jpg",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "91d036c3af3f",
+      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+      "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+      "source": "TechCrunch",
+      "published": "2026-11-22T17:06:00+00:00",
+      "excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/zoox-las-vegas-Getty.jpg?resize=1200,800",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "6bb655230398",
+      "title": "You can reuse your old GoPro in a couple different ways",
+      "url": "https://www.engadget.com/2319397/reuse-old-gopro-different-ways/",
+      "source": "Engadget",
+      "published": "2026-11-22T17:00:00+00:00",
+      "excerpt": "An old GoPro may not be of much use as an action camera, but that doesn't mean it's destined for e-waste. Here are two ways to repurpose it.",
+      "image": "https://www.engadget.com/img/gallery/you-can-reuse-your-old-gopro-in-a-couple-different-ways/l-intro-1794706592.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "04a46760be17",
+      "title": "Here's how to properly test your USB speed",
+      "url": "https://www.engadget.com/2319388/how-to-test-usb-speed/",
+      "source": "Engadget",
+      "published": "2026-11-22T16:45:00+00:00",
+      "excerpt": "Your USB ports and devices are all rated for certain speeds, but how do you know everything's performing as it should? It's actually not that hard.",
+      "image": "https://www.engadget.com/img/gallery/heres-how-to-properly-test-your-usb-speed/l-intro-1794562926.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "fe89ea66523f",
+      "title": "Fixing this annoying One UI feature is easy, but there's a catch",
+      "url": "https://www.engadget.com/2319385/fixing-annoying-one-ui-feature-easy-but-theres-catch/",
+      "source": "Engadget",
+      "published": "2026-11-22T16:30:00+00:00",
+      "excerpt": "The Now bar on your Samsung phone's lock screen can sometimes float above the bottom of the screen. Find out how to fix this One UI feature.",
+      "image": "https://www.engadget.com/img/gallery/fixing-this-annoying-one-ui-feature-is-easy-but-theres-a-catch/l-intro-1794838458.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "2269595c3cbc",
+      "title": "Protesters storm Meta offices in India",
+      "url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
+      "source": "The Verge",
+      "published": "2026-11-22T15:15:07+00:00",
+      "excerpt": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are demanding the company restore accounts of...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "2b3d9332eb80",
+      "title": "Can a TV be too large? An investigation",
+      "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+      "source": "TechCrunch",
+      "published": "2026-11-22T15:00:00+00:00",
+      "excerpt": "Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Image-from-iOS.jpg?resize=1200,900",
+      "category": "Software Development"
+    },
+    {
+      "id": "e70933bca001",
+      "title": "Samsung Galaxy Watch Ultra 2 vs Watch 9: When is it right to spend more?",
+      "url": "https://9to5google.com/2026/11/22/samsung-galaxy-watch-ultra-2-vs-watch-9-when-is-it-right-to-spend-more/",
+      "source": "9to5Google",
+      "published": "2026-11-22T14:26:51+00:00",
+      "excerpt": "The Samsung Galaxy Watch Ultra 2 is worth spending more on if you want longer battery life, a brighter outdoor display, and specialized features for trail running and diving. The Galaxy Watch 9 is the better fit if you want Samsung\u2019s...",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Galaxy-Watch-9-and-Watch-Ultra-2-v1.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "08360187a8fd",
+      "title": "\u2018The show is starting soon. Please turn on your headphones.\u2019",
+      "url": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast",
+      "source": "The Verge",
+      "published": "2026-11-22T14:00:00+00:00",
+      "excerpt": "Up a few concrete steps and through the front door of a 200-year-old row house in New York City, I follow a crowd of people into the 178-seat SoHo Playhouse. As we filter to our seats, ushers hand each person a black drawstring bag with a...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/love-me-off-broadway-auracast-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "24257c5e99e4",
+      "title": "The Google Home app is better than Nest alone ever was, mostly",
+      "url": "https://9to5google.com/2026/11/22/google-home-app-better-than-nest/",
+      "source": "9to5Google",
+      "published": "2026-11-22T14:00:00+00:00",
+      "excerpt": "The Nest app is officially dead, but it\u2019s worth taking a step back and remembering that, while there are some rough edges, the Google Home app is a better smart home experience than Nest alone ever could have been. 9to5Google Weekender by...",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-home-app-android-1.jpg?quality=82&strip=all&w=1600",
+      "category": "Web Development"
+    },
+    {
+      "id": "fa55c8e12b3b",
+      "title": "How Tamagotchis got us hooked on digital pets",
+      "url": "https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary",
+      "source": "The Verge",
+      "published": "2026-11-22T13:15:27+00:00",
+      "excerpt": "If you were are a kid in the late 1990s, there's a near-100 percent chance you either had a Tamagotchi or knew someone who did. The tiny digital pets came out of nowhere and became an overnight sensation, as millions of kids signed up to...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRH_Tamagotchi_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "82a8a10f0807",
+      "title": "Your questions about Apple HomeView\u2019s audio, answered",
+      "url": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
+      "source": "The Verge",
+      "published": "2026-11-22T13:00:00+00:00",
+      "excerpt": "After I published my review of the HomeView, Apple's first smart display, y'all still had a ton of questions about how it works as a smart speaker. So, I spent a bunch more time testing its audio capabilities and support for third-party...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE94.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "0f50037c76f2",
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "source": "The Verge",
+      "published": "2026-11-22T13:00:00+00:00",
+      "excerpt": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
     {
       "id": "78074d39dfa2",
       "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
@@ -199,206 +399,6 @@
       "published": "2026-11-21T18:00:00+00:00",
       "excerpt": "Here's how to set up an Apple HomeView and how to add other users.",
       "image": "https://www.engadget.com/img/gallery/setting-up-an-apple-homeview-is-ridiculously-easy-thanks-to-your-iphone/l-intro-1794833959.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "d12a16aefa32",
-      "title": "HomeView vs. Echo Show: What's the difference between Apple's and Amazon's smart displays?",
-      "url": "https://www.engadget.com/2318413/apple-homeview-vs-amazon-echo-show-smart-display-comparison/",
-      "source": "Engadget",
-      "published": "2026-11-21T17:45:00+00:00",
-      "excerpt": "Both the HomeView and Echo Show put an AI assistant in your home, but they work in different ways.",
-      "image": "https://www.engadget.com/img/gallery/homeview-vs-echo-show-whats-the-difference-between-apples-and-amazons-smart-displays/l-intro-1794841882.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "e9776a8605c6",
-      "title": "The FBI and USDA were reportedly hacked",
-      "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
-      "source": "The Verge",
-      "published": "2026-11-21T17:42:27+00:00",
-      "excerpt": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318430/akrales_220309_4977_0038.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "f5da69e739d9",
-      "title": "This retro classic is the most re-released game of all time \u2014 here's why",
-      "url": "https://www.engadget.com/2318410/why-tetris-most-re-released-retro-game-ever/",
-      "source": "Engadget",
-      "published": "2026-11-21T17:30:00+00:00",
-      "excerpt": "Surpassing any other game, this recognizable retro title has been released on virtually every gaming platform, from the earliest retro machines to smartphones.",
-      "image": "https://www.engadget.com/img/gallery/this-retro-classic-is-the-most-re-released-game-of-all-time-heres-why/l-intro-1794593530.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "62c30fc0f0a7",
-      "title": "How to set up surround sound with Apple TV 4K and HomePods",
-      "url": "https://www.engadget.com/2318408/how-to-set-up-surround-sound-apple-tv-4k-homepods/",
-      "source": "Engadget",
-      "published": "2026-11-21T17:15:00+00:00",
-      "excerpt": "Surround yourself with Apple's premium home theater experience - for a price.",
-      "image": "https://www.engadget.com/img/gallery/how-to-set-up-surround-sound-with-apple-tv-4k-and-homepods/l-intro-1794835837.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "6ccebafcdf30",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch",
-      "published": "2026-11-21T17:00:00+00:00",
-      "excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "01f1d0ee64b9",
-      "title": "Galaxy Z Fold 8 features: What you can do on a foldable",
-      "url": "https://9to5google.com/2026/11/21/galaxy-z-fold-8-features-what-you-can-do/",
-      "source": "9to5Google",
-      "published": "2026-11-21T17:00:00+00:00",
-      "excerpt": "Folding phones have come in numerous variations over the years as the concept has evolved. The Galaxy Z Fold 8 is the latest evolution that introduces a form factor that fits every user. Its unique design makes it a foldable most people...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-Fold-8-lavender-2.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "491946130f86",
-      "title": "One of Apple HomeView's best features will have you cooking like a pro",
-      "url": "https://www.engadget.com/2318404/apple-homeview-cooking-feature/",
-      "source": "Engadget",
-      "published": "2026-11-21T16:45:00+00:00",
-      "excerpt": "Apple makes cooking a blast with this new tool on its smart display.",
-      "image": "https://www.engadget.com/img/gallery/one-of-apple-homeviews-best-features-will-have-you-cooking-like-a-pro/l-intro-1794860270.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "092a202b7077",
-      "title": "36 percent of households have ditched a streaming service subscription recently: Here's why",
-      "url": "https://www.engadget.com/2318288/why-36-percent-households-ditching-streaming-subscriptions/",
-      "source": "Engadget",
-      "published": "2026-11-21T16:30:00+00:00",
-      "excerpt": "If you've cut back your streaming subscriptions recently, you're not alone.",
-      "image": "https://www.engadget.com/img/gallery/36-percent-of-households-have-ditched-a-streaming-service-subscription-recently-heres-why/l-intro-1794859040.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "dffab27fe8d5",
-      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-      "source": "TechCrunch",
-      "published": "2026-11-21T16:00:00+00:00",
-      "excerpt": "An actor has licensed his face to a microdrama startup \u2014 in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Inevitable-Key-Art_3x4-full-size.jpg?resize=899,1200",
-      "category": "Enterprise Software & SaaS"
-    },
-    {
-      "id": "a9f34b76fcc6",
-      "title": "Can Anthropic afford to put safety first?",
-      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
-      "source": "The Verge",
-      "published": "2026-11-21T15:00:00+00:00",
-      "excerpt": "Today, I\u2019m talking with Hayden Field, The Verge\u2019s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_1121_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "10ba175a48d5",
-      "title": "The Xiaomi 18 Pro proves two screens aren\u2019t better than one",
-      "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
-      "source": "The Verge",
-      "published": "2026-11-21T13:00:00+00:00",
-      "excerpt": "Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the back of a phone is...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/xiaomi-18-pro-max-11.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "0ad755f2681c",
-      "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
-      "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
-      "source": "The Hacker News",
-      "published": "2026-11-21T11:53:07+00:00",
-      "excerpt": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown. The same attack could be extended to reach the credentials...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYiVrbfn3FWfI_uNyjj8q9SZ38d2mHKu2ehdtYYKPwyg-05yKJBYUAPEaVxJq5KDGwU11X2tmEKNUKPIHQY9s67e1K9w_8NRdEOxVCDJqqMbQ6F27kfOj3GKjcQ3-0WHFNg7uYT6QeIU90qX1YW_Zvyn7WhZwpV41i5Pj6watQsF7Ti8NN1GIQLxw-jPc/s1600/muse-ai.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "761885e6c02d",
-      "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
-      "url": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
-      "source": "The Hacker News",
-      "published": "2026-11-21T11:05:53+00:00",
-      "excerpt": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG. The GnuPG project warned yesterday that the flaw could be used to steal data from...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTmX4ayWzvM0EzPttZ610B2837FppeU5AEmQmztLH2lai78EDQtjrp4wVI_bubSe2c2NGBE5sqBT9Py1mKkHQKN2faBkOzU70d7FntrpYD7Et2eeBxLNy2gzByAo1i8Aaw_VMBZD62RnBMY2md3iNfegK9M_NR5qTRDBw8s0uwKy1w7JoTV0zkDS_17Lse/s1600/pgp.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "16765aea3bd9",
-      "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
-      "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
-      "source": "The Hacker News",
-      "published": "2026-11-21T11:03:17+00:00",
-      "excerpt": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week. The...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEIG6Wgi3wGQXrsdGKEf4ORPFjHVGpRkoSUPraOJfKhGmB0vYFojLq2mCuOP3a71_XpNZusvn45ZDa1J3a7eQ0WE3XJY0FGunHVWB1yHBluJT5vSDCmzkhaFGiHjeKbnoah6noyZ3mNInS-mjJK1Gfcf7jT3A60ZYR_eknSgt_sEa6MNGM-DA5-aLXMbZ5/s1600/medical-ai.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "9da47b8efcbb",
-      "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
-      "url": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
-      "source": "The Hacker News",
-      "published": "2026-11-21T08:49:20+00:00",
-      "excerpt": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is \"incomplete.\" The feature applies to...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1cVX1DZUDMTkSc3kGcO8KsGd-MIBr6py39SuaRxG1wCxVVfKIQhiQaywRpjn95FQV4tMy0dWyNc49745cwqBBLpGzVK_eut-DGLBaidiiYCdIH65bXGtopuPJ7dofJzAJVJ6cWrKp2JJb5gNrODQuWtK7vZZp824ecrz4_DHWWJIaC5wS6aYfsMsKshg4/s1600/signal.jpg",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "a3eac34b29cf",
-      "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
-      "source": "The Hacker News",
-      "published": "2026-11-21T08:49:13+00:00",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KEV), citing evidence...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFnWnBDigw8RogBTSInXktn1vUISbzwjHm5GuAFBNX0_ClLBk83WOa2BYiHUbgtva76TY8Oz2kJvEZtvEjqZlFFCuvQ-u-l-4l5dzo2MXw7zHLEuklv_Gn1mB-f5TL9GP_3n1NxQkzkZ-fAX7UpcqfZqUefQiRQZm21sq6IZOzmyuQ1hYs4AFHWQAj83WX/s1600/vmware-cisco.jpg",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "e42ac64463d6",
-      "title": "Startup sues Apple in India over tap-to-share contacts feature",
-      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
-      "source": "TechCrunch",
-      "published": "2026-11-21T04:00:00+00:00",
-      "excerpt": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/apple-namedrop.jpg?resize=1200,800",
-      "category": "Enterprise Software & SaaS"
-    },
-    {
-      "id": "137da8af1bc1",
-      "title": "Samsung might copy the iPhone\u2019s Dynamic Island soon, but it actually looks good [Video]",
-      "url": "https://9to5google.com/2026/11/20/samsung-iphone-dynamic-island-feature-leak/",
-      "source": "9to5Google",
-      "published": "2026-11-21T02:45:00+00:00",
-      "excerpt": "A new leak suggests that Samsung is preparing to copy the iPhone\u2019s Dynamic Island feature in the not-too-distant future, to an extent that not many other Android brands have even done thus far. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-ultra-privacy-display-20.jpg?quality=82&strip=all&w=1600",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "c650a279906e",
-      "title": "YouTube could pay $3 billion to settle social media addiction lawsuits with school districts",
-      "url": "https://www.engadget.com/2323927/youtube-could-pay-3-billion-to-settle-social-media-addiction-lawsuits-with-school-districts/",
-      "source": "Engadget",
-      "published": "2026-11-20T23:40:10+00:00",
-      "excerpt": "YouTube is facing a growing number of lawsuits alleging that its platform is designed to be addictive and that it has harmed teens.",
-      "image": "https://www.engadget.com/img/gallery/youtube-could-pay-3-billion-to-settle-social-media-addiction-lawsuits-with-school-districts/l-intro-1795217872.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "b08ecee62206",
-      "title": "The Internet Archive's workers are unionizing",
-      "url": "https://www.engadget.com/2323828/the-internet-archives-workers-are-unionizing/",
-      "source": "Engadget",
-      "published": "2026-11-20T22:15:03+00:00",
-      "excerpt": "None of their asks are radical: better pay, additional benefits that apply to everyone and paths for career development and promotion.",
-      "image": "https://www.engadget.com/img/gallery/the-internet-archives-workers-are-unionizing/l-intro-1795212757.jpg",
       "category": "Software Development"
     }
   ]
