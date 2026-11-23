@@ -1,6 +1,166 @@
 {
-  "updated": "2026-11-22T19:38:21+00:00",
+  "updated": "2026-11-23T01:42:14+00:00",
   "items": [
+    {
+      "id": "26e7fa147589",
+      "title": "Here's how much Starlink cost in 2020 vs. 2026",
+      "url": "https://www.engadget.com/2319572/how-much-starlink-cost-2020-vs-2026/",
+      "source": "Engadget",
+      "published": "2026-11-23T01:30:00+00:00",
+      "excerpt": "Throw in discounts and fluctuating rates, and two customers could end up paying vastly different bills for the same Starlink satellite service.",
+      "image": "https://www.engadget.com/img/gallery/heres-how-much-starlink-cost-in-2020-vs-2026/l-intro-1794842346.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "914bb147d0bf",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "source": "TechCrunch",
+      "published": "2026-11-23T01:25:53+00:00",
+      "excerpt": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "6fa77bac4f35",
+      "title": "How to clear your cache on Google TV",
+      "url": "https://www.engadget.com/2319567/how-to-clear-cache-google-tv/",
+      "source": "Engadget",
+      "published": "2026-11-23T01:00:00+00:00",
+      "excerpt": "Clearing your Google TV's cache isn't a one-size-fits-all solution, but it's a useful first step if you're having performance issues or glitches.",
+      "image": "https://www.engadget.com/img/gallery/how-to-clear-your-cache-on-google-tv/l-intro-1794808574.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "4ea94eacdf19",
+      "title": "This free 'Swiss Army Knife' for macOS can replace your utility apps",
+      "url": "https://www.engadget.com/2319565/vorssaint-free-swiss-army-knife-macos-replace-utility-apps/",
+      "source": "Engadget",
+      "published": "2026-11-23T00:45:00+00:00",
+      "excerpt": "Vorssaint is a powerful, modular utility suite, provided permissions are carefully managed.",
+      "image": "https://www.engadget.com/img/gallery/this-free-swiss-army-knife-for-macos-can-replace-your-utility-apps/l-intro-1794595062.jpg",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "a820ad89d0c3",
+      "title": "Should you go with a headphone DAC/amp combo or a stack?",
+      "url": "https://www.engadget.com/2311788/headphone-dac-amp-combo-vs-stack/",
+      "source": "Engadget",
+      "published": "2026-11-23T00:30:00+00:00",
+      "excerpt": "If your computer's headphone jack isn't cutting it anymore, it's time to get a DAC and headphone amp. But do you go for a combo DAC/amp or a stack?",
+      "image": "https://www.engadget.com/img/gallery/should-you-go-with-a-headphone-dacamp-combo-or-a-stack/l-intro-1794285377.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "de091856560a",
+      "title": "8 Windows apps you should probably remove from your PC",
+      "url": "https://www.engadget.com/2317781/windows-apps-remove-from-pc/",
+      "source": "Engadget",
+      "published": "2026-11-23T00:15:00+00:00",
+      "excerpt": "From pre-installed junk to popular apps that have better alternatives, these are the apps you should clean off your PC if they're present.",
+      "image": "https://www.engadget.com/img/gallery/8-windows-apps-you-should-probably-remove-from-your-pc/l-intro-1794237490.jpg",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "b3566ec03b14",
+      "title": "Public vs. private IP addresses: what's the difference?",
+      "url": "https://www.engadget.com/2310692/public-vs-private-ip-addresses-differences/",
+      "source": "Engadget",
+      "published": "2026-11-23T00:00:00+00:00",
+      "excerpt": "One identifies your network, the other identifies the devices using your network.",
+      "image": "https://www.engadget.com/img/gallery/public-vs-private-ip-addresses-whats-the-difference/l-intro-1794236251.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "108f535ee4f2",
+      "title": "What is the best way to secure your PlayStation 5 for a flight?",
+      "url": "https://www.engadget.com/2319558/best-way-secure-playstation-5-for-flight-travel/",
+      "source": "Engadget",
+      "published": "2026-11-22T23:45:00+00:00",
+      "excerpt": "You don't have to leave your precious PS5 behind when flying, but you will need to take some precautions or opt for a long-distance streaming relationship.",
+      "image": "https://www.engadget.com/img/gallery/what-is-the-best-way-to-secure-your-playstation-5-for-a-flight/l-intro-1794602643.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "1ff4e6436c30",
+      "title": "How to use AI glasses as a teleprompter",
+      "url": "https://www.engadget.com/2319553/how-to-use-ai-glasses-as-teleprompter/",
+      "source": "Engadget",
+      "published": "2026-11-22T23:30:00+00:00",
+      "excerpt": "If you have the right type of smart glasses, this is an easy feature to enable.",
+      "image": "https://www.engadget.com/img/gallery/how-to-use-ai-glasses-as-a-teleprompter/l-intro-1794839468.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "e7090200216e",
+      "title": "We haven\u2019t seen the last of the major tech outages",
+      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "source": "The Verge",
+      "published": "2026-11-22T22:48:02+00:00",
+      "excerpt": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "Software Development"
+    },
+    {
+      "id": "4b4182fe6234",
+      "title": "Can you safely use a 140w charger on an iPhone?",
+      "url": "https://www.engadget.com/2319546/can-iphone-safely-use-140w-charger/",
+      "source": "Engadget",
+      "published": "2026-11-22T22:30:00+00:00",
+      "excerpt": "A 140-watt charger is far more juice than your iPhone needs, but does that really matter? Yes and no -- we can explain.",
+      "image": "https://www.engadget.com/img/gallery/can-you-safely-use-a-140w-charger-on-an-iphone/l-intro-1794496692.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "366524bc4a5a",
+      "title": "This free app connects your Android phone to your Windows PC wirelessly",
+      "url": "https://www.engadget.com/2319544/free-app-connects-android-phone-windows-pc-wirelessly-plainapp/",
+      "source": "Engadget",
+      "published": "2026-11-22T22:15:00+00:00",
+      "excerpt": "Connecting your Android phone to your Windows PC wirelessly doesn't have to cost money or require a multi-step setup, as this free app proves.",
+      "image": "https://www.engadget.com/img/gallery/this-free-app-connects-your-android-phone-to-your-windows-pc-wirelessly/l-intro-1794633420.jpg",
+      "category": "Operating Systems"
+    },
+    {
+      "id": "705357ebd5c7",
+      "title": "How to safely clean your PC's GPU to avoid damaging it in the process",
+      "url": "https://www.engadget.com/2319541/safely-clean-pc-gpu-avoid-damage/",
+      "source": "Engadget",
+      "published": "2026-11-22T22:00:00+00:00",
+      "excerpt": "Removing and cleaning a GPU can be intimidating, but it's actually pretty simple.",
+      "image": "https://www.engadget.com/img/gallery/how-to-safely-clean-your-pcs-gpu-to-avoid-damaging-it-in-the-process/l-intro-1794604743.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "05744626c0d6",
+      "title": "OpenAI\u2019s chief scientist has thoughts on how to limit AI development",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "source": "TechCrunch",
+      "published": "2026-11-22T21:14:07+00:00",
+      "excerpt": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "037ed3bf68cd",
+      "title": "Pixel Weather rolls out \u2018Report current weather\u2019 to \u2018improve local forecasts\u2019",
+      "url": "https://9to5google.com/2026/11/22/pixel-weather-report/",
+      "source": "9to5Google",
+      "published": "2026-11-22T21:12:41+00:00",
+      "excerpt": "Google this weekend rolled out the latest update to Pixel Weather with a new reporting feature and small interface tweaks. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-11-Pro-Weather-App.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "e35952c5afa0",
+      "title": "The best apps to make new friends right now",
+      "url": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+      "source": "TechCrunch",
+      "published": "2026-11-22T21:00:00+00:00",
+      "excerpt": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-596631439.jpg?resize=1200,800",
+      "category": "Software Development"
+    },
     {
       "id": "b1fb8ef63b11",
       "title": "5 Apple Watch settings that can help you save its battery life",
@@ -239,166 +399,6 @@
       "published": "2026-11-22T01:00:00+00:00",
       "excerpt": "It's not simple to say that one is better than the other.",
       "image": "https://www.engadget.com/img/gallery/samsung-vs-lg-oled-tvs-whats-the-difference-between-them/l-intro-1794240636.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "babfa0d766dd",
-      "title": "This is what can happen if too many devices are sharing your home network",
-      "url": "https://www.engadget.com/2319295/what-can-happen-too-many-devices-on-home-network/",
-      "source": "Engadget",
-      "published": "2026-11-22T00:45:00+00:00",
-      "excerpt": "If you play your numbers right, you may be able to avoid internet connectivity issues at home without shelling out more money.",
-      "image": "https://www.engadget.com/img/gallery/this-is-what-can-happen-if-too-many-devices-are-sharing-your-home-network/l-intro-1794517083.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "eb8e00db0d48",
-      "title": "Your PC's USB port can charge your phone, even when it's turned off \u2014 Here's how",
-      "url": "https://www.engadget.com/2319291/how-to-enable-usb-port-charging-pc-off/",
-      "source": "Engadget",
-      "published": "2026-11-22T00:30:00+00:00",
-      "excerpt": "Yes, a powered-off PC can still charge your phone, but only if the right feature is on. Here's what to check before you shut down and walk away.",
-      "image": "https://www.engadget.com/img/gallery/your-pcs-usb-port-can-charge-your-phone-even-when-its-turned-off-heres-how/l-intro-1794604560.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "f4bec81cce80",
-      "title": "10 things you should never do on your Android phone",
-      "url": "https://www.engadget.com/2317775/never-do-these-things-on-android-phone/",
-      "source": "Engadget",
-      "published": "2026-11-22T00:15:00+00:00",
-      "excerpt": "Every Android user should know what to avoid so they don't make mistakes that shorten their phone's useful life.",
-      "image": "https://www.engadget.com/img/gallery/10-things-you-should-never-do-on-your-android-phone/l-intro-1793984732.jpg",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "bd5eddf9e38f",
-      "title": "Building your own mini PC is harder than you would think",
-      "url": "https://www.engadget.com/2319272/build-mini-pc-cost-harder-than-expected/",
-      "source": "Engadget",
-      "published": "2026-11-21T23:30:00+00:00",
-      "excerpt": "Mini PCs are appealing for their small footprint, but there are some things you should consider before you commit to building your own.",
-      "image": "https://www.engadget.com/img/gallery/building-your-own-mini-pc-is-harder-than-you-would-think/l-intro-1794933308.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "0fed0cb3f33a",
-      "title": "Six products and services Google discontinued in 2026",
-      "url": "https://www.engadget.com/2319181/google-products-services-discontinued-2026/",
-      "source": "Engadget",
-      "published": "2026-11-21T23:00:00+00:00",
-      "excerpt": "Here's a rundown of some Google tools that ended up in the graveyard this year.",
-      "image": "https://www.engadget.com/img/gallery/six-products-and-services-google-discontinued-in-2026/l-intro-1794930715.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "a8ed267d91c7",
-      "title": "Why does your phone say no service even with a SIM card?",
-      "url": "https://www.engadget.com/2319140/phone-says-no-service-with-sim-card/",
-      "source": "Engadget",
-      "published": "2026-11-21T22:30:00+00:00",
-      "excerpt": "Your SIM card controls your phone's connection to your carrier, and if it's not working, standard texts and calls won't go through.",
-      "image": "https://www.engadget.com/img/gallery/why-does-your-phone-say-no-service-even-with-a-sim-card/l-intro-1794929692.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "9292b9222ed4",
-      "title": "iPad Air vs. iPad Pro: The features you're actually paying $450 extra for",
-      "url": "https://www.engadget.com/2319122/ipad-air-vs-pro-features-compared-price-difference/",
-      "source": "Engadget",
-      "published": "2026-11-21T22:15:00+00:00",
-      "excerpt": "The iPad Air and iPad Pro are both great options if you plan to use a tablet for work or creativity, but you shouldn't pay for what you won't use.",
-      "image": "https://www.engadget.com/img/gallery/ipad-air-vs-ipad-pro-the-features-youre-actually-paying-450-extra-for/l-intro-1794929523.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "8ab24dbf8305",
-      "title": "This built-in windows tool can tell if your DirectX has a problem",
-      "url": "https://www.engadget.com/2319109/built-in-windows-tool-find-problem-directx-diagnostic/",
-      "source": "Engadget",
-      "published": "2026-11-21T22:00:00+00:00",
-      "excerpt": "DxDiag is a handy and free resource for troubleshooting DirectX.",
-      "image": "https://www.engadget.com/img/gallery/this-built-in-windows-tool-can-tell-if-your-directx-has-a-problem/l-intro-1794929192.jpg",
-      "category": "Operating Systems"
-    },
-    {
-      "id": "1b1f2bee0387",
-      "title": "Amazon is complaining about NYC Council on shipping labels, too",
-      "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
-      "source": "The Verge",
-      "published": "2026-11-21T21:59:31+00:00",
-      "excerpt": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/PXL_20261121_204528314.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Software Development"
-    },
-    {
-      "id": "f3487ac9886e",
-      "title": "Signal restricts mobile screenshots as it confronts \u2018existential threat\u2019 of AI surveillance",
-      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-      "source": "TechCrunch",
-      "published": "2026-11-21T21:37:10+00:00",
-      "excerpt": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/signal-app-icon-phone.jpg?resize=1200,800",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "a1abc1ba2744",
-      "title": "A tale of two Nvidias",
-      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-      "source": "TechCrunch",
-      "published": "2026-11-21T21:07:42+00:00",
-      "excerpt": "We got two very different pictures of Nvidia \u2014 the company\u2019s latest earnings report vs. the tech executives loudly calling for Jensen Huang\u2019s return.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "c598f7340e40",
-      "title": "Gemini app rolls out very slick camera redesign on Android",
-      "url": "https://9to5google.com/2026/11/21/gemini-camera-redesign/",
-      "source": "9to5Google",
-      "published": "2026-11-21T20:52:52+00:00",
-      "excerpt": "Google has thoroughly redesigned Gemini for Android\u2019s in-app camera that lets you quickly add an image to prompts. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-4.jpg?quality=82&strip=all&w=1600",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "5b600a4db67b",
-      "title": "How to use a solar panel to charge your phone",
-      "url": "https://www.engadget.com/2318512/how-to-use-solar-panel-charge-phone/",
-      "source": "Engadget",
-      "published": "2026-11-21T18:30:00+00:00",
-      "excerpt": "Can sunlight really charge your phone? Learn how portable solar chargers work and which features to look for before your next camping trip or blackout.",
-      "image": "https://www.engadget.com/img/gallery/how-to-use-a-solar-panel-to-charge-your-phone/l-intro-1794864126.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "c57b4d43c86c",
-      "title": "Tesla's assisted driving system gets the green light for rollout in Italy",
-      "url": "https://www.engadget.com/2324122/teslas-assisted-driving-system-gets-the-green-light-for-rollout-in-italy/",
-      "source": "Engadget",
-      "published": "2026-11-21T18:29:20+00:00",
-      "excerpt": "Tesla's self-driving tech is awaiting another major vote from the European Union before the end of the year.",
-      "image": "https://www.engadget.com/img/gallery/teslas-assisted-driving-system-gets-the-green-light-for-rollout-in-italy/l-intro-1795285455.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "c8a321bd7954",
-      "title": "How much can you get for your old, discontinued Apple Watch?",
-      "url": "https://www.engadget.com/2318441/how-much-old-discontinued-apple-watch-trade-in-program/",
-      "source": "Engadget",
-      "published": "2026-11-21T18:15:00+00:00",
-      "excerpt": "Your old Apple Watch can fetch some money toward your next one instead of sitting on your desk doing nothing.",
-      "image": "https://www.engadget.com/img/gallery/how-much-can-you-get-for-your-old-discontinued-apple-watch/l-intro-1794862222.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "d4c926b47d06",
-      "title": "Setting up an Apple HomeView is ridiculously easy thanks to your iPhone",
-      "url": "https://www.engadget.com/2318610/easy-apple-homeview-setup-with-iphone/",
-      "source": "Engadget",
-      "published": "2026-11-21T18:00:00+00:00",
-      "excerpt": "Here's how to set up an Apple HomeView and how to add other users.",
-      "image": "https://www.engadget.com/img/gallery/setting-up-an-apple-homeview-is-ridiculously-easy-thanks-to-your-iphone/l-intro-1794833959.jpg",
       "category": "Software Development"
     }
   ]
