@@ -1,6 +1,176 @@
 {
-  "updated": "2026-11-24T02:12:34+00:00",
+  "updated": "2026-11-24T13:41:15+00:00",
   "items": [
+    {
+      "id": "9b1c6d7c2e84",
+      "title": "Huang reportedly admitted to more than two affairs to Nvidia\u2019s board",
+      "url": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/",
+      "source": "TechCrunch",
+      "published": "2026-11-24T13:29:53+00:00",
+      "excerpt": "During a meeting before his reinstatement, Huang admitted to more affairs beyond the two that have been reported in the news, according to The Wall Street Journal.",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/03/GTC-2024-Jensen-Huang-TechCrunch-Haje-Kamps.jpg?resize=1200,675",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "c9f623761325",
+      "title": "The Moto G Stylus (2025) at $200 is great only if a pen is a must",
+      "url": "https://9to5google.com/2026/11/24/the-moto-g-stylus-2025-at-200-is-great-only-if-a-pen-is-a-must/",
+      "source": "9to5Google",
+      "published": "2026-11-24T13:19:09+00:00",
+      "excerpt": "Okay, so here\u2019s the deal (literally): last year\u2019s Moto G Stylus (2025) is on sale right now on Amazon for just $199, and if you desperately need a digital writing tool with your phone, it\u2019s a good buy. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/04/Moto-G-Stylus-1.jpg?quality=82&strip=all&w=1400",
+      "category": "Software Development"
+    },
+    {
+      "id": "73463af8fa13",
+      "title": "Why your smart TV keeps losing its Wi-Fi connection",
+      "url": "https://www.engadget.com/2320276/smart-tv-wifi-disconnecting-5ghz-fixes/",
+      "source": "Engadget",
+      "published": "2026-11-24T13:15:00+00:00",
+      "excerpt": "Is your smart TV constantly dropping its Wi-Fi connection? Learn how to troubleshoot your router, clear network settings and stop buffering for good.",
+      "image": "https://www.engadget.com/img/gallery/why-your-smart-tv-keeps-losing-its-wi-fi-connection/l-intro-1794912555.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "6085ef54790f",
+      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+      "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+      "source": "The Hacker News",
+      "published": "2026-11-24T12:42:09+00:00",
+      "excerpt": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers who hijacked...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYUhfLA6wixTr6AiVmOSa8uxO2mHxPqG7rHalDaUtYlOaTwUSIzi3JAP78cfEUhwwaoijNe8vJ0ZFiBqDmfrG9LVOzItxMxCYcTCbEc4f7W8iWgKSvzR6DrT0XtK_cM4eTKQ2Edvz-QG5P8iXF_GV_-k6CXMN_-D_QAJags-LpeuXmJ5C6DDz7mDRSBMY/s1600/git-actions.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "fb7a1ad02384",
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "source": "Ars Technica",
+      "published": "2026-11-24T12:30:05+00:00",
+      "excerpt": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cairn-banner.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "4049ec79b67f",
+      "title": "GTA 6 is the biggest PlayStation launch of all time",
+      "url": "https://www.engadget.com/2326351/grand-theft-auto-6-is-the-biggest-playstation-launch-of-all-time/",
+      "source": "Engadget",
+      "published": "2026-11-24T12:09:54+00:00",
+      "excerpt": "Sony says GTA 6 is the biggest launch in PlayStation history, across five generations of consoles.",
+      "image": "https://www.engadget.com/img/gallery/grand-theft-auto-6-is-the-biggest-playstation-launch-yet/l-intro-1795522019.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "bb2efaa9d0e6",
+      "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
+      "url": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
+      "source": "The Hacker News",
+      "published": "2026-11-24T12:02:00+00:00",
+      "excerpt": "A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero researcher James Forshaw showed in a write-up published...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiOJqhOn7t8wd3NeMCWVCg9xmusuRJmZuaePaCbKTif2XsPpPhu0fR1NwQncA4y-wAMmLOzylBZ3ebd9f4G8F6K54sUdnZ2cTn6yPq1RgAKrh4lSX3y1Ll8LIywXkDyVXItUuUGS4sy0BVUMhwXPvOZGdxhvwnd55_OvjOVnh2CfnAeURMVcmafuFgJlQ/s1600/windows.net.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "bb2aa84be511",
+      "title": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk",
+      "url": "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html",
+      "source": "The Hacker News",
+      "published": "2026-11-24T12:01:54+00:00",
+      "excerpt": "What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose? According to ANY.RUN's estimates, SOC teams could recover 450 analyst hours per 1,000 investigated alerts through faster threat analysis...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifgNbpx-KISiy12Rp8KNb5ElWQADJtyC7fLFuLFCc7WzbOjCP5CmU2dPyuwhq5kRSQP5lOuwwFhvZovILCzeMgaSes8APbVabNVpJB71EC56WrojqqLU-tjIr2MFDPK8fMHnu-dx35G-p6btlQb1xU16c8IPrY4cs0k8t1pufSHgp74Y5HtqiAVk4A1QI/s1600/2027.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "f3d486780977",
+      "title": "Nvidia proves it\u2019s too big to fail",
+      "url": "https://9to5google.com/2026/11/24/nvidia-proves-its-too-big-to-fail/",
+      "source": "9to5Google",
+      "published": "2026-11-24T12:00:00+00:00",
+      "excerpt": "Good morning. Today I\u2019m deciding whether the final Avengers: Doomsday trailer passes the \u201cpeople just standing around\u201d test, trying the new Material 3 Expressive Claude app on my Android devices, and stocking up on discounted XTEINK...",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/53552985083_02d1bfc49e_o.jpg?quality=82&strip=all&w=1510",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "f89888598506",
+      "title": "Nothing confirms \u2018aggressive\u2019 smartphone release schedule for 2027 with US focus",
+      "url": "https://9to5google.com/2026/11/24/nothing-smartphones-focus-2027/",
+      "source": "9to5Google",
+      "published": "2026-11-24T12:00:00+00:00",
+      "excerpt": "Alongside a teaser for the new Ear (note) recorder, Nothing CEO Carl Pei has confirmed the company\u2019s plans for a big 2027 in terms of smartphone releases, as well as a focus on the US market. more\u2026",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/nothing-phone-4a-pro-31.jpg?quality=82&strip=all&w=1600",
+      "category": "Software Development"
+    },
+    {
+      "id": "9436fc5b47f7",
+      "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
+      "url": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
+      "source": "The Hacker News",
+      "published": "2026-11-24T10:44:49+00:00",
+      "excerpt": "Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy companies Equinor...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSM2FAnf9UEb3Do4v-r8AEBpoI8byXOrHgng-eRjEyudSf0hiKMpymmDiK_NLTxYuzXdtrWvMrBzY9qmLqDo31r3JOpVefOQxLE77gdkoOAYMkCK__-Bc-AJoWg-8nEOEVjcY6SswkzLbCfYl6kK9clg6xXw3xginWqIwnMxBUaS6wgPKVVwXZNhZA5G85/s1600/azure-ms.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "3472e2b28b82",
+      "title": "OpenAI employee who secretly recorded meetings allegedly affiliated with the Saudi government",
+      "url": "https://www.engadget.com/2326288/openai-employee-recorded-meetings-allegedly-affiliated-saudi-government/",
+      "source": "Engadget",
+      "published": "2026-11-24T09:24:09+00:00",
+      "excerpt": "The OpenAI employee who was charged for implanting a recording device uploaded files to Dropbox and took photos of confidential files, prosecutors say.",
+      "image": "https://www.engadget.com/img/gallery/openai-employee-who-secretly-recorded-meetings-allegedly-affiliated-with-the-saudi-government/l-intro-1795509730.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "b7429e845b4b",
+      "title": "Honor teams up with cinema camera-maker Arri on the Magic 9 Pro Max",
+      "url": "https://www.engadget.com/2325316/honor-teams-up-with-cinema-camera-maker-arri-on-the-magic-9-pro-max/",
+      "source": "Engadget",
+      "published": "2026-11-24T09:00:00+00:00",
+      "excerpt": "Honor's Magic 9 Pro Max looks familiar, doesn't it?",
+      "image": "https://www.engadget.com/img/gallery/honor-teams-up-with-cinema-camera-maker-arri-on-the-magic-9-pro-max/l-intro-1795454552.jpg",
+      "category": "Software Development"
+    },
+    {
+      "id": "06ddd1a68807",
+      "title": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login",
+      "url": "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html",
+      "source": "The Hacker News",
+      "published": "2026-11-24T08:34:20+00:00",
+      "excerpt": "A flaw in WHMCS's shopping cart, the billing and automation platform many web hosting companies use to run their businesses, could allow anyone on the internet to retrieve customer records and administrator password hashes from an...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK7wXAof6nH7PDC5-3qxXZJgJvZODTjQcrWFOjO8jeb9yGkK6bUkzm27MzMy5n0S_Xywsj0npu_F0FmQ4JcKxPXNEoezLrpKoSStaYK4Ww46QUuzySTeQnnzcIXs_NADunlqeyuMIl5Wm5PKWc3c0JyNmYPxfbInIWx2tfosieI_QS_e4PX-JILlLH-1U/s1600/hosting.jpg",
+      "category": "Data & Analytics"
+    },
+    {
+      "id": "a0a25e5ec068",
+      "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
+      "url": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
+      "source": "The Hacker News",
+      "published": "2026-11-24T06:02:57+00:00",
+      "excerpt": "OpenAI and Cisco have teamed up to launch Shirudo (meaning \"shield\" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime. \"It lets agents write dynamic eBPF controls...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKBknwzOcmsT5P3Gnyn8-WGRNbttWLAtmWlHkVuS900lrH1Q7Wj_kBCJiASbBvhNUKWEsO8Xt5VKKokGA-M17y8Pj4EtH6564yafSWGebOVgMuTwxUUB5fV4oProNTbg8MeEhcaiy95WbMi6og3q0uSM4SxLCyzVwV3FbCfiSXrVoJtQUrYpJfyeW1AUFm/s1600/openai-linux.jpg",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "14a00d8221c4",
+      "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html",
+      "source": "The Hacker News",
+      "published": "2026-11-24T06:02:45+00:00",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrPCPwSotVSX8IYSgpSrVceRAIYqba8YSZSlNwD5RjetEhPG6vLRhk_NKkatjg1h-fulZJDm4CucsLvQrEtCO6v0NtuJGo3nZD3mXSHyKpgPrUZMpq7YNpheStYC_AqyMWRfWIFiK9bcHJNAw6pwK9JqirhO8JESKdmsI5Pl8UgtsVsRivmMmMenQ01ClW/s1600/cisa-kev.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "0ca7f6f9cab2",
+      "title": "Apple confirms Ted Lasso will return for Season 5",
+      "url": "https://www.engadget.com/2326238/apple-confirms-ted-lasso-will-return-for-season-5/",
+      "source": "Engadget",
+      "published": "2026-11-24T06:00:08+00:00",
+      "excerpt": "Ted Lasso, which everyone thought was ending with Season 3, has just been renewed for a fifth season.",
+      "image": "https://www.engadget.com/img/gallery/apple-confirms-ted-lasso-will-return-for-season-5/l-intro-1795499954.jpg",
+      "category": "Software Development"
+    },
     {
       "id": "c490d24205ad",
       "title": "The three DISM commands you should know to fix your Windows system images",
@@ -229,176 +399,6 @@
       "published": "2026-11-23T20:38:53+00:00",
       "excerpt": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
       "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "704fe507597a",
-      "title": "The $297 Meta Quest 3S deal is finally back in stock",
-      "url": "https://9to5google.com/2026/11/23/meta-quest-3s-black-friday-week-2026-deal/",
-      "source": "9to5Google",
-      "published": "2026-11-23T20:27:51+00:00",
-      "excerpt": "Black Friday week is already giving us lots of surprises, and the previously sold-out Meta Quest 3S deal is now back in stock. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/meta-quest-3s-thanksgiving.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "52b5edf26335",
-      "title": "Nothing Ear (note) is yet another AI recorder, but with earbuds inside",
-      "url": "https://9to5google.com/2026/11/23/nothing-ear-note-ai-recorder-teaser/",
-      "source": "9to5Google",
-      "published": "2026-11-23T20:25:00+00:00",
-      "excerpt": "Set to launch on December 8, Nothing has confirmed its mysterious AI product will be called \u201cEar (note),\u201d and it\u2019s an AI recorder with earbuds inside. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/nothing-ear-note-1.webp?w=1600",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "64e0986c9358",
-      "title": "Anthropic softens its data retention policy for Mythos and Fable model use",
-      "url": "https://www.engadget.com/2325684/anthropic-softens-its-data-retention-policy-for-mythos-and-fable-model-use/",
-      "source": "Engadget",
-      "published": "2026-11-23T20:02:30+00:00",
-      "excerpt": "Enterprise customers can now keep prompts and responses on their own servers.",
-      "image": "https://www.engadget.com/img/gallery/anthropic-softens-its-data-retention-policy-for-mythos-and-fable-model-use/l-intro-1795464099.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "49ef9cf5084c",
-      "title": "Claude AI can review pull requests and ship fixes on its own now",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-      "source": "The Verge",
-      "published": "2026-11-23T20:00:00+00:00",
-      "excerpt": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "d6eea9d57256",
-      "title": "Claude can ship code for you now \u2013 how to try it (if you dare)",
-      "url": "https://www.zdnet.com/innovation/claude-ship-code-how-to-try/",
-      "source": "ZDNET",
-      "published": "2026-11-23T20:00:00+00:00",
-      "excerpt": "Would you let a few Claude agents review and ship your code for you?",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2271847888.jpg",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "cb123f04812d",
-      "title": "Jensen Huang says he\u2019ll be a \u2018better CEO\u2019 as staff applauds his return",
-      "url": "https://www.theverge.com/tech/1040487/nvidia-ceo-jensen-huang-staff-applauds-return",
-      "source": "The Verge",
-      "published": "2026-11-23T19:58:27+00:00",
-      "excerpt": "Jensen Huang returned to Nvidia's office as CEO today to a crowd of applauding employees who stood and filmed the cofounder's first moments back. \"Thank you all for the second chances. I'm gonna be a better CEO the second time around,\"...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-23-at-3.06.15-PM.png?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "47b1648bdb93",
-      "title": "How Jensen Huang ended up as Nvidia CEO again",
-      "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
-      "source": "The Verge",
-      "published": "2026-11-23T19:57:18+00:00",
-      "excerpt": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny...",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_04.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "e39d10a9d8f7",
-      "title": "TCL\u2019s Picture Frame TVs with Google TV are up to $800 off this week",
-      "url": "https://9to5google.com/2026/11/23/tcls-picture-frame-tvs-with-google-tv-are-up-to-800-off-this-week/",
-      "source": "9to5Google",
-      "published": "2026-11-23T19:55:00+00:00",
-      "excerpt": "Get a gorgeous new TCL Designer Series Picture Frame TV with Google TV built-in for as low as $649.99 during the company\u2019s Black Friday week sales. more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/tcl-designer-series-frame-tv-living-room-official.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "4dc41e235c19",
-      "title": "Samsung\u2019s Galaxy Watch 9 includes a free $50 Amazon gift card ahead of Black Friday",
-      "url": "https://9to5google.com/2026/11/23/grab-samsungs-galaxy-watch-9-ahead-of-black-friday-and-score-a-free-50-amazon-gift-card/",
-      "source": "9to5Google",
-      "published": "2026-11-23T19:53:00+00:00",
-      "excerpt": "Smartwatches can practically feel like a must-have these days, especially for tracking your health and fitness while on the move. Just as with most gadgets, though, prices just keep rising thanks to the ongoing RAM crunch. This Black...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Galaxy-Watch-9-close-up-1.jpg?quality=82&strip=all&w=1600",
-      "category": "Software Development"
-    },
-    {
-      "id": "51783ea87ef6",
-      "title": "The VR Forever Gaming Awards return in December with tons of demos and discounts",
-      "url": "https://9to5google.com/2026/11/23/the-vr-forever-gaming-awards-return-in-december-with-tons-of-demos-and-discounts/",
-      "source": "9to5Google",
-      "published": "2026-11-23T19:49:50+00:00",
-      "excerpt": "The industry\u2019s biggest players are joining together to celebrate all the amazing VR games you probably don\u2019t know about (but should). more\u2026",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/vrforever_banner_artwork_2.jpg?quality=82&strip=all&w=1244",
-      "category": "Software Development"
-    },
-    {
-      "id": "6e8621ff4e78",
-      "title": "The infamous GTA 6 hacker has been released after pleading guilty",
-      "url": "https://www.engadget.com/2325643/the-infamous-gta-6-hacker-has-been-released-after-pleading-guilty/",
-      "source": "Engadget",
-      "published": "2026-11-23T19:42:43+00:00",
-      "excerpt": "A judge warned the hacker not to \"let this happen again.\"",
-      "image": "https://www.engadget.com/img/gallery/the-infamous-gta-6-hacker-has-been-released-after-pleading-guilty/l-intro-1795462891.jpg",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "bff25a2c43c4",
-      "title": "\u2018Outrageous,\u2019 \u2018reckless,\u2019 \u2018wow\u2019: Here\u2019s what politicians are saying about Jensen Huang\u2019s return to Nvidia",
-      "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
-      "source": "TechCrunch",
-      "published": "2026-11-23T19:31:41+00:00",
-      "excerpt": "Politicians on both sides of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "588f7b0a1e0d",
-      "title": "Google Search\u2019s AI Mode can now tap into Drive and Wallet for more personalized responses",
-      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-      "source": "TechCrunch",
-      "published": "2026-11-23T19:14:46+00:00",
-      "excerpt": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "e63c50b367bc",
-      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
-      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-      "source": "TechCrunch",
-      "published": "2026-11-23T18:12:22+00:00",
-      "excerpt": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
-      "category": "Artificial Intelligence"
-    },
-    {
-      "id": "d3a45cdfb391",
-      "title": "How to save your Google Nest app videos before the January shutdown",
-      "url": "https://www.zdnet.com/home-and-office/how-to-save-your-google-nest-app-videos-switch-to-google-home/",
-      "source": "ZDNET",
-      "published": "2026-11-23T17:52:52+00:00",
-      "excerpt": "Google is retiring the Nest app in favor of the Google Home app. Here\u2019s how to transfer your data.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/02eecfe6-7cf5-4662-963a-ca73ebae233b.jpg",
-      "category": "Data & Analytics"
-    },
-    {
-      "id": "1ab128c432ff",
-      "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
-      "url": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
-      "source": "The Hacker News",
-      "published": "2026-11-23T17:45:15+00:00",
-      "excerpt": "The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints, while disguising it as network-monitoring...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9_mXkFA2_QQWa_ajcGxgoc3rSAfxGJqP-uIREqPGAfJGM7D7-mLrjwSE_F1egX-pwVRvMRinRGs4QbcBE1yJrmHFw4Fa_ILg6ZuTIOy1bf86-wPQ-Zgsqa-6hqdBapRROk97rOeT-Vfa002vHuWF6fCSE1KPttjswyjUeBxjrJzrmVU9KY724e75Giq1T/s1600/chinese-malware.jpg",
-      "category": "Software Development"
-    },
-    {
-      "id": "53b97270c186",
-      "title": "A legendary philosopher isn\u2019t buying Anthropic\u2019s consciousness argument",
-      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-      "source": "MIT Technology Review",
-      "published": "2026-11-23T17:36:08+00:00",
-      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient...",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/simulacra2a.jpg?resize=1200,600",
       "category": "Artificial Intelligence"
     }
   ]
