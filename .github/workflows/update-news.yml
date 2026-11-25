@@ -4,6 +4,10 @@ on:
     - cron: '5,15,25,35,45,55 * * * *'
   workflow_dispatch:
     inputs:
+      draft_limit:
+        description: Maximum draft attempts (1 for testing, up to 10)
+        type: number
+        default: 1
       allow_private:
         description: Allow this manual hosted run on a private repo (uses runner allowance)
         type: boolean
