@@ -1,3 +1,6 @@
+
+## Current upgrade
+See AUTOMATION_SETUP.md for the hourly automation, optional AI drafts and scheduled publishing. It supersedes the previous three-hour/manual-only workflow below.
 # RevenueInfoTech – technology news publication
 
 ## Publishing model: hybrid automation + human approval
