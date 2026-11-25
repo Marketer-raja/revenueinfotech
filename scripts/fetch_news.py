@@ -6,7 +6,7 @@ source directory. It never writes home-news.json: the homepage is changed only
 when an editor reviews and publishes selected items through /newsdesk/.
 """
 import hashlib, html, json, re, sys
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode
@@ -15,7 +15,7 @@ import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parent.parent
 SITE = "https://revenueinfotech.com"
-MAX_ITEMS, MAX_PER_FEED, EXCERPT_CHARS = 40, 12, 240
+MAX_ITEMS, MAX_PER_FEED, EXCERPT_CHARS = 120, 20, 240
 MEDIA = "{http://search.yahoo.com/mrss/}"
 CONTENT = "{http://purl.org/rss/1.0/modules/content/}"
 # Home page slots: hero (1), Editor's briefs (3), latest list (6), featured cards (6)
@@ -156,6 +156,8 @@ def parse_feed(xml_bytes, source):
     out = []
     for title, link, desc, date, image in items[:MAX_PER_FEED]:
         title, link = clean(title), (link or "").strip()
+        if not date or date < datetime.now(timezone.utc)-timedelta(days=3) or date > datetime.now(timezone.utc)+timedelta(minutes=15):
+            continue
         if not title or not link.startswith(("http://", "https://")):
             continue
         category = categorize(title, clean(desc))
@@ -169,8 +171,8 @@ def parse_feed(xml_bytes, source):
             "url": link,
             "source": source,
             "published": (date or datetime.now(timezone.utc)).astimezone(timezone.utc).isoformat(timespec="seconds"),
-            "excerpt": clean(desc, EXCERPT_CHARS),
-            "image": image,
+            "excerpt": "",
+            "image": "",
             "category": category,
         })
     return out
@@ -179,7 +181,7 @@ def parse_feed(xml_bytes, source):
 def fetch(url):
     req = Request(url, headers={"User-Agent": UA, "Accept": "application/rss+xml, application/atom+xml, text/xml"})
     with urlopen(req, timeout=20) as r:
-        return r.read()
+        return r.read(5_000_000)
 
 
 def render_html(items):
@@ -270,20 +272,28 @@ def main():
             print(f"FAIL  {f['name']}: {e}", file=sys.stderr)
     if ok == 0:
         sys.exit("No feed could be fetched; leaving existing files untouched.")
-    # re-check old items too, so nothing non-tech survives from earlier runs
-    existing = [i for i in existing if i.get("category") or categorize(i.get("title", ""), i.get("excerpt", ""))]
-    for i in existing:
-        i.setdefault("category", categorize(i.get("title", ""), i.get("excerpt", "")))
-    merged = {i["id"]: i for i in existing}
-    merged.update({i["id"]: i for i in fresh})
-    items = sorted(merged.values(), key=lambda i: i["published"], reverse=True)[:MAX_ITEMS]
-    for i in items[:40]:                      # fetch a picture for stories whose feed had none
-        if not i.get("image"):
-            i["image"] = og_image(i["url"])
-    now_iso = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    from difflib import SequenceMatcher
+    approved = json.loads((ROOT / "home-news.json").read_text()).get("items", []) + json.loads((ROOT / "scheduled-news.json").read_text()).get("items", [])
+    def key(title):
+        return words(re.sub(r"\s+-\s+[^-]+$", "", title)).strip()
+    seen = {norm_url(i["url"]) for i in approved if i.get("url")}
+    titles = [key(i.get("title", "")) for i in approved]
+    items = []
+    cutoff = datetime.now(timezone.utc)-timedelta(days=3)
+    old_by_id={i["id"]:i for i in existing}
+    for i in sorted(fresh + existing, key=lambda i:(bool(old_by_id.get(i["id"],{}).get("draft")),i["published"]), reverse=True):
+        date = parse_date(i.get("published"))
+        if not date or (date < cutoff and not i.get("draft") and not old_by_id.get(i["id"],{}).get("draft")) or date > datetime.now(timezone.utc)+timedelta(minutes=15): continue
+        if i.get("source") not in {f["name"] for f in cfg["feeds"]}: continue
+        url, title = norm_url(i["url"]), key(i["title"])
+        if url in seen or any(SequenceMatcher(None,title,t).ratio() >= .88 for t in titles): continue
+        seen.add(url); titles.append(title)
+        for field in ("draft", "draftVersion", "draftStatus", "draftImage", "researchSources"):
+            if field in old_by_id.get(i["id"],{}): i[field]=old_by_id[i["id"]][field]
+        i.update(excerpt="", image="")
+        items.append(i)
+        if len(items)>=MAX_ITEMS: break
     jp.write_text(json.dumps({"updated": datetime.now(timezone.utc).isoformat(timespec="seconds"), "items": items}, indent=2))
-    (ROOT / "news").mkdir(exist_ok=True)
-    (ROOT / "news" / "index.html").write_text(render_html(items))
     print(f"wrote {len(items)} candidate items to news.json; homepage content was left unchanged for manual approval")
 
 

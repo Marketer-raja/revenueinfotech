@@ -45,6 +45,7 @@
   .dirty{font-size:13px;color:#92400e;font-weight:600}
   details summary{cursor:pointer;font-weight:700;font-size:14px}
   .hidden{display:none!important}
+  @media(max-width:640px){main{padding:12px 10px 150px}.card{padding:12px}.grid{grid-template-columns:minmax(0,1fr)}input,select,textarea{font-size:16px;min-width:0}button{min-height:46px}.bar{flex-wrap:wrap;padding-bottom:calc(12px + env(safe-area-inset-bottom))}.item{overflow-wrap:anywhere}#schedule,#save{width:100%}}
 </style>
 </head>
 <body>
@@ -61,7 +62,7 @@
   <!-- CONNECT -->
   <section id="connectCard" class="card">
     <h2>Connect to GitHub</h2>
-    <p class="hint" style="margin-top:0">This page saves news by committing <code>home-news.json</code> to your repository; your host (Cloudflare Pages / Netlify) then redeploys automatically. No separate server is needed.
+    <p class="hint" style="margin-top:0">This page queues approved news in <code>scheduled-news.json</code> and saves homepage edits in <code>home-news.json</code> to your repository; your host (Cloudflare Pages / Netlify) then redeploys automatically. No separate server is needed.
     Create a <b>fine-grained personal access token</b> at GitHub → Settings → Developer settings, limited to <b>this one repository</b> with <b>Contents: Read and write</b>.</p>
     <div class="grid">
       <div><label for="owner">GitHub username / org</label><input id="owner" placeholder="your-username" autocomplete="off"></div>
@@ -96,6 +97,7 @@
           </select></div>
         <div><label for="image">Image URL <span style="font-weight:400;color:var(--mute)">(optional; use only images you own or are licensed to republish)</span></label><input id="image" placeholder="https://…"></div>
       </div>
+      <label for="extraSources">Additional verified source URLs (one per line)</label><textarea id="extraSources" rows="3"></textarea><div id="reviewNotes" class="hint"></div>
       <label for="section">Where should it appear on the home page? *</label>
       <select id="section">
         <option value="brief">Editor's Choice Briefs: top-right sidebar (3 slots)</option>
@@ -106,7 +108,7 @@
       </select>
       <p class="hint">Items in each section appear in the order shown in your list below. If a section has no items from you, it shows the site's built-in articles.</p>
       <div class="row" style="margin-top:12px">
-        <button id="save" class="primary">Add to list</button>
+        <label for="publishAt">Schedule (optional, local time)</label><input id="publishAt" type="datetime-local"><button id="schedule" type="button">Approve &amp; publish (10-minute queue)</button><button id="save" class="primary">Save existing article</button>
         <button id="cancelEdit" class="hidden">Cancel edit</button>
       </div>
       <div id="formMsg" class="msg"></div>
@@ -114,14 +116,16 @@
 
     <section class="card">
       <details id="feedBox">
-        <summary>Pick from the automatic news feed</summary>
-        <p class="hint">Unpublished RSS candidates in <code>news.json</code>. Open the source, verify the facts and dates, rewrite the summary in your own words, then add it to the homepage list and publish.</p>
-        <div class="row"><button id="loadFeed">Load latest headlines</button></div>
+        <summary>Prepared articles & research queue</summary>
+        <p class="hint">Completed AI drafts include headline, article, summary and original illustration. Review source facts and editorial notes before approval. Leads with insufficient evidence stay unpublished.</p>
+        <div class="row"><button id="loadFeed">Refresh prepared articles</button><button id="bulkApprove" type="button">Approve selected (up to 10)</button></div><p class="hint">Open each draft to review its facts, sources and image rights before selecting it. Selected drafts are queued together; edits must be approved individually using the form.</p>
         <div id="feedList" style="margin-top:12px"></div>
       </details>
     </section>
 
     <section class="card">
+      <h2>Approved publishing queue <span id="queueCount"></span></h2><div id="queueList" class="hint"></div><button id="refreshQueue" type="button">Refresh queue</button>
+    </section><section class="card">
       <h2>Home page news <span id="count" class="hint"></span></h2>
       <p class="hint" style="margin-top:0">Top of the list appears first on the site. Only items with a full original article (600+ characters) and a real author/editor byline are displayed and built into public article pages. Older feed-only entries loaded from the previous version are not considered approved; edit them with original reporting or delete them before publishing.</p>
       <div id="list"></div>
@@ -131,7 +135,7 @@
 
 <div id="bar" class="bar hidden">
   <span id="dirty" class="dirty"></span>
-  <button id="publish" class="primary" disabled>Publish to site</button>
+  <button id="publish" class="primary" disabled>Save homepage edits</button>
   <span id="pubMsg" style="font-size:13px"></span>
 </div>
 
@@ -184,7 +188,7 @@
       var conn=JSON.stringify({owner:S.owner,repo:S.repo,branch:S.branch,token:S.token});
       try{sessionStorage.setItem("newsdesk_conn",conn);var st=store();if(st){if($("remember").checked)st.setItem("newsdesk_conn",conn);else st.removeItem("newsdesk_conn")}}catch(e){}
       $("connectCard").classList.add("hidden");$("app").classList.remove("hidden");$("bar").classList.remove("hidden");$("logout").classList.remove("hidden");
-      render();
+      render();$("feedBox").open=true;loadFeed();
     }catch(e){say($("connectMsg"),e.status===401?"Token rejected by GitHub (check it hasn't expired).":e.status===404?"Repository not found, or the token has no access to it.":e.message,"err")}
     $("connect").disabled=false;
   }
@@ -227,17 +231,18 @@
 
   // ---------- form ----------
   function resetForm(){
-    ["editId","title","summary","articleBody","author","source","url","image"].forEach(function(k){$(k).value=""});
-    $("section").value="brief";$("formTitle").textContent="Add a news item";$("save").textContent="Add to list";$("cancelEdit").classList.add("hidden");clear($("formMsg"));
+    ["editId","title","summary","articleBody","author","source","url","image","publishAt","extraSources"].forEach(function(k){$(k).value=""});
+    $("reviewNotes").textContent="";$("section").value="brief";$("formTitle").textContent="Add a news item";$("save").textContent="Save existing article";$("save").classList.add("hidden");$("cancelEdit").classList.add("hidden");clear($("formMsg"));
   }
   function edit(id){
     var it=S.items.find(function(x){return x.id===id});if(!it)return;
     $("editId").value=it.id;$("title").value=it.title||"";$("summary").value=it.summary||"";$("articleBody").value=it.articleBody||"";$("author").value=it.author||"";$("source").value=it.source||"";
-    $("url").value=it.url||"";$("image").value=it.image||"";$("section").value=secOf(it);
+    $("url").value=it.url||"";$("image").value=it.image||"";$("extraSources").value=(it.sources||[]).join("\n");$("section").value=secOf(it);
     if(it.category)$("category").value=it.category;
-    $("formTitle").textContent="Edit news item";$("save").textContent="Save changes";$("cancelEdit").classList.remove("hidden");
+    $("formTitle").textContent="Edit news item";$("save").classList.remove("hidden");$("save").textContent="Save changes";$("cancelEdit").classList.remove("hidden");
     window.scrollTo({top:0,behavior:"smooth"});
   }
+  function additionalSources(){return $("extraSources").value.split(/\n/).map(x=>x.trim()).filter(okUrl).slice(0,10)}
   function saveItem(){
     var t=$("title").value.trim(),s=$("summary").value.trim(),body=$("articleBody").value.trim(),author=$("author").value.trim(),src=$("source").value.trim(),u=$("url").value.trim(),im=$("image").value.trim();
     if(!t||!s||!src||!author)return say($("formMsg"),"Headline, summary, source name and author/editor byline are required.","err");
@@ -246,29 +251,64 @@
     if(im&&!okUrl(im))return say($("formMsg"),"Image URL must be a valid http(s) URL.","err");
     var id=$("editId").value,existing=id&&S.items.find(function(x){return x.id===id});
     var item={id:existing?existing.id:uid(),slug:(existing&&existing.slug)||t.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"").slice(0,80),title:t,summary:s,articleBody:body,author:author,source:src,url:u,image:im,category:$("category").value,
-      section:$("section").value,published:existing?existing.published:new Date().toISOString()};
+      sources:additionalSources(),section:$("section").value,published:existing?existing.published:new Date().toISOString()};
+    if(!existing)return say($("formMsg"),"Use Approve & publish to queue new articles.","err");
+    if(!existing && S.items.some(x=>x.url===u))return say($("formMsg"),"This source is already published.","err");
+    if(!confirm("Confirm you verified the facts, added original analysis and have image rights."))return;
     if(existing)S.items[S.items.indexOf(existing)]=item;else S.items.unshift(item);
     resetForm();markDirty();say($("formMsg"),existing?"Updated.":"Added to the top of the list. Press Publish to site to make it live.","ok");
   }
 
   // ---------- feed ----------
+  async function loadQueue(){
+    var f=await gh("/contents/scheduled-news.json?ref="+encodeURIComponent(S.branch));
+    var q=JSON.parse(b64dec(f.content));var box=$("queueList");box.textContent="";
+    var items=q.items||[];$("queueCount").textContent="("+items.length+")";
+    items.forEach(it=>box.appendChild(el("p",{text:it.title+" — eligible after "+new Date(it.publishAt).toLocaleString()})));
+    if(!items.length)box.textContent="No approved articles waiting.";
+    return items;
+  }
+  $("refreshQueue").addEventListener("click",()=>loadQueue().catch(e=>$("queueList").textContent=e.message));
+  var batchCandidates=[];
   async function loadFeed(){
+    batchCandidates=[];
     var box=$("feedList");box.textContent="Loading…";
     try{
-      var r=await fetch("/news.json",{cache:"no-store"});if(!r.ok)throw new Error("news.json not found yet. Run the “Update news” GitHub Action first.");
-      var j=await r.json();box.textContent="";
-      (j.items||[]).slice(0,30).forEach(function(it){
-        var b=el("button",{text:"Review candidate"});
+      var r=await gh("/contents/news.json?ref="+encodeURIComponent(S.branch));
+      var j=JSON.parse(b64dec(r.content));if(!S.dirty){await loadFile();render();}var queued=await loadQueue();box.textContent="";
+      (j.items||[]).filter(it=>!S.items.some(x=>x.url===it.url)&&!queued.some(x=>x.url===it.url)).sort((a,b)=>Number(!!b.draft)-Number(!!a.draft)).slice(0,120).forEach(function(it){
+        var b=el("button",{text:it.draft?"Open prepared draft":"Research needed"});
         b.addEventListener("click",function(){
-          resetForm();$("title").value=it.title||"";$("summary").value=it.excerpt||"";$("source").value=it.source||"";$("url").value=it.url||"";
-          $("category").value=it.category||"Software Development";
-          window.scrollTo({top:0,behavior:"smooth"});say($("formMsg"),"Candidate loaded. Verify the original source, then write an original full article and add a real author/editor byline before publishing.","ok");
+          resetForm();$("title").value=it.title||"";$("summary").value=it.draft?.summary||"";$("articleBody").value=it.draft?.articleBody||"";if(it.draft?.title)$("title").value=it.draft.title;$("image").value=it.draftImage||"";$("source").value=it.source||"";$("url").value=it.url||"";
+          $("category").value=it.category||"Software Development";$("author").value="RevenueInfoTech Editorial Desk";$("section").value="latest";$("extraSources").value=(it.researchSources||[]).filter(x=>x.url!==it.url).map(x=>x.url).join("\n");$("reviewNotes").textContent=it.draft?.verificationNotes||"Insufficient evidence: research and write before publication.";
+          $("formTitle").scrollIntoView({behavior:"smooth"});say($("formMsg"),"Draft loaded. Verify each claim, source and image before approval.","ok");
         });
-        box.appendChild(el("div",{class:"item"},[el("div",{class:"t",text:it.title}),el("div",{class:"m",text:(it.source||"")+" · "+(it.published||"").slice(0,10)}),b]));
+        var check=el("input",{type:"checkbox"});
+        var choice=el("label",{text:" Select reviewed original draft"});choice.prepend(check);
+        if(it.draft && it.draft.articleBody?.length>=600)batchCandidates.push({it,check});else choice.hidden=true;
+        box.appendChild(el("div",{class:"item"},[choice,el("a",{href:okUrl(it.url)?it.url:"#",target:"_blank",rel:"noopener noreferrer",text:"Open original source"}),el("div",{class:"t",text:it.draft?.title||it.title}),el("div",{class:"m",text:(it.draft?"DRAFT — REVIEW REQUIRED · ":"RESEARCH NEEDED · ")+(it.source||"")+" · "+(it.published||"").slice(0,10)}),b]));
       });
       if(!box.children.length)box.textContent="No headlines in news.json.";
     }catch(e){box.textContent=e.message}
   }
+
+  $("bulkApprove").addEventListener("click",async function(){
+    var selected=batchCandidates.filter(x=>x.check.checked).map(x=>x.it);
+    if(!selected.length||selected.length>10)return alert("Select 1–10 reviewed drafts.");
+    if(!confirm("Confirm you reviewed every selected draft for facts, originality and image rights. Queue "+selected.length+" articles?"))return;
+    this.disabled=true;
+    try{
+      var path="/contents/scheduled-news.json",f=await gh(path+"?ref="+encodeURIComponent(S.branch)),q=JSON.parse(b64dec(f.content));
+      var home=JSON.parse(b64dec((await gh("/contents/home-news.json?ref="+encodeURIComponent(S.branch))).content));
+      var seen=new Set([...q.items,...home.items].map(x=>x.url));var count=0;
+      for(var it of selected){if(seen.has(it.url))continue;
+        if(!it.draft.title||!it.draft.summary||!it.source||!okUrl(it.url)||!okUrl(it.draftImage)||it.draft.articleBody.length<600)throw new Error("Incomplete draft: "+it.title);
+        q.items.push({id:uid(),title:it.draft.title,summary:it.draft.summary,articleBody:it.draft.articleBody,author:"RevenueInfoTech Editorial Desk",source:it.source,url:it.url,image:it.draftImage,category:it.category||"Software Development",sources:(it.researchSources||[]).filter(x=>x.url!==it.url&&okUrl(x.url)).map(x=>x.url),section:"latest",status:"scheduled",editorApproved:true,publishAt:new Date().toISOString()});seen.add(it.url);count++;
+      }
+      if(count)await gh(path,{method:"PUT",body:{message:"Newsdesk: approve batch",content:b64enc(JSON.stringify(q,null,2)),branch:S.branch,sha:f.sha}});
+      alert(count+" articles queued. Up to 10 release per cycle.");await loadFeed();
+    }catch(e){alert(e.message)}finally{this.disabled=false}
+  });
 
   // ---------- publish ----------
   async function publish(){
@@ -280,16 +320,24 @@
     try{
       var r;
       try{r=await put()}catch(e){
-        if(e.status===409||e.status===422){ // file changed elsewhere: refresh sha and retry once
-          try{var f=await gh("/contents/"+FILE+"?ref="+encodeURIComponent(S.branch));S.sha=f.sha}catch(x){S.sha=null}
-          r=await put();
-        }else throw e;
+        if(e.status===409||e.status===422)throw new Error("Repository changed. Copy unsaved edits, reconnect and reapply them; no content overwritten.");
+        throw e;
       }
       S.sha=r.content.sha;S.dirty=false;render();
       pm.style.color="var(--green)";pm.textContent="Published. The site updates after your host redeploys (usually under a minute).";
     }catch(e){pm.style.color="var(--red)";pm.textContent="Failed: "+e.message;$("publish").disabled=false}
   }
 
+  $("schedule").addEventListener("click",async function(){
+    var when=$("publishAt").value?new Date($("publishAt").value):new Date();
+    if(!Number.isFinite(when.getTime())||($("publishAt").value&&when<=new Date()))return say($("formMsg"),"Choose a future date and time.","err");
+    if($("editId").value)return say($("formMsg"),"Scheduling is for new articles only.","err");
+    var item={id:uid(),title:$("title").value.trim(),summary:$("summary").value.trim(),articleBody:$("articleBody").value.trim(),author:$("author").value.trim(),source:$("source").value.trim(),url:$("url").value.trim(),image:$("image").value.trim(),category:$("category").value,sources:additionalSources(),section:$("section").value,status:"scheduled",editorApproved:true,publishAt:when.toISOString()};
+    if(!item.title||!item.summary||!item.author||!item.source||!okUrl(item.url)||item.articleBody.length<600||(item.image&&!okUrl(item.image)))return say($("formMsg"),"Complete the original article, sources and byline first.","err");
+    if(!confirm("Confirm facts, original writing and image rights before scheduling."))return;
+    $("schedule").disabled=true;
+    try{var path="/contents/scheduled-news.json",f=await gh(path+"?ref="+encodeURIComponent(S.branch)),q=JSON.parse(b64dec(f.content));if(q.items.some(x=>x.url===item.url)||S.items.some(x=>x.url===item.url))throw new Error("Already scheduled or published");q.items.push(item);await gh(path,{method:"PUT",body:{message:"Newsdesk: schedule reviewed article",content:b64enc(JSON.stringify(q,null,2)),branch:S.branch,sha:f.sha}});resetForm();loadFeed();say($("formMsg"),"Approved and queued. Up to 10 approved articles are released per 10-minute publishing cycle, subject to GitHub and hosting delays.","ok");}catch(e){say($("formMsg"),e.message,"err")}finally{$("schedule").disabled=false}
+  });
   window.addEventListener("beforeunload",function(e){if(S.dirty){e.preventDefault();e.returnValue=""}});
   $("connect").addEventListener("click",connect);
   $("logout").addEventListener("click",logout);
@@ -297,6 +345,7 @@
   $("cancelEdit").addEventListener("click",resetForm);
   $("loadFeed").addEventListener("click",loadFeed);
   $("publish").addEventListener("click",publish);
+  resetForm();
   loadSaved();
   if($("token").value&&$("owner").value&&$("repo").value)connect();
 })();

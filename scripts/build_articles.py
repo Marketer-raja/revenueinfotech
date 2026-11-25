@@ -46,6 +46,8 @@ def article_html(item: dict, slug: str) -> str:
     source = esc(item.get("source"))
     source_url = str(item.get("url", "")).split(",")[0].strip()
     source_link = f'<a href="{esc(source_url)}" rel="noopener noreferrer">{source}</a>' if safe_http_url(source_url) else source
+    extra = [u for u in item.get("sources", []) if isinstance(u,str) and safe_http_url(u) and u != source_url]
+    source_link += "".join(f' · <a href="{esc(u)}" rel="noopener noreferrer">{esc(u)}</a>' for u in extra)
     published = item.get("published") or datetime.now(timezone.utc).isoformat()
     try:
         dt = datetime.fromisoformat(str(published).replace("Z", "+00:00"))
@@ -57,7 +59,7 @@ def article_html(item: dict, slug: str) -> str:
     url = f"{SITE}/articles/{slug}/"
     body_html = paragraphs(str(item.get("articleBody", "")))
     image = str(item.get("image", ""))
-    image_html = f'<figure><img src="{esc(image)}" alt="{title}" loading="lazy"><figcaption>Image supplied by the publisher; see source attribution below.</figcaption></figure>' if safe_http_url(image) else ""
+    image_html = f'<figure><img src="{esc(image)}" alt="{title}" loading="lazy"><figcaption>Editorial illustration or image provided by the editor.</figcaption></figure>' if safe_http_url(image) else ""
     schema = {
         "@context": "https://schema.org", "@type": "NewsArticle",
         "mainEntityOfPage": {"@type": "WebPage", "@id": url},
