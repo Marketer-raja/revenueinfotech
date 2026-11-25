@@ -32,10 +32,12 @@ def ai_draft(item, matches):
       'Verification notes are private editorial instructions, not part of the article.\n'+json.dumps(evidence))
     for provider,draft in candidates(prompt):
         if not isinstance(draft,dict):continue
+        if draft.get('sufficient') is not True: print(provider, 'declined: insufficient evidence', flush=True); continue
         valid=validate_draft(draft,item,evidence)
         if valid:
             valid['provider']=provider
             return valid
+        print(provider, 'draft rejected: missing fields, length or originality check', flush=True)
     return None
 
 def validate_draft(draft,item,evidence):
@@ -55,6 +57,7 @@ def main():
         item.pop('draft',None);item['draftStatus']='needs research'
         if budget<=0:continue
         matches=related(item,pool);budget-=1
+        print('Preparing lead:',item['id'],'related headlines:',len(matches),flush=True)
         try:
             draft=ai_draft(item,matches)
             if draft:
@@ -62,4 +65,5 @@ def main():
         except Exception as e:
             print('Draft unavailable:',type(e).__name__); continue
     path.write_text(json.dumps(news,indent=2))
+    print('Queue totals:',sum(i.get('draftStatus')=='review required' for i in pool),'ready;',sum(i.get('draftStatus')=='needs research' for i in pool),'need research',flush=True)
 if __name__=='__main__':main()
