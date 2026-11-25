@@ -23,7 +23,7 @@ def candidates(prompt):
     for name,url,model in configs:
         key=os.getenv(name+'_API_KEY','')
         if not key or os.getenv(name+'_FREE_CONFIRMED')!='yes' or name in DISABLED: continue
-        if COUNTS.get(name,0)>=3: continue
+        if COUNTS.get(name,0)>=5: continue
         COUNTS[name]=COUNTS.get(name,0)+1
         try:
             print(f'{name}: requesting {model}',flush=True)
@@ -45,14 +45,14 @@ def candidates(prompt):
                 raw=result['choices'][0]['message'].get('content')
             draft=decode(raw); print(f'{name}: JSON received; checking editorial quality',flush=True); yield name,draft
         except urllib.error.HTTPError as e:
-            DISABLED.add(name); print(f'{name}: HTTP {e.code}; paused for run (check model access, quota or credentials)',flush=True)
+            DISABLED.add(name); print(f'{name}: HTTP {e.code}; paused for run; retry-after={e.headers.get("Retry-After","not supplied") if e.headers else "not supplied"}',flush=True)
         except (urllib.error.URLError,TimeoutError,ValueError,KeyError,IndexError,TypeError,AttributeError) as e:
             print(f'{name}: invalid or unavailable response ({type(e).__name__})',flush=True)
-    if os.getenv('OLLAMA_ENABLED','yes')=='yes' and 'OLLAMA' not in DISABLED and COUNTS.get('OLLAMA',0)<3:
+    if os.getenv('OLLAMA_ENABLED','yes')=='yes' and 'OLLAMA' not in DISABLED and COUNTS.get('OLLAMA',0)<5:
         COUNTS['OLLAMA']=COUNTS.get('OLLAMA',0)+1
         try:
             print('OLLAMA: requesting local draft',flush=True)
-            result=request('http://127.0.0.1:11434/api/generate',{'model':os.getenv('NEWS_AI_MODEL','qwen2.5:3b'),'prompt':prompt,'stream':False,'format':'json','options':{'temperature':.2,'num_predict':1800,'num_ctx':4096}}, {},timeout=240)
+            result=request('http://127.0.0.1:11434/api/generate',{'model':os.getenv('NEWS_AI_MODEL','qwen2.5:3b'),'prompt':prompt,'stream':False,'format':'json','options':{'temperature':.2,'num_predict':1800,'num_ctx':8192}}, {},timeout=240)
             draft=decode(result.get('response')); print('OLLAMA: JSON received; checking editorial quality',flush=True); yield 'OLLAMA',draft
         except (urllib.error.HTTPError,urllib.error.URLError,TimeoutError,ValueError,KeyError,TypeError,AttributeError) as e:
             DISABLED.add('OLLAMA'); print('OLLAMA paused:',type(e).__name__,flush=True)
