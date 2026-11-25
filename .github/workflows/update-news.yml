@@ -1,29 +1,57 @@
 name: RevenueInfoTech editorial publishing
 on:
   schedule:
-    - cron: "17 */3 * * *"
+    - cron: '17 */2 * * *'
   workflow_dispatch:
   push:
     paths:
-      - "home-news.json"
+      - home-news.json
 permissions:
   contents: write
+concurrency:
+  group: revenueinfotech-editorial-${{ github.ref }}
+  cancel-in-progress: false
 jobs:
   build:
+    if: github.event.repository.private == false
     runs-on: ubuntu-latest
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
-      - name: Collect unpublished RSS candidates
-        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+          python-version: '3.12'
+      - name: Collect news leads
+        if: github.event_name != 'push'
+        continue-on-error: true
         run: python scripts/fetch_news.py
-      - name: Build approved article pages and sitemap
-        run: python scripts/build_articles.py
-      - name: Commit generated content
+      - name: Install free local model
+        if: github.event_name != 'push'
         run: |
-          git config user.name "revenueinfotech-bot"
-          git config user.email "revenueinfotech-bot@users.noreply.github.com"
-          git add news.json news/index.html sitemap.xml news/ articles/ || true
-          git diff --cached --quiet || (git commit -m "Build reviewed technology news pages" && git push)
+          curl -fsSL https://ollama.com/install.sh | sh
+          ollama serve > /tmp/ollama.log 2>&1 &
+          for i in $(seq 1 30); do if curl -fsS http://127.0.0.1:11434/api/tags >/dev/null; then break; fi; sleep 2; done
+          ollama pull qwen2.5:3b
+        continue-on-error: true
+      - name: Prepare editorial drafts
+        if: github.event_name != 'push'
+        env:
+          DRAFT_LIMIT: "10"
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GROQ_FREE_CONFIRMED: ${{ vars.GROQ_FREE_CONFIRMED }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_FREE_CONFIRMED: ${{ vars.GEMINI_FREE_CONFIRMED }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          OPENROUTER_FREE_CONFIRMED: ${{ vars.OPENROUTER_FREE_CONFIRMED }}
+          MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+          MISTRAL_FREE_CONFIRMED: ${{ vars.MISTRAL_FREE_CONFIRMED }}
+        run: python scripts/prepare_drafts.py
+      - name: Build article pages
+        run: |
+          python scripts/build_articles.py
+      - name: Commit updates
+        run: |
+          git config user.name revenueinfotech-bot
+          git config user.email revenueinfotech-bot@users.noreply.github.com
+          git add news.json logo/news-graphics articles sitemap.xml
+          git diff --cached --quiet || (git commit -m 'Refresh news drafts and pages' && git push)
