@@ -1,8 +1,13 @@
 name: RevenueInfoTech editorial publishing
 on:
   schedule:
-    - cron: '17 */2 * * *'
+    - cron: '5,15,25,35,45,55 * * * *'
   workflow_dispatch:
+    inputs:
+      allow_private:
+        description: Allow this manual hosted run on a private repo (uses runner allowance)
+        type: boolean
+        default: false
   push:
     paths:
       - home-news.json
@@ -13,30 +18,37 @@ concurrency:
   cancel-in-progress: false
 jobs:
   build:
-    if: github.event.repository.private == false
-    runs-on: ubuntu-latest
-    timeout-minutes: 45
+    if: (github.event.repository.private == false || vars.NEWS_PRIVATE_SELF_HOSTED == 'yes' || (github.event_name == 'workflow_dispatch' && inputs.allow_private == true)) && (github.event_name != 'schedule' || vars.NEWS_AUTO_GENERATE == 'yes')
+    runs-on: ${{ fromJSON((github.event.repository.private && vars.NEWS_PRIVATE_SELF_HOSTED == 'yes') && '["self-hosted","linux","revenueinfotech"]' || '["ubuntu-latest"]') }}
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
       - uses: actions/setup-python@v5
+        if: runner.environment == 'github-hosted'
         with:
           python-version: '3.12'
       - name: Collect news leads
         if: github.event_name != 'push'
         continue-on-error: true
-        run: python scripts/fetch_news.py
+        run: python3 scripts/fetch_news.py
       - name: Install free local model
         if: github.event_name != 'push'
         run: |
-          curl -fsSL https://ollama.com/install.sh | sh
-          ollama serve > /tmp/ollama.log 2>&1 &
+          if ! command -v ollama >/dev/null; then
+            if [ "${{ runner.environment }}" != "github-hosted" ]; then echo 'Install Ollama on the local runner first'; exit 1; fi
+            curl -fsSL https://ollama.com/install.sh | sh
+          fi
+          if ! curl -fsS http://127.0.0.1:11434/api/tags >/dev/null; then ollama serve > /tmp/ollama.log 2>&1 & fi
           for i in $(seq 1 30); do if curl -fsS http://127.0.0.1:11434/api/tags >/dev/null; then break; fi; sleep 2; done
           ollama pull qwen2.5:3b
         continue-on-error: true
       - name: Prepare editorial drafts
         if: github.event_name != 'push'
         env:
-          DRAFT_LIMIT: "10"
+          DRAFT_LIMIT: ${{ inputs.draft_limit || '10' }}
+          PROVIDER_RUN_LIMIT: "5"
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           GROQ_FREE_CONFIRMED: ${{ vars.GROQ_FREE_CONFIRMED }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
@@ -45,10 +57,10 @@ jobs:
           OPENROUTER_FREE_CONFIRMED: ${{ vars.OPENROUTER_FREE_CONFIRMED }}
           MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
           MISTRAL_FREE_CONFIRMED: ${{ vars.MISTRAL_FREE_CONFIRMED }}
-        run: python scripts/prepare_drafts.py
+        run: python3 scripts/prepare_drafts.py
       - name: Build article pages
         run: |
-          python scripts/build_articles.py
+          python3 scripts/build_articles.py
       - name: Commit updates
         run: |
           git config user.name revenueinfotech-bot
