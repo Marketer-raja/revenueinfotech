@@ -10,7 +10,7 @@ def request(url,payload,headers,timeout=55):
         return json.load(r)
 
 def candidates(prompt):
-    configs=[('GROQ','https://api.groq.com/openai/v1/chat/completions','llama-3.3-70b-versatile'),('GEMINI','https://generativelanguage.googleapis.com/v1beta/models/','gemini-2.5-flash-lite'),('OPENROUTER','https://openrouter.ai/api/v1/chat/completions','openrouter/free'),('MISTRAL','https://api.mistral.ai/v1/chat/completions','mistral-small-latest')]
+    configs=[('GROQ','https://api.groq.com/openai/v1/chat/completions','openai/gpt-oss-120b'),('GEMINI','https://generativelanguage.googleapis.com/v1beta/models/','gemini-2.5-flash-lite'),('OPENROUTER','https://openrouter.ai/api/v1/chat/completions','openrouter/free'),('MISTRAL','https://api.mistral.ai/v1/chat/completions','mistral-small-latest')]
     for name,url,default in configs:
         key=os.getenv(name+'_API_KEY',''); model=os.getenv(name+'_MODEL',default)
         if not key or os.getenv(name+'_FREE_CONFIRMED')!='yes' or name in DISABLED: continue
