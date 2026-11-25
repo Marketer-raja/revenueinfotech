@@ -8,6 +8,8 @@ from urllib.parse import urlparse
 import xml.etree.ElementTree as ET
 from fetch_news import ROOT, ATOM, clean, txt, parse_date, fetch, norm_url, CONTENT, categorize
 
+MIN_EVIDENCE_WORDS=40
+
 STOP=set('with from that this news technology about after will says have their into what when more over latest launches launch announced announces new report reports company'.split())
 def tokens(s):
     return set(re.findall(r'[a-z0-9]{3,}',s.lower()))-STOP
@@ -57,7 +59,7 @@ def add_direct_leads(pool, research, excluded=()):
     seen={norm_url(i['url']) for i in pool}|{norm_url(u) for u in excluded if u}
     for row in sorted(research,key=lambda r:r['published'],reverse=True):
         if len(pool)>=250: break
-        if len(row['excerpt'].split())<65: continue
+        if len(row['excerpt'].split())<MIN_EVIDENCE_WORDS: continue
         url=norm_url(row['url']); category=categorize(row['title'],row['excerpt'])
         if not category or url in seen: continue
         if any(match_evidence(i,[row]) for i in pool): continue
