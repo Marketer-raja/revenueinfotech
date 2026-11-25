@@ -3,6 +3,7 @@ import hashlib
 import json
 import os
 import re
+import time
 import urllib.request
 import urllib.error
 from datetime import datetime, timezone
@@ -93,7 +94,14 @@ def main():
         keys=[k for k in items if k not in state['handled']][:10]
         if keys:
             batch=hashlib.sha256((''.join(keys)+str(state['offset'])).encode()).hexdigest()[:24]
-            text='RevenueInfoTech: '+str(len(keys))+' drafts ready for review\n\n'+'\n'.join(f'{n}. {items[k]["title"][:160]} ({items[k]["source"][:70]})' for n,k in enumerate(keys,1))+'\n\nReview full articles, sources and images in Newsdesk before approving. Approval queues these exact drafts; it does not verify their facts.'
+            text='RevenueInfoTech: '+str(len(keys))+' drafts ready for review\n\n'+'\n'.join(f'{n}. {items[k]["title"][:160]} ({items[k]["source"][:70]})' for n,k in enumerate(keys,1))+'\n\nReview the preceding full articles, sources and image links (or open Newsdesk) before approving. Approval queues these exact drafts; it does not verify their facts.'
+            # Send the actual text and source links for review in the private chat.
+            # Telegram's message limit is 4096 characters; split conservatively.
+            for n,k in enumerate(keys,1):
+                i=items[k]
+                review=f'{n}. {i["title"]}\n\n{i["summary"]}\n\n{i["articleBody"]}\n\nSource: {i["source"]} — {i["url"]}\nAdditional sources: '+('\n'.join(i['sources']) or 'None')+'\nIllustration: '+i['image']+'\nEditorial notes: '+i['verificationNotes']
+                for start in range(0,len(review),1800):
+                    send(review[start:start+1800]); time.sleep(1.1)
             send(text,reply_markup={'inline_keyboard':[[{'text':'Review drafts in Newsdesk','url':ADMIN}],[{'text':f'Approve {len(keys)} reviewed drafts','callback_data':'approve:'+batch}],[{'text':'Reject batch','callback_data':'reject:'+batch}]]})
             state['active']={'id':batch,'keys':keys}
         else: print('No new complete drafts to notify.')

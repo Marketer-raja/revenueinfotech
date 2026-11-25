@@ -2,6 +2,7 @@
 import os, json, re, urllib.request, urllib.error
 DISABLED=set()
 COUNTS={}
+DRAFT_SCHEMA={'type':'object','properties':{'sufficient':{'type':'boolean'},**{k:{'type':'string'} for k in ('title','summary','articleBody','verificationNotes')}},'required':['sufficient','title','summary','articleBody','verificationNotes'],'additionalProperties':False}
 
 def request(url,payload,headers,timeout=55):
     req=urllib.request.Request(url,data=None if payload is None else json.dumps(payload).encode(),headers={'Content-Type':'application/json',**headers})
@@ -23,7 +24,7 @@ def candidates(prompt):
     for name,url,model in configs:
         key=os.getenv(name+'_API_KEY','')
         if not key or os.getenv(name+'_FREE_CONFIRMED')!='yes' or name in DISABLED: continue
-        if COUNTS.get(name,0)>=5: continue
+        if COUNTS.get(name,0)>=int(os.getenv('PROVIDER_RUN_LIMIT','5')): continue
         COUNTS[name]=COUNTS.get(name,0)+1
         try:
             print(f'{name}: requesting {model}',flush=True)
@@ -48,11 +49,11 @@ def candidates(prompt):
             DISABLED.add(name); print(f'{name}: HTTP {e.code}; paused for run; retry-after={e.headers.get("Retry-After","not supplied") if e.headers else "not supplied"}',flush=True)
         except (urllib.error.URLError,TimeoutError,ValueError,KeyError,IndexError,TypeError,AttributeError) as e:
             print(f'{name}: invalid or unavailable response ({type(e).__name__})',flush=True)
-    if os.getenv('OLLAMA_ENABLED','yes')=='yes' and 'OLLAMA' not in DISABLED and COUNTS.get('OLLAMA',0)<5:
+    if os.getenv('OLLAMA_ENABLED','yes')=='yes' and 'OLLAMA' not in DISABLED and COUNTS.get('OLLAMA',0)<int(os.getenv('PROVIDER_RUN_LIMIT','5')):
         COUNTS['OLLAMA']=COUNTS.get('OLLAMA',0)+1
         try:
             print('OLLAMA: requesting local draft',flush=True)
-            result=request('http://127.0.0.1:11434/api/generate',{'model':os.getenv('NEWS_AI_MODEL','qwen2.5:3b'),'prompt':prompt,'stream':False,'format':'json','options':{'temperature':.2,'num_predict':1800,'num_ctx':8192}}, {},timeout=240)
+            result=request('http://127.0.0.1:11434/api/generate',{'model':os.getenv('NEWS_AI_MODEL','qwen2.5:3b'),'prompt':prompt,'stream':False,'format':DRAFT_SCHEMA,'options':{'temperature':.2,'num_predict':2300,'num_ctx':8192}}, {},timeout=240)
             draft=decode(result.get('response')); print('OLLAMA: JSON received; checking editorial quality',flush=True); yield 'OLLAMA',draft
         except (urllib.error.HTTPError,urllib.error.URLError,TimeoutError,ValueError,KeyError,TypeError,AttributeError) as e:
             DISABLED.add('OLLAMA'); print('OLLAMA paused:',type(e).__name__,flush=True)

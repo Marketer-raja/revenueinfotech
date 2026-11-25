@@ -281,10 +281,14 @@ def main():
     items = []
     cutoff = datetime.now(timezone.utc)-timedelta(days=3)
     old_by_id={i["id"]:i for i in existing}
+    allowed_sources={f['name'] for f in cfg['feeds']}
+    research_cfg=ROOT/'research-feeds.json'
+    if research_cfg.exists():
+        allowed_sources.update(f['name'] for f in json.loads(research_cfg.read_text())['feeds'] if f.get('enabled'))
     for i in sorted(fresh + existing, key=lambda i:(bool(old_by_id.get(i["id"],{}).get("draft")),i["published"]), reverse=True):
         date = parse_date(i.get("published"))
         if not date or (date < cutoff and not i.get("draft") and not old_by_id.get(i["id"],{}).get("draft")) or date > datetime.now(timezone.utc)+timedelta(minutes=15): continue
-        if i.get("source") not in {f["name"] for f in cfg["feeds"]}: continue
+        if i.get("source") not in allowed_sources: continue
         url, title = norm_url(i["url"]), key(i["title"])
         if url in seen or any(SequenceMatcher(None,title,t).ratio() >= .88 for t in titles): continue
         seen.add(url); titles.append(title)

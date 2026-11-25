@@ -1,5 +1,5 @@
 """Release at most ten approved stories per ten minutes (UTC)."""
-import json, re
+import json, re, os
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 ROOT=Path(__file__).resolve().parent.parent
@@ -14,7 +14,8 @@ def main():
     path=ROOT/'home-news.json'; data=json.loads(path.read_text()); now=datetime.now(timezone.utc)
     queue=ROOT/'scheduled-news.json'; pending=json.loads(queue.read_text()) if queue.exists() else {'items':[]}
     last=parse(pending.get('lastReleasedAt'))
-    if last and now-last<timedelta(minutes=10): return
+    if last and now-last<timedelta(minutes=10):
+        print("Publication cooldown active; approved items remain queued."); return
     released=0
     for i in sorted(pending['items'],key=lambda x:parse(x.get('publishAt')) or datetime.max.replace(tzinfo=timezone.utc)):
         due=parse(i.get('publishAt'))
@@ -29,6 +30,9 @@ def main():
         data['items'].insert(0,i); data['updated']=now.isoformat(); pending['items'].remove(i); pending['lastReleasedAt']=now.isoformat()
         released+=1
         if released>=10: break
+    print(f"Released {released} approved articles; {len(pending['items'])} queued.")
+    if os.getenv("GITHUB_OUTPUT"):
+        with open(os.environ["GITHUB_OUTPUT"],"a",encoding="utf-8") as out: out.write(f"released={released}\n")
     if released: path.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n')
     new=json.dumps(pending,ensure_ascii=False,indent=2)+'\n'
     if not queue.exists() or queue.read_text()!=new: queue.write_text(new)
