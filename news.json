@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T18:42:55+00:00",
+  "updated": "2026-11-25T19:00:43+00:00",
   "items": [
     {
       "id": "c2211ba4f6cd",
@@ -102,6 +102,17 @@
       "category": "Software Development",
       "draftStatus": "needs research",
       "researchAttempts": 1
+    },
+    {
+      "id": "b67036be5b6c",
+      "title": "Kindle Black Friday Deals 2026: Best E-Reader Sales & Which To Buy - ScreenRant",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DS3NVTUhpQ25aRENKWXRmanN4bF9ROEU5b0xyWFhuR1pta0lEX2oyMU5FY3JlYXEwLV9SeGNwSEVHbDJqdERHOS1IOG4ybFJSeDJBMmdKd2Q1Zld0OE4tUWlUa1hWTEdLUUhfOXBIRGJ5bUctQTM4?oc=5",
+      "source": "Google News",
+      "published": "2026-11-25T15:00:19+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Software Development",
+      "draftStatus": "needs research"
     },
     {
       "id": "91f4eb98a8b1",
@@ -416,7 +427,7 @@
     },
     {
       "id": "e9fba2d24a85",
-      "title": "SoftBank to launch Motorola's top-tier \"signature\" in Japan on Dec. 4 at \u00a5175,680, with 2 years of free concierge service - BigGo Finance",
+      "title": "SoftBank to launch Motorola's top-tier \"signature\" in Japan on Dec. 4 at \u00a5175,680 - BigGo Finance",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qQlJfem81ZXZsV3Y3UUUxTkN6a3ZVSllRa1F0MUQ5bFR3YmJaTGxUOUdxVHBrZF84QnhrNEY4MkR3TkV1YkdzZWVmTGRWRUNXX1lsbFpsbXhxYkI2aVZNRnVfekYtWnRnMHd2T2ZETnVqb2lWbnc?oc=5",
       "source": "Google News",
       "published": "2026-11-25T06:05:00+00:00",
@@ -434,6 +445,17 @@
       "excerpt": "",
       "image": "",
       "category": "Artificial Intelligence",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "fc98affa236f",
+      "title": "Microsoft declares internal \u2018Code Red\u2019 after 21-hour outage: What does it mean?",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/microsoft-code-red-after-major-outage-what-it-means-10977435/",
+      "source": "Indian Express",
+      "published": "2026-11-25T03:49:34+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Software Development",
       "draftStatus": "needs research"
     },
     {
@@ -925,6 +947,17 @@
       "draftStatus": "needs research"
     },
     {
+      "id": "fb23716fd2c6",
+      "title": "OpenAI, Cisco launch \u2018Shirudo\u2019: How it protects Linux systems from security threats",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/openai-cisco-launch-shirudo-linux-systems-security-threats-10976255/",
+      "source": "Indian Express",
+      "published": "2026-11-24T07:49:07+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Artificial Intelligence",
+      "draftStatus": "needs research"
+    },
+    {
       "id": "300f4a411e49",
       "title": "Motorola launches Edge 70 Neo for premium segment buyers in India - The Hindu",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcDFYWHhfWE1ReFJBSFZLUTZpYzVpNmNRV2N3SWc4QWFTNEdBOEpad3ZzYzExN3Y5N0dHSDNOdVhFRHU3bGN0aXZfb05rNmVfa2I4NmhwTTJma0NQRVdobk5DNU5BeWZhUFl1aFZzLUJvMkE2S1dXOGlEeDBFaHhHakszdWh6Q1VVNDd2SGtlNUJnVVUwRkJCMWFXVjZreWhPeGRHc1RoWGRTSXZ2YlBrWExaT1V3aEtWSGtOalhWbE5RbVhBQ3ZEUDk0ZUFmV3RvN0puTNIB2wFBVV95cUxNR3YzMl9ZemI0bXFuVFhFNVJNek5JaXhQVm5pd2lCcEJEdEVlcVA4VlpKWUZQZjJjM2RrdVBhUnB6SHhKeEdqbnMxMFE0UmYya01velFYWG5nZGRBS3ltR3BidzBRSnFlQ21wVkJFU2pJZHU0VnpUTnVrakk1cmt6LUJsd2VKdjk1ZGw4eHN6cHdMUVZYcjZQX09QQnM2Rk1aODU2bjdTNko0S2U5TG83MTFhV0ZUUzdXUTFMQV9HVlMwSHZHTFNzTi04dHViTkp6cUtsaWhzUlZJVlU?oc=5",
@@ -941,6 +974,39 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNODVIMGQ2OV9mYUNRekNvZy1rVVVZZTNKUFZlNXFyeTh0Y24yNFdfcE5hU0hiaERjWmtHbmpreHZVcEduU0hRamswWjhvSUl2a0dvelZwcWJPeDhIaFpUTXlZOTV5aFJPcm4tMGpjdG9OdjJNUW9TZDhUM1NwSkp3OFlRdzdJUnFHUGUtQ19JUUpRbEJRLUdzdDFrRzl0TGZqRTZ6aU04enpfNWVSaXc?oc=5",
       "source": "Google News",
       "published": "2026-11-24T05:26:00+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Software Development",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "be1158a86e0f",
+      "title": "Amazon\u2019s AWS CEO says engineering, not kill switches, is path to AI safety",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/amazons-aws-ceo-says-engineering-not-kill-switches-is-path-to-ai-safety-10975921/",
+      "source": "Indian Express",
+      "published": "2026-11-24T04:15:57+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Artificial Intelligence",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "d9b5a510cfc2",
+      "title": "CrowdStrike snaps up Zscaler in $44 billion deal as cyber threats mount",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/crowdstrike-snaps-up-zscaler-in-44-billion-deal-as-cyber-threats-mount-10975917/",
+      "source": "Indian Express",
+      "published": "2026-11-24T04:11:30+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Cybersecurity",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "77572276d70e",
+      "title": "Tech giants to face billions of dollars in fines under Australian internet safety bill",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/tech-giants-to-face-billions-of-dollars-in-fines-under-australian-internet-safety-bill-10975908/",
+      "source": "Indian Express",
+      "published": "2026-11-24T04:05:45+00:00",
       "excerpt": "",
       "image": "",
       "category": "Software Development",
@@ -1032,6 +1098,117 @@
       "excerpt": "",
       "image": "",
       "category": "Cloud Computing",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "380098d5478f",
+      "title": "US intelligence chief predicts more tech outages as systems undergo upgrades",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/us-intelligence-chief-predicts-more-tech-outages-as-systems-undergo-upgrades-10974414/",
+      "source": "Indian Express",
+      "published": "2026-11-23T04:04:03+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Software Development",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "49ee48d5da3d",
+      "title": "Art of play in the age of AI",
+      "url": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/",
+      "source": "GitHub Blog",
+      "published": "2026-11-25T16:00:00+00:00",
+      "category": "Artificial Intelligence",
+      "excerpt": "",
+      "image": "",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "b45d58e25dc6",
+      "title": "How to choose the next safe step in application modernization",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+      "source": "GitHub Blog",
+      "published": "2026-11-25T15:00:00+00:00",
+      "category": "Artificial Intelligence",
+      "excerpt": "",
+      "image": "",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "307ec7853a39",
+      "title": "These are the gifts developers will actually want",
+      "url": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/",
+      "source": "GitHub Blog",
+      "published": "2026-11-24T16:00:00+00:00",
+      "category": "Software Development",
+      "excerpt": "",
+      "image": "",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "1474c6279afd",
+      "title": "AWS Weekly Roundup: Local Zone in Bogot\u00e1, 30-minute Lambda timeout, and more (November 24, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+      "source": "AWS News",
+      "published": "2026-11-24T15:39:59+00:00",
+      "category": "Cloud Computing",
+      "excerpt": "",
+      "image": "",
+      "draftStatus": "needs research",
+      "researchAttempts": 1
+    },
+    {
+      "id": "a88353929e99",
+      "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
+      "url": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
+      "source": "NVIDIA Blog",
+      "published": "2026-11-23T17:00:08+00:00",
+      "category": "Artificial Intelligence",
+      "excerpt": "",
+      "image": "",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "1a7867b3a729",
+      "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
+      "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
+      "source": "NVIDIA Blog",
+      "published": "2026-11-19T20:00:15+00:00",
+      "category": "Artificial Intelligence",
+      "excerpt": "",
+      "image": "",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "1112027d5901",
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "source": "NVIDIA Blog",
+      "published": "2026-11-19T17:00:35+00:00",
+      "category": "Artificial Intelligence",
+      "excerpt": "",
+      "image": "",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "baa754261624",
+      "title": "Season\u2019s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/",
+      "source": "NVIDIA Blog",
+      "published": "2026-11-19T14:00:12+00:00",
+      "category": "Artificial Intelligence",
+      "excerpt": "",
+      "image": "",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "bd32339b925d",
+      "title": "AWS Lambda now supports GPU instances for Event Functions on Lambda Managed Instances",
+      "url": "https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/",
+      "source": "AWS News",
+      "published": "2026-11-18T19:39:07+00:00",
+      "category": "Artificial Intelligence",
+      "excerpt": "",
+      "image": "",
       "draftStatus": "needs research"
     }
   ]
