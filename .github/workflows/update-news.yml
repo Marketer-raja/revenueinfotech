@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
     inputs:
       draft_limit:
-        description: Maximum draft attempts (1 for testing, up to 10)
+        description: Target successful new drafts (1 for testing, up to 10)
         type: number
         default: 1
       allow_private:
@@ -52,7 +52,8 @@ jobs:
         if: github.event_name != 'push'
         env:
           DRAFT_LIMIT: ${{ inputs.draft_limit || '10' }}
-          PROVIDER_RUN_LIMIT: "5"
+          PROVIDER_RUN_LIMIT: "6"
+          DRAFT_ATTEMPT_LIMIT: ${{ inputs.draft_limit == 1 && '3' || '10' }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           GROQ_FREE_CONFIRMED: ${{ vars.GROQ_FREE_CONFIRMED }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
