@@ -22,9 +22,13 @@ def parse_research(data,source,allow_extended=False):
             link=next((l.get('href','') for l in node.findall(ATOM+'link') if l.get('rel','alternate')=='alternate'),'')
         date=parse_date(txt(node,'pubDate',ATOM+'published',ATOM+'updated','{http://purl.org/dc/elements/1.1/}date'))
         summary=clean(txt(node,'description',ATOM+'summary'),6000)
+        # RSS may contain richer explicitly permitted extended content.
+        def field(tag):
+            el=node.find(tag)
+            return ET.tostring(el,encoding='unicode') if el is not None else ''
         # Only use extended feed content from sources explicitly authorized for it.
         if allow_extended:
-            extended=clean(txt(node,CONTENT+'encoded',ATOM+'content'),6000)
+            extended=max((clean(txt(node,CONTENT+'encoded',ATOM+'content'),6000),clean(field(ATOM+'content'),6000)),key=len)
             if len(extended)>len(summary): summary=extended
         if not title or not link.startswith('https://') or not date or date<datetime.now(timezone.utc)-timedelta(days=7) or date>datetime.now(timezone.utc)+timedelta(minutes=15): continue
         if len(summary.split())<18 or len(tokens(summary)-tokens(title))<8: continue
@@ -50,6 +54,7 @@ def match_evidence(item,pool):
     chosen=[]
     for _,row in sorted(result,key=lambda p:p[0],reverse=True):
         key=norm_url(row['url'])
+        if any(SequenceMatcher(None,row['excerpt'].lower(),x['excerpt'].lower()).ratio()>.9 for x in chosen): continue
         if key not in seen: chosen.append(row);seen.add(key)
     return chosen[:4]
 

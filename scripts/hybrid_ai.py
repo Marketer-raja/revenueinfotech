@@ -19,8 +19,7 @@ def decode(raw):
     if not isinstance(obj,dict): raise ValueError('expected JSON object')
     return obj
 
-def candidates(prompt, schema=None):
-    schema = schema or DRAFT_SCHEMA
+def cloud_candidates(prompt, schema):
     configs=[('GROQ','https://api.groq.com/openai/v1/chat/completions','openai/gpt-oss-120b'),('GEMINI','https://generativelanguage.googleapis.com/v1beta/models','gemini-3.8-flash'),('OPENROUTER','https://openrouter.ai/api/v1/chat/completions','openrouter/free'),('MISTRAL','https://api.mistral.ai/v1/chat/completions','mistral-small-latest')]
     for name,url,model in configs:
         key=os.getenv(name+'_API_KEY','')
@@ -35,7 +34,7 @@ def candidates(prompt, schema=None):
                 available={m['name'].removeprefix('models/') for m in listing.get('models',[]) if 'generateContent' in m.get('supportedGenerationMethods',[])}
                 if model not in available:
                     print('GEMINI: configured free-tier model not listed; skipping rather than choosing an unconfirmed model',flush=True); DISABLED.add(name); continue
-                result=request(url+'/'+model+':generateContent',{'contents':[{'parts':[{'text':prompt}]}],'generationConfig':{'temperature':.2,'maxOutputTokens':4096,'responseMimeType':'application/json'}},headers)
+                result=request(url+'/'+model+':generateContent',{'contents':[{'parts':[{'text':prompt}]}],'generationConfig':{'temperature':.2,'maxOutputTokens':4096,'responseMimeType':'application/json','responseSchema':schema}},headers)
                 raw=''.join(p['text'] for p in result['candidates'][0]['content']['parts'] if isinstance(p.get('text'),str) and not p.get('thought'))
             else:
                 payload={'model':model,'messages':[{'role':'user','content':prompt}],'temperature':.2,'max_tokens':2400}
@@ -49,13 +48,23 @@ def candidates(prompt, schema=None):
         except urllib.error.HTTPError as e:
             DISABLED.add(name); print(f'{name}: HTTP {e.code}; paused for run; retry-after={e.headers.get("Retry-After","not supplied") if e.headers else "not supplied"}',flush=True)
         except (urllib.error.URLError,TimeoutError,ValueError,KeyError,IndexError,TypeError,AttributeError) as e:
-            print(f'{name}: invalid or unavailable response ({type(e).__name__})',flush=True)
+            DISABLED.add(name)
+            print(f'{name}: invalid or unavailable response ({type(e).__name__}); paused for run',flush=True)
+
+def local_candidates(prompt, schema):
     if os.getenv('OLLAMA_ENABLED','yes')=='yes' and 'OLLAMA' not in DISABLED and COUNTS.get('OLLAMA',0)<int(os.getenv('OLLAMA_RUN_LIMIT','30')):
         COUNTS['OLLAMA']=COUNTS.get('OLLAMA',0)+1
         try:
-            print('OLLAMA: requesting local draft',flush=True)
-            result=request('http://127.0.0.1:11434/api/generate',{'model':os.getenv('NEWS_AI_MODEL','qwen2.5:3b'),'prompt':prompt,'stream':False,'format':schema,'options':{'temperature':.2,'num_predict':3072,'num_ctx':8192}}, {},timeout=240)
+            print('OLLAMA: requesting structured response',flush=True)
+            result=request('http://127.0.0.1:11434/api/generate',{'model':os.getenv('NEWS_AI_MODEL','qwen2.5:3b'),'prompt':prompt,'stream':False,'format':schema,'options':{'temperature':.2,'num_predict':int(os.getenv('OLLAMA_OUTPUT_TOKENS','3072')),'num_ctx':int(os.getenv('OLLAMA_CONTEXT','16384'))}}, {},timeout=240)
             print('OLLAMA: completion reason:',result.get('done_reason','unknown'),'output tokens:',result.get('eval_count','unknown'),flush=True)
             draft=decode(result.get('response')); print('OLLAMA: JSON received; checking editorial quality',flush=True); yield 'OLLAMA',draft
         except (urllib.error.HTTPError,urllib.error.URLError,TimeoutError,ValueError,KeyError,TypeError,AttributeError) as e:
             DISABLED.add('OLLAMA'); print('OLLAMA paused:',type(e).__name__,flush=True)
+
+
+def candidates(prompt, schema=None):
+    schema = schema or DRAFT_SCHEMA
+    prompt += "\nReturn exactly one JSON object matching this schema: " + json.dumps(schema)
+    yield from local_candidates(prompt, schema)
+    yield from cloud_candidates(prompt, schema)
