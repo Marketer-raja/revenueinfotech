@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T08:48:24+00:00",
+  "updated": "2026-11-27T08:56:56+00:00",
   "items": [
     {
       "id": "efa399df6229",
@@ -13,6 +13,17 @@
       "draftStatus": "needs research"
     },
     {
+      "id": "bdb913e16631",
+      "title": "36 best Black Friday phone deals: iPhone Air, Google Pixel 11 Pro, and more - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsQ3UxaGs1MGQ3Qmw5NGhWSXJPMDdzS0lhOWFOMVJ0NURJWUlyRWd0aTN0MlAzSWNwOExMczNJQVg0WUU3TWxrSXVrRnZRc255NWRhMi15dVk4SEJ1TEQ1SGhYN3V0dzVRZUdKMkN0bnpGalMxMDhHcg?oc=5",
+      "source": "Google News",
+      "published": "2026-11-27T08:03:49+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Operating Systems",
+      "draftStatus": "needs research"
+    },
+    {
       "id": "030fc8b204e8",
       "title": "Samsung Black Friday: 21 deals on TVs, phones, SSDs, and gaming monitors - Mashable",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nS285X0Y4R25uM3NwYzdtSlVCR0UzM3oyRy1qRnY0Wm5WakhXWjFWYzFraFd6dnNsV094SENaWERUUWc2WlYwYmpPY0lLbGVxRkI5SVRSRWhZWmZNOHJGMlowT2U1akgxZDBxNHBXWQ?oc=5",
@@ -21,6 +32,17 @@
       "excerpt": "",
       "image": "",
       "category": "Software Development",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "f410af5fa866",
+      "title": "Netweb Technologies launches Skylus Workspaces for AI era - electronics.economictimes.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRmM4YlU2LWtPVEhPSGRSbm0tRVc4Qm4yWWRrbFlSVHcyT0g0andJQTlVeUEzV2pmZEdTQ05FV3pUZkRlcjZueVFlQkFLUENDZEE0LURSM1BUcDNSZnlfZS1TRmxkb3RsWWZDM29OaTlKY3daZUJWcmxaSGlYblhQOFBiWHNqaDhKM3BtRHh4QkFWaEZQYkxVZ1FPOWltVlUxd3Q0eGx4MjViYURROWNZTnFXZjBVMTVCVUlyWExJVW00NFlQZkotQXZ5V01QRUNUNkJocDZ0cVDSAd4BQVVfeXFMUF9aNG9SQXF4SUIyaFVxTFFqaUlrTHdHZ2ZNdWdiMmR1Q3RRb2ZKWlBVM2t5OV9hNHVxSWZ2V2phSmpPVHIyRUo4dnBJRERjREN5eThiUFdXcXEwR21wQ3RkTTIxRUE3cGFmYTdKMEtJWVE4MUZnRDJjY1dFcmFBaTk0VkdudVhOc2plazdaUlF0NHNrYnp3aklCc0FZUXVRRDVxazFOdU41NGstaFpTZ0ZaLS1KUEZRRlRjcWhodXBWd2k1eW50RkstVmMyVUNWRGdsanZXMG1vWDdJZHB3?oc=5",
+      "source": "Economic Times",
+      "published": "2026-11-27T07:20:41+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Artificial Intelligence",
       "draftStatus": "needs research"
     },
     {
@@ -156,9 +178,9 @@
       "draftStatus": "needs research"
     },
     {
-      "id": "7d6b527a3876",
+      "id": "ee616aad0c2d",
       "title": "AI may put 24 million knowledge-worker jobs at risk globally over five years: JP Morgan - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNZVpCMlpUeVhZbHJGWmxHTHVtM1dfbTR1MDgtTjh1TmUwVXpyaURUdkJNWWxXNHpicW55UGNkZ24zZmluZExxRk4zeXhRYmRiWTQySWs1VEQ1VXVmU0FDWU1jUzVzRzlqWWpMeDBjNThCRENDZURTaVdUODVRY0Q1bVBUbWdldm5SQnFkMG5OVGsydm5uWDNxSnprUkpVZklxd3ZPT0lIY1JKMjZCdl81MUZ6UjZNNDJXLXREVnJNNlBqSkowWHhMeU9mV0M5NnlKV24zX2stNnI5LTJsNkRZaWZ2RWhMaWFxMkNucjlZRE8tYXYxTWtSWS16WUtMdDc1R3RraVZpckMyUdIBgwJBVV95cUxQRkZ5dU1FR1dzVEFqWkxZT2s2ZV84ZUJ0XzM5TnVLSzJOVWtXdkVfVGYzWWtoN3VBa2hfTTRvZHltME0xOVRpRktjMjlDa0Y3QjhXdWdfV3B1Vm83MDhQUl9yOERWd0w4U1BBd1pzSHdkQmo5Wk1wRkQzTU1WZjBLXzdCejFveWJtR2daOTFxMU1XWXpIaElUazY2aTExOWUya3ljdTh2T2dmczNVTU1xcnFkVE5VbVFYNUI1cE8xeUh4amxlQ2wwMm43c2VzZXEwc0U1ZGxwMC1aV3dXRFYyV1ZZZ2d6TFllNFlGVFpSb1BLdDhLQm5jQmlKWlprWFRMUWdv?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNWWNPZ3NtbnZpYVRoeWRFeGRYQU4tMGZHbngyVWZWTGJ3UWswR0hWNGw2VHJfU0l4TENZOEdJVDlheDFJdW5XNE1QWmVqOGNqSm94R2phdEtqY200NWZ1Vnk3SnVFQnJCWHVsSFNMaER3bTF4UjVVZ3NvVGZYN1p6WXJLcnFRd01EcXlhMHZPcHdrYndHbFhpOG9taTlENzBEQm1DSGFLcG1VR2p0UHJMYUc1UlNyMno2T1l2RnFkazFOdS15eVpRUU5ZSUpjWTAzeDNtUUZ1YTAzVTVyVVJ3aHhGUmJISXhielFkazJZck1GT2RVZ2hZSmVHd2FBaDRmd0tCNThEY2hLdmVJbVZrOFRVMk00MHY2RzZuWTQ2VjlUdXQzckRJSFRwT19sQjktd3NuQ0ZUREQ4dDJITnNrMUI0cTRvNklCNVZsaGp6enZHcXNCSlNNaTRpcmlWRFZmU0NwTzlqTdIBgwJBVV95cUxQRkZ5dU1FR1dzVEFqWkxZT2s2ZV84ZUJ0XzM5TnVLSzJOVWtXdkVfVGYzWWtoN3VBa2hfTTRvZHltME0xOVRpRktjMjlDa0Y3QjhXdWdfV3B1Vm83MDhQUl9yOERWd0w4U1BBd1pzSHdkQmo5Wk1wRkQzTU1WZjBLXzdCejFveWJtR2daOTFxMU1XWXpIaElUazY2aTExOWUya3ljdTh2T2dmczNVTU1xcnFkVE5VbVFYNUI1cE8xeUh4amxlQ2wwMm43c2VzZXEwc0U1ZGxwMC1aV3dXRFYyV1ZZZ2d6TFllNFlGVFpSb1BLdDhLQm5jQmlKWlprWFRMUWdv?oc=5",
       "source": "Economic Times",
       "published": "2026-11-27T02:29:06+00:00",
       "excerpt": "",
@@ -260,6 +282,17 @@
       "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
       "source": "TechCrunch",
       "published": "2026-11-26T19:31:50+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Software Development",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "c359246bbdb5",
+      "title": "Auto leaders call for technology ownership, higher R&D investments - ET Auto",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc2YtQ04wMmVFdVRQRjhMY0xTbkdnOTZUaHNtcTc1ZXdFR0NSRy0yVlktUWtNU0x1V0dJSVNZUktQSHRKN3NObEswOTJkUmZtLUktZlVEN2FWN3ltTE9lUU1tLXMxRTM5Mm1Kc0VzaHJMUmJRWWtjbTFTVmxYc0U1dkxoMmJiWkxPMzBjZkZMUl9nd2Mwc0Vpam02X19UYl9FZXhyLW9TX0VGMUFuTEQxbXhEQVVULWVpRmJsNkFMLU1GdGp1dlNqdWQ1YlJVYk1zU0w40gHYAUFVX3lxTE5mbjZGYTNJOEUwYnZjR3dhVHUxV2lEM1EwUjF0Q29XQzVvaFVpNE1qUE1qZHd6Sng1T3c2YTd0elNEV0ROVGNCYzJybnlMc19DQzVpaTVZdkhZNGI1cHN5V21qTkp4NWlPTnk2ZHBCVGxncFVsVmJFcUtZbHV1RDdDQ2cyQm9jcDd1TUdxVklxX3B0UDNpM1gxa0IxZmZINWxVTEkyYXZpYTZjUU5rb21BUEFyaHY1Q0tHTXhhTEJuTTBXRExzV1g4NjJ0VkdzaVJVb0hzZ0ZkLQ?oc=5",
+      "source": "Economic Times",
+      "published": "2026-11-26T17:34:38+00:00",
       "excerpt": "",
       "image": "",
       "category": "Software Development",
@@ -374,7 +407,7 @@
       "excerpt": "",
       "image": "",
       "draftStatus": "needs research",
-      "researchAttempts": 2
+      "researchAttempts": 3
     },
     {
       "id": "5501cc8fce45",
@@ -674,6 +707,17 @@
       "draftStatus": "needs research"
     },
     {
+      "id": "119a7aa1a7bf",
+      "title": "India-China chemical industry partnership to boost specialty fertilizer trade, technology transfer and manuf.. - ET Chemicals",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNVmNUZXFfZHFBYm9OaXpvR05RbDRhbUNhVmI5OVNRdHVDT2RuODJuLXVSeHVFTWtMdGpKcHVCSmFQVmZQZG40ZVMzVGdYbjBaYW9kQ1FGUW5lVi0ta2NORFI1QTZoemhSaldBbk42ZWE1bHlVRndqaUk1RVdaeEE1ZGhsNnJoSC1SQ185QS1ncExIVEhYVk14TWNJWGRRcXhLdF96WTI3aGg3WE5lbTdCS280NXRWUThuSHZYVldmRlVNZy1aRTlObWl6Q2kwNFpGeU1nblp0TkQ4aDhVYTgyQU9GX0JtUzZ2aHlXSzVlZ1U0aWZDOTMycWNvVVBwZzYwdll1c2RqcVhCdEJrazIxcEhUak9aNWliV1VsM9IBogJBVV95cUxOQndQWDVCakR4MHlKRGF0WWNTQkVSMkN2X1VhSDgyN0Jjc2FEVGd6LUx0ZWphaE9ub1V3UG1yWUl4MmNKWVh5eDZrSUJrbW5zMTJrUy1aYTdnNzMwTWsxZUFIZ1VvZHA1RGRFVkRDZTZzNGNhX1ZlaTllNi1qbDlWZWNpbGExaFlWMzJ3UGpEOFphM2VVMmEzTXR3eUx3d29XQUIzWTJURExxdXJtVWozMkQ1aEVQcTJ0Y2tRTEUtczdTLWxYUkJBalRjY0Z5cnJFdlpIeTNoM3JEc1ZCR1l0SmlBdWJ5TEl0ZlJNcG8xaUp2clpxR0VldWFtZGt2TjU1TkZ3ZjdxVjZYb0xDZ0Rwb2Fyb0psaGZMbkhfLTkwb1FGUQ?oc=5",
+      "source": "Economic Times",
+      "published": "2026-11-25T18:46:51+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Software Development",
+      "draftStatus": "needs research"
+    },
+    {
       "id": "1e0fcaa5acba",
       "title": "Report: Key Mainland Smartphone Makers Cut Shipment Targets for Next Yr; XIAOMI-W Axes Target by 25% to 90M Units - TradingView",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMFZYb0F0NEtqaDhlcUNOMWJlZmFnRU8ySVJqaVNoT1FiSWZxX1FtX3I0cEZzVWNyQXNoWFBPRG1ReWVOc21wVFUxLW9sSmc5Uno0WjI1TnNmNGYxZzdCYW1qRktRSHVxTnhLNVoxOHJ6eGtRdGZ3RlkzQkpFMFU5T1U5aTd4QXR3bHRvZEl3azhRMHFLY19BbHpBQWFDTmJGOXVjUTdLa3p1cDJkQnlfOEN5R1hiY1NsNlRJVGVVVVVPVkZDX1E3REs0MTd1WEZRRVZNOWpWaWJJVlhLcE5tSlhGYlNOZHVCdV9UZDRaM3F0TmpHOGVqMWRhSQ?oc=5",
@@ -753,6 +797,17 @@
       "draftStatus": "needs research"
     },
     {
+      "id": "6416a200b308",
+      "title": "IITs to train 6,000 students in robotics and space technology by 2027 with Mehta Family Foundation - ET Education",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSm5Tay1Yd2xVT1R1NEpJaFc0Zzk4Z0hwdTFOb3AxTEFZMW05R2txQVlLSGN4aHl3ZTVGWnRzS1hpYkpVcTd3RmhSTnozeVgtMThKRGhxVUZvMXB3bnFFZjRmZ2hFQ1lMajBLRHpzcElNLXhsOHR3V2VrWWpQWlNKY1VWNkxhMkFYVU12SFNaSU5oXzNlcFN6MVAwMlJQSW9tWEwzUFhUdGtLYWJGUFgwcEtwZWoyV0lHQ0I0bkttMUU0VlZmLWJUUFdjc0JGdExQSUhXNVRiYjYtYmxDZ0RhUFg3R1AtRXN0akFFQUI0WE8wb0tvME1Qa1hFTTDSAYICQVVfeXFMTjI1WU9aN3M3eTZzMEFvWTI4YXVEeV84bElJak9TQ2tSdThLb2hVUFlERm5hOGNYMTV4Ty1ZNWFNMUdOTlRWNmpFMmpGX1BjTTlGdjN3WnpmckJHNkZ4T1NmVFhRblpsdGNrMkZRcUxaWkNCeXlwOE9oMW00OXNlVGo3VHRKMlBlckNLZlNJUWprUFBlYWYwTy1vWWlZc29NN2M1bHhaMzlyTjdEams4S0lwMlQtM1VEV2hGSmJqN2VZdDBGdXRoMXVRMDQtZDBNOGNKOHJ1YUJLU3JXNmNfX1lmNV9meXBFTEw4dXJSNjRKTDliSm8tTGQwUXpUSTFCbE5R?oc=5",
+      "source": "Economic Times",
+      "published": "2026-11-25T17:18:07+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Software Development",
+      "draftStatus": "needs research"
+    },
+    {
       "id": "2651c3911177",
       "title": "Rayman Legends Retold Story Deep Dive: Expanded Narrative, Voiced Cinematics, Localizations, and More! - Ubisoft",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdXBfa2tBR0kteXFMdF9wZy00bHh0SlNHSjZQVDFJQ1VVV0hyZTV5YUE2VWJGTl9ZaFcyaElMdWhDVWFFcDR4d2ZEeXhQZE1OME1RcHdKRHBqWE44cHZVbmwxTHB5MEJZQUxVWllrYld3cVFfVmdKWHluZmk4ejlFOTA2NU8tLXNIMWhZMDRteFVtT2sxRjhHdUNZTk56MWRKajJaTzkzY0RIU2hyYkM5Y0VKZ2UtODF4cGRDNWp0RnJPTzducE1oUGdpZnNCa2F6cmVCSGxiZjhjSlYtVVpGVEw3U3kzY3Bmc0dIaTZDdUw?oc=5",
@@ -784,7 +839,7 @@
       "excerpt": "",
       "image": "",
       "draftStatus": "needs research",
-      "researchAttempts": 1
+      "researchAttempts": 2
     },
     {
       "id": "3e41b932706a",
@@ -841,7 +896,7 @@
       "excerpt": "",
       "image": "",
       "draftStatus": "needs research",
-      "researchAttempts": 1
+      "researchAttempts": 2
     },
     {
       "id": "91f4eb98a8b1",
@@ -979,17 +1034,6 @@
       "draftStatus": "needs research"
     },
     {
-      "id": "6416a200b308",
-      "title": "IITs to train 6,000 students in robotics and space technology by 2027 with Mehta Family Foundation - ET Education",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSm5Tay1Yd2xVT1R1NEpJaFc0Zzk4Z0hwdTFOb3AxTEFZMW05R2txQVlLSGN4aHl3ZTVGWnRzS1hpYkpVcTd3RmhSTnozeVgtMThKRGhxVUZvMXB3bnFFZjRmZ2hFQ1lMajBLRHpzcElNLXhsOHR3V2VrWWpQWlNKY1VWNkxhMkFYVU12SFNaSU5oXzNlcFN6MVAwMlJQSW9tWEwzUFhUdGtLYWJGUFgwcEtwZWoyV0lHQ0I0bkttMUU0VlZmLWJUUFdjc0JGdExQSUhXNVRiYjYtYmxDZ0RhUFg3R1AtRXN0akFFQUI0WE8wb0tvME1Qa1hFTTDSAYICQVVfeXFMTjI1WU9aN3M3eTZzMEFvWTI4YXVEeV84bElJak9TQ2tSdThLb2hVUFlERm5hOGNYMTV4Ty1ZNWFNMUdOTlRWNmpFMmpGX1BjTTlGdjN3WnpmckJHNkZ4T1NmVFhRblpsdGNrMkZRcUxaWkNCeXlwOE9oMW00OXNlVGo3VHRKMlBlckNLZlNJUWprUFBlYWYwTy1vWWlZc29NN2M1bHhaMzlyTjdEams4S0lwMlQtM1VEV2hGSmJqN2VZdDBGdXRoMXVRMDQtZDBNOGNKOHJ1YUJLU3JXNmNfX1lmNV9meXBFTEw4dXJSNjRKTDliSm8tTGQwUXpUSTFCbE5R?oc=5",
-      "source": "Economic Times",
-      "published": "2026-11-25T11:26:15+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Software Development",
-      "draftStatus": "needs research"
-    },
-    {
       "id": "5216b4789cba",
       "title": "iQOO 16S May Launch In India As Upcoming Smartphone Appears On BIS Website - News18",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMVo4NnBTMHRPazRka0JqbXRkM21OU1g5cy16S1NJOERRZ0pCaFBWcU1OelBBSnJZdTJFLTR6V3A0ZzQxQlZFY00wblh5QW01UlFDQ21NYThtX1NkUDcyT19TYnBmd3ltRk5mZjZtQzVISEhqTHVXUGxaX0VYTUF4MW01NFlKaTk4UFZfQ1NCRWZiclU0U3NlTURJRHJiTExwWmxFTE82eXFjdW92eEJ3ZWgySVVvQnFGUWYya2EzeDPSAcYBQVVfeXFMT1Bac3IySXRrMmxkVGc5V19vM2RtemdXMURoTEZQYmI4bGQ5b0JMWmpoRTI1SlhvTGZXY0w0cnpFX2N2b0NBZ1kzQW9HaERWRjV1UHZwcWJLVzgxQVhmdnZsTzhnMGJPRFNlMWhURHk0bWNMb3pNMXE0REVWelNjQ1RGUWY2QnUwOE1idlAyUk1YWkZpczVMODhWZ0xFSlRYVGJCU2lEX0RLS1p5WmZyVlNsenNLdTZWTkd3WnMxSF9kV3VYVm9n?oc=5",
@@ -1006,17 +1050,6 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbWxVU3RET01OUmI1djRPUUFGR2JHWFI5UmRQamd3RkVIbEtrQmZmOEFKTV9XdUtLaVFWd3BwODZEZTlnYUZRblJMUzY4ZVlLTDZBbW5FTWZCTXYtVURKcnpWTEVfRkItSnJOcVNXY2lMY0U4dlFnWkgtZ1VVb2duUmEwVzRCQ1c5Tk1QbHVIMVk1TlYyRXZzQWs1ekV6dl9zZjhtVUwtNVJLRFNCLXVlbkNSM19Tempoemc?oc=5",
       "source": "Google News",
       "published": "2026-11-25T10:33:58+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Software Development",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "119a7aa1a7bf",
-      "title": "India-China chemical industry partnership to boost specialty fertilizer trade, technology transfer and manuf.. - ET Chemicals",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNVmNUZXFfZHFBYm9OaXpvR05RbDRhbUNhVmI5OVNRdHVDT2RuODJuLXVSeHVFTWtMdGpKcHVCSmFQVmZQZG40ZVMzVGdYbjBaYW9kQ1FGUW5lVi0ta2NORFI1QTZoemhSaldBbk42ZWE1bHlVRndqaUk1RVdaeEE1ZGhsNnJoSC1SQ185QS1ncExIVEhYVk14TWNJWGRRcXhLdF96WTI3aGg3WE5lbTdCS280NXRWUThuSHZYVldmRlVNZy1aRTlObWl6Q2kwNFpGeU1nblp0TkQ4aDhVYTgyQU9GX0JtUzZ2aHlXSzVlZ1U0aWZDOTMycWNvVVBwZzYwdll1c2RqcVhCdEJrazIxcEhUak9aNWliV1VsM9IBogJBVV95cUxOQndQWDVCakR4MHlKRGF0WWNTQkVSMkN2X1VhSDgyN0Jjc2FEVGd6LUx0ZWphaE9ub1V3UG1yWUl4MmNKWVh5eDZrSUJrbW5zMTJrUy1aYTdnNzMwTWsxZUFIZ1VvZHA1RGRFVkRDZTZzNGNhX1ZlaTllNi1qbDlWZWNpbGExaFlWMzJ3UGpEOFphM2VVMmEzTXR3eUx3d29XQUIzWTJURExxdXJtVWozMkQ1aEVQcTJ0Y2tRTEUtczdTLWxYUkJBalRjY0Z5cnJFdlpIeTNoM3JEc1ZCR1l0SmlBdWJ5TEl0ZlJNcG8xaUp2clpxR0VldWFtZGt2TjU1TkZ3ZjdxVjZYb0xDZ0Rwb2Fyb0psaGZMbkhfLTkwb1FGUQ?oc=5",
-      "source": "Economic Times",
-      "published": "2026-11-25T10:07:42+00:00",
       "excerpt": "",
       "image": "",
       "category": "Software Development",
@@ -1299,41 +1332,6 @@
       "draftStatus": "needs research"
     },
     {
-      "id": "72fd424c711a",
-      "title": "In all-hands meeting, Jensen Huang thanks White House and says he\u2019s in therapy",
-      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
-      "source": "TechCrunch",
-      "published": "2026-11-24T21:48:27+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Artificial Intelligence",
-      "draftStatus": "needs research",
-      "researchAttempts": 1
-    },
-    {
-      "id": "470add36a884",
-      "title": "Amazon to acquire Decart\u2019s AI optimisation technology in $7.5 billion deal - ET Entrepreneur",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYnp1amh4WWljWWYzeUg5TE5CSGNwZ3hfbGt0Z1Y3dlpZRTN0OG5pNmpmSjVGSE9xWEFvUWwzaWZFVzVXbFY5ajIzblVQWE81Vm9uclBnNWo5NjdBSldWUlRaTlRfa0NhZDNEc1ZTU3RoZDBjNnVDaThucVNSTHdWMUdjRkZrMkduZ0NZRGxHcWhVVHNDTE5ZX0I3bmhLWTI0SjhlNHRRSlJQYmxoZTc3MWlnNm9vUEQ2SVBqQTlZWUhNdE9KQnlfa3g2Q29jTHRvalhN0gHYAUFVX3lxTE8zR05kdVhqVUc4OUtTRTRoSW8yUFhiR1NPUUJHOUR3TDItSW9jVlZwM01HZHNock04d2Q5OWZjNDBhckNnSmVWbWZtWmswYnlzNkdraUtjZHZfb0V3NkY5VU1xX0pUR3lPSWlKeVBnQmUwa05jOHdzbHY3Z0FIcEEtbHF6eXp1N1RrdC1ONHh1NjMwWDdYTEZUQzdXY0N0MS1nRU9WUUV3MjFyTjRWS0p1OWZ5cGdpV1E5X1l5di1Qc3VnUkpvaDRKaFY2V09sTTNuaTVFcWtyYQ?oc=5",
-      "source": "Economic Times",
-      "published": "2026-11-24T21:45:36+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Artificial Intelligence",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "71615ee1ebfd",
-      "title": "Even the best AI agents struggle with everyday life",
-      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-      "source": "TechCrunch",
-      "published": "2026-11-24T21:33:29+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Artificial Intelligence",
-      "draftStatus": "needs research",
-      "researchAttempts": 1
-    },
-    {
       "id": "307ec7853a39",
       "title": "These are the gifts developers will actually want",
       "url": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/",
@@ -1342,7 +1340,8 @@
       "category": "Software Development",
       "excerpt": "",
       "image": "",
-      "draftStatus": "needs research"
+      "draftStatus": "needs research",
+      "researchAttempts": 1
     }
   ]
 }
