@@ -1,21 +1,4 @@
 {
-  "items": [
-    {
-      "id": "nmwypoddfh1uo",
-      "title": "AWS Updates Lambda Timeout and Adds GPU Support",
-      "summary": "AWS announced updates to its Lambda service, including doubling the timeout from 30 minutes to 60 minutes, and introducing support for running on GPUs.",
-      "articleBody": "AWS has expanded the timeout limit for its Lambda service, increasing the maximum execution time from 30 minutes to 60 minutes. This change is significant for developers who previously had to manage their code to run within a 30-minute window. The update comes after years of maintaining a 15-minute timeout limit, which was last adjusted in 2018. This new limit is expected to allow for more complex and resource-intensive tasks to be handled efficiently within the service. Additionally, AWS Lambda now supports running on GPUs, providing a new level of processing power for applications that require high-performance computing capabilities. This addition to the service is expected to benefit developers working on applications such as machine learning, data processing, and other compute-intensive tasks.",
-      "author": "RevenueInfoTech Editorial Desk",
-      "source": "AWS News",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
-      "image": "https://revenueinfotech.com/logo/news-graphics/955aca5da66af43b.svg",
-      "category": "Cloud Computing",
-      "sources": [],
-      "section": "brief",
-      "status": "scheduled",
-      "editorApproved": true,
-      "publishAt": "2026-11-27T08:20:22.323Z"
-    }
-  ],
-  "lastReleasedAt": "2026-11-27T07:09:06.430155+00:00"
+  "items": [],
+  "lastReleasedAt": "2026-11-27T08:24:40.295090+00:00"
 }
