@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-27T06:30:39+00:00",
+  "updated": "2026-11-27T08:16:05+00:00",
   "items": [
+    {
+      "id": "9b9af639c721",
+      "title": "Japan's JERA enters talks with Anthropic, Meta to build data centres - ET CIO",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxONDFlaHppS2R1cWxUamJXOTdVbGF3ZklFVUtZc3lrbElQaW9FQ0lNa1l6dnU1cHl2ZjM0UjZ4bXhpSWNhOFV5eTRtZzI4S1FMWGJIaGJyZjRjMnl5S3ltWXJyMzFSRjQ2WnNKM1FUS1luU29nMTF4aUpMa1RoV2NKMkJ6R1ZqUU1YSjZSTnotaFp4N1BhUkVVeUlwSmNSbUNEVE5EQ2NiaGRQS1J6RDZHeXRybGpFZGk0OEZISkdVaE1HOFZNbDFTcmhQWnE0VVRjcWVBMDNJOXJSNTVMOHc5aVhsdmFCRjhNUUlualljOEpYd2E5LW01RjVweVdUUVAyY1gtQlBpLUt2cHY3aVhVOElEYjZ4aGvSAdQBQVVfeXFMUFhTY192akVWU1dJZTcwcTVyd25QVDNSVXQ0SHA1UVZqMFRadG16NU42SXp5QmxsalpkLTlETlc0OVpONHR6QzNQLVlBYTUzUUp6dWtRV3UzeWl6WmZ1RmQtcWRUdDJrNVEzaHlacU9UTWlKaS02ZUxtVjZnZ05GeEp3VWZyZUxKRWJpM1NRUVZFZkxZck0wMFN3ZnNTaDhBVngxYU9nOXhsTEJYTzhORGwxYnBaRldiMWFkYmlzSTBJcWJQUVROMHBWdTVSN1JQOVR4REQ?oc=5",
+      "source": "Economic Times",
+      "published": "2026-11-27T06:30:25+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Artificial Intelligence",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "1e6ad2788971",
+      "title": "SAP flags security incident, says no evidence of unauthorized access to customer data - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN095Q1ozZFFLS1labVpzakhmSEJWeWljRVN2RmxUWlBPOUVvNU5kQVB0NVpOTmhDRjZndEw4RFJwMDd4cWVOWTR1djR1R1BfOEtyVUU3cUQ0a0ZqdTNlZUNJV1V1bXBNSkF2WUNLOUR2ejFqcTJXdlRYd0c3cHlsOUh2cndMWHNOczJjdG0xam9ULUhfU0hPaDJrbUFOWGp1SFJyaWxyNURyaHd1Q2kweGJ2N0trMHRPWVFlM0E1UEJBZWc?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-27T06:30:00+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Cybersecurity",
+      "draftStatus": "needs research"
+    },
     {
       "id": "4586067574de",
       "title": "Wordle today: The answer and hints for November 27, 2026 - Mashable",
@@ -220,6 +242,18 @@
       "image": "",
       "category": "Operating Systems",
       "draftStatus": "needs research"
+    },
+    {
+      "id": "ff7c1d626667",
+      "title": "Come for the Games, Stay for the Community With GeForce NOW",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/",
+      "source": "NVIDIA Blog",
+      "published": "2026-11-26T14:00:22+00:00",
+      "category": "Cloud Computing",
+      "excerpt": "",
+      "image": "",
+      "draftStatus": "needs research",
+      "researchAttempts": 1
     },
     {
       "id": "96151971228b",
@@ -778,6 +812,17 @@
       "draftStatus": "needs research"
     },
     {
+      "id": "168815064e98",
+      "title": "Meta officials meet India's opposition Congress amid protests on content curbs, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcnhaempkSHZWLTF5eVhTNC1qNmlwandab2ZSNERLTElpWGVjMGl1OGhoc1lvUmdTaC0yWG9ydXFQRVcteFhFQ0llNGhTaTdQdXdqUVBnVVQyZm5oaVFtQW9FRFF5ZnotRHVvc2k2cV9ENlpkSzgtR2x4SXIwWWFlTDBRNzJsLTFGbHptckFOUkN1bENXV1pCUHZjcHZ1MkRrRUU5UmFCWVUyd296NXJBMVFQSFVwelk5eEc4ZWhOS1ZFT1U?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-25T09:41:44+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Software Development",
+      "draftStatus": "needs research"
+    },
+    {
       "id": "c0bb500d1d8e",
       "title": "Europe plans \u20ac50 billion sovereign tech equity fund to boost quantum technology - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOXFtYzV4Q1BPdHJjUUVxbFZjWXRCUTJSQnlzcjBYd1k0VkRqd2I1SmdjZXg3MTdPLURBRjQwR3FTMWpoOWx6eWRWNDZvT3ZMUmhHUzJiYmdJQ3hlQXU0Q25EMlc4NUJpYWhkREtOaW1aMURtbTJneGFCd2lITi0zODJPU1NoZnZCYkMtMlJqcFJlRWJMY0hkX0hIQ3Y5cEl6clhPblYzQTgyYjZ5NVA3VjBKY0RsV1BfY2t6SmppcVcydnRiazlpWFA5VnkwX21McEdod0t3TEo1c0I3dzh3dHY2Z090WHFuVlFXVjFR0gHnAUFVX3lxTE95NTJScTFsTkJhdkZuLTRCM0xMRmlUcG5vdl8wNGhwTXVHSnBXS08xR0pvaUh6eFZ5alVORWwwZUNFVlByN09mcWQzZUpLY2JiclE4YTZVbk95YXA1UGQ5cENOa3NVdFBMNHhCU1RFalozaWdTWnJxb3JObVlraE9kdlRjamRJdldaSFh5TUdvUG5lUlkySkd6RmpTaUhaQzZ5N0FVN1Z4R3NIWF9ua2hDMkdvNUNncF94Ul9yZ21nRHNnLURDUjRfWi1QY3hYZlFBcmhGbW1DZi1tQ0t0RUU4bF82bDBtRQ?oc=5",
@@ -849,17 +894,6 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRUp0Si1pZjRaMXJucFpFeWQ3OURDd3lEcWhxcWo1NnJuNnZzTy1zU2NBMk5jLTJ4RVh6dHhEWDNpZlJfSDBMTC1aT29yRjh4VW15bDF0Zi1yS1MwRUJWNUJXb1N4YTRyUllpeDBaUzRPRjNwTEFuT0hOYkxfMGFNNlJVTHo1TkgwdWdLZS1XZFZKTnU4ZDNKeUg0ZEU4cWxRMjFveGNLbw?oc=5",
       "source": "Google News",
       "published": "2026-11-25T07:43:00+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Software Development",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "168815064e98",
-      "title": "Meta officials meet India's opposition Congress amid protests on content curbs, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcnhaempkSHZWLTF5eVhTNC1qNmlwandab2ZSNERLTElpWGVjMGl1OGhoc1lvUmdTaC0yWG9ydXFQRVcteFhFQ0llNGhTaTdQdXdqUVBnVVQyZm5oaVFtQW9FRFF5ZnotRHVvc2k2cV9ENlpkSzgtR2x4SXIwWWFlTDBRNzJsLTFGbHptckFOUkN1bENXV1pCUHZjcHZ1MkRrRUU5UmFCWVUyd296NXJBMVFQSFVwelk5eEc4ZWhOS1ZFT1U?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-25T07:33:00+00:00",
       "excerpt": "",
       "image": "",
       "category": "Software Development",
@@ -1310,17 +1344,6 @@
       "draftStatus": "needs research"
     },
     {
-      "id": "5845ed4863b4",
-      "title": "Amazon\u2019s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-      "source": "TechCrunch",
-      "published": "2026-11-24T15:51:07+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Artificial Intelligence",
-      "draftStatus": "needs research"
-    },
-    {
       "id": "1474c6279afd",
       "title": "AWS Weekly Roundup: Local Zone in Bogot\u00e1, 30-minute Lambda timeout, and more (November 24, 2026)",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
@@ -1329,46 +1352,22 @@
       "category": "Cloud Computing",
       "excerpt": "",
       "image": "",
-      "draftStatus": "needs research",
-      "researchAttempts": 1
-    },
-    {
-      "id": "ff7c1d626667",
-      "title": "Come for the Games, Stay for the Community With GeForce NOW",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/",
-      "source": "NVIDIA Blog",
-      "published": "2026-11-26T14:00:22+00:00",
-      "category": "Cloud Computing",
-      "excerpt": "",
-      "image": "",
-      "draftStatus": "needs research",
-      "researchAttempts": 1
-    },
-    {
-      "id": "a88353929e99",
-      "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
-      "url": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
-      "source": "NVIDIA Blog",
-      "published": "2026-11-23T17:00:08+00:00",
-      "category": "Artificial Intelligence",
-      "excerpt": "",
-      "image": "",
       "draftStatus": "review required",
       "researchAttempts": 1,
       "draft": {
-        "title": "NVIDIA Launches Holiday Campaign Encouraging Play, Build, and Create with Technologies",
-        "summary": "NVIDIA, the technology company, is promoting a holiday campaign encouraging users to engage in various creative activities using their technologies. The campaign aims to inspire people to explore new hobbies or improve existing ones.",
-        "articleBody": "The holiday season is traditionally a time for giving, but NVIDIA is encouraging recipients to give themselves something to look forward to. The company is launching a campaign that promotes the use of its technologies for play, building, and creating. This campaign is designed to inspire users to explore new hobbies or enhance existing ones. One of the key points of the campaign is the promotion of new games, which are expected to be released in the coming months. These games are expected to offer a new level of engagement and enjoyment for players. NVIDIA is also highlighting the versatility of its technologies, such as its graphics processing units (GPUs), which can be used in various applications including gaming, design, and education. The campaign aims to show how these technologies can be used to create and share content, making the holiday season more engaging and interactive.",
-        "verificationNotes": "The campaign is based on the information provided in the NVIDIA Blog post. The specific details about the new games and their features are not confirmed and are subject to change.",
+        "title": "AWS Updates Lambda Timeout and Adds GPU Support",
+        "summary": "AWS announced updates to its Lambda service, including doubling the timeout from 30 minutes to 60 minutes, and introducing support for running on GPUs.",
+        "articleBody": "AWS has expanded the timeout limit for its Lambda service, increasing the maximum execution time from 30 minutes to 60 minutes. This change is significant for developers who previously had to manage their code to run within a 30-minute window. The update comes after years of maintaining a 15-minute timeout limit, which was last adjusted in 2018. This new limit is expected to allow for more complex and resource-intensive tasks to be handled efficiently within the service. Additionally, AWS Lambda now supports running on GPUs, providing a new level of processing power for applications that require high-performance computing capabilities. This addition to the service is expected to benefit developers working on applications such as machine learning, data processing, and other compute-intensive tasks.",
+        "verificationNotes": "AWS announced these updates on November 24, 2026, and the changes were effective immediately. The article provides a link to the original announcement on the AWS blog.",
         "provider": "OLLAMA"
       },
       "draftVersion": 4,
-      "draftImage": "https://revenueinfotech.com/logo/news-graphics/54f2316ecc01fa7a.svg",
+      "draftImage": "https://revenueinfotech.com/logo/news-graphics/955aca5da66af43b.svg",
       "researchSources": [
         {
-          "source": "NVIDIA Blog",
-          "url": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
-          "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season"
+          "source": "AWS News",
+          "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+          "title": "AWS Weekly Roundup: Local Zone in Bogot\u00e1, 30-minute Lambda timeout, and more (November 24, 2026)"
         }
       ]
     }
