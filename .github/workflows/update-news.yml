@@ -38,6 +38,8 @@ jobs:
         continue-on-error: true
         run: python3 scripts/fetch_news.py
       - name: Install free local model
+        env:
+          NEWS_AI_MODEL: ${{ vars.NEWS_AI_MODEL }}
         if: github.event_name != 'push'
         run: |
           if ! command -v ollama >/dev/null; then
@@ -46,11 +48,13 @@ jobs:
           fi
           if ! curl -fsS http://127.0.0.1:11434/api/tags >/dev/null; then ollama serve > /tmp/ollama.log 2>&1 & fi
           for i in $(seq 1 30); do if curl -fsS http://127.0.0.1:11434/api/tags >/dev/null; then break; fi; sleep 2; done
-          ollama pull qwen2.5:3b
+          model="${NEWS_AI_MODEL:-qwen2.5:3b}"
+          ollama show "$model" >/dev/null 2>&1 || ollama pull "$model"
         continue-on-error: true
       - name: Prepare editorial drafts
         if: github.event_name != 'push'
         env:
+          NEWS_AI_MODEL: ${{ vars.NEWS_AI_MODEL || 'qwen2.5:3b' }}
           DRAFT_LIMIT: ${{ inputs.draft_limit || '10' }}
           PROVIDER_RUN_LIMIT: "6"
           OLLAMA_RUN_LIMIT: "40"
