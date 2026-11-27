@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-27T09:35:06+00:00",
+  "updated": "2026-11-27T10:24:42+00:00",
   "items": [
+    {
+      "id": "66aed6612ee7",
+      "title": "Japan's JERA enters talks with Anthropic, Meta to build data centres - ET Enterprise AI",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdXhJQ2VkdFViU054bnZnb0dvcmZjWC16eUdaSEhQdlp1eE1ZNW1XVmtBUGZTUE9XZXVXYnZyYnViSE5rLU8xV1pPUjMtUDdYVUZ5Y25GS282SmpjZGdtMzJQNXM5OFVmMXJsZGRmNkNKRk9CejJSS0hOcTRkSWpPN0lyVjBlYXF0by1yVUFKTEpndGxLNmJWQm9OdjBlTUVmNnBWaFVmS1QxbU5FVnpUcW5FbFRUUl8tTXYtMWtzMFpGVVYwVzJnbnFyanc1cm9yUWFsWUNzV3lhVFla0gHcAUFVX3lxTE11eElDZWR0VWJTTnhudmdvR29yZmNYLXp5R1pISFB2WnV4TVk1bVdWa0FQZlNQT1dldVdidnJidWJITmstTzFXWk9SMy1QN1hVRnljbkZLbzZKamNkZ20zMlA1czk4VWYxcmxkZGY2Q0pGT0J6MlJLSE5xNGRJak83SXJWMGVhcXRvLXJVQUpMSmd0bEs2YlZCb052MGVNRWY2cFZoVWZLVDFtTkVWelRxbkVsVFRSXy1Ndi0xa3MwWkZVVjBXMmducXJqdzVyb3JRYWxZQ3NXeWFUWVo?oc=5",
+      "source": "Economic Times",
+      "published": "2026-11-27T08:10:48+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Artificial Intelligence",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "d3cb9aab7536",
+      "title": "CERT-In flags security vulnerability in WhatsApp on phones, PCs - Deccan Herald",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcGFISzQ4MWxzV3BKeXotUTI4X0hESm12NktXdjlmM2xMX0x3akhqdGxydk0xaFRoU21ZcXEzaWI2WWhxYW81alhGamd6N1pKZlNiSzhRZURLZGhxYzZ0b2ljd3N6ZFA0MkFuam4yek1DMlhmY1ZILVVPV1VISlE3OGdKZlh1Zy1SSlF1Um5vc1FIWVpndE1ERnFsNVN4d0thcWRoelEwd0plOFFRMFNv?oc=5",
+      "source": "Google News",
+      "published": "2026-11-27T08:07:59+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Cybersecurity",
+      "draftStatus": "needs research"
+    },
     {
       "id": "efa399df6229",
       "title": "I've scoured the internet to find the 65 best Black Friday laptop deals from Apple, Dell, Asus, HP, and more - Mashable",
@@ -46,11 +68,11 @@
       "draftStatus": "needs research"
     },
     {
-      "id": "9b9af639c721",
-      "title": "Japan's JERA enters talks with Anthropic, Meta to build data centres - ET CIO",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxONDFlaHppS2R1cWxUamJXOTdVbGF3ZklFVUtZc3lrbElQaW9FQ0lNa1l6dnU1cHl2ZjM0UjZ4bXhpSWNhOFV5eTRtZzI4S1FMWGJIaGJyZjRjMnl5S3ltWXJyMzFSRjQ2WnNKM1FUS1luU29nMTF4aUpMa1RoV2NKMkJ6R1ZqUU1YSjZSTnotaFp4N1BhUkVVeUlwSmNSbUNEVE5EQ2NiaGRQS1J6RDZHeXRybGpFZGk0OEZISkdVaE1HOFZNbDFTcmhQWnE0VVRjcWVBMDNJOXJSNTVMOHc5aVhsdmFCRjhNUUlualljOEpYd2E5LW01RjVweVdUUVAyY1gtQlBpLUt2cHY3aVhVOElEYjZ4aGvSAdQBQVVfeXFMUFhTY192akVWU1dJZTcwcTVyd25QVDNSVXQ0SHA1UVZqMFRadG16NU42SXp5QmxsalpkLTlETlc0OVpONHR6QzNQLVlBYTUzUUp6dWtRV3UzeWl6WmZ1RmQtcWRUdDJrNVEzaHlacU9UTWlKaS02ZUxtVjZnZ05GeEp3VWZyZUxKRWJpM1NRUVZFZkxZck0wMFN3ZnNTaDhBVngxYU9nOXhsTEJYTzhORGwxYnBaRldiMWFkYmlzSTBJcWJQUVROMHBWdTVSN1JQOVR4REQ?oc=5",
-      "source": "Economic Times",
-      "published": "2026-11-27T06:30:25+00:00",
+      "id": "905409b8e717",
+      "title": "Things won't go well: Google DeepMind AI researcher is stressed, hopes her family stays away from AI - India Today",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMV9KOElnVXpEckdONXMwZTYwaWZOLUxyaUw0UzBjZnQ1QnBXQzhJLTVBdGp4bE9MbXBidXdQWjBwZ2FJc2t0LUJYR2s5d1RMVldNTjk3Nm52NlljMElST1pkNnY0RHR0STBnX1ZVUTc4a0pZZWlSRS1RLUpMdjM3STd4VDN4emRvVzktRmVkZEdPc3p1c0E0ei1BWjZodGR1Um5nYlItdXdVc0tvYnF3cmJubG93X1JwWFJqUG56NnUyN3lfNW1GTm9zUFduRDZZZlJ4dXlLd0VDMll0dmp0SnBaTHNLVnJkZVRSeHB4U1V2WEVuYmhn0gH8AUFVX3lxTE5vSjd1VHJzbHp6UjJGMDgtOGpzSnh6OVRFQTRQMk43dk90YzZJN3BwWTd5TTBKMEViQ1RWLTdMWXZLS0h5dXRnR3VzeTgtcmNkUmFYN1MyVE1naWdyQXo1ZFRCRV9HY0E4UTMxMGhwTUlNVWpqYnNqSXVqbWZxejlPYVhxbWtfSW1ERXhEUzEzWHRIcjNPT1d6OV9BdDI3M2dLVllXSjU0R0RBbWVlbmdWaEdxbGRQOEowYTVoVDRXekR6eW5US3I0UDRsSUVXcjVCeUF1M2ktMHkyQWRFQ0VvLUtmRkZYdG5wUF9YMml3QmpUSmxOMWQzd2JHVQ?oc=5",
+      "source": "Google News",
+      "published": "2026-11-27T06:35:29+00:00",
       "excerpt": "",
       "image": "",
       "category": "Artificial Intelligence",
@@ -86,7 +108,7 @@
       "published": "2026-11-27T06:27:52+00:00",
       "excerpt": "",
       "image": "",
-      "category": "Software Development",
+      "category": "Operating Systems",
       "draftStatus": "needs research"
     },
     {
@@ -95,6 +117,17 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMXJxelp5aWNtTFpqcGpwVkFRTjhnaDBBUG1LM3V5SUNNOFRvckZCaG9hSWFtUjlDdnFXdjJwRVowMERvTm5EZ05CcVpCNnVkTUVrWm9oTjlqRThJNnVBZUswX25HUnFXRUJnbkN4czdhUk5RVWpId0xmWlFvRG5YNk5ncF81c1k5MmJKaFZGQk5hc1loN2hTNEo2T0tOaG1CY2Q2X1ltdmJRYXZIRmdjVDB2MFpEWTFJbHc?oc=5",
       "source": "Google News",
       "published": "2026-11-27T06:15:00+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Software Development",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "6d5c00bcc599",
+      "title": "Reliance Digitals Black Friday Sale: Enjoy Up to 50% Off on Smartphones, Laptops, TVs, Home Appliances and More - TheWire.in",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTmFYbEpSb1hqNDBNYUVGRWlZWVBYaFRHZGx2UFkzTWdoOTZpY2cxdHJzdnE4UE5mX0d4NUpIUDNsLUhhdGtveldldU9qZmZoMlY2M1hSLXJJZUZDSnNYMVIwZ0I1WWxmdUVsWE1BY0R6TnNDNHotSDdxZjh3ZzFxeDZIaXRmRDVsZENUUkNxaTBHdXM1S0dRSGRPaktRMTJsSjhWWEVzZmF6dGY5U184c19DeVUzamoxSEdCeHlaOGV5dTFWQzFETUYyLWZjNnMteE5KVE56LV9kWUVRT3fSAeMBQVVfeXFMTnRGdlVia0t3aXNLX0l4Zm5kTXBJc2pqOGNUTzhrQ29saGNlbk9GNVVGOU15NzI4V3pXYTZxRkd1QTRFTHVGSDEtcG5kX2hIeHZVb0NELTBHeE4tLWFWcXkwdmNnNFhxVGlFN0ZTQ1pneEdUSHNSQnU0MlVJQ3ZiRDg2eFh4MGluNVRZVVBSOEtTSG4zb0xfNkdxY2szMEZJNm5yUDYwSHBZRGlMYWdTNkpLb0VvQjZwU1BXWXVrSGhUS1pUaEZtMWp0Y3pWZjZCcE40VFhjZTVqbnN6NnZpYTJLNnc?oc=5",
+      "source": "Google News",
+      "published": "2026-11-27T05:37:55+00:00",
       "excerpt": "",
       "image": "",
       "category": "Software Development",
@@ -189,9 +222,9 @@
       "draftStatus": "needs research"
     },
     {
-      "id": "7d6b527a3876",
+      "id": "ee616aad0c2d",
       "title": "AI may put 24 million knowledge-worker jobs at risk globally over five years: JP Morgan - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNZVpCMlpUeVhZbHJGWmxHTHVtM1dfbTR1MDgtTjh1TmUwVXpyaURUdkJNWWxXNHpicW55UGNkZ24zZmluZExxRk4zeXhRYmRiWTQySWs1VEQ1VXVmU0FDWU1jUzVzRzlqWWpMeDBjNThCRENDZURTaVdUODVRY0Q1bVBUbWdldm5SQnFkMG5OVGsydm5uWDNxSnprUkpVZklxd3ZPT0lIY1JKMjZCdl81MUZ6UjZNNDJXLXREVnJNNlBqSkowWHhMeU9mV0M5NnlKV24zX2stNnI5LTJsNkRZaWZ2RWhMaWFxMkNucjlZRE8tYXYxTWtSWS16WUtMdDc1R3RraVZpckMyUdIBgwJBVV95cUxQRkZ5dU1FR1dzVEFqWkxZT2s2ZV84ZUJ0XzM5TnVLSzJOVWtXdkVfVGYzWWtoN3VBa2hfTTRvZHltME0xOVRpRktjMjlDa0Y3QjhXdWdfV3B1Vm83MDhQUl9yOERWd0w4U1BBd1pzSHdkQmo5Wk1wRkQzTU1WZjBLXzdCejFveWJtR2daOTFxMU1XWXpIaElUazY2aTExOWUya3ljdTh2T2dmczNVTU1xcnFkVE5VbVFYNUI1cE8xeUh4amxlQ2wwMm43c2VzZXEwc0U1ZGxwMC1aV3dXRFYyV1ZZZ2d6TFllNFlGVFpSb1BLdDhLQm5jQmlKWlprWFRMUWdv?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNWWNPZ3NtbnZpYVRoeWRFeGRYQU4tMGZHbngyVWZWTGJ3UWswR0hWNGw2VHJfU0l4TENZOEdJVDlheDFJdW5XNE1QWmVqOGNqSm94R2phdEtqY200NWZ1Vnk3SnVFQnJCWHVsSFNMaER3bTF4UjVVZ3NvVGZYN1p6WXJLcnFRd01EcXlhMHZPcHdrYndHbFhpOG9taTlENzBEQm1DSGFLcG1VR2p0UHJMYUc1UlNyMno2T1l2RnFkazFOdS15eVpRUU5ZSUpjWTAzeDNtUUZ1YTAzVTVyVVJ3aHhGUmJISXhielFkazJZck1GT2RVZ2hZSmVHd2FBaDRmd0tCNThEY2hLdmVJbVZrOFRVMk00MHY2RzZuWTQ2VjlUdXQzckRJSFRwT19sQjktd3NuQ0ZUREQ4dDJITnNrMUI0cTRvNklCNVZsaGp6enZHcXNCSlNNaTRpcmlWRFZmU0NwTzlqTdIBgwJBVV95cUxQRkZ5dU1FR1dzVEFqWkxZT2s2ZV84ZUJ0XzM5TnVLSzJOVWtXdkVfVGYzWWtoN3VBa2hfTTRvZHltME0xOVRpRktjMjlDa0Y3QjhXdWdfV3B1Vm83MDhQUl9yOERWd0w4U1BBd1pzSHdkQmo5Wk1wRkQzTU1WZjBLXzdCejFveWJtR2daOTFxMU1XWXpIaElUazY2aTExOWUya3ljdTh2T2dmczNVTU1xcnFkVE5VbVFYNUI1cE8xeUh4amxlQ2wwMm43c2VzZXEwc0U1ZGxwMC1aV3dXRFYyV1ZZZ2d6TFllNFlGVFpSb1BLdDhLQm5jQmlKWlprWFRMUWdv?oc=5",
       "source": "Economic Times",
       "published": "2026-11-27T02:29:06+00:00",
       "excerpt": "",
@@ -230,6 +263,17 @@
       "excerpt": "",
       "image": "",
       "category": "Data & Analytics",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "ab5fa67a416f",
+      "title": "Quordle hints and answers for Friday, November 27 (game #1768) - Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMkNIeXRPWjBRYUM4ODA5OUtqLUhqNG5qR0RUQjZnN3VhdVBnMGRWZUpOTGYta2tzeUpnTC1abDI2eDdOSjJIcnhWNGVpcml1N3FNTlZBU01MV09peE9BamlPbEZDVmFoMzluNGJTVTN6WmdmVmJjcm9mVnVQY2c1djBnZGRrVGVITkdjWWQyNUJEYUhHaXpUWUJER3dBU1VabGc?oc=5",
+      "source": "Google News",
+      "published": "2026-11-27T00:00:00+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Software Development",
       "draftStatus": "needs research"
     },
     {
@@ -418,7 +462,7 @@
       "excerpt": "",
       "image": "",
       "draftStatus": "needs research",
-      "researchAttempts": 4
+      "researchAttempts": 5
     },
     {
       "id": "5501cc8fce45",
@@ -429,6 +473,17 @@
       "excerpt": "",
       "image": "",
       "category": "Software Development",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "e714c11e1259",
+      "title": "Nvidia halts chip shipments to Southeast Asia: FT report - ET Manufacturing",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSHh1WDdQNjlCVEp2ODM5Y2kxbm1HUGN0M3o5NWRtd1ItZ2k2TUFRSFZGWWVZclZuMTB2MkN1QnhRQW84bjBhR3ZwVGxEc19mVkhUVjlpRFhmYWRXcnFlUkZjNTNzS09BSU1kWjI2V1lrWElISmV4blZvZGZVeG00bmFoZFJST0o5UGhMaEQ1ZzZMZUNsOGx2V0lRRHlrRll0OF9vSGZybjhNanhzUGdJaTdGYVdWV2I1YWZvUVROSTdBRi1yNlFPMdIBzgFBVV95cUxOUmluVFhXd3BVSExiUXlMdnJTaFZZN3lGcjZhV0dYMU00SWxESm0tUUhIaW5rWjl4OVZjUDBHOEJiVExncHlYSDlGbGVreFhtVDJtOUJfQ0p4a3dJeDhEV0VJS0hHY1ozWTVZSVctYTdaRVQ1WFk1V1RIZGtDQ29wdjQ0aDN0aWM3YklaVm52Ykh3VHdkY2o2Y2NkVTRSYm9RQU5aZnVCemEtTDlZR21ia0tGTTB3bTJBRml5TWYyZnNxMk5jUkZYd2VTNklWZw?oc=5",
+      "source": "Economic Times",
+      "published": "2026-11-26T13:23:19+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Artificial Intelligence",
       "draftStatus": "needs research"
     },
     {
@@ -553,6 +608,17 @@
       "draftStatus": "needs research"
     },
     {
+      "id": "ba20551fe34b",
+      "title": "\"Build manufacturing capabilities at scale with technology at the centre\": Welspun's Dipali Goenka - ET Manufacturing",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZWtWeTZpSkVnWjhmNFZOMFZxR0ZjSk52dWl2OC1ZVnNaTi1OSTJUZl9HMDF0cFc5Q2JITDRsVDN4bkt1d3NiRmdkQnZDZ1NZcmFodHFGWnduOEo4RXF6dDdpZE9CdGpHNHBfN3d3TDNNcW4yZ2dmUE5ESG9nNFBKYW9RaFhNWDQ2UDd0U0ZYdzdwNDEyY1d6eXNwVkVjcG5rX0FHNExxZm1DcmFwSElOSFBFTmtxQlVSeU1qWDdNMVR5X0YwQmR3TlFYR015Y01qMnJLLTBMdFpEM2dpaG45cnpWX2lWemJZNE0tN1BUQ2IyN3drdXRhdTFoUWYydw?oc=5",
+      "source": "Economic Times",
+      "published": "2026-11-26T06:49:06+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Software Development",
+      "draftStatus": "needs research"
+    },
+    {
       "id": "d7984d124450",
       "title": "Samsung Galaxy Watch8 Receives One UI 9 Update with Health Features - India News Network",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaEEzNW16ZDIzdzdiTWhuWVBMWTdPbW5MQWtSNXRRQlhYRldwUUpfWGFycFlOVnBJRVQwd2tKMFJlV2FyLUVhUWdxRDg1VE5CMzk4SHE4UEZJcEs3cFNkOGlhX09VNkFzT1BDUUpIbUhfQnhpTWVSeUNUT2Q4YXM2ZlhaVUQ3Tm90N3N5YUFZaHhFdkVfRUhGMU5aVVdma3MzSzBDUDBDU1Q2TFE?oc=5",
@@ -605,6 +671,17 @@
       "excerpt": "",
       "image": "",
       "category": "Artificial Intelligence",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "baa413f421cb",
+      "title": "EU postpones discussion to approve Tesla's self-driving tech - ET Auto",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRFh5ZnczeG5oemlkLUdvT2psRzBKcTZlem8yZWRsRGc1bG5SdllSbGo1TlVXNzI1U3plczJ5NmNSV1NLXzBSOUp3Rm1UNWZEZW1CcVM5YzVBLVlVZU9ZZk9xcTBiNE5YOU42aGItSWNxWVhCcFI4SzhnMkk4b3RoYXR5UmZzeVlLUF9jZ2V4Ukg3Wm0zSGZmYVZwY0p4aGVOaXRiQ0RXRUdCckp1VW9ITkVQTkR2U1BxZU9XUGpfbm9WeEd5SWFoWTdFa27SAdIBQVVfeXFMT0Zsbi1uZHZCanpTbnJRNEI3dGdMdXprM2JnOEZfUzBmZmZHSTZ6UmNBZnRGekd3X2s1OGJ0R2ZZbDJMU1ltUl9aaEhLN3ozX0hkbkxOMVpDY0FmVjlzUnpwTERIQzZqU19zTFJBc0UzcU41LXo0anRKYkhUS0FwWjREdGRZMncwUEFFbGdRc09qd0JBODBSTU5qZ1BhWWV4WlJhRVRhVjdYbTFqQkItY040RUh4R2ZBNDRlTE00YVJrTFBQbFhNSEJPc3ZlajZoREx3?oc=5",
+      "source": "Economic Times",
+      "published": "2026-11-26T04:01:00+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Software Development",
       "draftStatus": "needs research"
     },
     {
@@ -861,7 +938,7 @@
       "excerpt": "",
       "image": "",
       "draftStatus": "needs research",
-      "researchAttempts": 3
+      "researchAttempts": 4
     },
     {
       "id": "3e41b932706a",
@@ -918,7 +995,7 @@
       "excerpt": "",
       "image": "",
       "draftStatus": "needs research",
-      "researchAttempts": 3
+      "researchAttempts": 4
     },
     {
       "id": "91f4eb98a8b1",
@@ -1248,84 +1325,6 @@
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPNDdTbXNBYkwtTzNtbWJJWUw4TlE2U2NyU2JKeXpNN1FSdmdxUWhtUGcwSUlfODFseDZtZW1jZlJ3a3lOYnVaRE5BMmxWRzMybzNmSDRQbzMzWWs5ckN6d09GQzUwRjlhTUJOMDRtNS1wUmNWb1V4OGl1bl9OTmRnT01hYUxacnBNZy1RdkJPWXhkUExwVXVTWFJtQlIxaW10X0oxVHd2aktLU1lNVVpLSTBZT09HU1d1a296NHA0ME5UZXRCLUI5blpnZGJpYmNfQlNrbHVEbkl1bGxCcXh4NkdYN2I1LWZQVU1Ja3g4ME12azc5WE1naVM3MkRYczVtUVZOMjlGMTRpTHJTTVJyeHh4ajbSAY8CQVVfeXFMTmhzU3ZrbTA5QzctRWcwUWM5U01YVW9WbTlhaE5HNFEyQTZHdTU1QzFsRERZNnA4WVBKb1ZIU3FWa0RMdUJHLTk2TUxZUllpdFJRall0N2pCcTZVQW5aMXZNRG1LLXl6ZzBHYkpLOGF5NEg5TFZpOG0yWXgxZWw5eXRlQWExTmViSUw5Vk9haFVYZUpMS0VIdWFRTi1oVlhzN05wallfdkgtRmpzMWo0RUxKMlVBcTFOX09YbVhCQ2NsWU94dE1OYzJQems0a1ZCQ2xJWXhGUWM3a0Zud0dTd2xBZThmd25kbUJkanNSRjJ4eFh1aEpMQURscEl0NUkwTjdYQVJHbDRyRUtwMk1fVQ?oc=5",
       "source": "Economic Times",
       "published": "2026-11-25T05:16:33+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Artificial Intelligence",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "fc98affa236f",
-      "title": "Microsoft declares internal \u2018Code Red\u2019 after 21-hour outage: What does it mean?",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/microsoft-code-red-after-major-outage-what-it-means-10977435/",
-      "source": "Indian Express",
-      "published": "2026-11-25T03:49:34+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Software Development",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "26c3e6c000b7",
-      "title": "India and Finland can deepen cooperation in startups, gaming and satellite technology: Ambassador Mikko Kivi.. - ET Government",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQM2N2MWlMSFdvZTMtelB4X1pickZnakFzdEVYVkVNcHN3X0FWeV9oNUlKOGl6VzhBbnNMbTdyZ196VE9tbHVKWGlSWFhRTDEtT2taTFR1b1JPRVZ6aWt5eUZBQll6S1g5SUc0bmE5NWN0X2hBUFg4NkRIdkRob21ROER5NF96cEFySWFQcDFPSE0tUnFJLU1pa19PQVk1TUpFdlc1bDNJRnlCS0ZWLUpTTGZuczA2a3VlZFkwbUl5bGZrWFVTWkhULU1hRG5ocTIxdmZFdm5YSmRBSEhkVFRBRFFLX2FzLXc3a05lUXhuNGl6dTAwbWRfWWQ5Q3I5ZUF0T1BnQ1NvZWhRMHZJNXlZaHdNVdIBmAJBVV95cUxQbzdCcXFSTFU0Tnl1d2VzT2ZiUG5sd1dOYWhPcXRucmd2UWlkYmYzVG1uTDAzdTBDdy1YLUlOLWdrX2RBeklVMHJVVi1kYU50WG5lNHdod19hX0h1ZzlDOVU4NHJ4YkdUR3Nqb3NxMmNBdnBvN1FORUk1SndQOTBOcUItUHdjY1FydWlTdFh1RDVCT0JDeHVsUlFQbjg4VEwxQ3ROLWh1WjFVakswdjNNQW0zaGY3Um5hY3FrUWtPLVF3SjE4WFBaWUxrLUg3TVZUSUw3aUZES0tpUmxCMklqTTh3OFNjSEFBbjdTX0pTcWVKOXA0QW5NRmJhcnNxTG1TQ3VWUXNBN0ZaeFU5UHdIVE04ZUVoTHlw?oc=5",
-      "source": "Economic Times",
-      "published": "2026-11-25T03:22:30+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Software Development",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "20a92bf00295",
-      "title": "Global AI spending to hit $4 trillion in 2027 as infrastructure outlay surges - ET CIO",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNU2NoQkk0aklPMmlVczE5Tnh2T2t6d1B6SEJTSkVaOVg2M2g5WDU5M1lsTlhTRVJlZVlDY0V4SzBRYmpaVFFfNFJCOFlleVoydVdISmxqNVZIbmlELTVtSDc3N0N0UnZMa3BPa2dnNnRiZGxMNlZnblZfZXc5UFNhLTBiUTRNU251UV8xcHAxYWZoOU9SRTRyYVRiVjRmREx6b2dmakZocU94amp3WVFFQTZjLWlsbGg0aFNCa1BidlBwRlRjei1obkoyNnVrTkFTOTZKZVh1Snd2UWRwazRhVnZ1NHZUOUpIZnhQZnhFamRHS1NNZEpFVlZVUmJRUmRvTFhKLXQ1dWRhSVVmcG5uay1icW5WZ9IB4gFBVV95cUxQaUtHWmVlY1RJczBvQjlxS0xFVDdkT3RMUWhrUGVWUjFkMFgzNWVVM2o3VlVfYnF3OVlFdnJiNldkUEdYQ0MzLU1weDctaGJJemtSN0VWbTkyWk5Mc21QanZEcUU1NWNQWHNyeEZUc3JacnhBOGp6Ujk3ajJfNmJmTkpwSUVBT1VLOVBWVzlDN2M3OXNIc2NOUUFCYXZjQVNfem40UzhmcHBJbHptSXFHR29oYmFrWURHcURhaXBGYVNucDhVU3Y1enlBSzVtUHBLZmhiWERBMXVwSnNvd0VXcDVn?oc=5",
-      "source": "Economic Times",
-      "published": "2026-11-25T03:05:51+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Artificial Intelligence",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "60240c0c2c4e",
-      "title": "AI agents set to reshape Indian workplaces as 93% of leaders plan adoption - ET CIO",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQcnZsd0w5Z2IwTTFFaDlDTjVvclBRY0lycUVSM1hNMFYwMEtJYjBFa2Q0cjE4M3hQRlc5UmFrR0NYRG1yN0dzZThma2dtb2lvQmxjTnp2Q0xGRlJMbUo4ZFEtOE9wTHZMMnN4RlkzNURSWDVvZjBfcXEzaWxmV0xYOGdyQ1ZIM3JkLTBRUmVtWG4yUzFldXNGU3VsZUFTLUZzOXExS0NOZzVUX3d5NVFuNE1LcnU5NF9pUU9lYTcwQlB1ZkJuTVRFQnVxN3BlNDZLV3VtNDBVYnBZVGNKSGNTaWZQRmhUWXdxRGdFSlRlc1BBRVFaSUNyNmxKaGNfRUZ4eERqLWl0eVZFSFNrYXR6OWg0NUFhcGdoN1NvdzRkRlc1VXJBWUxsNzJqNVdEcW5I0gHuAUFVX3lxTE55V1Rhc1gyWXVQSTJHOUlfbEc5UUh6a19vTUNVV3hBQ1pKTVZQcmlJNjFweVJQS29pcU82bU9LU0l1WU15NTJ2YlRIMmMtOW9ETU93dFd2V1hYNnl5eG94MVpZQ01rYTl5MzVHVzJJQ3VJRkV6MGpCenN1dzNoOGVYbWU4LWVUNXZHSk9aMG1wZHhacmVCZ0plX0JGeG9vYjk2enN3bGU0RDQwbUMxWUtaNmhyLW9mX2lQYVRrbWtwRS1FcGFocXR5Z1pfWWk4YWJqMGdIai1GYzlXbktpdW0teFRoTFUwLXdMWEZDT3c?oc=5",
-      "source": "Economic Times",
-      "published": "2026-11-25T02:54:18+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Artificial Intelligence",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "c85463e1ec9a",
-      "title": "GTA 6 Draws 39 Million PS5 Players in Four Days, Sony's Biggest Launch in 30 Years - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KUnFiM3BCaXplSklfZ2JIOGtYX2JINWJXTFI5NGJFXzk0X2tLM0ZEdjBGUjNsYmNqUUxYbkt2aEtqa240bG5CVjNGa2U2Um45RmktNzlheWxPSWFtS1FLWVQ2MlBlcDhndEtnV09ObDZVSWdxWmc?oc=5",
-      "source": "Google News",
-      "published": "2026-11-25T01:45:00+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Software Development",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "d6a3974a1a3c",
-      "title": "Yale\u2019s Sonnenfeld: Nvidia is a \u2018detriment\u2019 to US industrial might \u2014 not a champion",
-      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-      "source": "TechCrunch",
-      "published": "2026-11-25T00:12:02+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Artificial Intelligence",
-      "draftStatus": "needs research",
-      "researchAttempts": 1
-    },
-    {
-      "id": "18ebf0049bb7",
-      "title": "Arzumy Md Yusof named CEO of AI Malaysia as country pushes toward 2030 AI Nation goal - hrsea.economictimes.indiatimes.com",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdG9neTlMc1VybEhmdS1HcXRZTjdPcnZKLWp2US1nZk1ZVkRDUjBsNUZQdk9XakJtX3pxbWdQTmFtTFVHX2xWdmdzUGJybWlyalVneTNXczdlRndvRW1RQU1oWWRhN0F0TFV2VmlLWENEQmpiNmNaNjByX0Y4Wk5ucG9lMkdnVTNBWHRTUVVjakxJR1V1alViazBRblVpZUpkVFNlRWxWSVl4VlRzS21TY0JrQ1d4ZDNkZGY2RDM1YnhDUFZXelU1b0FvZTZ2RTU2bVpTcXJuSkZNOHdROWR3Vm1VaUJOT1HSAewBQVVfeXFMTWlSVndkeVpNeDNDa29sNzFteHF0ZFFaeUM1RWNEQ0pVNUhFbmNSOEJNVXFtbUgzNks0czl4YXJHZGdRT0V5bTZhcjh4clN5OFNuR1BWNHg5SjhqM0ZxZk8zM05LUllnQkNHWHR3ZDEyMmQ1TXlpcHREXzRYNVQwY1ZnRmJJX211UTYzeDBpUkVlMmVqTlVUNGhHaEZYRFVXak1wV0dtLUZlMndaUDByZHBxYVJEZWVnVVlLQ3EyZjZiX3Z2RW5ncVFReFBjVHdpSGoxa2czY0hJakE5RzVLUmVjc3RSTjFoWURNbDg?oc=5",
-      "source": "Economic Times",
-      "published": "2026-11-24T23:30:00+00:00",
       "excerpt": "",
       "image": "",
       "category": "Artificial Intelligence",
