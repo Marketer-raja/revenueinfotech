@@ -8,7 +8,7 @@ from urllib.parse import urlparse
 import xml.etree.ElementTree as ET
 from fetch_news import ROOT, ATOM, clean, txt, parse_date, fetch, norm_url, CONTENT, categorize
 
-MIN_EVIDENCE_WORDS=80
+MIN_EVIDENCE_WORDS=40
 
 STOP=set('with from that this news technology about after will says have their into what when more over latest launches launch announced announces new report reports company'.split())
 def tokens(s):
