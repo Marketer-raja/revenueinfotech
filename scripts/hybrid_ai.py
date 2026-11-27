@@ -53,7 +53,8 @@ def candidates(prompt):
         COUNTS['OLLAMA']=COUNTS.get('OLLAMA',0)+1
         try:
             print('OLLAMA: requesting local draft',flush=True)
-            result=request('http://127.0.0.1:11434/api/generate',{'model':os.getenv('NEWS_AI_MODEL','qwen2.5:3b'),'prompt':prompt,'stream':False,'format':DRAFT_SCHEMA,'options':{'temperature':.2,'num_predict':2300,'num_ctx':8192}}, {},timeout=240)
+            result=request('http://127.0.0.1:11434/api/generate',{'model':os.getenv('NEWS_AI_MODEL','qwen2.5:3b'),'prompt':prompt,'stream':False,'format':DRAFT_SCHEMA,'options':{'temperature':.2,'num_predict':3072,'num_ctx':8192}}, {},timeout=240)
+            print('OLLAMA: completion reason:',result.get('done_reason','unknown'),'output tokens:',result.get('eval_count','unknown'),flush=True)
             draft=decode(result.get('response')); print('OLLAMA: JSON received; checking editorial quality',flush=True); yield 'OLLAMA',draft
         except (urllib.error.HTTPError,urllib.error.URLError,TimeoutError,ValueError,KeyError,TypeError,AttributeError) as e:
             DISABLED.add('OLLAMA'); print('OLLAMA paused:',type(e).__name__,flush=True)
