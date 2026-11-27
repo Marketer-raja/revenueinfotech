@@ -69,15 +69,20 @@ def main():
         try: api('answerCallbackQuery',callback_query_id=c['id'],text=text)
         except RuntimeError: print('Callback acknowledgement unavailable')
     updates=api('getUpdates',offset=state['offset'],timeout=0,allowed_updates=['callback_query','message'])
+    print('Approval diagnostics: updates received:', len(updates), 'saved offset:', state['offset'], 'active batch:', bool(state.get('active')), 'eligible drafts:', len(items))
     for u in updates:
         c=u.get('callback_query')
+        if c: print('Callback received; authorized sender:', c.get('from',{}).get('id')==chat, 'authorized chat:', c.get('message',{}).get('chat',{}).get('id')==chat)
         if c and c.get('from',{}).get('id')==chat and c.get('message',{}).get('chat',{}).get('id')==chat:
             active=state.get('active'); action,_,batch=c.get('data','').partition(':')
             if not active or batch!=active['id'] or action not in ('approve','reject'):
+                print('Callback ignored: missing or mismatched active batch, or unknown action')
                 answer(c,'This batch is no longer active.')
             elif action=='reject':
+                print('Batch rejected by editor')
                 state['handled'].extend(active['keys']); state['active']=None; answer(c,'Batch rejected.')
             elif not all(k in items for k in active['keys']):
+                print('Callback rejected: reviewed draft fingerprint changed or draft no longer eligible')
                 state['active']=None; answer(c,'Drafts changed. Review the new batch before approval.')
             else:
                 now=datetime.now(timezone.utc).isoformat()
@@ -86,14 +91,18 @@ def main():
                     if i['url'] not in blocked:
                         queue['items'].append(dict(i,status='scheduled',editorApproved=True,publishAt=now)); blocked.add(i['url'])
                 state['handled'].extend(active['keys']); state['active']=None
+                print('Approval accepted; queue size:',len(queue['items']))
                 answer(c,'Approval received. Queue is saved when GitHub commits successfully.')
         state['offset']=max(state['offset'],u['update_id']+1)
     active=state.get('active')
     if active and not all(k in items for k in active['keys']): state['active']=None
+    if state.get('active') and os.getenv('TELEGRAM_RESEND_REVIEW') == 'true':
+        print('Resending active review at editor request; old batch invalidated')
+        state['active']=None
     if not state.get('active'):
         keys=[k for k in items if k not in state['handled']][:10]
         if keys:
-            batch=hashlib.sha256((''.join(keys)+str(state['offset'])).encode()).hexdigest()[:24]
+            batch=hashlib.sha256((''.join(keys)+str(state['offset'])+os.urandom(16).hex()).encode()).hexdigest()[:24]
             text='RevenueInfoTech: '+str(len(keys))+' drafts ready for review\n\n'+'\n'.join(f'{n}. {items[k]["title"][:160]} ({items[k]["source"][:70]})' for n,k in enumerate(keys,1))+'\n\nReview the preceding full articles, sources and image links (or open Newsdesk) before approving. Approval queues these exact drafts; it does not verify their facts.'
             # Send the actual text and source links for review in the private chat.
             # Telegram's message limit is 4096 characters; split conservatively.
