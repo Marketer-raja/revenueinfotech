@@ -1,5 +1,10 @@
 {
   "offset": 677418557,
   "handled": [],
-  "active": null
+  "active": {
+    "id": "cbb35871bf6e60896cf970e2",
+    "keys": [
+      "7b6a18f2a38a48b85768edcab289908e12eff6aa189c6b328dd131a34d148ad3"
+    ]
+  }
 }
