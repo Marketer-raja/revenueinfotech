@@ -8,7 +8,7 @@ from urllib.parse import urlparse
 import xml.etree.ElementTree as ET
 from fetch_news import ROOT, ATOM, clean, txt, parse_date, fetch, norm_url, CONTENT, categorize
 
-MIN_EVIDENCE_WORDS=40
+MIN_EVIDENCE_WORDS=80
 
 STOP=set('with from that this news technology about after will says have their into what when more over latest launches launch announced announces new report reports company'.split())
 def tokens(s):
@@ -21,7 +21,7 @@ def parse_research(data,source,allow_extended=False):
         if not link:
             link=next((l.get('href','') for l in node.findall(ATOM+'link') if l.get('rel','alternate')=='alternate'),'')
         date=parse_date(txt(node,'pubDate',ATOM+'published',ATOM+'updated','{http://purl.org/dc/elements/1.1/}date'))
-        summary=clean(txt(node,'description',ATOM+'summary'),2400)
+        summary=clean(txt(node,'description',ATOM+'summary'),6000)
         # Only use extended feed content from sources explicitly authorized for it.
         if allow_extended:
             extended=clean(txt(node,CONTENT+'encoded',ATOM+'content'),6000)
@@ -51,7 +51,7 @@ def match_evidence(item,pool):
     for _,row in sorted(result,key=lambda p:p[0],reverse=True):
         key=norm_url(row['url'])
         if key not in seen: chosen.append(row);seen.add(key)
-    return chosen[:3]
+    return chosen[:4]
 
 
 def add_direct_leads(pool, research, excluded=()):
@@ -59,7 +59,7 @@ def add_direct_leads(pool, research, excluded=()):
     seen={norm_url(i['url']) for i in pool}|{norm_url(u) for u in excluded if u}
     for row in sorted(research,key=lambda r:r['published'],reverse=True):
         if len(pool)>=250: break
-        if len(row['excerpt'].split())<MIN_EVIDENCE_WORDS: continue
+        if len(row['excerpt'].split())<40: continue
         url=norm_url(row['url']); category=categorize(row['title'],row['excerpt'])
         if not category or url in seen: continue
         if any(match_evidence(i,[row]) for i in pool): continue

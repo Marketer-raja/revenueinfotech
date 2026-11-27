@@ -292,7 +292,9 @@ def main():
         url, title = norm_url(i["url"]), key(i["title"])
         if url in seen or any(SequenceMatcher(None,title,t).ratio() >= .88 for t in titles): continue
         seen.add(url); titles.append(title)
-        for field in ("draft", "draftVersion", "draftStatus", "draftImage", "researchSources", "researchAttempts"):
+        if old_by_id.get(i["id"],{}).get("draftStatus")=="review required" and old_by_id[i["id"]].get("draft"):
+            i=dict(old_by_id[i["id"]])
+        for field in ("draft", "draftVersion", "draftStatus", "draftImage", "researchSources", "researchAttempts", "editorialMetadata"):
             if field in old_by_id.get(i["id"],{}): i[field]=old_by_id[i["id"]][field]
         i.update(excerpt="", image="")
         items.append(i)

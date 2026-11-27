@@ -19,7 +19,8 @@ def decode(raw):
     if not isinstance(obj,dict): raise ValueError('expected JSON object')
     return obj
 
-def candidates(prompt):
+def candidates(prompt, schema=None):
+    schema = schema or DRAFT_SCHEMA
     configs=[('GROQ','https://api.groq.com/openai/v1/chat/completions','openai/gpt-oss-120b'),('GEMINI','https://generativelanguage.googleapis.com/v1beta/models','gemini-3.8-flash'),('OPENROUTER','https://openrouter.ai/api/v1/chat/completions','openrouter/free'),('MISTRAL','https://api.mistral.ai/v1/chat/completions','mistral-small-latest')]
     for name,url,model in configs:
         key=os.getenv(name+'_API_KEY','')
@@ -38,7 +39,7 @@ def candidates(prompt):
                 raw=''.join(p['text'] for p in result['candidates'][0]['content']['parts'] if isinstance(p.get('text'),str) and not p.get('thought'))
             else:
                 payload={'model':model,'messages':[{'role':'user','content':prompt}],'temperature':.2,'max_tokens':2400}
-                if name=='OPENROUTER':payload['provider']={'max_price':{'prompt':0,'completion':0}}
+                if name=='OPENROUTER':payload['provider']={'max_price':{'prompt':0,'completion':0}}; payload['response_format']={'type':'json_object'}
                 else:payload['response_format']={'type':'json_object'}
                 if name=='GROQ':
                     payload['max_completion_tokens']=4096; del payload['max_tokens']; payload['reasoning_effort']='low'
@@ -49,11 +50,11 @@ def candidates(prompt):
             DISABLED.add(name); print(f'{name}: HTTP {e.code}; paused for run; retry-after={e.headers.get("Retry-After","not supplied") if e.headers else "not supplied"}',flush=True)
         except (urllib.error.URLError,TimeoutError,ValueError,KeyError,IndexError,TypeError,AttributeError) as e:
             print(f'{name}: invalid or unavailable response ({type(e).__name__})',flush=True)
-    if os.getenv('OLLAMA_ENABLED','yes')=='yes' and 'OLLAMA' not in DISABLED and COUNTS.get('OLLAMA',0)<int(os.getenv('PROVIDER_RUN_LIMIT','5')):
+    if os.getenv('OLLAMA_ENABLED','yes')=='yes' and 'OLLAMA' not in DISABLED and COUNTS.get('OLLAMA',0)<int(os.getenv('OLLAMA_RUN_LIMIT','30')):
         COUNTS['OLLAMA']=COUNTS.get('OLLAMA',0)+1
         try:
             print('OLLAMA: requesting local draft',flush=True)
-            result=request('http://127.0.0.1:11434/api/generate',{'model':os.getenv('NEWS_AI_MODEL','qwen2.5:3b'),'prompt':prompt,'stream':False,'format':DRAFT_SCHEMA,'options':{'temperature':.2,'num_predict':3072,'num_ctx':8192}}, {},timeout=240)
+            result=request('http://127.0.0.1:11434/api/generate',{'model':os.getenv('NEWS_AI_MODEL','qwen2.5:3b'),'prompt':prompt,'stream':False,'format':schema,'options':{'temperature':.2,'num_predict':3072,'num_ctx':8192}}, {},timeout=240)
             print('OLLAMA: completion reason:',result.get('done_reason','unknown'),'output tokens:',result.get('eval_count','unknown'),flush=True)
             draft=decode(result.get('response')); print('OLLAMA: JSON received; checking editorial quality',flush=True); yield 'OLLAMA',draft
         except (urllib.error.HTTPError,urllib.error.URLError,TimeoutError,ValueError,KeyError,TypeError,AttributeError) as e:
