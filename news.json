@@ -1,6 +1,468 @@
 {
-  "updated": "2026-11-25T19:00:43+00:00",
+  "updated": "2026-11-27T06:30:39+00:00",
   "items": [
+    {
+      "id": "4586067574de",
+      "title": "Wordle today: The answer and hints for November 27, 2026 - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYVHB3Z2dZYVBBakxZS1ZHZndjYjk2b3RXQ09IcVkxUmFhZVNCZXpFdzByZjNtUU5ha0lkTjJaLUZFSU1XT1RySmlvUDRwUUxMakc1dEpvYXFDUl9aWUhTOFFyRW81QllBN0pzeDdqM0VsZGxMZG93YmNSRQ?oc=5",
+      "source": "Google News",
+      "published": "2026-11-27T03:16:56+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Software Development",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "560fd9ac1a24",
+      "title": "Indian SMBs with in-house AI talent show over 5% workforce growth - ET CIO",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSklrajVuR24yd2hyY2E0RGRQcmdrVENZQmxHcU95NkVaNlBldjFMT1lGR2Q5VEE0YXQ5V3lHcTkxOTBTdmhVVFFHQ3RBMW1FNkczc05TbUQxZEdKOTNiVVFWM0Q0NkFzeDNQR1BuMkExcEsxT3lkR3VxSFVkWl96SkJuRXBkWWFMeWFtQTd2ZndUaTlaVmxiTTgzeHctZkJoc2JtbHVGQkNleVViWE8wUDBpNXVpNnRWaG5LZk05MS1hNVhKWWF3RlloRmVvRUJGTUxoNDdqZF93dlFKNkNEX3p30gHiAUFVX3lxTE1KSWtqNW5HbjJ3aHJjYTREZFByZ2tUQ1lCbEdxT3k2RVo2UGV2MUxPWUZHZDlUQTRhdDlXeUdxOTE5MFN2aFVUUUdDdEExbUU2RzNzTlNtRDFkR0o5M2JVUVYzRDQ2QXN4M1BHUG4yQTFwSzFPeWRHdXFIVWRaX3pKQm5FcGRZYUx5YW1BN3Zmd1RpOVpWbGJNODN4dy1mQmhzYm1sdUZCQ2V5VWJYTzBQMGk1dWk2dFZobktmTTkxLWE1WEpZYXdGWWhGZW9FQkZNTGg0N2pkX3d2UUo2Q0Rfenc?oc=5",
+      "source": "Economic Times",
+      "published": "2026-11-27T02:30:00+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Artificial Intelligence",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "7d6b527a3876",
+      "title": "AI may put 24 million knowledge-worker jobs at risk globally over five years: JP Morgan - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNZVpCMlpUeVhZbHJGWmxHTHVtM1dfbTR1MDgtTjh1TmUwVXpyaURUdkJNWWxXNHpicW55UGNkZ24zZmluZExxRk4zeXhRYmRiWTQySWs1VEQ1VXVmU0FDWU1jUzVzRzlqWWpMeDBjNThCRENDZURTaVdUODVRY0Q1bVBUbWdldm5SQnFkMG5OVGsydm5uWDNxSnprUkpVZklxd3ZPT0lIY1JKMjZCdl81MUZ6UjZNNDJXLXREVnJNNlBqSkowWHhMeU9mV0M5NnlKV24zX2stNnI5LTJsNkRZaWZ2RWhMaWFxMkNucjlZRE8tYXYxTWtSWS16WUtMdDc1R3RraVZpckMyUdIBgwJBVV95cUxQRkZ5dU1FR1dzVEFqWkxZT2s2ZV84ZUJ0XzM5TnVLSzJOVWtXdkVfVGYzWWtoN3VBa2hfTTRvZHltME0xOVRpRktjMjlDa0Y3QjhXdWdfV3B1Vm83MDhQUl9yOERWd0w4U1BBd1pzSHdkQmo5Wk1wRkQzTU1WZjBLXzdCejFveWJtR2daOTFxMU1XWXpIaElUazY2aTExOWUya3ljdTh2T2dmczNVTU1xcnFkVE5VbVFYNUI1cE8xeUh4amxlQ2wwMm43c2VzZXEwc0U1ZGxwMC1aV3dXRFYyV1ZZZ2d6TFllNFlGVFpSb1BLdDhLQm5jQmlKWlprWFRMUWdv?oc=5",
+      "source": "Economic Times",
+      "published": "2026-11-27T02:29:06+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Artificial Intelligence",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "781bba95d20b",
+      "title": "IBM ends H-1B, green cards in consulting arm - ETHRWorld.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQVY1ZGJ0V01uXy1PdUI1S2JYd1BkSzRxb2pEX2M5RTJSWGR2ZmJsZEdZaHNXVDVqV3g0WFN6REl1b1VUTHhpaUt4dEM5M09MdXdDTjhaSmJnUFJjemxQdW02LUJ3LTNucXdHZ2FwQVdoREZIVDQyWGIyRUdfZURsQzBOdEJDM25ZeEtrTGtSZUt5dG5NZ1BVQ2RsMFBYa0ZyVi1udkxVM1RkSzjSAbABQVVfeXFMTUNRMlJBMHBNdXRIRklHYkY2MEJqUm9hSjdUSDRCWW1jOE55eUZPWDBIQnJRWHhxX2I4NHFxa05SeHphU2tsNTBrR24xZ0NtUkxEWUJlTE1WNjM3REVMMnp4WFotTzJNX21jRXMwa3VOWkthUmFwM05kdnlackV2dHJmTlFldjJ6ZEVaUTdpU0xPaEU0T0dIMzhlSW9mVExDMXoxLWFxd2N3RVBWSFVqUlk?oc=5",
+      "source": "Economic Times",
+      "published": "2026-11-27T01:58:38+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Enterprise Software & SaaS",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "7e2a60a47cb6",
+      "title": "BOJ calls for safeguards against digital money, AI risks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeUkwSF9SZW9Zb0hBVG5IekxCYWhKRTk3al8ydkszblJYQThwVVFqVjNzSlF3b1VZLU9qdmVOa1dEc19PcmtLYl9XdEgwd0p6RURKNk9ILTMxYnhTa2ExcXBlazRNMWYyUlJvN2Q0NzRpSEt0c0YyYzVxemZ4ZjY3bUV3dU1RTDRFTElUZ0VUcVpWdS15allYVmVSR0FNNG8?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-27T01:47:00+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Artificial Intelligence",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "09120f30b78c",
+      "title": "Singapore hiring stabilises as demand shifts towards engineering, technology and specialised roles, data fin.. - hrsea.economictimes.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQXzZUQjYwaVNoN0dnVFdCS1hMSjZMU1FCS3pnMkhrWlo1ZnluRmhFMWVWT2M1OURkNlZsQVRMd0M0NmRpRFAyS3Vxd2xVWnYxb2EtREdNRFg1N2FtYTVGRk5LY0JQTDg2bFRyZDQ0dEc5WlNubmpBS2gybFFUQTF4Zm5xZGZuWHlFNlB2VUtSZC1wU1R5S0NVd1NabklVOGc3cW1WOFI3S2p1VTZPa1F5YXFZQ2ItTWxDVlNnaXhES0RHOGFnZlpCVzlSUnlCc2ZpR1pmR0NmSC1LM000MUJ6VDd5dlR5YXYtRUNGTEY0a0hTMXFCNkc0cXJTMTdkdWYwTTRvTzhfM1RCZGljeHJseDdBcHJFUlHSAZcCQVVfeXFMUF82VEI2MGlTaDdHZ1RXQktYTEo2TFNRQkt6ZzJIa1paNWZ5bkZoRTFlVk9jNTlEZDZWbEFUTHdDNDZkaURQMkt1cXdsVVp2MW9hLURHTURYNTdhbWE1RkZOS2NCUEw4NmxUcmQ0NHRHOVpTbm5qQUtoMmxRVEExeGZucWRmblh5RTZQdlVLUmQtcFNUeUtDVXdTWm5JVThnN3FtVjhSN0tqdVU2T2tReWFxWUNiLU1sQ1ZTZ2l4REtERzhhZ2ZaQlc5UlJ5QnNmaUdaZkdDZkgtSzNNNDFCelQ3eXZUeWF2LUVDRkxGNGtIUzFxQjZHNHFyUzE3ZHVmME00b084XzNUQmRpY3hybHg3QXByRVJR?oc=5",
+      "source": "Economic Times",
+      "published": "2026-11-27T00:30:00+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Data & Analytics",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "50387419a8f1",
+      "title": "GTA 6 Fan Ports Climb to 20 FPS on PC, Still Rough Around the Edges - TechPowerUp",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeEJzVy1lR29zMmNYb3pxT28xWHYzWG5LTm9ySHZuRGZfdXVPR0FrUmxFcVVoODZad2pSdGczc3lyOE55QjBfc3JLMW81Q0VlOEttOHMyT1ZJZHBUcTVmaFczc1FTWG5nQ05TeGRsSlhnVjZhN1dFbnZvclh1aXdmS3hpMFhIc2NIejRQVEE0MS12NmNfNFJKenV4Z0JpNUJPVFpj0gGoAUFVX3lxTFBDQVM2NkRFblJ1TGZqNkE5RTE1eHF3Z3J4cDJzYW51MnVJb0UzNUtsZXJQdTczTUJ5VjZ0WldaRFFaWExLRUgwYkZvUlJ6aUYzckR5ZGNZYWlPUF9ncl9jWkhOUGZseWxXVzRuVzE5aGxlNThWV3gtWjN5dVFueHhMVHFLU1FGb09BTE1PaHlMNXIxVW9tYkFiNlM2WlhqSkRIQTZJeWk5dQ?oc=5",
+      "source": "Google News",
+      "published": "2026-11-26T23:41:08+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Software Development",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "c881f1e71110",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "source": "TechCrunch",
+      "published": "2026-11-26T20:03:54+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Artificial Intelligence",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "c772b97adf28",
+      "title": "Is Alice Huang a spy or not?",
+      "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+      "source": "TechCrunch",
+      "published": "2026-11-26T20:00:00+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Artificial Intelligence",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "b6828e1e6a46",
+      "title": "Cleantech Solar signs \u20b98,140 crore Tamil Nadu pact for 1.1 GW renewable buildout - ET Sustainability",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZWZnUUpNQk5tcFJLLWNwYTk4X1pfYll3SUFtOUFyOWxXMXpOZ2hYaVBaVl9MWnhoWmJ4elVzcUEzZGxJTW5lX29fQUlpbGJGZUNCM3Q3S3lGZ0hhRTBuZHl3dEkyemNXZmlHRWhsRzlOMG1ZQktkOHZ5cWNEeXJNTl83NmM2VDB1ODFZMkd1a0J5UEwyNFVfWEdDZTI1QXpKZFRfaTFMY3hMVUNHUHNTZ1NoTXcwcTZDTTFzWERNbEtoQnpzSzAyT3I4R1BjandwZWs0Z0R4VFVuMEIzNWYzbC11UDdaQ0F3emdSS9IB8gFBVV95cUxOb1d3UG1MeGVyWkZabDBJMXlXZGNqWGY3Uk5XUjFjSFNMVjVLVzlSX3B6aGtJS1RtM1JOckNhZzFXZkRRZE1OZmVqYUxibHl3YURXRExlTUZYUFBzTW4tcmlUajhZRjZPQ0ZtcU5DZGRTaXRSZW94NEVaSzZKVHpxZTY1Mjd6a1hoVXAwTWZOUmdZb0dKSkl0ZEF2R3lWVzliRnI5QU1icXI5d2NlVF9GcTlDMjdQUy05Sk5rdmRnRFIxd3h5VXFFV2d0NUJsSnNFUzgwSFdURWItekM1VkZhOXB6Z0JScmZOWGlHSUlSUWhEdw?oc=5",
+      "source": "Economic Times",
+      "published": "2026-11-26T19:36:50+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Software Development",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "bb4c05f77b6b",
+      "title": "X finally gets parental controls after 20 years",
+      "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+      "source": "TechCrunch",
+      "published": "2026-11-26T19:31:50+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Software Development",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "98bc69ca3f11",
+      "title": "A month with the iPhone Duo has changed how I use my phone",
+      "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
+      "source": "TechCrunch",
+      "published": "2026-11-26T17:00:00+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Software Development",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "8bf5fe14afd0",
+      "title": "SAP considers at least 10,000 job cuts in AI restructuring, Bloomberg reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUUhZaXItb2lOYVhHRHBoUkpGZFM2Y0ZpQ1dSN3QwUnEyQlBKdmlRVG9fdFM5WS1UNm41dGZnRVhyY1FIbjBvOUNFWEREN1F4S1l1amVSUGFheGl4N1NNbk1ieF9HU3N0azQ1djN1bjA2RWhIc1VhVWVWb0RVbG1HMVlPbFQyb0N5N1ZLTUVZeXlxMDk4d3d0UHh1ajdZeWd3ekx5TU52Z3BDaXdhOU9uN3dtd1lLMXM?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-26T16:56:45+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Artificial Intelligence",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "d34c155d41b6",
+      "title": "Saber expands Warhammer 40K Space Marine 2 with new PvP mode and Chaos Siege content - KitGuru",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1NnUUhkX3JKMl9qLUY1aHhjT0d6a0hkMDNIOGgyWHhjekVMQWNSU3RuSFo2MUdNOENVaU1RYUN6VnVxSzJwSndmS3czeklEUWxHdEluQkhvdWtZbTJkN0pqdXVHYWJVbC1CRDNlcVZmSDNuWEFHaENsMF9YUF9Ta3ZMTGJSbjVSX2pycE4yV2M1YURhcXVxWmw0TGZDLWQtb2c2SkhBamdNRW90R3FRNFh4VGdYTDd6SnllY05IT1VueGprejZPdk9Bcw?oc=5",
+      "source": "Google News",
+      "published": "2026-11-26T16:50:25+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Cybersecurity",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "c25c4522118a",
+      "title": "Vivo launches X500 Pro and X500 Pro Max in India with Dimensity 9600 Pro - Mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQczZNaDEwdlNyRnhRTEpKTWU4bUZrNkdJdThwQlhiOFB2LWk4aGoyUTBIZVNkNWlYdXphakpUTlV0Z2NCR1JXclEtX1dSZGotNXFTeG1rclpKajl5dXM2YmFMbFlVeGRyRU05U3ZZc0VaR3htMGh6eW1rbmVGTFdmMXBYQQ?oc=5",
+      "source": "Google News",
+      "published": "2026-11-26T16:06:45+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Software Development",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "e77c7b7e26ac",
+      "title": "Free Play Days \u2013 Warhammer 40,000: Mechanicus and Little Rocket Lab - XBOX Wire",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0d08zVjNBSl9EeDJLM01WcWlYdTE1RnI0ZVNXSllxcXdQeVJjMzZSQ2VCMUJMSTh6X2c0YXJSVFg4amhnaklTWjlyMWIwOW5RaDF5Mkl5Q0J0NHlWdEtEYVdhakp1ZEFESHpyTDZvTElQdGvSAXhBVV95cUxQaThzYUZDVEhGQ3hCWkVUZFJRQ2t2X2czWmF2TUgwbTZjNkl0aTFIUjhDQ0JTbEJZS2ktdjkwQ3RETlgtMVEtSzlSOHRjeEkwQ19rdzJOMGFUQWJXTHBSQnlTN2hDVlREbjlVQ2NETnJ3R2hGcWtVajg?oc=5",
+      "source": "Google News",
+      "published": "2026-11-26T16:00:27+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Software Development",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "ec74e9ba2187",
+      "title": "Grand Theft Auto VI proves why efficiency isn\u2019t a virtue",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "source": "TechCrunch",
+      "published": "2026-11-26T16:00:00+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Artificial Intelligence",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "82b0e34760cb",
+      "title": "iPhone 20 Pro and Pro Max: Leaks Point to September 2027 Launch - Mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wRTR3SmZQVUp4eWU3dTBGSW90T0w1UjdtV3NycGRvcXNUQVRTSVA3dmtGZUlmQ0c1TTVoNlVRbnBYcHZyNGM4eHpyS2pPTWpOVlIyWEdfT0xBbTEzdm9JM0FOSDhVZnpFQkl3aUcwMFVhdTQtRW9MakJ3OVY?oc=5",
+      "source": "Google News",
+      "published": "2026-11-26T14:22:10+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Artificial Intelligence",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "9abc7ca68e8c",
+      "title": "Black Friday Sale starts in India: iPhone 17 price drops by Rs 10,800, 3 reasons to buy and 1 to skip - India Today",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWGZOblJGaU5VTm1zSG0tRDJzZnlBUDJOMU50dFZmTV92d3J5Mlo1ZnV0UzBZbkNlaG85NVg3ZFZ5WktnZ2xDNHk5bHRtaTV3WDJaQ3BxZ0JSOXpoUGZaQkV4ZS1qUVFySGxEQ1VrMUI3bnFoQ01JN2R5UlhaMUNuRi1NZXRSR2NGM0pVRFdMdENjdXRVOWtMWVZqcG03UzVHZXBrTGEtSUt1RmpQdmotcFZtWlFhTktNY0FFZ2hjTUtzYXI5TUFOMnBpekNQVjROSTRvZlhOVXNYeG9vMUdaTzUycEhpOTZ6M2hpZmVGWjF3WGZ4T2tjONIB_gFBVV95cUxNcmgwUVFoMmJkV0dSdGdpRnF4YUl5b2NLMWdOcHc3aDBEb0ZNS1EwODRJaGd5a2JOcjkxbXhwTlRpZzhWa2hJQ1NrZTBUM0ZnRDF3S3c1M292VEZ1X0Y2TXhzdWNMY3ppR0RjOXJITFQwV1Z4am1wSEUyZDJrVnU2ZlVOVXZ4WmREeXdzV280WWpjMU1nelVNNnNvODNpd1E5dThRWGh4dENvSk9rYV92UkE0bHZ6WGRjS3poOWgydnp3aXlMZmRQYmwxQmZPR2pCLV9EdXFpMUs2dzZ4Rnh1bkdZV0JubGJHWERudTI3dno3WlQ5aHdkTlBIcjFjUQ?oc=5",
+      "source": "Google News",
+      "published": "2026-11-26T14:17:01+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Software Development",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "6220fb6b5d2c",
+      "title": "Save $230 on Sony WH-1000XM5 headphones in Midnight Blue - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdEZsYWcwVWRZejUwSjBGYlpFUXVwRk5hQlhzZ0NWUml6S1VNTDhRZGoyMDZlbTlLa2dzU1M3dVA3R3R4OURhOTZtMzVkdmJMMl9BQkhBc0NheHZSSTlsdE9rUHEwUlA1THRESklVc1dwaVhUTzFQemlxUWkzMGl1TEh3?oc=5",
+      "source": "Google News",
+      "published": "2026-11-26T14:10:00+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Operating Systems",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "96151971228b",
+      "title": "Billions in data centre deals grind to a halt after chip curbs - ET BrandEquity",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYUpQVmI3WjVPaDhEaXhEUjJHVVdhVUFjUjhUUWFyallTM1NCNENiNHhuSVFwVG45SFp0SDhJajJ0Qm4yNDNXZ0l6RmNmX1UzQTRWMHN4VHJOTTEwcFNDa1ZkZTVEbHFWaFFYTVo1TUxtamhRaGpRd0lra0xfUEdiRmRXZ0IzZ1l4SzFKZmRDNTFhZi1uTzZhSzVmMFBRaC1LRllSV09ZY3Bnb1dhSEFGSVh2RG9jZ3JUUWtiZDZqYm9EdWgza2l1cmRSNy1rX3PSAdQBQVVfeXFMT2o4aFgydTFHeS1QVUtnekJTX1VUbGh2aTFkZnZXZ1N0UkVIUzNUbnFOT1NLcS1oYVdCUlhTeGltTlJfckl4SEtlTmdYZEdZQmZOcExRa2tkbDYyQTFTMTJMTTlpdUxJSUFGckZNS2Jtb2xzMmxFMl9FOUJpZFlrU1JpNDIyeElsdGxER194OGZ5OW5fT2ZLM2RNYllmMmxaQ2pvOG1nYndDUEJQc3BpZmgtYURyb3lYdTlFLUJhUGV3VWcyUG0yTmtRS3pZSV9iNmg1Y3o?oc=5",
+      "source": "Economic Times",
+      "published": "2026-11-26T12:20:58+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Data & Analytics",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "e3bc74f389c8",
+      "title": "Technology should strengthen relationships, not replace them: Varghese Alukkas - ET BrandEquity",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYVNRMUd6YWNVZkhQa3A1S19uVmhfN0dMUW4xWG5xeU5SNkJMc2pxdHpSbklxeEI1U3AzenlGQkVOT0pPUDJxQ3N2ZnpkMHQtRDlvX0JmRWxqUldQUFRVS3VtOHktTm9ZTU5aV2RPOHFObFlrRlI4aUdWclpSUTRFR01HMU9vQ2pkcVZCWmRaQkFPbWxjYXBLN3RrSkxqSi1WTkgwMkJLQnhHNzk4clFuWjRUdTB0ck5BaWYyUVJVdFFpRkNZejY4eHpSR1Y3dVhVLUlHemdHUnBYYWg4WW5oOEo2TGPSAeoBQVVfeXFMTXE2eHZpdHVLSDROLVdWTmVqVFg3Z24wWUlJZ3V6V2tnM0lZZjVZbC1jQjRKOHBmRTVDR1oyMzZENm02U2lkb3A3MFVnbm1pWnBHVWFlSG53STh1Zi10bGlLMGlndlhqUXpTOV96NHU0WXZ0LTBmYkFNTjA4ME1IN1hNVGRkX0hiU0ljX1RoZFAtYlRUa3lodzVtYm0zUlNuMlFXdVZ4eUpkT3R2UXhFRG82TUhBb0xnbnVaMGZLMXhnbTUxd2sta1ctektid3h5M09qVlFNaGlibk1ZNjhBckVuQXg4NUU5SndB?oc=5",
+      "source": "Economic Times",
+      "published": "2026-11-26T11:47:12+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Software Development",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "8e6a1c3c9ed0",
+      "title": "TiEcon Delhi-NCR 2026 to spotlight India's next wave of technology startups - ET Entrepreneur",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOcFpxODkzbG5YMVIyMVQwWmhGWnhMYzNfa1RjbjFYVUtnaWxhYTkwandLeF8zUFpzeERJTHRsR3lvdEFZRmJ5ZWw5QzdkZFFYMGkydXd2YWNwcGhwc0FqRi1tZlZGT3hmek40Y0dWX1Y1bUt3ZEd6UGRQQi1tUHo5cHBxYWliZVNlaUprTnNvY21zTTdoVmZyekh1UXUwaEZPQlpvX282LXc5ajNiSlg0akZYR0dOOHd6aHJxRFVpQ1RNM3g1SWd2YnlIOHJncHloRW1zMnFXUnRRc0J4bUJUZnJpZlcyZ3JfVE5KZEV2TFFEb1F2NzBnS0g1YzlZTEExMUdaajlXYjdHZFVDd3h1RVh30gHbAUFVX3lxTE8xZVZPRzkxenROVGNBeWRDNWtIdkJPb0x3ZDJTUmVHTGVYSVdWQ0RQS3pRNXVpal9GZVQxVGplaF9tdlFxQ1RIQXhodmpYWEdDYW5OY1E5UnN1dUQ1ZDNjdnp3aHFfVUE4R05DQjF4Q18yZE1zdmhGVTR5bW1WdnYwV2laS1VyMlY1RENIYmtYZmVpbWgzdEtkLVJxMUh6V0ZJSERMV28yQVhwOVFfVFRyTHF5cS05OFlPU25GUk9RZjJDdUlqRUUza1p6WUVhVzh2cW44djFLM3N5UQ?oc=5",
+      "source": "Economic Times",
+      "published": "2026-11-26T11:25:49+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Software Development",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "ed39e5822b57",
+      "title": "Indonesia's BPOM pushes AI-driven laboratory modernisation - ET CIO SEA",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSC1GQTNLV25qS0RKV25rUDFReDV0WWh1MHdBZEhGZUxjYTZVVlhTOXY3aDlSVnZiSUZNbVhwQmdhdVF3Qldlc2hUZTJ6cjc4M1NjS0FDOWtSVVktZUdnd0twZlROOFo4YjlOdXNsbFBhdnJyRkFIWFFac0NfSFFnZklWbWp6QlJlLUJ2dllPa0dESGNkeWd6ZEdSNVlfckJqQTU2cDdISUxKOWhHUWJZT1NTbVZZeDJjekRVcmFtaV8?oc=5",
+      "source": "Economic Times",
+      "published": "2026-11-26T10:40:43+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Artificial Intelligence",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "c1812c551d63",
+      "title": "GTA 6 launch drives combined 2.3m downloads of franchise's mobile ports, according to AppMagic - GamesIndustry.biz",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ0IzSEJzMW5nY3lEN2RCNFpHUllPTDVvSFBlU0tfelR4Y0RrazBJeXVvSUxuWWdibjk1d0dvM2ZYbG9OLVowRFNnLUtmLWJsY2RJS0FNcWVDeGdEYWZCYl9VdmVrQUlKLWtFNHd5cktycjBYaDhtbklDSEt5a0ZKZnBWZEpFbVB5V2s3NEhkTWVSdW9OUzJLUFBLbFZ3ckxlQ2hKdkZ0clM0YThzdndtS2ZLbDdXR2JKcDJPWjZB?oc=5",
+      "source": "Google News",
+      "published": "2026-11-26T10:07:50+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Software Development",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "f5c1f32fad8d",
+      "title": "technology licensing - ET Entrepreneur",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11OVFOc3FyOFdJbkh0T3c4Y2FYbjBBRWc4ZnhjMUdDRFpSSkFRajk0YkdIVDB5TTczbzgyTWxtNFk0Sk5oeko1YXVFUlIzRzhvd1R6bmRsbk1qMS1xUmVud3RtbExCSjFyX3hCMlozZUp1MzJSNFJaRG01UDU5M2M?oc=5",
+      "source": "Economic Times",
+      "published": "2026-11-26T09:58:03+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Software Development",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "b5d8c8b9b0ff",
+      "title": "Malaysia steps up quantum-safe communication preparedness - ET CIO SEA",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQd1hxd0RTR2RxOWlMeWpzZV9lOGVvZ3FEUE5OeXFKNUl2cUtWWHFhVGNJYVRERVhhYVI0QVJFSEtiUzBQV18ybmhoYXhBVlF0RlZVQ1RMYWlVX245NFBMcGxjckkteDFiSU9wWkxNNjA2Q0hucDJfaktiYy03NlRuNS1wdnpwQWZkTnFabEs1VHBrNHdId1lxMkxKeEdMbmNyZnFZMVJBNW11UTFfYndyNEVvdnNFcWs0UmVYZzJ0NnZLcUlyVUE?oc=5",
+      "source": "Economic Times",
+      "published": "2026-11-26T09:00:34+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Software Development",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "a5f8f5e6907f",
+      "title": "AssisTech Foundation, HT Parekh Foundation to host assistive technology summit in Bengaluru - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdS1kWElvbFBjU3NmR05fNjVOSzNTWGRmRWprVDFxMHREWjFBWnB4UFEwWVZ0U01MeDhLUmtIeFY4R1F2V2ppZ2dsejY0R2ptdjVKeXRPTFY3R283RkxTbWNMbXB6OUpCd180QlJIQ0VqYS1zMFRTT2tqYkJMWlo4SXlQLVU0T0phTXlOX1RCUndfaUZNczBJTWgwc1JvMkdCMzkxVlp4LS1GNWI1aFZvQzgzOGREWENqUzF5d0xwM2dlWDV5eV9VUWlCajE2REVvcm9wd19fd2ZtQm5EdWNIMUxFeVZwZGtaRTM4bFBlSFFwbkNheDNN0gHwAUFVX3lxTE53bUphVndVbHBBamdRTGhjWmRXSFVCUV9NMk9HdlFXWUFfXzhpMFJndUtNZzNSR1otZGxJR2tYekZNVW1YNUpRMjdVX2VOVFgyU2ZMaEl3T3FLdW16QXYyRmR0aVFNWWRlcGMtc09oNzJrMzBHbXlHTERsWmJ4OEpqSE5KTldVMEVLQ3VXQjNyeGxudUU0TGVEVUgybzRjRTdmamdsZ3BWQWVvOWM2a0gwOE1ycXZRellhZlM0SlBWRENGTVZvbHNpTDRDeUpLcTM0N3R4a0V6RXYzbF9DejVsRW1pS3JPanQyRzNXVmkzMw?oc=5",
+      "source": "Economic Times",
+      "published": "2026-11-26T08:51:39+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Software Development",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "d91955efac5a",
+      "title": "China Double 11 Smartphone Sales Drop 17% on Weak Demand; Top 5 Bestsellers Were iPhones - Counterpoint Research",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU2dmV2hWVmY1cThGNURRb21mUFE3Wm9TYnUtelZucmFvWVBka29sdFIzTXp0a1BzaGhaZUVJdVJtUnhDSTdaQWwtaDhiSmpuclB0dUwxWnRKOG1OdXRfYXJiR2dfeTB5X1FYLXFGc3dvYWtYamJHWm5DbGlJSEdSbmlTNXhsTTNCXzRmVzRqZG5TZTFGTmlyWGl1VFl0aXR1V084OHZzUWVJdXRq?oc=5",
+      "source": "Google News",
+      "published": "2026-11-26T07:04:17+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Software Development",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "d7984d124450",
+      "title": "Samsung Galaxy Watch8 Receives One UI 9 Update with Health Features - India News Network",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaEEzNW16ZDIzdzdiTWhuWVBMWTdPbW5MQWtSNXRRQlhYRldwUUpfWGFycFlOVnBJRVQwd2tKMFJlV2FyLUVhUWdxRDg1VE5CMzk4SHE4UEZJcEs3cFNkOGlhX09VNkFzT1BDUUpIbUhfQnhpTWVSeUNUT2Q4YXM2ZlhaVUQ3Tm90N3N5YUFZaHhFdkVfRUhGMU5aVVdma3MzSzBDUDBDU1Q2TFE?oc=5",
+      "source": "Google News",
+      "published": "2026-11-26T05:36:37+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Operating Systems",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "74b5abf19728",
+      "title": "CB certificate lists 60W wired charging for Galaxy S27 Ultra - Mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWmoxTC1MT3lHNG4td05vY05rblVzM0ZzWFgwb3hDYWs1enVXYmowY0FJZjVOc1hxNFNBNUs1dFhtbTlXMHhvM1BxYm5jVnhGZTVycERuU3c0TE8xQjJSU280OURlZ0J6TUVMWGhWSWxWQjRpYkpMb3lDSUkyWTU1aDZEalBxUQ?oc=5",
+      "source": "Google News",
+      "published": "2026-11-26T05:29:02+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Operating Systems",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "2663cc3c6757",
+      "title": "Samsung Display agrees to buy 9% stake in Ams OSRAM under microLED partnership - ET Manufacturing",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOamhjYnJfQ014NGNLOTFOcWFMM2kxd2xZWXZtRG5ETm1IXzFmc00yUURkS1lSOVE4cUwtTE9wU3FFR1hqRW1UZ2R2ZmRra0VxcTdpMGpwMU9SenRySXNETzRKa3hoQW5tVGtsb1g4blhqanA4Ym1PTERIVWZtRldUeDA0V0s1MzFHUklKcUF4dlpHajNHWGp3dFNRNjVNc2JUZ3cyQjFuaVBrN3JmUlFRZHBFb3VzRU1FdXNqbWxVVXdGRVJ1VEZqNVZtdkE5VW9jSWxEaXpqRTFJSTVWZkpLdkc4Z19YQdIB6wFBVV95cUxPLW5NaHI0QlZ5Z0dPUXBVZ1htMDNXbk1nNGZYaFdzdkJvd1pWWDlHQXBkMk9Cb19oZVoxSG5xaWZEWXNsMjVpaHFMV2VnWV80RlJGNkZkS184RWVlZ2REdTE5WTlSd2VXdjJGLVAtaVlUYTNrOTJFTkF6Tjg4THJDc2dGQzlUTFBub3JsSUpENjVidVZjVUdzbDR1QkxubU15WVREbVRUeW1CS3lFRlRNWkpVdkV2ZjdVVkZ3X01hcEFkd295QXM0VGtDVW4tdGlLRTllNXFyMTVldnFfNDVJYVpleGRxS2I5cnJv?oc=5",
+      "source": "Economic Times",
+      "published": "2026-11-26T03:41:55+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Software Development",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "eff5fcfe9bd1",
+      "title": "Barracuda spots Sneaky 2FA phishing stealing session cookies - SecurityBrief Australia",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaktwYUs4OXc2R0FrQnFfbHhnY3ZPVm85VmQ1eFVDSnUtMXlueF9ZZXFhU1FtR3NkMDNQM2VDU1pNWHd1di1JVDRJSEs0RUlFZzIxNDE2Y0lfSXZfeFNpNjA2czVyNl9sa29MMXA2X0l4OWxjOFZlUy1CbE42amtzanRCN0Y4R01Md1AxQk9yZ01xVFVySWlNMVlMNA?oc=5",
+      "source": "Google News",
+      "published": "2026-11-26T01:15:00+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Cybersecurity",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "f27e0de9d097",
+      "title": "S&P considers Nvidia credit downgrade over governance and \u2018key man\u2019 risks",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "source": "TechCrunch",
+      "published": "2026-11-25T22:44:32+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Artificial Intelligence",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "b5a265fa5361",
+      "title": "NEWSLETTER: Jensen is back. What\u2019s next for Nvidia? - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPanZEaGMtUmdmSmZPX1BXTmtqRG4xUXpNcFFiRmxWY0d2MnBmR0ZUWVRJM1d6Q0N6QzVjZ2NnYXVZTFNXejg5N2JaeWZTYTlHWlZJNFZYb09kS1JsY0ZadXVrLXZXN0lWNmRQdThKMmZOV1NBd0FYNk1CNnVPN0g5Zkd2ajh0c1l4VlFLbkNCYldadTl3c0Jrek0zak9XeW9BTWJMVkJ3?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-25T22:25:00+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Artificial Intelligence",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "b6512f00b6c1",
+      "title": "FCC approves SpaceX plan to put AI data centers in space",
+      "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+      "source": "TechCrunch",
+      "published": "2026-11-25T20:56:44+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Artificial Intelligence",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "4c44ce30146b",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "source": "TechCrunch",
+      "published": "2026-11-25T20:03:27+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Artificial Intelligence",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "e7d7a2ca3b37",
+      "title": "Jensen Huang broke Nvidia\u2019s code of conduct, and his employees may not forget it",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "source": "TechCrunch",
+      "published": "2026-11-25T19:54:57+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Artificial Intelligence",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "50c50c5241f3",
+      "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+      "url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+      "source": "TechCrunch",
+      "published": "2026-11-25T19:54:32+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Software Development",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "372ac8913322",
+      "title": "Anthropic\u2019s Dario Amodei calls accusations of surrendering human control to AI \u2018absurd\u2019",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "source": "TechCrunch",
+      "published": "2026-11-25T19:44:24+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Artificial Intelligence",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "e6164f07035d",
+      "title": "Acer Nitro V Black Friday deal cuts RTX 5050 model by $255 - games.gg",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSlFTYnZNdWVHUDZBd2s2YnpCUkNPMFMyQ054TWRiVERza1RRQ1pXWm5JYnpVY0N4UDVRTzFXZkRoeFk5SWJDR3hnOW1WVTJYZWR2UlZLN3R3TmtuQklyVmE3Mmg1cXR0VEJsUUNJZlkzR2NZeTVEQ2VHbjZBM2M0S18yeVN4V28?oc=5",
+      "source": "Google News",
+      "published": "2026-11-25T19:31:14+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Operating Systems",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "1e0fcaa5acba",
+      "title": "Report: Key Mainland Smartphone Makers Cut Shipment Targets for Next Yr; XIAOMI-W Axes Target by 25% to 90M Units - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMFZYb0F0NEtqaDhlcUNOMWJlZmFnRU8ySVJqaVNoT1FiSWZxX1FtX3I0cEZzVWNyQXNoWFBPRG1ReWVOc21wVFUxLW9sSmc5Uno0WjI1TnNmNGYxZzdCYW1qRktRSHVxTnhLNVoxOHJ6eGtRdGZ3RlkzQkpFMFU5T1U5aTd4QXR3bHRvZEl3azhRMHFLY19BbHpBQWFDTmJGOXVjUTdLa3p1cDJkQnlfOEN5R1hiY1NsNlRJVGVVVVVPVkZDX1E3REs0MTd1WEZRRVZNOWpWaWJJVlhLcE5tSlhGYlNOZHVCdV9UZDRaM3F0TmpHOGVqMWRhSQ?oc=5",
+      "source": "Google News",
+      "published": "2026-11-25T18:15:10+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Artificial Intelligence",
+      "draftStatus": "needs research"
+    },
     {
       "id": "c2211ba4f6cd",
       "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
@@ -25,7 +487,7 @@
     },
     {
       "id": "92419877312e",
-      "title": "State AGs fight Character AI\u2019s plan to auction off users\u2019 private chats",
+      "title": "Character.AI\u2019s plan to auction off users\u2019 private chats challenged by state AGs",
       "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
       "source": "TechCrunch",
       "published": "2026-11-25T17:35:58+00:00",
@@ -48,6 +510,17 @@
       "researchAttempts": 1
     },
     {
+      "id": "24b1046212be",
+      "title": "CIO News | Enterprise IT, Enterprise Technology, Tech Industry News - ET CIO",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSVNMQXdvSXByRnBCdDl5MzlQaFc2YVVDMGRaX0U1WW1jcjJBRGdlZDBaUHlOVGwxTTMwX05KSFlPbnVJZXFpQ0RKakR4TWRScnJXdDZlOUhSY1Etb2hsV21GdHJ2VTY0SUptc1ljQWlORUxCT0tIS29QSmFTOFNFSXJiX0xXc2dUZl9tOUFHTVVHdnJEWHlseWhPWVJ4MFRrd1pfNFh3VHdIOXlBYlBscDA3aw?oc=5",
+      "source": "Economic Times",
+      "published": "2026-11-25T17:21:47+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Enterprise Software & SaaS",
+      "draftStatus": "needs research"
+    },
+    {
       "id": "2651c3911177",
       "title": "Rayman Legends Retold Story Deep Dive: Expanded Narrative, Voiced Cinematics, Localizations, and More! - Ubisoft",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdXBfa2tBR0kteXFMdF9wZy00bHh0SlNHSjZQVDFJQ1VVV0hyZTV5YUE2VWJGTl9ZaFcyaElMdWhDVWFFcDR4d2ZEeXhQZE1OME1RcHdKRHBqWE44cHZVbmwxTHB5MEJZQUxVWllrYld3cVFfVmdKWHluZmk4ejlFOTA2NU8tLXNIMWhZMDRteFVtT2sxRjhHdUNZTk56MWRKajJaTzkzY0RIU2hyYkM5Y0VKZ2UtODF4cGRDNWp0RnJPTzducE1oUGdpZnNCa2F6cmVCSGxiZjhjSlYtVVpGVEw3U3kzY3Bmc0dIaTZDdUw?oc=5",
@@ -67,6 +540,17 @@
       "excerpt": "",
       "image": "",
       "category": "Artificial Intelligence",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "49ee48d5da3d",
+      "title": "Art of play in the age of AI",
+      "url": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/",
+      "source": "GitHub Blog",
+      "published": "2026-11-25T16:00:00+00:00",
+      "category": "Artificial Intelligence",
+      "excerpt": "",
+      "image": "",
       "draftStatus": "needs research"
     },
     {
@@ -93,7 +577,7 @@
     },
     {
       "id": "1671fb8ad8f1",
-      "title": "Allstate suffers multi-day tech outage ahead of Thanksgiving",
+      "title": "Allstate suffers multiday tech outage ahead of Thanksgiving",
       "url": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/",
       "source": "TechCrunch",
       "published": "2026-11-25T15:08:37+00:00",
@@ -112,6 +596,17 @@
       "excerpt": "",
       "image": "",
       "category": "Software Development",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "b45d58e25dc6",
+      "title": "How to choose the next safe step in application modernization",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+      "source": "GitHub Blog",
+      "published": "2026-11-25T15:00:00+00:00",
+      "category": "Artificial Intelligence",
+      "excerpt": "",
+      "image": "",
       "draftStatus": "needs research"
     },
     {
@@ -327,9 +822,9 @@
       "draftStatus": "needs research"
     },
     {
-      "id": "21e498a68fbe",
+      "id": "11bc4644e483",
       "title": "Amazon to buy Decart's AI chip optimisation tech in latest AI talent grab - ET CIO",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQaDNMZEdFd0ctNnlESXkwQThBdmtjclZNMUVrS3RoQlRQSm82bS13WVNWc01zYnQ0cG56ZW82Z1FFMG5pamYzaGhzVFY5U2xYVnhCdEwwY3k5MTdGYndySU43MjFvdHA5SFowdFJVRV9BLTV2WTAzU2JPWkwwa0lNTXRLSWZ2amZnMGdXVWlCYWF2b1I3Nm9neGZnN1hQUm95VEpsektQVXA2bENuaWVNc1B2UkNqclduNVRFb19ReXdYNUM1M2pKVmtCZnoxaFNpODg5ci1LMEpqMkJrZ1kwWklwNkJWaUV4ZEp5Y09aWjhEWGtoY2pfeXlRbHRDQXZkS05IeUxUOS1CVnpWYWJiUVlXQW9nd0V6eFZVT0ZxZTlkcGNvQV82czR4dkRGTFHSAewBQVVfeXFMTkl1c1hNdWpOLVZTYzdscHRyRXhNMDN6cWw2TTVfb0hwdUN2R1pvMGtub0pMUEYwbFpKY2VhT1NTaXR4cExLc2Nnc3BpenB3UzBYd2g5ZXZmeVp6dmhBYU5hOG13emJZWUZ6cndQUVlGT0huQmFxSzE4UzFZVkVrRGFyYWF0R0g2LVdxZ0hHOWhCVU54QnczMlZGczJSRDhQOFZGeW9WTlFVOXl1TW9xR01CbU9FdENQLWtfQ2g1UXVORjliaU5tU21ONkZ2YkVuTkx6Z3ZDd3NnVzJ5OENhdTRjMHUwNHNQWW84SFc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRWt4UmVUR056Y0VSa2VxSjNCRTA4X3hmb0RYRXJJQzREaFNCLXJDS050SFJJVnJhR0ZHb3JNbUlNc0F2djdPbUlnMDZzUXZQTEVrYW9HTEZRX0lrbkl1cDNrRHduMENhZW1xRVpmdEtfYktZUzJReHBXWEZ2VDJQdkxoM01TUXBoWnJMOWpYOTY1X3VLTVU4Vmc3WkxBaEc0eWh2ZDhfRzVQRjZvc1RTTWpaeU5SLUxrN08wMnoxdThxOHM5SHl5Q1d0cTh2My11R21OWS12WFVVQmVGMkdKYUx0bG95N2_SAewBQVVfeXFMTkl1c1hNdWpOLVZTYzdscHRyRXhNMDN6cWw2TTVfb0hwdUN2R1pvMGtub0pMUEYwbFpKY2VhT1NTaXR4cExLc2Nnc3BpenB3UzBYd2g5ZXZmeVp6dmhBYU5hOG13emJZWUZ6cndQUVlGT0huQmFxSzE4UzFZVkVrRGFyYWF0R0g2LVdxZ0hHOWhCVU54QnczMlZGczJSRDhQOFZGeW9WTlFVOXl1TW9xR01CbU9FdENQLWtfQ2g1UXVORjliaU5tU21ONkZ2YkVuTkx6Z3ZDd3NnVzJ5OENhdTRjMHUwNHNQWW84SFc?oc=5",
       "source": "Economic Times",
       "published": "2026-11-25T08:30:00+00:00",
       "excerpt": "",
@@ -727,6 +1222,17 @@
       "draftStatus": "needs research"
     },
     {
+      "id": "f015b988e15b",
+      "title": "Motorola Signature 27 Camera Beats iPhone 18 Pro, With A $200 Catch - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZG5iRjFFbTVKZEFxTm5kLS1xazJtN2ROQ00zbTRHSnJnU3AyRlZETGN3Q0lRRVlYY1REb0pLdjFmcVhOcHJCVjhHUG9JTUVGY3NHMWwtdG1QTWhrVnhxOUd4eDZMODlFZVc0Sm83QkdiWnhMYlpIb1RTOHhhMk1fNUwtUi1jSm05cVNIWmw4NWQxSHpL?oc=5",
+      "source": "Google News",
+      "published": "2026-11-24T17:23:34+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Software Development",
+      "draftStatus": "needs research"
+    },
+    {
       "id": "03938f50d224",
       "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
       "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
@@ -793,347 +1299,6 @@
       "draftStatus": "needs research"
     },
     {
-      "id": "5845ed4863b4",
-      "title": "Amazon\u2019s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-      "source": "TechCrunch",
-      "published": "2026-11-24T15:51:07+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Artificial Intelligence",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "fd27dc13ace2",
-      "title": "Apple to bring new iPad Air, Pro, MacBook Neo 2 and more in early 2027: Report - Deccan Herald",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObE1xaEo3YkpxTEY0Tmh4bEFDNzV4cHlFMlpac1Ftbm00cFNFY3NZOWhHemppRTN6RGN3eW1PR1FVQUJQYkdQSk5LOEVhUDIwczdNT0hOVEJGWHBFd2JwTE1JT0I5RGhQeTRhNW40ci11Mkc1Wk5pdC1BcWJ4YklWLW5fZWd1SFR2ckZYSzNKcDdoaGsxZTdTWUFZX2M0MThTbGgxVEpVbklxaThBS1c4b0d1UTZNd3VsT3diTEdhN04?oc=5",
-      "source": "Google News",
-      "published": "2026-11-24T15:06:44+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Web Development",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "1cd7dfc82de8",
-      "title": "How Rahul Kharbanda turned magic into a tech-driven brand experience - ET Entrepreneur",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVWJRazJ3U2E3VktZWDlqeG9Sb1ZuMXFpU25acUhmc193dVlJS3JpNXZXWnhBeThjT2FuZWoyWlFHZk9zVzcya016TUpocHV3ZjJXN3hUSkswd0hoNzJHT1dOYkp1MVRBRFFRZU1tVExkSUx0bDZ3Sm1ua1hndlRZVURyNEFHQjVpMmxyR29feF9aYVpwdzFINWlzRkNtM2JSVzZlbGt4MllSbDV6SHhYRlNPaG9WVzBnNjR6a2E0UGdjb3hZd2tEQjV3azB0QdIB0wFBVV95cUxQUnI2ZjlQbUNaNl9lUEU3N1NQV3Z4NHloYnp0ZGQxQnJteFBqcVpObTY0dUxsVURPVlAtRzVkbmFFa2dBNG1jcnFsMDczdlp0b3pEd1FrNEhXdXkxRGVFYm9OMmpWclBKUXlnODJ2YkkwUGR0V3pEak1hUXVCZE41VVJqUzJBTDJnZnotWXEzMERpTGZfcXVHMThYcFR5T3RHNlFPcUxrbEd4SUZGc3Z2aHRXODJJd3dJeHU0Vm4xZHZsOXhmdW93bTBvTFdvWlNucUdv?oc=5",
-      "source": "Economic Times",
-      "published": "2026-11-24T14:24:25+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Software Development",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "7bb6fc81a953",
-      "title": "Galaxy S27 Ultra: Samsung To Change Camera After Five Years - Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkV3NWM4ZjZJa2FDdHRVSG9OcVFMb2JkaXZYT0g1VU1KeS14a0dkeDZWQnZzOVc2MXExbjlZNXJyR3g3SzNkUm1NNVNkNXJfLVFsVXd3NmVNZzRTYUlZNVJYeWxucTF0RWJHT2M2SVJpUndBUU9ZeFRQUmRzZmpJX09VbDE1UmxfWnc4R3NB?oc=5",
-      "source": "Google News",
-      "published": "2026-11-24T14:23:31+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Artificial Intelligence",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "3831f06f1f74",
-      "title": "Today's Wordle Hints & Answer - November 24, 2026 (Puzzle #1984) - ScreenRant",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVlNMWmxhcWswN29seWxSRUVycGdSdU1uUDl2T01YU2U4aWNLVVIzUkZRc3lVQVlNOG5VX0EycXFLLUwtNnZLeFF3R055Rkdfd1VhRE5aYU5OX2xsMF9BTkZkampqS0Zub0I5dS1JT2luMHVlY09xV1paSFRLMkVQbDdEN0lqQQ?oc=5",
-      "source": "Google News",
-      "published": "2026-11-24T14:00:18+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Software Development",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "f8f92f4c9cca",
-      "title": "GTA 6 hacker sentenced to seven years and released the same day - Help Net Security",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbVNKSl9ONzdZTkhBbkxabVNqZGY2emVTeDJlQW1reTFmYUtDSGU4Q2x3TEUwaTJ6UzdYU0FQWEpOZ04zZzVHdHRSTTN2elMxY3hEOXp5SzRrRk04V1BJdDBTWFBmTFppVTk5dXIyWVNsSVdJWWZ6RHJoNXMxczNaSUFjUWV6NWYzQUM2R0kyeUtRN0EwajRFYS13dzlLTTJm?oc=5",
-      "source": "Google News",
-      "published": "2026-11-24T13:35:37+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Cybersecurity",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "26e34a7bde50",
-      "title": "iPhone 17 now available under Rs 58,000, but you need the right cards - India Today",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaFR1aUxlSFo3UzZJbWVoM24yUHhZdU5GblNpREUyZHZ5Vk9sanNHX2JqcDl3TS13VXFTb1pUWVNmbWVGMkZIWW1lSG1wR0ZGQnJkdWV5dkJ2cHk0d3A1aUJHQU5QbTRhbFdXRVBtRDQ4cEhaZUtlZnlEcnBDcVhGRXhtaG81V1JsSUVtVHE5aGxVSUNrMHA2UWxfdWNwOXpjRk4yc2ZFTjh5Q2JBVzY1Q3JiTjdKME9NanluYmljb0dteEdTcmVLalB2VVU5bGJKdmfSAdIBQVVfeXFMTmhUdWlMZUhaN1M2SW1laDNuMlB4WXVORm5TaURFMmR2eVZPbGpzR19ianA5d00td1VxU29aVFlTZm1lRjJGSFltZUhtcEdGRkJyZHVleXZCdnB5NHdwNWlCR0FOUG00YWxXV0VQbUQ0OHBIWmVLZWZ5RHJwQ3FYRkV4bWhvNVdSbElFbVRxOWhsVUlDazBwNlFsX3VjcDl6Y0ZOMnNmRU44eUNiQVc2NUNyYk43SjBPTWp5bmJpY29HbXhHU3JlS2pQdlVVOWxiSnZn?oc=5",
-      "source": "Google News",
-      "published": "2026-11-24T13:33:21+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Software Development",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "9b1c6d7c2e84",
-      "title": "Huang reportedly admitted to more than two affairs to Nvidia\u2019s board",
-      "url": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/",
-      "source": "TechCrunch",
-      "published": "2026-11-24T13:29:53+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Artificial Intelligence",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "8287db6fd7d3",
-      "title": "Cosine Robots raises \u20b922.36 crore in funding round led by Avaana Capital - ET Manufacturing",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWkF2YjIxVGZOc1VIMGVTaFBta0N2aXJCakFLM0VoRHRGYWRZYmVNYzZxd2RMQmpkRVFmbExtbi1IY2JlSzVhQ2E0cWJ1NnNja2pUbkVJM2hBa2R4U3VSNjh2VE5YVEJaQ0lCVTlFTHlpdEF2NlVJQ3NqX3dLUzVWTk5raWRqakRpOXM3TFFaNHRSVXFhdkdaR3FtQ0dmZDRmaTd1RnF0bUd1UXRQc2xDd204czRLcndhdi0yb013empNQzkyTkdKaW1ONEdQZWluTXdURDhmdVM0UGFIaUHSAeMBQVVfeXFMTS1NdWlISEtyaEJrMGY5VjN1eW5VcGo4b1ZtWjhnbnVhN1QtRkJBcHo4d3Y0NUNWTlcxOHBGT1FDT2VmenUweXBBbFVaVE1VMnNjM3JNOTZFUmo2dllFY0Qtc0xqek55cHlFSERPMFhFbFVZcnpNZUFtSS1FbTd4X0poc0oxT09lUTBpazZpVHNJc3lSNFBBSkZkZmNoaTVYR01FeXBIT0NMNml4T0FEanZiYnN0SWloLUs3RjA5QmtIM0U4VUZLeVZGbm5CbUxDUGlHYjNfMUg4eG1INks1bU9MN00?oc=5",
-      "source": "Economic Times",
-      "published": "2026-11-24T12:42:52+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Enterprise Software & SaaS",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "77ddd701dc86",
-      "title": "QNu Labs, NIELIT join hands to drive quantum technology education - ET Telecom",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQREtnbFRIQjRVOHAzNzM1TjJ2dGYwbWZVSTZnbDFtY3JJNWQwdVA1MEY1Y0swZk9aeHlYNHdSRXlrZVhDd2EyTDhhM05PTkhrUlpyZnA2OGFDSWlaS2FVME03cUVRV3dwREsyT3pnUUJtcHdUdGRaRHowc0xHUHpvZk84cTFNUU9DN3ZJUEdldGdsVlByVnF1NFZIbWxaSmE0cW13WlBSSnFIREd4cF9hZWUzYnBFd0docXlmU09lcHBtUlYxUzhfQ19mUFRmWm4zMlVGUi1iZGRrd9IB3wFBVV95cUxNM2tiVEdUSzloNzQxeGh3eGNQVUktQjMtRmg4VGV4Z1hnd1lnM1JuLVVQSHYwTFV4SlgtbS1pZjBsWVdzN0l6LVIyWU5OcnFqZXdpbXNpMk9VeXpLdEZWblJsR3RLckJoS2JoM0tUYzNuQmc0Qlk1WU1OaVU1akJwUGcxVDg3YlpQTzEwdmRTek1YNHRiX1o5bmxrXzFsNEg5bG0zcUN4VjBvVHpZS1QyaWVDM0F3UHRyZWRRMWpxZVo2QUdtNklYbVdnYjZ0ZXgwTmtDUEo2UXZBbkxXUTdR?oc=5",
-      "source": "Economic Times",
-      "published": "2026-11-24T11:25:23+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Software Development",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "547bedde63e8",
-      "title": "AI agents could trigger financial regulation for tech firms, UK watchdog says - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQX3hqZTN5YXl5TVBpQWhuaGMwZTFqa2hKUWFYSmRmOVBkNDY0eVB6dENnNHFOeVd1REtCTXdoc2FwbXpWQW9IWXZMcDJMRlZzak1xdzhSb1lYd083ZkNUeXJBNkZzTld4enFhaHpyaE45SVl2UlJ5cTFiemtwbE10dmR4aFZkaW1nTnBUT3FNQ3FqX1JjYWpsUFBGZjFWbkxIaWNxQVNKZld4WjJvdnNhZWlta3VGdGpMT0ptSG9IU2U4bXdiRl85OGt6SnUxMzlJMWFCMVdOX1Z3cDczX1doX3JaUFRkOWhhY0V4YmI1YkVsVlRYWEU3dk1fcDPSAfYBQVVfeXFMUDdZYWVwd0I4MkdHV3VHWUlDLUlIcmRGVW9aYk9JUDBXMmJmRWJtVUNYQkpoSmx0T0tyczhrLWhKWWVJOGw5QlBDQ1c3emFtNDFJMGNzOHozWnpjS0o4R1d3a2hFZDV3TElzSkhDVldjaXptRWFpQjJrMWp3aHd1dTlLS1JPTmU0OW9mVzljVHpTWTV6SjZKWXpSMXJPSmV3QzVtR2pyenRvX0UtR1pjWGtydXN3SDFuRllvMVgyaUt3d29fYzJ3SXotYW1ON2R2ZlJYQUZReE5XZ1ROZU9uY3RaV2dCMmhrTW1uVExHT1NvMk8ycS1R?oc=5",
-      "source": "Economic Times",
-      "published": "2026-11-24T11:20:25+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Artificial Intelligence",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "4a2b6b1808e4",
-      "title": "iPhone Air price drops by Rs 60,000, check deal here - India Today",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR1JYWUNuTGY3U0g3SDBNM2QtVmcxbkV6WWlNb2xOS3lfZEpKSEFac1lqZzBnVFVENzdTOFFnckgyMmZ4OU85M05rX1U5RkFoNG9meElUZXBubXc2dmZVNllEWXR2Y0l4X0tHZFp1LVM5NEI4dnFhbE5xMklpelFrTmRyb3BEcVJoZ1BLd1ZSVEtrWmJYSGdwV3IyVXBQN3lpTlNadW45emFmWjQxanNzdmFKZXBtREtVZkhZ0gG7AUFVX3lxTFBHUlhZQ25MZjdTSDdIME0zZC1WZzFuRXpZaU1vbE5LeV9kSkpIQVpzWWpnMGdUVUQ3N1M4UWdySDIyZng5TzkzTmtfVTlGQWg0b2Z4SVRlcG5tdzZ2ZlU2WURZdHZjSXhfS0dkWnUtUzk0Qjh2cWFsTnEySWl6UWtOZHJvcERxUmhnUEt3VlJUS2taYlhIZ3BXcjJVcFA3eWlOU1p1bjl6YWZaNDFqc3N2YUplcG1ES1VmSFk?oc=5",
-      "source": "Google News",
-      "published": "2026-11-24T10:38:18+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Software Development",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "4006d7d2225f",
-      "title": "Samsung's Galaxy S27 Ultra to Drop Laser Autofocus and 3x Zoom, Rely on AI Focus Instead - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHOUpNMEVlck1YVVRYTUlMSkVpV3pqQlItM2RZcS1FRjB4ZEIzVXZfWkJzdERqYmVvdlhDQWR0LVE1WGEwYW1XcC1HdHI1TGx4bEFPcUcwb05oU2cxWXp6ZFBFN0lWOFgxQmlHSC1JUVZxRXBqRUE?oc=5",
-      "source": "Google News",
-      "published": "2026-11-24T08:26:00+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Artificial Intelligence",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "26226d87e80c",
-      "title": "Apple Prepares to Launch Product(Red) HomePod Mini and AirPods Max - Deccan Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMEd3Yzk1RkVtdW5ibzhjSHczY1FTLUNTV2JTOThDeEMwZkd3Q0dFaVNVdUJpSXVpQkdfZTN3OFJfRTJRMGdTVVN6TVdEeHZUc0JpQy01YnJfdlFoemxlN21GUFdIeU9IYU5HTTdFR2h5MkFqZlBLTTJEUmRYRjNJZXRJMFUwWG1DeVQ4aTZYM3JFSER3NWtDSm45c1h2STB1c3dhMXpSN1VIQWNpNHBsZWJ1UW9BUdIBuwFBVV95cUxNck9LQjNMX3VHZ01ILVhjWFJwZlpmTWhsZE1HQlpjNGxGN2N6Z045YlNXc2xSMzlZOVZtckVFY1FsaVRULS1CNHJmN3N0cEZTeHMzQmN4dnFEbUxzdVI0VldKQ2xvbE1qZ1FhSHlVLW5TWmM3cnRMaW5xNnZDaWYyQkZWeGdVVDhkRmhvdlJDS2FLdFlXaHRULUE5UTVKb08tMkpHMm9hMG5iVmpUZ3IxQlM3Y1pxaS1uYVhV?oc=5",
-      "source": "Google News",
-      "published": "2026-11-24T08:20:44+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Software Development",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "fb23716fd2c6",
-      "title": "OpenAI, Cisco launch \u2018Shirudo\u2019: How it protects Linux systems from security threats",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/openai-cisco-launch-shirudo-linux-systems-security-threats-10976255/",
-      "source": "Indian Express",
-      "published": "2026-11-24T07:49:07+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Artificial Intelligence",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "300f4a411e49",
-      "title": "Motorola launches Edge 70 Neo for premium segment buyers in India - The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcDFYWHhfWE1ReFJBSFZLUTZpYzVpNmNRV2N3SWc4QWFTNEdBOEpad3ZzYzExN3Y5N0dHSDNOdVhFRHU3bGN0aXZfb05rNmVfa2I4NmhwTTJma0NQRVdobk5DNU5BeWZhUFl1aFZzLUJvMkE2S1dXOGlEeDBFaHhHakszdWh6Q1VVNDd2SGtlNUJnVVUwRkJCMWFXVjZreWhPeGRHc1RoWGRTSXZ2YlBrWExaT1V3aEtWSGtOalhWbE5RbVhBQ3ZEUDk0ZUFmV3RvN0puTNIB2wFBVV95cUxNR3YzMl9ZemI0bXFuVFhFNVJNek5JaXhQVm5pd2lCcEJEdEVlcVA4VlpKWUZQZjJjM2RrdVBhUnB6SHhKeEdqbnMxMFE0UmYya01velFYWG5nZGRBS3ltR3BidzBRSnFlQ21wVkJFU2pJZHU0VnpUTnVrakk1cmt6LUJsd2VKdjk1ZGw4eHN6cHdMUVZYcjZQX09QQnM2Rk1aODU2bjdTNko0S2U5TG83MTFhV0ZUUzdXUTFMQV9HVlMwSHZHTFNzTi04dHViTkp6cUtsaWhzUlZJVlU?oc=5",
-      "source": "Google News",
-      "published": "2026-11-24T07:28:46+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Artificial Intelligence",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "bf18c1fd8315",
-      "title": "Black Friday Thunderbolt 5 dock deals for Mac slash up to $150 off - AppleInsider",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNODVIMGQ2OV9mYUNRekNvZy1rVVVZZTNKUFZlNXFyeTh0Y24yNFdfcE5hU0hiaERjWmtHbmpreHZVcEduU0hRamswWjhvSUl2a0dvelZwcWJPeDhIaFpUTXlZOTV5aFJPcm4tMGpjdG9OdjJNUW9TZDhUM1NwSkp3OFlRdzdJUnFHUGUtQ19JUUpRbEJRLUdzdDFrRzl0TGZqRTZ6aU04enpfNWVSaXc?oc=5",
-      "source": "Google News",
-      "published": "2026-11-24T05:26:00+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Software Development",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "be1158a86e0f",
-      "title": "Amazon\u2019s AWS CEO says engineering, not kill switches, is path to AI safety",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/amazons-aws-ceo-says-engineering-not-kill-switches-is-path-to-ai-safety-10975921/",
-      "source": "Indian Express",
-      "published": "2026-11-24T04:15:57+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Artificial Intelligence",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "d9b5a510cfc2",
-      "title": "CrowdStrike snaps up Zscaler in $44 billion deal as cyber threats mount",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/crowdstrike-snaps-up-zscaler-in-44-billion-deal-as-cyber-threats-mount-10975917/",
-      "source": "Indian Express",
-      "published": "2026-11-24T04:11:30+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Cybersecurity",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "77572276d70e",
-      "title": "Tech giants to face billions of dollars in fines under Australian internet safety bill",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/tech-giants-to-face-billions-of-dollars-in-fines-under-australian-internet-safety-bill-10975908/",
-      "source": "Indian Express",
-      "published": "2026-11-24T04:05:45+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Software Development",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "fb5aba54fe42",
-      "title": "Dell, HPE results to put AI demand to the test after tech rout - electronics.economictimes.indiatimes.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZWhRNmptVVFjOEkwUFk2RmJsanlHaVpiOXloMlZLbThyZUlONTBWeGxaVFZZcmVlbllMdGlLZ0NtV3R2VWNWS2o3RDFoLTF6eHJwMmpvRE00eGVudGx6TTh0aE9uNm8tNEdUSG16WUNwTFA1ZUlieEpEX0Vld1hRbGUzTjJra09BNUhOZHNpd3dJLWkwc05aZXVPZGVEdzVPaTl1V3J4VEttOGJiV3h6dk11U3hkZGQwTlRVcmtnZEVEVHZxTTlLa1RsaWRjWHUtRWR5UnM3SmhFLVJnai1r0gHkAUFVX3lxTE9acF9TNVlzS0xzWS0xN1o1ZEQzYXJ6Q1k1czhPajU2alI2bGR1a3ROSk9vLW5hQ3Brb1c2cGNkeGpkYXdXaUhQV25MTUFURUx3QW01blNocVdTTFMzQlAxRlBqakhBOC1zV0F1OWJteVhOVlZCNkRJRC1Pdlk3bVl3clJSVmlsNmk3TTJEa2FnNWY4aVVsQ3pITUx5VVM2TXpuM2hvXzRPeUxHM3RIblozNzBDamJYa082RXRjcmRIWTI5dUNESFdvMzQ2SFllZW1kNlpBNjVVaDdtTGM4UVZFblVXOA?oc=5",
-      "source": "Economic Times",
-      "published": "2026-11-24T03:16:51+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Artificial Intelligence",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "04ed00d27475",
-      "title": "Nasscom proposes three-year AI Services Transformation scheme to boost India's tech industry - ET CIO",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOVWx3OEViQ3VMTGdsTXNNcDlIQUo2bEp1R2ZjMHFubXB2c3lEbnFyTDZmeDc0bTZyNF9XWlgxUUgxMUpTeExyVTdfQ3VRU2JpeWppUjhXOGtlczBvY2tLcVNDLTFzRW9WX0R3Y0RERWlMX0VfdWNDcVZ6ZmNTX1N3aEIzckV5NTZxRDBSeFlmR0NfN0ZZWnMtM0VLVkhhWEpxUUpvNkxSbUhZanRna3lmcnZldk9zNkRHdmZqZWFLOGJmVHd1MkRETmM5cU4wdXlrc3REZXQwTlEySGNVWTRxZlY2MEZEOG4tMkNsVDljeVRPNXVldHl0SVgyYWVidnkzRERoTnNub2oyRlFVVVJfN2lPZjIxY2Q5Y1dxUUFnZl9sRW1uMl9PXzExSHR1Y0tQRy13c3dIVnTSAfYBQVVfeXFMTWxRQ2JWSDFRcDl2clZhbkhlYkFfUF9QU3FaMEVVckdlU3NfZTItOVpKamhlNlVKUGljanotdjVibE5lbmdkdzhnblNmSmhpazNpRVdoVUh1Y3c3elVHd0hhTVFrLWt6ZlFpckNKbkZPMWY2dVM4eXh0NmN3OGtUZnBqX0Nad25xRFVPbG5aa3l2Y1VfaVNndW4wYnFJSEw5TnQxWFNJaXZHLTRCbE9XSk9hTUJsMzZtNmxmZXg1Tl84ZjNWS216ZFlRanlwZDVBVzJsWFpNMHRsVkZSYmRHazhwbTBXV1ctb0R2cWRybHkzTUp0SDBn?oc=5",
-      "source": "Economic Times",
-      "published": "2026-11-24T02:32:09+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Artificial Intelligence",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "deb2ca0b37c1",
-      "title": "As GTA 6 PC port gets closer to becoming playable, Rockstar is reportedly taking action against modders and Discord communities - Notebookcheck",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQRVdxMFdUakJqUV9BbkhmSUVrVGtZLXFEYUZGeGRtdlZGLWNtWE1kWWZfQ0NvTkZhRUJnWnBTY1dRTWdGVlVqdjAxVURYTl8yTnozRUpmaHdxdVIxSzNuQzh1Ul9lYWpEMDdRRHhyTW41TFF5ZDd1UzdEQTh4Y21iWVZEMEx3VlUyckN6NVBpTTljQngzUmpqY1N3ZnpqQncxaVlWaFl3clBlTV8zblZINmFRWFN4c1gtbVVRRXZidXcwUGhsVnN5RHJHczhhalpUTGZrdGJwRk5lNnJCcFVvWmVTcFJjUnQ5MXhINTZsUkg2cUNsTEQ2VUNlNkw2TFpZ?oc=5",
-      "source": "Google News",
-      "published": "2026-11-24T00:47:00+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Software Development",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "09de24386db2",
-      "title": "Phone Maker Nothing to Launch Earbuds and Case With AI Recording - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc0FDUDJvQlJ5TXFzeUNSM1VKdjBBRGx4eEhSUGhpeXJTRjJYTFhtU0pwbi1UQmpTdXRYc2l3OVM5dExZRXliWUFKMlE0WVVqMDZBX1ZYaWxMdjhPUFB1SjFrMVJPd1RRRkhCTzlNMzkxRlNmU0hlaFhhNGM5aTBGRlN1SEdvVmlNUmNrYnh4Q3pfTlMzMVVEclZFZGxLR2ZXdkNxamp1dU5ZMnZwcmxGNmNranVTRWQ4b2xHRE5WRXNKQQ?oc=5",
-      "source": "Google News",
-      "published": "2026-11-23T17:00:00+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Artificial Intelligence",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "a0eed85ebba3",
-      "title": "We sifted through hundreds of Black Friday gaming deals to find the ones actually worth buying - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYzJUVkxTTU8xZzV5a3hsUnFpNE13aGVwZm4tcGtsUTEzZExhcnNqSUZKNkhwc3N3ZVB4MnlkdnM4bERhZnpWeklSaGp3NHRlZC1SMVo3TzlJYWFVT0RQNHZLaWZzNGFTRHhjamJkeTRZT2FZZGg5dnNhWTNMZWpCeWZpQUNyS1dicUlybkNjTnI4Zw?oc=5",
-      "source": "Google News",
-      "published": "2026-11-23T15:22:00+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Software Development",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "f73eec1864cd",
-      "title": "iPhone 18, iPhone 18e and New MacBooks: Which Apple Devices Are Coming in Spring 2027 - Mezha",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2cmc1aUJHcnVwWC1MZHlZV1YzalJ6bmFZLWFJdmswbUgxNmRvM0s2WHZBRkh3QVM1eVVOWGVTSW9xNmNKTVZSLVNXT29BR3VaaEpTNi1ydDM2YXVzZ0Z0UtIBZkFVX3lxTFBleWtxV1ZyOHN1YkJ4ZmxObnhJcmtrXzNpZ0VNbXJrSXVMdkdjdndqN1NJWE41VzJxNHlUQzB6ZU5aSFVXSHlQYmExOTYxX1dzQzlRcVFZalJIRmpiMjRWQ010OHhyUQ?oc=5",
-      "source": "Google News",
-      "published": "2026-11-23T11:42:00+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Software Development",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "68f2514d6b46",
-      "title": "iQOO 16 coming to Amazon India soon with Snapdragon 8 Elite Gen 6, triple 50MP cameras - India Today",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQ2k4Z2RLeTNYRzNuNDVLS1FmLUFqVEJsc1JyN2xCTVVhVDdqbE1TeW82XzJ5VWdXRUhaS1ZzQXZNVHlpUTFMVmY0c3lWRnB1ejVVXzRrMzhSaVBlTUFzcE5XRlZKbEFQbmNzMlBxRm5ZbmZNSjNlUnlhaEE4NnF4TUlVOXFBUHlpQ0RhZDRxeDliV3VEMWt2S0VZOXQtSzZuRmRIWk9IdlBXZHZGYlQ3aWhfSm80d0ZFRkUxd2VpOXhJaTBmczVGUTZGNnBnYkFlOHMwYzI2UjJ6Tm9BeGxnOXRkUFpNMXfSAewBQVVfeXFMT0RMT25BSDJMZU5JbDl1dEduSkExbXNVRjdrLXNibEZpOEI0LW1Qc0dlWmh0Q3F4NEs5c2RyUWF4VEpzOWJSREZPd2FKanV3amQtajZWV2J4WXNfMU5oM2VBZWNreE8yZWFKUC1VTUQ1dnpiR3FaT0lzOHZQVjg2SGZBcU9wemRGV3JIcE91YUUtRWNQaXBhQTBrd0RHUU5RS0txVXZweDdmM0s0QWZWdTBOdFdqdldyMnJpemZkVGdJeGc2SFJhUVo1OGEtZ1MzV0ZLZU54S01XbG1hNWpUd2lPMlR5YkZvUUp2LTM?oc=5",
-      "source": "Google News",
-      "published": "2026-11-23T11:00:20+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Web Development",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "bfd3f4ac644d",
-      "title": "Digital sovereignty in Europe: The rise of sovereign cloud services amid US tech dependence - ET CIO",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObEZXNmdNb08zdnp4RWdvT08xMjBsTlFuSDhqaW1VZXBHXzJCSHJZUUlaRFRBbGc0RmprZkF5cHVmRkZwcmxHX2h6OUtaV2wwemRwSjlzY25fRWhwOFhtLXowWFRQY0lGR1RtUi00WVUyclpQSVFGcG9wNTlqT0tSbGU2Sjd1NUlZWjFFN1QwUVFvOURhbmc3Y3lMX2k0TUFsOXV4eFVMVWpETmh6TXdXSGtQMVc4Z3pGLTNmcmNvOW5lcU5fc09rN3lfZDhLYUdmSWdocGZUNDJSem85d3NxdjZlczI2Q2pIckxmUFJnME90c2hEWTNkei130gH_AUFVX3lxTFBqM2x5MEloR0c0Y2xySFRiMW5scThVcGlTNlowM2FWMHhfamFhdGRUWnU0YUxlVlFIb1BOZnhZdF9TTWxDT3lYbldTYmJ4cjAxS1V4d0FUZF9PWE5YbUtFdzB1VGZUZ3lCOEVLMnBnblV2ZkV0VUprUHJuU3dJbFJDN3RXRW5WZHlwM1dueFcyYktfTjBORFI5S0JadnhPd0xfRWMxOGlfdEUzb1B2dWJZZDRmRXZZall1VEtiQkFWdU8zQVA5eTNsZXgycmdyN3UyRk1oYU9LS3luMHduQnJYMmFiZGllZHdjZGJmMFROSlU3bTVRX0lSUktqWWNTaw?oc=5",
-      "source": "Economic Times",
-      "published": "2026-11-23T09:30:00+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Cloud Computing",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "380098d5478f",
-      "title": "US intelligence chief predicts more tech outages as systems undergo upgrades",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/us-intelligence-chief-predicts-more-tech-outages-as-systems-undergo-upgrades-10974414/",
-      "source": "Indian Express",
-      "published": "2026-11-23T04:04:03+00:00",
-      "excerpt": "",
-      "image": "",
-      "category": "Software Development",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "49ee48d5da3d",
-      "title": "Art of play in the age of AI",
-      "url": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/",
-      "source": "GitHub Blog",
-      "published": "2026-11-25T16:00:00+00:00",
-      "category": "Artificial Intelligence",
-      "excerpt": "",
-      "image": "",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "b45d58e25dc6",
-      "title": "How to choose the next safe step in application modernization",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
-      "source": "GitHub Blog",
-      "published": "2026-11-25T15:00:00+00:00",
-      "category": "Artificial Intelligence",
-      "excerpt": "",
-      "image": "",
-      "draftStatus": "needs research"
-    },
-    {
       "id": "307ec7853a39",
       "title": "These are the gifts developers will actually want",
       "url": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/",
@@ -1142,6 +1307,17 @@
       "category": "Software Development",
       "excerpt": "",
       "image": "",
+      "draftStatus": "needs research"
+    },
+    {
+      "id": "5845ed4863b4",
+      "title": "Amazon\u2019s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+      "source": "TechCrunch",
+      "published": "2026-11-24T15:51:07+00:00",
+      "excerpt": "",
+      "image": "",
+      "category": "Artificial Intelligence",
       "draftStatus": "needs research"
     },
     {
@@ -1157,6 +1333,18 @@
       "researchAttempts": 1
     },
     {
+      "id": "ff7c1d626667",
+      "title": "Come for the Games, Stay for the Community With GeForce NOW",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/",
+      "source": "NVIDIA Blog",
+      "published": "2026-11-26T14:00:22+00:00",
+      "category": "Cloud Computing",
+      "excerpt": "",
+      "image": "",
+      "draftStatus": "needs research",
+      "researchAttempts": 1
+    },
+    {
       "id": "a88353929e99",
       "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
       "url": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
@@ -1165,51 +1353,24 @@
       "category": "Artificial Intelligence",
       "excerpt": "",
       "image": "",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "1a7867b3a729",
-      "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
-      "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
-      "source": "NVIDIA Blog",
-      "published": "2026-11-19T20:00:15+00:00",
-      "category": "Artificial Intelligence",
-      "excerpt": "",
-      "image": "",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "1112027d5901",
-      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-      "source": "NVIDIA Blog",
-      "published": "2026-11-19T17:00:35+00:00",
-      "category": "Artificial Intelligence",
-      "excerpt": "",
-      "image": "",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "baa754261624",
-      "title": "Season\u2019s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/",
-      "source": "NVIDIA Blog",
-      "published": "2026-11-19T14:00:12+00:00",
-      "category": "Artificial Intelligence",
-      "excerpt": "",
-      "image": "",
-      "draftStatus": "needs research"
-    },
-    {
-      "id": "bd32339b925d",
-      "title": "AWS Lambda now supports GPU instances for Event Functions on Lambda Managed Instances",
-      "url": "https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/",
-      "source": "AWS News",
-      "published": "2026-11-18T19:39:07+00:00",
-      "category": "Artificial Intelligence",
-      "excerpt": "",
-      "image": "",
-      "draftStatus": "needs research"
+      "draftStatus": "review required",
+      "researchAttempts": 1,
+      "draft": {
+        "title": "NVIDIA Launches Holiday Campaign Encouraging Play, Build, and Create with Technologies",
+        "summary": "NVIDIA, the technology company, is promoting a holiday campaign encouraging users to engage in various creative activities using their technologies. The campaign aims to inspire people to explore new hobbies or improve existing ones.",
+        "articleBody": "The holiday season is traditionally a time for giving, but NVIDIA is encouraging recipients to give themselves something to look forward to. The company is launching a campaign that promotes the use of its technologies for play, building, and creating. This campaign is designed to inspire users to explore new hobbies or enhance existing ones. One of the key points of the campaign is the promotion of new games, which are expected to be released in the coming months. These games are expected to offer a new level of engagement and enjoyment for players. NVIDIA is also highlighting the versatility of its technologies, such as its graphics processing units (GPUs), which can be used in various applications including gaming, design, and education. The campaign aims to show how these technologies can be used to create and share content, making the holiday season more engaging and interactive.",
+        "verificationNotes": "The campaign is based on the information provided in the NVIDIA Blog post. The specific details about the new games and their features are not confirmed and are subject to change.",
+        "provider": "OLLAMA"
+      },
+      "draftVersion": 4,
+      "draftImage": "https://revenueinfotech.com/logo/news-graphics/54f2316ecc01fa7a.svg",
+      "researchSources": [
+        {
+          "source": "NVIDIA Blog",
+          "url": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
+          "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season"
+        }
+      ]
     }
   ]
 }
