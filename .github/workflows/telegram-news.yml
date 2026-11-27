@@ -8,6 +8,10 @@ on:
         description: Send only a test message
         type: boolean
         default: true
+      resend_review:
+        description: Resend pending review with fresh approval buttons
+        type: boolean
+        default: false
       allow_private:
         description: Allow this manual run on a private repo (uses runner allowance)
         type: boolean
@@ -30,6 +34,7 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_RESEND_REVIEW: ${{ github.event_name == 'workflow_dispatch' && inputs.resend_review || false }}
           TELEGRAM_TEST_ONLY: ${{ github.event_name == 'workflow_dispatch' && inputs.test_only || false }}
         run: python3 scripts/telegram_bot.py
       - name: Publish approved articles and rebuild website
